@@ -5,6 +5,8 @@ Created on Sun Mar 13 01:33:31 2022
 @author: Asterisk
 """
 import xml.etree.ElementTree as ET
+import markdown
+
 from pathlib import Path
 
 def loadTextFile(path):
@@ -55,6 +57,8 @@ pairTargets = {knownPairs[p]:p for p in knownPairs}
 master = []
 duplicates = set()
 for file in chunk.rglob("*.xml"):
+    if "ToS" in file.stem:
+        continue
     if file.stem in knownPairs:
         text = pairedTextFiles(str(file),
                                str(file).replace(file.stem,
@@ -72,6 +76,8 @@ for file in chunk.rglob("*.xml"):
             master.append("\n### %s [%d]"%(title,key))
             master.append(description)
         else:
-            master.append("[%d] %s"%(key,description))
-with open("Master.md","w",encoding = "utf8") as outf:
-    outf.write("\n".join(master))
+            master.append("[%d] %s\n"%(key,description))
+text = "\n".join(master)
+with open("Master.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+    
