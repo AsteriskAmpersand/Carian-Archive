@@ -38,7 +38,7 @@ def parseNPCDialogue(path, npcNames = {},output = print):
             l_npc = npc
             l_section = -1
         if section != l_section:
-            output("#### Secction %02d"%section)
+            output("#### Section %02d"%section)
             l_section = section
         if data[identifier]:
             output("[%d]"%(identifier) + data[identifier]+"  ")
