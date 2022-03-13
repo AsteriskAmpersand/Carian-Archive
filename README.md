@@ -28,6 +28,7 @@
 This is a compilation of all the text files in Elden Ring already unpacked and converted to a readable format. Additionally all of the text files are aggregated into a single one with clearly marked sections and file pairs with Title-Descriptions already parsed. It does not accoutn for mapping text to characters or items or any ingame information. This is merely a more convvenient way of searching text within the game.
 
 This is specially convenient for finding dialogue entries and also item descriptions without having to visit wikis all the time.
+You can find the master dump in preview form here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/Master.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
