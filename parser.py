@@ -53,6 +53,7 @@ knownPairs = {"TutorialTitle":"TutorialBody",
 knownPairs = {k+".fmg":t+".fmg" for k,t in knownPairs.items()}
 pairTargets = {knownPairs[p]:p for p in knownPairs}
 master = []
+duplicates = set()
 for file in chunk.rglob("*.xml"):
     if file.stem in knownPairs:
         text = pairedTextFiles(str(file),
@@ -64,6 +65,9 @@ for file in chunk.rglob("*.xml"):
         text = singleTextFiles(str(file))
     master.append("\n\n## %s\n"%file.stem)
     for key,(title,description) in text.items():
+        if description in duplicates:
+            continue
+        duplicates.add(description)
         if title:
             master.append("\n### %s [%d]"%(title,key))
             master.append(description)
