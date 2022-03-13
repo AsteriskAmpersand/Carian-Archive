@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="Crest.png" alt="Logo" width="80" height="80">
+  <img src="Crest.png" alt="Logo" width="120">
 
   <h3 align="center">The Carian Archive</h3>
 
