@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="101000">&lt;?keyControlCamera?&gt;: &lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;: &lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;: &lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;: &lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">Hold &lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Dash</text>
+<text id="101110">&lt;?keyControlCamera?&gt; while locked-on to a target: Change target</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@24?&gt;: Guard</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">Materials can be used to craft items.</text>
+<text id="101150">&lt;?keyicon@22?&gt; near a backturned enemy: Critical hit</text>
+<text id="101170">&lt;?keyicon@27?&gt;: HUD display</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">&lt;?keyicon@8?&gt; during mounted jump: Double jump</text>
+<text id="201010">&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;</text>
+<text id="201070">%null%</text>
+<text id="201100">Each hand can be equipped with up to three armaments, allowing you to toggle between them.
+
+Armaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.
+
+&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Wield with two hands</text>
+<text id="301020">Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.
+It will also refill your sacred flasks.
+However, most of the enemies you've defeated will be revived.
+
+You can find sites of grace by going where light converges.
+
+*These explanations are acquired in the form of info items and can be accessed from the inventory at any time.</text>
+<text id="301060">You can memorize sorceries and incantations at sites of grace.
+
+You must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.
+Casting sorceries and incantations consumes FP.
+
+&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;</text>
+<text id="301130">Equip a bow to fire arrows.
+You can equip up to two types of arrows to choose from at once.
+
+When wielding a bow with two hands, hold &lt;?keyicon@24?&gt; for precision aiming.
+Use &lt;?keyControlCamera?&gt; to adjust your aim.
+
+&lt;?keyicon@22?&gt;: Fire arrow type 1
+&lt;?keyicon@23?&gt;: Fire arrow type 2
+&lt;?keyicon@24?&gt;: Precision aiming</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">Crouch to make it harder for enemies to discover you.
+Especially effective in tall grass.
+
+Attacking an enemy that hasn't noticed you will cause more damage than usual.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="301160">Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.
+
+Charge attacks and jump attacks make it particularly easy to break an enemy's stance.
+
+Hold &lt;?keyicon@23?&gt;: Charge attack
+&lt;?keyicon@23?&gt; while jumping: Jump attack</text>
+<text id="301500">Use your map to check your current position, as well as the terrain and surrounding structures.
+
+You can update your map with new information by finding map fragments at steles along the road.
+
+You can also use the map to freely place beacons of light to serve as landmarks as you explore.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">Grace exists to guide the Tarnished and lead them along the proper path.
+
+Even now, some sites of grace retain that power. Their golden rays will guide you along your way.</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">Use the Spectral Steed Whistle to summon and ride your spectral steed.
+
+If your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.
+
+You can dismount by using the whistle again or by pressing &lt;?keyicon@0009?&gt;.</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">Upon dying, you will be revived at the last site of grace that you visited.
+
+You will drop any runes in your possession at the site of your death.
+If you die again before reclaiming those runes, they will be lost forever.
+
+The compass at the top of the screen indicates the direction of the lost runes.</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">Upon dying, you will be revived at the last site of grace that you visited.
+
+However, if there is a Stake of Marika near where you died, you can choose to be revived there instead.</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">With a Spirit Calling Bell, you can use ashes to summon various spirits.
+Summoning typically consumes FP.
+
+You can only summon one type of spirit at a time.
+You cannot summon spirits during multiplayer.</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">In every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.
+
+These materials can be used for item crafting.</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">If you have a Crafting Kit, you can make various items from materials that you find.
+
+Select "Item Crafting" from the main menu to make items.
+
+You can learn to craft more items by finding cookbooks.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">You will need cracked pots or other containers to craft certain items.
+You will not be able to make more of those items than you have containers.
+
+Container items will run out with use, but the containers themselves will remain.</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">You can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+
+At sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.
+This will allow you to create elixirs with various custom effects.</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">With a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.
+
+An armament can only have one skill.
+Any skill it previously had will be removed.
+
+An armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">You can use the Birdseye Telescopes found in various areas to get a bird's-eye view of the terrain in the direction that the telescope is facing.
+
+&lt;?keyicon@17?&gt;: Zoom in
+&lt;?keyicon@18?&gt;: Zoom out</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">Jump while on horseback near a spiritspring to ride its current high into the air.
+
+You won't take damage from jumping into a spiritspring while on horseback, even from a great height.
+
+&lt;?keyicon@8?&gt; at a spiritspring while on horseback: Spiritspring jump</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">Vanquishing an enemy group will replenish your flasks.
+
+The number and type of flasks to be replenished varies, depending on the enemy group.
+
+You cannot replenish more flasks than your maximum amount allows.</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">There are both Crimson and Cerulean Teardrop Scarabs.
+Defeat them to replenish the flasks that match their type.
+
+However, you cannot replenish more flasks than your maximum amount allows.</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">Use Furlcalling Finger Remedy to reveal summon signs of players from other worlds.
+
+Gold signs indicate an ally.
+Red signs indicate an adversary.
+The multiplayer session will begin once either type has been summoned.
+(You will take the role of the Host of Fingers.)</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">Use Tarnished's Furled Finger to write a gold summon sign.
+
+Cooperative multiplayer will begin once you have been summoned by a player from another world.
+
+You will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.
+
+The compass at the top of the screen indicates the direction of the summoner (Host of Fingers).</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">Use Duelist's Furled Finger to write a red summon sign.
+
+Competitive multiplayer will begin once you have been summoned by a player from another world.
+
+You will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">Use Festering Bloody Finger to attempt to invade the world of another player.
+
+The multiplayer session will begin once the invasion succeeds.
+
+You will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.
+
+If you stray far from the Host of Fingers, the compass at the top of the screen points to their location.</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">In each area, you may find effigies of martyrs.
+These effigies are summoning pools.
+
+You'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.</text>
+<text id="302000">With a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.
+
+This way, you can alter an armament's attack affinity, boost attribute scaling, and more.
+
+An armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.</text>
+<text id="302380">If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.
+
+The multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.
+
+The compass at the top of the screen indicates the direction of the summoner (Host of Fingers).</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">You must be near a rebirth monument to summon spirits from ashes.
+
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">You can perform a counterattack immediately after blocking an enemy attack.
+
+Guard counters make it easy to break an enemy's stance.
+
+&lt;?keyicon@23?&gt; immediately after blocking an attack: Guard Counter</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">Use an armament in your left hand or both hands to guard against incoming attacks.
+Guarding is especially effective when done with a shield.
+
+Guarding consumes stamina.
+If your stamina runs out, your stance will be broken.
+
+&lt;?keyicon@24?&gt;: Guard</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.
+(Can also be used after you are invaded.)
+
+The hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">Armaments have special abilities called skills.
+
+Skills are highly varied, and range from powerful attacks to temporary effects.
+Using skills consumes FP.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">Through your map, you can instantly travel to any sites of grace that you've discovered.
+
+However, there are some dungeons and other areas where this cannot be done.</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">At a smithing table, you can spend runes and smithing stones to strengthen your armaments.
+
+Somewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">The Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression. (This rule is in effect when the Roundtable icon is displayed.)
+The Roundtable Hold is located outside of this world. It can only be reached through sites of grace. (Can also be accessed by using the map to travel.)
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">Monk Jiko seeks the deep fog of sleep.
+
+Find someone in a deep sleep, and capture their Dream Mist by using St. Trina's Crystal Ball.
+
+Those in a deep sleep can be identified by the mist surrounding them.
+
+&lt;?keyicon@27?&gt; when near someone in a deep sleep: Capture Dream Mist</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">From "Pouch" in the main menu, you can equip six items to your pouches.
+
+Four of those items can be used without opening the main menu.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: Use item in Pouch 1
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: Use item in Pouch 2
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: Use item in Pouch 3
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: Use item in Pouch 4</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">You can avoid enemy attacks with a dodge roll or backstep.
+Both of these actions consume stamina.
+
+&lt;?keyicon@3?&gt;+&lt;?keyicon@7?&gt;: Dodge roll
+&lt;?keyicon@7?&gt;: Backstep</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">The Great Runes you receive by defeating shardbearers have lost their beneficial power.
+However, their power can be restored at Divine Towers throughout the Lands Between.
+
+See the description of each Great Rune to discover which Divine Tower you should visit.</text>
+<text id="309000">You will need certain items to participate in each type of multiplayer:
+cooperative, invasion, or competitive.
+
+Select "Multiplayer" from the main menu to see your multiplayer items.
+You can also use them directly from this menu.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="402000">With the Equipment menu, you can equip armaments, arrows, bolts, armor, talismans, and items.
+
+You can equip up to three armaments each to your left and right hands.
+The actions each armament performs will vary based on which hand is wielding it.</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">With the Item Crafting menu, you can make various items from materials that you find.
+
+You can learn to craft more items by finding cookbooks.</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">With the Inventory menu, you can browse the items you're carrying, drop them on the ground, or throw them away.
+
+You can also use tools from the Inventory menu.
+
+&lt;?keyicon@31?&gt;: Show large image and explanation.
+&lt;?keyicon@30?&gt;: Toggle character data</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">With the Status menu, you can check your level, attributes, base stats, and more.
+
+The information shown here also reflects changes to your attack, defense, and resistances bestowed by armaments and armor that you have equipped.</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">With the Messages menu, you can write messages that players in other worlds can read at the spot where you left them.
+
+You can change the message format to leave more complex messages and also attach gestures to your messages.
+
+You can rate other players' messages.
+Whenever another player rates a message that you've written, your HP will be replenished.</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">With the Multiplayer menu, you can use various multiplayer items.
+
+If you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.
+
+If you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.
+However, multiplayer passwords do not apply to invasion multiplayer.</text>
+<text id="402100">With the Map menu, you can check your current position and terrain and buildings in the surrounding area.
+
+You can also freely place beacons of light to serve as landmarks as you explore.
+
+Lastly, through your map, you can select any site of grace that you've discovered and travel there instantaneously.
+However, there are some dungeons and other areas where this cannot be done.</text>
+<text id="402200">With the Level Up menu, you can spend runes to increase your attributes.
+
+With each attribute increase, your level rises by one.
+As your level rises, so does the amount of runes required for your next attribute increase.</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">You can increase the number of flasks available.
+
+Locate Flask Shards in order to increase the number of flasks.</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">You can increase the healing amount of each flask.
+
+Locate "Immortal Ashes" in order to increase the healing amount.</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">With this menu, you can allocate the number of uses in each of your flasks.
+
+You have a set total of maximum flask uses.
+You can decide how many of those uses are for the HP-replenishing Flask of Crimson Tears, and how many are for the FP-replenishing Flask of Cerulean Tears.</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">With the Memorize Spells menu, you can memorize sorceries and incantations.
+
+You must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.
+Casting sorceries and incantations consumes FP.
+
+Your memory slots determine the number of sorceries and incantations you can memorize.
+You can increase your memory slots by obtaining a Memory Stone.</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">With this menu, you can place items that you're carrying into the chest for storage, or take stored items out of the chest.
+
+If you are already carrying the maximum number of items when you pick up a new item, it will be stored in the chest automatically.</text>
+<text id="402300">With the shop menu, you can spend runes to purchase various items.
+
+You can also sell items for runes.
+
+Each merchant stocks a different variety of items for purchase.</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">Weapons and shields can be upgraded by using upgrade materials.
+
+Higher ranked upgrade materials are required for highler level weapons.</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">With the Ashes of War menu, you can use Ashes of War to grant skills and affinities to your armaments at sites of grace.
+
+An armament can only have one skill.
+Any skill it previously had will be lost.
+
+By adding an affinity, you can alter an armament's attack affinity, boost attribute scaling, and more.
+
+An armament's type determines what skills and affinities it can have. Some special armaments cannot be granted new skills or affinities using Ashes of War.</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">With the Spirit Tuning menu, you can spend runes and Grave Gloveworts to strengthen the spirits you summon from ashes.
+
+To strengthen named spirits, you'll need Ghost Gloveworts.</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">You can learn magic from the Dragon Communion.
+
+Memorize these spells by offering Dragon Communion Seeds.</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">With the Great Rune menu, you can equip Great Runes that
+have had their power restored.
+
+You can use a Rune Arc to give even greater benefits to
+your equipped Great Runes.</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">With this menu, you can mix two crystal tears in the Flask of Wondrous Physick.
+
+This will allow you to create physicks with various custom effects.</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">With the Rebirth menu, you can spend Larval Tears to clear
+your levels and reassign them from square one.
+
+You must reassign all levels until you reach your present
+level and you cannot make any attributes lower than
+their initial level determined by your origin.</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">With the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.
+
+Each remembrance can provide one power. Once that power is claimed, the remembrance will be lost.</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">With the smithing menu, you can spend runes and smithing stones to strengthen your armaments.
+
+You can strengthen your armaments up to +3 at a smithing table.
+
+Somewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">With the Remembrance Duplication menu, you can duplicate remembrances you've previously acquired.
+(This includes remembrances from which you've already drawn out power.)
+
+Duplication can only be performed once per mausoleum.</text>
+</entries>
+</fmg>

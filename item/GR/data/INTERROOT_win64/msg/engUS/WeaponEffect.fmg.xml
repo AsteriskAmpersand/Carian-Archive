@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Some damage isn't negated when guarded</text>
+<text id="1001">Recovers HP from defeated enemies</text>
+<text id="1002">Recovers FP from defeated enemies</text>
+<text id="1003">Successful attacks recover HP</text>
+<text id="1004">Successful attacks recover FP</text>
+<text id="1005">Slowly recovers HP</text>
+<text id="1006">Slowly recovers FP</text>
+<text id="1007">Boosts stamina recovery speed</text>
+<text id="1008">Attack power rises as attacks continue</text>
+<text id="1009">Take self-inflicted damage</text>
+<text id="1010">Saps beasts of the will to fight</text>
+<text id="1011">%null%</text>
+<text id="1012">Boosts potency of physical spells</text>
+<text id="1013">Boosts potency of fire spells</text>
+<text id="1014">Boosts potency of spirit spells</text>
+<text id="1015">Boosts potency of lightning spells</text>
+<text id="1016">Boosts potency of sacred spells</text>
+<text id="1017">Boosts area of buffs and healing spells</text>
+<text id="1018">Handles any sorcery or incantation</text>
+<text id="1019">Use as catalyst for glintstone sorcery</text>
+<text id="1020">Use as seal for incantations</text>
+<text id="1021">Successive attacks recover HP</text>
+<text id="1022">Successive attacks recover FP</text>
+<text id="1100">Boosts Crystalian sorcery</text>
+<text id="1101">Boosts gravity sorcery</text>
+<text id="1102">Boosts thorn sorcery</text>
+<text id="1103">Boosts death sorcery</text>
+<text id="1104">Boosts full moon sorcery</text>
+<text id="1105">Boosts Stonedigger sorcery</text>
+<text id="1106">Boosts Glintblade sorcery</text>
+<text id="1107">Boosts Carian sword sorcery</text>
+<text id="1108">Boosts Azur's primeval sorcery</text>
+<text id="1109">Boosts Lusat's primeval sorcery</text>
+<text id="1110">Boosts invisibility sorcery</text>
+<text id="1111">Boosts Giants' Flame incantations</text>
+<text id="1112">Boosts Fundamentalist incantations</text>
+<text id="1113">Boosts bestial incantations</text>
+<text id="1114">Boosts Dragon Cult incantations</text>
+<text id="1115">Boosts Dragon Communion incantations</text>
+<text id="1116">Boosts Frenzied Flame incantations</text>
+<text id="1117">Boosts lava sorcery</text>
+<text id="1118">Boosts godslayer incantations</text>
+<text id="6400">Causes slight poison buildup (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Causes poison buildup (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">Causes heavy poison buildup (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Causes intense poison buildup (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Causes slight scarlet rot buildup (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">Causes scarlet rot buildup (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">Causes heavy scarlet rot buildup (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">Causes slight blood loss buildup (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">Causes blood loss buildup (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">Causes heavy blood loss buildup (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Causes intense blood loss buildup (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">Causes slight death buildup (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">Causes death buildup (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">Causes heavy death buildup (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Causes slight frost buildup (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">Causes frost buildup (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">Causes heavy frost buildup (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">Causes slight sleep buildup (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">Causes sleep buildup (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">Causes heavy sleep buildup (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">Causes slight madness buildup (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">Causes madness buildup (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">Causes heavy madness buildup (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

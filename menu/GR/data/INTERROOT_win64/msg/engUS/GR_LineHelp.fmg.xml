@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Use selected item</text>
+<text id="4101">Leave selected item here</text>
+<text id="4102">Discard selected item</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Use selected items</text>
+<text id="4111">Leave selected items here</text>
+<text id="4112">Discard selected items </text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Select items to leave here</text>
+<text id="4122">Select items to discard</text>
+<text id="5100">Use selected number of items</text>
+<text id="5101">Leave selected number of items here</text>
+<text id="5102">Discard selected number of items</text>
+<text id="5103">%null%</text>
+<text id="5104">Purchase selected number of items</text>
+<text id="5105">Sell selected number of items</text>
+<text id="5106">Store selected number of items</text>
+<text id="5107">Take out selected number of items</text>
+<text id="6000">Select a sorting method</text>
+<text id="30000">Select entry to check</text>
+<text id="40331">Confirm settings and continue</text>
+<text id="40500">Restore default settings</text>
+<text id="102000">Select an item to interact with</text>
+<text id="103000">Select slot to equip</text>
+<text id="103500">Select item to equip</text>
+<text id="105000">Check character status</text>
+<text id="106000">Select entry to execute</text>
+<text id="106001">Choose setting to adjust</text>
+<text id="110001">Change up/down camera movement</text>
+<text id="110002">Change left/right camera movement</text>
+<text id="110003">Camera reset also resets the camera y-axis</text>
+<text id="110004">Set camera movement speed</text>
+<text id="110005">Set auto lock-on to new target when former target dies</text>
+<text id="110006">Automatically target an enemy when attacking with no lock</text>
+<text id="110007">Set whether the camera automatically avoids walls</text>
+<text id="110008">%null%</text>
+<text id="110009">Set controls used for jumping</text>
+<text id="110010">Allows for manual control of aiming of large weapons when locked-on</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">Decide whether to prioritize visual quality or frame rate</text>
+<text id="110101">Switch depiction of blood on or off, or set to mild</text>
+<text id="110102">Switch in-game subtitles on or off</text>
+<text id="110103">Configure how in-game HUD is displayed</text>
+<text id="110104">Configure cinematic effects used during special attacks</text>
+<text id="110105">Adjust music level</text>
+<text id="110106">Adjust sound effect level</text>
+<text id="110107">Adjust voice level</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">Set overall audio volume</text>
+<text id="110118">Set automatic camera rotation for left/right movement</text>
+<text id="110201">Adjust screen brightness</text>
+<text id="110202">Adjust image quality when HDR is enabled</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">Enable/disable HDR</text>
+<text id="110301">Allow or restrict voice chat</text>
+<text id="110302">Allow or restrict cross-region matching</text>
+<text id="110303">Edit to match with players using the same password</text>
+<text id="110304">Choose whether or not to display other players' names</text>
+<text id="110305">Choose whether to launch the game in online or offline mode</text>
+<text id="110306">Block your summon sign in worlds with adversaries present</text>
+<text id="110307">Review and update your consent to the data usage agreement</text>
+<text id="110500">Save the game and return to title menu</text>
+<text id="110900">View controls</text>
+<text id="111006">Set keys to assign to actions</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">Set device for on-screen prompts</text>
+<text id="111011">Set whether tutorials will be shown or not</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">Set mouse sensitivity for camera movement</text>
+<text id="111021">%null%</text>
+<text id="111022">Set horizontal camera controls with the mouse</text>
+<text id="111023">Set vertical camera controls with the mouse</text>
+<text id="111110">Set the screen mode in which to launch the game</text>
+<text id="111111">Set the resolution</text>
+<text id="111112">Set whether to simplify rendering in the case of reduced performance</text>
+<text id="111113">Set graphics quality</text>
+<text id="111114">Set advanced graphics quality</text>
+<text id="111210">Set texture quality</text>
+<text id="111211">Select antialiasing quality</text>
+<text id="111212">Select SSAO quality</text>
+<text id="111213">Select DOF quality</text>
+<text id="111214">Select motion blur quality</text>
+<text id="111215">Select shadow quality</text>
+<text id="111216">Select lighting quality</text>
+<text id="111217">Select effects quality</text>
+<text id="111218">Select volumetric quality</text>
+<text id="111219">Select reflection quality</text>
+<text id="111220">Select water surface quality</text>
+<text id="111221">Select shader quality</text>
+<text id="111222">Select ray tracing quality</text>
+<text id="111223">Select global illumination quality</text>
+<text id="111224">Select grass quality</text>
+<text id="212000">Choose attribute to level up</text>
+<text id="212001">Spending runes to level up</text>
+<text id="212750">Choose attribute to level up</text>
+<text id="212751">Reset attributes with rebirth</text>
+<text id="214000">Select an armament to enhance with Ashes of War</text>
+<text id="214001">Select an Ash of War to apply</text>
+<text id="214002">Select an affinity to grant to this armament</text>
+<text id="215000">Select a slot to hold a Great Rune</text>
+<text id="215001">Select a rune to hold</text>
+<text id="216000">Select ashes to strengthen</text>
+<text id="221000">Select an armament to strengthen</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">Select an armament to strengthen</text>
+<text id="222000">Select memory slot</text>
+<text id="222001">Select sorcery/incantation to memorize</text>
+<text id="225000">Choose which dragon ability to make thine own</text>
+<text id="226000">Select puppet to obtain</text>
+<text id="227000">Select Ashes of War to duplicate</text>
+<text id="230000">Select puppet to obtain</text>
+<text id="230100">Select remembrance to duplicate</text>
+<text id="231000">Select item to purchase</text>
+<text id="232000">Select item to sell</text>
+<text id="236000">Select item to craft</text>
+<text id="236200">Select which remembrance to plumb for power</text>
+<text id="236201">Select power to draw from remembrance</text>
+<text id="236400">Select garment to alter</text>
+<text id="236401">Select garment after alterations</text>
+<text id="238000">Select mixture slot</text>
+<text id="238001">Select crystal tear to mix</text>
+<text id="241000">View map</text>
+<text id="241100">Set marker</text>
+<text id="241101">Remove marker</text>
+<text id="241102">Remove all markers</text>
+<text id="241200">Select the site of grace where you wish to go</text>
+<text id="241300">Select the site of grace where you wish to go</text>
+<text id="251000">Select item to store in chest</text>
+<text id="251001">Select item to take from chest</text>
+<text id="280005">Select which action to assign</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">Press the key you want to assign to this action</text>
+<text id="280100">Press while moving to walk</text>
+<text id="280101">Move forwards</text>
+<text id="280102">Move to the rear</text>
+<text id="280103">Move to the left</text>
+<text id="280104">Move to the right</text>
+<text id="280105">Press while standing still to backstep.
+Press while moving for a dodge roll, or hold to dash.</text>
+<text id="280106">Jump</text>
+<text id="280107">Switch between standing and crouching</text>
+<text id="280200">Move the camera up.
+Change target upwards during lock-on.</text>
+<text id="280201">Move the camera down.
+Change target downwards during lock-on.</text>
+<text id="280202">Move the camera to the left.
+Change target to the left during lock-on.</text>
+<text id="280203">Move the camera to the right.
+Change target to the right during lock-on.</text>
+<text id="280204">Reset the camera's position.
+Turn lock-on fixation on or off during lock-on.</text>
+<text id="280300">Change your Quick Item</text>
+<text id="280301">Change your right-hand armament</text>
+<text id="280302">Change your left-hand armament</text>
+<text id="280303">Change your selected sorcery or incantation</text>
+<text id="280400">Normal attack with your right-hand armament</text>
+<text id="280401">Strong attack with your right-hand armament. Hold to charge the attack.</text>
+<text id="280402">Guard with your left-hand armament</text>
+<text id="280403">Perform a skill</text>
+<text id="280404">Perform various actions</text>
+<text id="280405">Use an item</text>
+<text id="280406">Wield your right-hand armament in both hands.
+Hold to wield your left-hand armament in both hands instead.</text>
+<text id="288000">Select which character to use</text>
+<text id="288001">Select a base for creating your character</text>
+<text id="291000">Enter name</text>
+<text id="291001">Select body type</text>
+<text id="291002">Select apparent age</text>
+<text id="291003">Select voice</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">Select origin</text>
+<text id="291011">Select keepsake</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">Choose a template appearance</text>
+<text id="291021">Alter facial features</text>
+<text id="291022">Alter general figure</text>
+<text id="291023">Alter skin color and details</text>
+<text id="291024">%null%</text>
+<text id="291025">Edit details of character appearance</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">Save present settings as a favorite</text>
+<text id="291031">Load saved favorite</text>
+<text id="291050">Finalize character</text>
+<text id="291051">Start over with a new appearance</text>
+<text id="291052">Start over with a new appearance</text>
+<text id="292000">Edit character's facial features</text>
+<text id="292001">Edit character's facial shape</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">Edit character's hair</text>
+<text id="292011">Edit character's eyebrows</text>
+<text id="292012">Edit character's facial hair</text>
+<text id="292013">Edit character's eyelashes</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">Edit character's eyes</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">Edit character's skin features</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">Edit character's makeup</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">Edit character's tattoos/marks/eyepatch</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">Select face similar to present face</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">Adjust character's head</text>
+<text id="292061">Adjust character's chest</text>
+<text id="292062">Adjust character's abdomen</text>
+<text id="292063">Adjust character's arms</text>
+<text id="292064">Adjust character's legs</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">Adjust character's body hair</text>
+<text id="292071">Adjust character's body hair color</text>
+<text id="292072">Select musculature</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">Set whether to display burn marks</text>
+<text id="293000">Choose bone structure</text>
+<text id="293001">Adjust facial feature strength</text>
+<text id="293002">Adjust apparent age</text>
+<text id="293003">Adjust facial aesthetic</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">Edit facial balance</text>
+<text id="293011">Edit forehead and glabella</text>
+<text id="293012">Edit brow ridge</text>
+<text id="293013">Edit eyes</text>
+<text id="293014">Edit nose ridge</text>
+<text id="293015">Edit nostrils</text>
+<text id="293016">Edit cheeks</text>
+<text id="293017">Edit lips</text>
+<text id="293018">Edit mouth</text>
+<text id="293019">Edit chin</text>
+<text id="293020">Edit jaw</text>
+<text id="293100">Select hair style</text>
+<text id="293101">Edit hair color</text>
+<text id="293102">Adjust hair luster</text>
+<text id="293103">Adjust hair root darkness</text>
+<text id="293104">Adjust quantity of white hairs</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">Select brow shape</text>
+<text id="293111">Edit brow color</text>
+<text id="293112">Adjust eyebrow luster</text>
+<text id="293113">Adjust eyebrow root darkness</text>
+<text id="293114">Adjust quantity of white eyebrow hairs</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">Select beard type</text>
+<text id="293121">Edit beard color</text>
+<text id="293122">Adjust facial hair luster</text>
+<text id="293123">Adjust facial hair root darkness</text>
+<text id="293124">Adjust quantity of white facial hair</text>
+<text id="293125">Adjust stubble thickness</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">Select eyelash shape</text>
+<text id="293131">Edit eyelash color</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">Adjust right eye size</text>
+<text id="293141">Edit color of right iris</text>
+<text id="293142">Adjust opacity of right eye clouding</text>
+<text id="293143">Adjust color of right eye clouding</text>
+<text id="293144">Adjust color of right eye white</text>
+<text id="293145">Adjust right eye's distance from the center of the face</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">Adjust left eye size</text>
+<text id="293151">Edit color of left iris</text>
+<text id="293152">Adjust opacity of left eye clouding</text>
+<text id="293153">Adjust color of left eye clouding</text>
+<text id="293154">Adjust color of left eye white</text>
+<text id="293155">Adjust left eye's distance from the center of the face</text>
+<text id="293156">Apply eye alterations</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">Alter visibility of pores</text>
+<text id="293161">Adjust skin luster</text>
+<text id="293162">Adjust darkness of bags under eyes</text>
+<text id="293163">Adjust the color of bags under eyes</text>
+<text id="293164">Adjust cheek makeup intensity</text>
+<text id="293165">Adjust cheek color</text>
+<text id="293166">Adjust eyeliner darkness</text>
+<text id="293167">Adjust eyeliner color</text>
+<text id="293168">Adjust eyeshadow darkness on upper eyelid</text>
+<text id="293169">Adjust eyeshadow color on upper eyelid</text>
+<text id="293170">Adjust eyeshadow darkness on lower eyelid</text>
+<text id="293171">Adjust eyeshadow color on lower eyelid</text>
+<text id="293172">Adjust lipstick intensity</text>
+<text id="293173">Adjust lipstick color</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">Select appearance of tattoo/mark</text>
+<text id="293181">Edit tattoo/mark color</text>
+<text id="293182">Adjust position of tattoo/mark</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">Choose an eyepatch</text>
+<text id="293191">Adjust eyepatch color</text>
+<text id="297100">Buff body
+Body type has no bearing on ability</text>
+<text id="297101">Slender body
+Body type has no bearing on ability</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">Young
+Age only affects appearance,
+has no bearing on ability</text>
+<text id="297111">Mature
+Age only affects appearance,
+has no bearing on ability</text>
+<text id="297112">Aged
+Age only affects appearance,
+has no bearing on ability</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">Young voice type 1</text>
+<text id="297121">Mature voice type 1</text>
+<text id="297122">Aged voice type 1</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">Young voice type 2</text>
+<text id="297126">Mature voice type 2</text>
+<text id="297127">Aged voice type 2</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">A knight exiled from their homeland to
+wander. A solid, armor-clad origin.</text>
+<text id="297131">A nomad warrior who fights wielding two
+blades at once. An origin of exceptional
+technique.</text>
+<text id="297132">A stalwart hero, at home with a battleaxe,
+descended from a badlands chieftain.</text>
+<text id="297133">A dangerous bandit who strikes for
+weak points. Excels at ranged combat
+with bows.</text>
+<text id="297134">A scholar who reads fate in the stars.
+Heir to the school of glintstone sorcery.</text>
+<text id="297135">A seer ostracized for inauspicious
+prophecies. Well-versed in healing
+incantations.</text>
+<text id="297136">A capable fighter from the distant Land of
+Reeds. Handy with katana and longbows.</text>
+<text id="297137">A prisoner bound in an iron mask. Studied
+in glintstone sorcery, having lived among
+the elite prior to sentencing.</text>
+<text id="297138">A church spy adept at covert operations.
+Equally adept with a sword as they are
+with their incantations.</text>
+<text id="297139">A poor, purposeless sod, naked as the day
+they were born. A nice club is all they have.</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">No keepsake. The past has been well and
+truly left behind.</text>
+<text id="297151">A medallion inlaid with crimson amber.
+Increases maximum HP.</text>
+<text id="297152">The gold of grace shining in the eyes of
+the people of the Lands Between.
+Use to gain many runes.</text>
+<text id="297153">A golden seed washed ashore from the
+Lands Between. Said to reinforce
+Sacred Flasks.</text>
+<text id="297154">The ashes of small, diminutive golems.
+Ashes are said to hold spirits within.</text>
+<text id="297155">%null%</text>
+<text id="297156">Three strange cracked pots that somehow
+mend themselves. A container for certain
+thrown items.</text>
+<text id="297157">Two stone keys shaped like swords.
+Breaks the seal on imp statues, but can only be used once.</text>
+<text id="297158">Five sacred branches charged with beguiling
+power. Said to originate from the
+demigod Miquella.</text>
+<text id="297159">Five pieces of boiled prawn.
+Boosts physical damage negation.</text>
+<text id="297160">The crazed likeness of a noble whose eyes have been gouged out.
+Attracts enemies' aggression.</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">Average physique</text>
+<text id="297171">Muscular physique</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">Mirror tattoos and marks</text>
+<text id="297181">Do not mirror tattoos and marks</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">Apply eye alterations</text>
+<text id="297186">Do not apply eye alterations</text>
+<text id="297187">Display burn marks</text>
+<text id="297188">Do not display burn marks</text>
+<text id="297200">The most common face among the Tarnished.
+After all, they were all warriors once.</text>
+<text id="297201">The face of an austere pilgrim.
+There are many roads to truth.</text>
+<text id="297202">A regal face found among those who claim
+noble blood in the Lands Between.</text>
+<text id="297203">Face found among a proud and seclusive
+tribe of folk well-versed in ancient
+legends and heresies alike.</text>
+<text id="297204">A face found among the hardy people
+of the unforgiving north. Some say
+they're descended from giants.</text>
+<text id="297205">The face of one who wanders the seas in
+search of their home in the Lands Between.</text>
+<text id="297206">A face from the faraway, isolated Land
+of Reeds, where blood is a familiar sight.</text>
+<text id="297207">The stony face of the people of the
+ancient dragons, among whom life
+is typically short.</text>
+<text id="297208">The features of those known as
+Nightfolk. Few in number, they were
+said to bleed silver long ago.</text>
+<text id="297209">The face of the Numen, supposed
+descendants of denizens of another
+world. Long-lived but seldom born.</text>
+<text id="297220">The most common face among the Tarnished.
+After all, they were all warriors once.</text>
+<text id="297221">The face of an austere pilgrim.
+There are many roads to truth.</text>
+<text id="297222">A regal face found among those who claim
+noble blood in the Lands Between.</text>
+<text id="297223">Face found among a proud and seclusive
+tribe of folk well-versed in ancient
+legends and heresies alike.</text>
+<text id="297224">A face found among the hardy people
+of the unforgiving north. Some say
+they're descended from giants.</text>
+<text id="297225">The face of one who wanders the seas in
+search of their home in the Lands Between.</text>
+<text id="297226">A face from the faraway, isolated Land
+of Reeds, where blood is a familiar sight.</text>
+<text id="297227">The stony face of the people of the
+ancient dragons, among whom life
+is typically short.</text>
+<text id="297228">The features of those known as
+Nightfolk. Few in number, they were
+said to bleed silver long ago.</text>
+<text id="297229">The face of the Numen, supposed
+descendants of denizens of another
+world. Long-lived but seldom born.</text>
+<text id="301000">Select gesture for this slot</text>
+<text id="301001">Select gesture to use</text>
+<text id="321000">Edit message composition</text>
+<text id="321001">Change bound gesture</text>
+<text id="321002">Finish writing message</text>
+<text id="321003">Select template</text>
+<text id="321004">Change bound gesture</text>
+<text id="321005">Select word category</text>
+<text id="321006">Select template</text>
+<text id="321007">Select word</text>
+<text id="321008">Select conjunction</text>
+<text id="322000">View composed messages</text>
+<text id="324000">See recently viewed messages</text>
+<text id="406000">Select profile to load</text>
+<text id="406001">Select profile to delete</text>
+</entries>
+</fmg>

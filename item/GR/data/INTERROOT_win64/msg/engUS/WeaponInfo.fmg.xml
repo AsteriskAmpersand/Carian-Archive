@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Thin, whittled animal bone with feather fletchings</text>
+<text id="50110000">Arrow whittled from thin animal bone</text>
+<text id="50130000">Fletched animal bone arrow set alight when shot</text>
+<text id="50140000">Animal bone arrow set alight when shot</text>
+<text id="50150000">Fletched animal bone arrow with poison-daubed tip</text>
+<text id="50160000">Animal bone arrow with poison-daubed tip</text>
+<text id="50170000">Fletched animal bone arrow with waterlily tincture tip</text>
+<text id="50180000">Animal bone arrow with waterlily tincture tip</text>
+<text id="50190000">Bone arrow fletched with stormhawk feathers</text>
+<text id="50200000">Fletched animal bone arrow charged with lightning</text>
+<text id="50210000">Animal bone arrow charged with lightning</text>
+<text id="50220000">Animal bone arrow tipped with Rainbow Stone shard</text>
+<text id="50230000">Animal bone arrow tipped with crystal shard</text>
+<text id="50250000">Animal bone arrow, gust knocks enemies away</text>
+<text id="50260000">Fletched bone arrow with glintstone tincture tip</text>
+<text id="50270000">Animal bone arrow with glintstone tincture tip</text>
+<text id="50280000">Fletched bone arrow with gold tincture tip</text>
+<text id="50290000">Animal bone arrow with gold tincture tip</text>
+<text id="50300000">Fletched bone arrow with blood tincture tip</text>
+<text id="50310000">Animal bone arrow with blood tincture tip</text>
+<text id="50320000">Fletched bone arrow with frozen tip</text>
+<text id="50330000">Animal bone arrow with frozen tip</text>
+<text id="50340000">Fletched bone arrow with rot-coated tip</text>
+<text id="50350000">Animal bone arrow with rot-coated tip</text>
+<text id="51050000">Thick, whittled bone arrow with feather fletchings</text>
+<text id="51060000">Thick, whittled animal bone arrow, large as a spear</text>
+<text id="52090000">Thin, whittled animal bone bolt</text>
+<text id="52100000">Animal bone bolt set alight when shot</text>
+<text id="52110000">Animal bone bolt with lightning-imbued tip</text>
+<text id="52120000">Animal bone bolt with glintstone tincture tip</text>
+<text id="52130000">Animal bone bolt with gold tincture tip</text>
+<text id="52140000">Animal bone bolt with poison-coated tip</text>
+<text id="52150000">Animal bone bolt with blood tincture tip</text>
+<text id="52160000">Animal bone bolt with frozen tip</text>
+<text id="52170000">Animal bone bolt with rot-coated tip</text>
+<text id="52180000">Animal bone bolt with waterlily tincture tip</text>
+<text id="53030000">Thick, whittled bone bolt, large as a spear</text>
+</entries>
+</fmg>

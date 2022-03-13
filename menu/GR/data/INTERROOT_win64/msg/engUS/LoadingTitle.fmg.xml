@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Crouching</text>
+<text id="2">Guarding</text>
+<text id="3">Guard Counters</text>
+<text id="4">Two-Handing Armaments</text>
+<text id="5">Charge and Jump Attacks</text>
+<text id="6">Skill</text>
+<text id="7">Parrying</text>
+<text id="8">Setting a Target</text>
+<text id="9">Precision Aiming</text>
+<text id="10">Equipping Armaments</text>
+<text id="11">Using Items</text>
+<text id="12">Using Torches</text>
+<text id="13">Critical Hits</text>
+<text id="14">Gestures</text>
+<text id="15">The Map</text>
+<text id="16">Spiritspring Jumping</text>
+<text id="17">Item Shortcut</text>
+<text id="50">Dying and Dropping Runes</text>
+<text id="51">%null%</text>
+<text id="52">Summoning Spirits</text>
+<text id="53">Resting at Sites of Grace</text>
+<text id="54">Finding Sites of Grace</text>
+<text id="55">Guidance of Grace</text>
+<text id="56">Sacred Flasks</text>
+<text id="57">Fast Travel to Sites of Grace</text>
+<text id="58">Mounted Attacks</text>
+<text id="59">No-Riding Areas</text>
+<text id="60">Item Crafting</text>
+<text id="61">Container Items</text>
+<text id="62">Armament Customization</text>
+<text id="63">%null%</text>
+<text id="64">Reviving After Dying</text>
+<text id="65">Equip Load</text>
+<text id="66">While in Combat</text>
+<text id="67">Strengthening Spirits</text>
+<text id="68">Leveling Up</text>
+<text id="69">%null%</text>
+<text id="70">Status: Poison</text>
+<text id="71">Status: Scarlet Rot</text>
+<text id="72">Status: Blood Loss</text>
+<text id="73">Status: Frost/Frostbite</text>
+<text id="74">Status: Sleep</text>
+<text id="75">Status: Madness</text>
+<text id="76">Status: Death</text>
+<text id="77">Poise</text>
+<text id="100">Cooperator's Objective (Furled Finger)</text>
+<text id="101">Adversary's Objective (Duelist)</text>
+<text id="102">Multiplayer Maximums</text>
+<text id="103">Seeing Summon Signs</text>
+<text id="104">Leaving Co-op Signs</text>
+<text id="105">Leaving Hostile Signs</text>
+<text id="106">Invasion</text>
+<text id="107">Requesting Support</text>
+<text id="108">Supporting</text>
+<text id="109">Summoning Pools</text>
+<text id="110">Group Passwords</text>
+<text id="111">Multiplayer Passwords</text>
+<text id="112">Messages</text>
+<text id="113">Multiplayer Movement Limits</text>
+<text id="114">Phantoms</text>
+<text id="115">Bloodstains</text>
+<text id="116">Support Objective (Hunter)</text>
+<text id="117">Summon Signs</text>
+<text id="118">Advanced Messages</text>
+<text id="119">Invader Objective</text>
+<text id="150">Limits of Guarding</text>
+<text id="151">Stance-Breaking</text>
+<text id="152">Knocking Down Mounted Enemies</text>
+<text id="153">Hardened Foes</text>
+<text id="154">%null%</text>
+<text id="200">Teardrop Scarabs</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>
