@@ -9,6 +9,41 @@ import markdown
 
 from pathlib import Path
 
+npcOverloads = {}
+
+def loadNPCNames():
+    path = r".\item\GR\data\INTERROOT_win64\msg\engUS\NpcName.fmg.xml"
+    npcNames = loadTextFile(path)
+    remapping = {}
+    for ids in npcNames:
+        if str(ids)[0] == "1":
+            remapping[int(str(ids)[1:-1])] = npcNames[ids]
+    for key in npcOverloads:
+        remapping[key] = npcOverloads[key]
+    return remapping
+
+def parseNPCDialogue(path, npcNames = {},output = print):
+    l_npc = 0
+    l_section = 0
+    data = loadTextFile(path)
+    for identifier in data:
+        step = identifier%1000
+        section = (identifier//1000)%100
+        npc = (identifier//100000)
+        if npc != l_npc:
+            if npc in npcNames:
+                output("### %s [%04d]"%(npcNames[npc],npc))
+            else:
+                output("### %04d"%(npc))
+            l_npc = npc
+            l_section = -1
+        if section != l_section:
+            output("#### Secction %02d"%section)
+            l_section = section
+        if data[identifier]:
+            output(data[identifier]+"  ")
+    return
+
 def loadTextFile(path):
     tree = ET.parse(path)
     root = tree.getroot()
@@ -55,6 +90,7 @@ knownPairs = {"TutorialTitle":"TutorialBody",
 knownPairs = {k+".fmg":t+".fmg" for k,t in knownPairs.items()}
 pairTargets = {knownPairs[p]:p for p in knownPairs}
 master = []
+npcIds = loadNPCNames()
 duplicates = set()
 for file in chunk.rglob("*.xml"):
     if "ToS" in file.stem:
@@ -68,15 +104,18 @@ for file in chunk.rglob("*.xml"):
     else:
         text = singleTextFiles(str(file))
     master.append("\n\n## %s\n"%file.stem)
-    for key,(title,description) in text.items():
-        if description in duplicates:
-            continue
-        duplicates.add(description)
-        if title:
-            master.append("\n### %s [%d]"%(title,key))
-            master.append(description)
-        else:
-            master.append("[%d] %s\n"%(key,description))
+    if file.stem == "TalkMsg.fmg":
+        parseNPCDialogue(file,npcIds,master.append)
+    else:
+        for key,(title,description) in text.items():
+            if description in duplicates:
+                continue
+            duplicates.add(description)
+            if title:
+                master.append("\n### %s [%d]"%(title,key))
+                master.append(description)
+            else:
+                master.append("[%d] %s\n"%(key,description))
 text = "\n".join(master)
 with open("Master.html","w",encoding = "utf8") as outf:
     outf.write(markdown.markdown(text))
