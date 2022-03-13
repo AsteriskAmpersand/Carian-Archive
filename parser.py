@@ -41,7 +41,7 @@ def parseNPCDialogue(path, npcNames = {},output = print):
             output("#### Secction %02d"%section)
             l_section = section
         if data[identifier]:
-            output(data[identifier]+"  ")
+            output("[%d]"%(identifier) + data[identifier]+"  ")
     return
 
 def loadTextFile(path):
