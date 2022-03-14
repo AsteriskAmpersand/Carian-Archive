@@ -30,6 +30,8 @@ This is a compilation of all the text files in Elden Ring already unpacked and c
 This is specially convenient for finding dialogue entries and also item descriptions without having to visit wikis all the time.
 You can find the master dump in preview form here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/Master.html
 
+The preview form for the Japanese dump is here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/MasterJP.html
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
