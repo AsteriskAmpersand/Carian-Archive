@@ -1,0 +1,1576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">探知</text>
+<text id="2">魔法スロットアップ（＋3版）</text>
+<text id="100">オンラインプレイ専用アイテム
+指読みの巫女たちに請願した証
+
+潰れ指に侵入された時
+他世界から潰れ狩りを救援召喚する
+
+指読みの巫女は、声を潜め語るだろう
+潰れ指の、唾棄すべき裏切りと
+卑劣な侵入の危うさを
+</text>
+<text id="101">オンラインプレイ専用アイテム
+指読みの巫女たちと誓約した証
+
+他プレイヤーが潰れ指に侵入された時
+そのプレイヤーの世界に救援召喚される
+
+潰れ指は、指読みの裏切り者であり
+褪せ人の繋がりを犯す癌である
+切除が、根絶が、必要だろう
+</text>
+<text id="1000">緋色の琥珀が嵌めこまれたメダリオン
+ＨＰの最大値を上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1001">緋色の琥珀が嵌めこまれたメダリオン
+ＨＰの最大値を大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1002">緋色の琥珀が嵌めこまれたメダリオン
+ＨＰの最大値を、とても大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">青色の琥珀が嵌めこまれたメダリオン
+ＦＰの最大値を上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1011">青色の琥珀が嵌めこまれたメダリオン
+ＦＰの最大値を大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1012">青色の琥珀が嵌めこまれたメダリオン
+ＦＰの最大値を、とても大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">緑色の琥珀が嵌めこまれたメダリオン
+スタミナの最大値を上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1021">緑色の琥珀が嵌めこまれたメダリオン
+スタミナの最大値を大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1022">緑色の琥珀が嵌めこまれたメダリオン
+スタミナの最大値を、とても大きく上昇させる
+
+琥珀とは、黄金樹の古い雫であり
+最初のエルデの王、ゴッドフレイの時代に
+特別な宝石として扱われた
+
+それは生命の原始的な力を宿している
+</text>
+<text id="1023">%null%</text>
+<text id="1024">%null%</text>
+<text id="1025">%null%</text>
+<text id="1026">%null%</text>
+<text id="1027">%null%</text>
+<text id="1028">%null%</text>
+<text id="1029">%null%</text>
+<text id="1030">武具の塊を表した鉄製のお守り
+装備重量の上限を上昇させる
+
+復讐の英雄の得物として知られる
+異形の大剣に由来したタリスマン
+</text>
+<text id="1031">武具の塊を表した鉄製のお守り
+装備重量の上限を大きく上昇させる
+
+復讐の英雄の得物として知られる
+異形の大剣に由来したタリスマン
+</text>
+<text id="1032">大壺に溢れんばかりの武具塊のお守り
+装備重量の上限を、とても大きく上昇させる
+
+大壺は、自らの戦士たちにこれを授ける
+いっぱい持って、大きくなれよ
+</text>
+<text id="1033">%null%</text>
+<text id="1034">%null%</text>
+<text id="1035">%null%</text>
+<text id="1036">%null%</text>
+<text id="1037">%null%</text>
+<text id="1038">%null%</text>
+<text id="1039">%null%</text>
+<text id="1040">黄金樹の特別な恩寵の象り
+最大ＨＰ、スタミナ、最大装備重量を
+少しずつ上昇させる
+
+黄金樹の時代、そのはじまりにおいて
+女王マリカは手ずからそれを与えたという
+</text>
+<text id="1041">黄金樹の特別な恩寵の象り
+最大ＨＰ、スタミナ、最大装備重量を
+上昇させる
+
+黄金樹の時代、そのはじまりにおいて
+女王マリカは手ずからそれを与えたという
+</text>
+<text id="1042">黄金樹の特別な恩寵の象り
+「伝説のタリスマン」のひとつ
+
+最大ＨＰ、スタミナ、最大装備重量を
+大きく上昇させる
+
+黄金樹の時代、そのはじまりにおいて
+女王マリカは手ずからそれを与えたという
+</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">エルデのルーンが刻印された瞳
+それは、王配ラダゴンの印であるという
+
+生命力、持久力、筋力、技量が高まるが
+被ダメージも大きくなる
+
+刻印は、神に見出された者が
+生涯の使命を与えられた証である
+</text>
+<text id="1051">エルデのルーンが刻印された瞳
+「伝説のタリスマン」のひとつ
+それは、王配ラダゴンの印であるという
+
+生命力、持久力、筋力、技量が大きく高まるが
+被ダメージもとても大きくなる
+
+強き使命は、その主を蝕む
+まるで逃れ得ぬ呪いのように
+</text>
+<text id="1052">%null%</text>
+<text id="1053">%null%</text>
+<text id="1054">%null%</text>
+<text id="1055">%null%</text>
+<text id="1056">%null%</text>
+<text id="1057">%null%</text>
+<text id="1058">%null%</text>
+<text id="1059">%null%</text>
+<text id="1060">英雄の伝承が刻まれたタリスマン
+筋力を高める
+
+デミゴッドで最も強いとされた英雄は
+降る星に一人で挑み、これを砕き
+以来、星の運命は封印されたという
+</text>
+<text id="1061">%null%</text>
+<text id="1062">%null%</text>
+<text id="1063">%null%</text>
+<text id="1064">%null%</text>
+<text id="1065">%null%</text>
+<text id="1066">%null%</text>
+<text id="1067">%null%</text>
+<text id="1068">%null%</text>
+<text id="1069">%null%</text>
+<text id="1070">英雄の伝承が刻まれたタリスマン
+技量を高める
+
+生まれながら宿痾に侵された少女は
+師と、彼の流水の剣と出会い
+無双の翼を得たという
+</text>
+<text id="1071">%null%</text>
+<text id="1072">%null%</text>
+<text id="1073">%null%</text>
+<text id="1074">%null%</text>
+<text id="1075">%null%</text>
+<text id="1076">%null%</text>
+<text id="1077">%null%</text>
+<text id="1078">%null%</text>
+<text id="1079">%null%</text>
+<text id="1080">女王の伝承が刻まれたタリスマン
+知力を高める
+
+星見の少女は、夜空を見上げ歩いた
+ずっとずっと、星を追って旅をした
+そして満月と出会い、女王となった
+</text>
+<text id="1081">%null%</text>
+<text id="1082">%null%</text>
+<text id="1083">%null%</text>
+<text id="1084">%null%</text>
+<text id="1085">%null%</text>
+<text id="1086">%null%</text>
+<text id="1087">%null%</text>
+<text id="1088">%null%</text>
+<text id="1089">%null%</text>
+<text id="1090">二本指の伝承が刻まれたタリスマン
+信仰を高める
+
+指は声を持たず、だが雄弁であった
+指は執拗に蠢き、空に神秘を綴った
+そして我らは言葉を得た。信仰の言葉を
+</text>
+<text id="1091">%null%</text>
+<text id="1092">%null%</text>
+<text id="1093">%null%</text>
+<text id="1094">%null%</text>
+<text id="1095">%null%</text>
+<text id="1096">%null%</text>
+<text id="1097">%null%</text>
+<text id="1098">%null%</text>
+<text id="1099">%null%</text>
+<text id="1100">あらゆる宝、貴重なものの運び手たる
+スカラベを象ったタリスマン
+
+銀色のそれは、発見力を高める
+</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">あらゆる宝、貴重なものの運び手たる
+スカラベを象ったタリスマン
+
+金色のそれは、敵を倒したとき
+得るルーンの量が増える
+</text>
+<text id="1140">永遠の都、ノクステラの秘宝
+「伝説のタリスマン」のひとつ
+
+記憶スロットを増やす
+
+それは、彼らが失くした黒い月を模している
+ノクステラの月は、無数の星を従えていた
+</text>
+<text id="1141">%null%</text>
+<text id="1142">%null%</text>
+<text id="1143">%null%</text>
+<text id="1144">%null%</text>
+<text id="1145">%null%</text>
+<text id="1146">%null%</text>
+<text id="1147">%null%</text>
+<text id="1148">%null%</text>
+<text id="1149">%null%</text>
+<text id="1150">緑色の亀を象ったタリスマン
+スタミナの回復速度を高める
+
+亀は、滋養のある食材として知られ
+尽きぬ力の象徴とされた
+
+けれど、亀を賢獣と呼ぶ者たちには
+それは蛮習と映ったという
+</text>
+<text id="1151">%null%</text>
+<text id="1152">%null%</text>
+<text id="1153">%null%</text>
+<text id="1154">%null%</text>
+<text id="1155">%null%</text>
+<text id="1156">%null%</text>
+<text id="1157">%null%</text>
+<text id="1158">%null%</text>
+<text id="1159">%null%</text>
+<text id="1160">祖霊の民の装身具
+頑健耐性を高める
+（頑健は、出血や冷気に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1161">祖霊の民の装身具
+頑健耐性を大きく高める
+（頑健は、出血や冷気に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1162">%null%</text>
+<text id="1163">%null%</text>
+<text id="1164">%null%</text>
+<text id="1165">%null%</text>
+<text id="1166">%null%</text>
+<text id="1167">%null%</text>
+<text id="1168">%null%</text>
+<text id="1169">%null%</text>
+<text id="1170">祖霊の民の装身具
+免疫耐性を高める
+（免疫は、毒や腐敗に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1171">祖霊の民の装身具
+免疫耐性を大きく高める
+（免疫は、毒や腐敗に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1172">%null%</text>
+<text id="1173">%null%</text>
+<text id="1174">%null%</text>
+<text id="1175">%null%</text>
+<text id="1176">%null%</text>
+<text id="1177">%null%</text>
+<text id="1178">%null%</text>
+<text id="1179">%null%</text>
+<text id="1180">祖霊の民の装身具
+正気耐性を高める
+（正気は、睡眠や発狂に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1181">祖霊の民の装身具
+正気耐性を大きく高める
+（正気は、睡眠や発狂に対する耐性である）
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1182">%null%</text>
+<text id="1183">%null%</text>
+<text id="1184">%null%</text>
+<text id="1185">%null%</text>
+<text id="1186">%null%</text>
+<text id="1187">%null%</text>
+<text id="1188">%null%</text>
+<text id="1189">%null%</text>
+<text id="1190">生臭く膿んだ人面の瘡
+抗死耐性を高める
+
+その顔の主は、死王子であるという
+彼は、かつてゴッドウィンと呼ばれ
+デミゴッド最初の死者として、王都の地下深く
+黄金樹の根本に埋葬されたという
+</text>
+<text id="1191">生臭く膿んだ人面の業瘡
+抗死耐性を大きく高める
+
+その顔の主は、死王子であるという
+デミゴッド最初の死者たる黄金の貴公子の
+死にきれず、穢れきった死に顔であるという
+</text>
+<text id="1192">%null%</text>
+<text id="1193">%null%</text>
+<text id="1194">%null%</text>
+<text id="1195">%null%</text>
+<text id="1196">%null%</text>
+<text id="1197">%null%</text>
+<text id="1198">%null%</text>
+<text id="1199">%null%</text>
+<text id="1200">祖霊の民の装身具
+その、特に彩られた貴重なもの
+
+免疫、頑健、正気の耐性を高める
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1201">祖霊の民の装身具
+その、特に彩られた貴重なもの
+
+免疫、頑健、正気の耐性を大きく高める
+
+それは、芽生えかけの角であるという
+長く生きた獣は、角に新たな芽生えを迎え
+それを永遠に繰り返し、いつか祖霊となるのだと
+</text>
+<text id="1202">%null%</text>
+<text id="1203">%null%</text>
+<text id="1204">%null%</text>
+<text id="1205">%null%</text>
+<text id="1206">%null%</text>
+<text id="1207">%null%</text>
+<text id="1208">%null%</text>
+<text id="1209">%null%</text>
+<text id="1210">大山羊の角を象ったタリスマン
+強靭度を高める
+
+大山羊は、ある騎士の名で知られる
+太く、強く、決して怯まぬトラゴスは
+戦う者の、物言わぬ友であるという
+</text>
+<text id="1211">%null%</text>
+<text id="1212">%null%</text>
+<text id="1213">%null%</text>
+<text id="1214">%null%</text>
+<text id="1215">%null%</text>
+<text id="1216">%null%</text>
+<text id="1217">%null%</text>
+<text id="1218">%null%</text>
+<text id="1219">%null%</text>
+<text id="1220">エルデのルーンが刻印された瞳
+それは、女王マリカの印であるという
+
+精神力、知力、信仰、神秘が高まるが
+被ダメージも大きくなる
+
+刻印は、神に見出された者が
+生涯の使命を与えられた証である
+</text>
+<text id="1221">エルデのルーンが刻印された瞳
+「伝説のタリスマン」のひとつ
+それは、女王マリカの印であるという
+
+精神力、知力、信仰、神秘が大きく高まるが
+被ダメージもとても大きくなる
+
+強き使命は、その主を蝕む
+まるで逃れ得ぬ呪いのように
+</text>
+<text id="1222">%null%</text>
+<text id="1223">%null%</text>
+<text id="1224">%null%</text>
+<text id="1225">%null%</text>
+<text id="1226">%null%</text>
+<text id="1227">%null%</text>
+<text id="1228">%null%</text>
+<text id="1229">%null%</text>
+<text id="1230">壊れて死んだ、戦士の壺の破片
+
+戦技の攻撃力を高める
+
+蕩けた屍肉が破片にこびり付き
+その内には、装飾品の名残が見て取れる
+古い、王族の戦士の遺品だろう
+</text>
+<text id="1231">壊れて死んだ
+戦士の壺、アレキサンダーの破片
+
+戦技の攻撃力を大きく高める
+
+蕩けた屍肉が破片にこびり付き
+その内には、装飾品の名残が見て取れる
+赤髪の英雄の遺品のようだ
+</text>
+<text id="1232">%null%</text>
+<text id="1233">%null%</text>
+<text id="1234">%null%</text>
+<text id="1235">%null%</text>
+<text id="1236">%null%</text>
+<text id="1237">%null%</text>
+<text id="1238">%null%</text>
+<text id="1239">%null%</text>
+<text id="1240">しゃべすらタリスマン</text>
+<text id="1241">しゃべすらタリスマン+1</text>
+<text id="1242">%null%</text>
+<text id="1243">%null%</text>
+<text id="1244">%null%</text>
+<text id="1245">%null%</text>
+<text id="1246">%null%</text>
+<text id="1247">%null%</text>
+<text id="1248">%null%</text>
+<text id="1249">%null%</text>
+<text id="1250">ミリセントが用いた黄金の義手の一部
+剣を掲げる形で固まった掌
+
+技量を高め
+攻撃が連続するほど、攻撃力を高める
+
+素晴らしき裏切りの絶望により
+蕾たる彼女は、色めく花となった
+そして、いつか再誕するだろう
+美しき、朱い戦乙女となって
+</text>
+<text id="2000">奇手奇襲の刺客たちのタリスマン
+脱皮直後の蠍が模され、その鋏は
+魔力色の心臓を捕らえている
+
+魔力攻撃力を高めるが
+カット率が下がってしまう
+</text>
+<text id="2001">%null%</text>
+<text id="2002">%null%</text>
+<text id="2003">%null%</text>
+<text id="2004">%null%</text>
+<text id="2005">%null%</text>
+<text id="2006">%null%</text>
+<text id="2007">%null%</text>
+<text id="2008">%null%</text>
+<text id="2009">%null%</text>
+<text id="2010">奇手奇襲の刺客たちのタリスマン
+脱皮直後の蠍が模され、その鋏は
+雷色の心臓を捕らえている
+
+雷攻撃力を高めるが
+カット率が下がってしまう
+</text>
+<text id="2011">%null%</text>
+<text id="2012">%null%</text>
+<text id="2013">%null%</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">奇手奇襲の刺客たちのタリスマン
+脱皮直後の蠍が模され、その鋏は
+炎色の心臓を捕らえている
+
+炎攻撃力を高めるが
+カット率が下がってしまう
+</text>
+<text id="2021">%null%</text>
+<text id="2022">%null%</text>
+<text id="2023">%null%</text>
+<text id="2024">%null%</text>
+<text id="2025">%null%</text>
+<text id="2026">%null%</text>
+<text id="2027">%null%</text>
+<text id="2028">%null%</text>
+<text id="2029">%null%</text>
+<text id="2030">奇手奇襲の刺客たちのタリスマン
+脱皮直後の蠍が模され、その鋏は
+聖色の心臓を捕らえている
+
+聖攻撃力を高めるが
+カット率が下がってしまう
+</text>
+<text id="2031">%null%</text>
+<text id="2032">%null%</text>
+<text id="2033">%null%</text>
+<text id="2034">%null%</text>
+<text id="2035">%null%</text>
+<text id="2036">%null%</text>
+<text id="2037">%null%</text>
+<text id="2038">%null%</text>
+<text id="2039">%null%</text>
+<text id="2040">古代の死儀礼に由来するタリスマン
+赤羽のそれは、ＨＰが減少したとき
+攻撃力を高める
+
+死に近付くは高揚である
+それでこそ、懸命に生に縋り付き
+後の死はより輝かしい
+</text>
+<text id="2041">%null%</text>
+<text id="2042">%null%</text>
+<text id="2043">%null%</text>
+<text id="2044">%null%</text>
+<text id="2045">%null%</text>
+<text id="2046">%null%</text>
+<text id="2047">%null%</text>
+<text id="2048">%null%</text>
+<text id="2049">%null%</text>
+<text id="2050">かつて黄金樹に捧げられた闘いの
+儀式の剣を模したタリスマン
+
+ＨＰが最大のとき、攻撃力を高める
+
+王配ラダゴンの時代、捧闘は廃れてしまった
+各地に残る闘技場は、その名残である
+</text>
+<text id="2051">%null%</text>
+<text id="2052">%null%</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">%null%</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">槍と兵士を象ったタリスマン
+刺突攻撃特有の、カウンター攻撃を強化する
+
+槍は、狭間の地の兵士の一般的な武器であり
+ときに強者に、手痛い反撃をあたえた
+</text>
+<text id="2061">%null%</text>
+<text id="2062">%null%</text>
+<text id="2063">%null%</text>
+<text id="2064">%null%</text>
+<text id="2065">%null%</text>
+<text id="2066">%null%</text>
+<text id="2067">%null%</text>
+<text id="2068">%null%</text>
+<text id="2069">%null%</text>
+<text id="2070">大槌と騎士を象ったタリスマン
+ガードに対するスタミナ攻撃力を強化する
+
+槌は、盾を用いる敵に効果が高く
+故に騎士狩りの武器として知られている
+</text>
+<text id="2071">%null%</text>
+<text id="2072">%null%</text>
+<text id="2073">%null%</text>
+<text id="2074">%null%</text>
+<text id="2075">%null%</text>
+<text id="2076">%null%</text>
+<text id="2077">%null%</text>
+<text id="2078">%null%</text>
+<text id="2079">%null%</text>
+<text id="2080">掲げられた義手刀を象ったタリスマン
+欠け身のマレニアと、共に戦った騎士たちの徽章
+
+攻撃が連続するほど、攻撃力が高まる
+
+翼はマレニアと、その不敗の戦の象徴である
+生来の宿痾により癒しを知らぬ彼女の剣は
+美しく、ただ熾烈であり続けた
+</text>
+<text id="2081">掲げられた義手刀を象ったタリスマン
+腐敗の女神に仕える、戦乙女たちの徽章
+
+攻撃が連続するほど、攻撃力が大きく高まる
+
+四姉妹は、エオニアの沼に生まれ落ち
+ゴーリーの手引きにより、聖樹へと至った
+だが彼女たちは、出来損ないの蕾であった
+</text>
+<text id="2082">%null%</text>
+<text id="2083">%null%</text>
+<text id="2084">%null%</text>
+<text id="2085">%null%</text>
+<text id="2086">%null%</text>
+<text id="2087">%null%</text>
+<text id="2088">%null%</text>
+<text id="2089">%null%</text>
+<text id="2090">短剣と医師を象ったタリスマン
+致命の一撃を強化する
+
+白衣の戦場医師は、敵味方に関わらず
+死に損なった者たちを一突きで介錯する
+まさに慈悲こそが、殺意を高めるのだ
+</text>
+<text id="2091">%null%</text>
+<text id="2092">%null%</text>
+<text id="2093">%null%</text>
+<text id="2094">%null%</text>
+<text id="2095">%null%</text>
+<text id="2096">%null%</text>
+<text id="2097">%null%</text>
+<text id="2098">%null%</text>
+<text id="2099">%null%</text>
+<text id="2100">三本の羽矢を象ったタリスマン
+獣を狩る、狩人たちのもの
+
+弓の飛距離が上昇する
+</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">青衣の踊り子を象った布人形
+とても古い、伝承の遺物
+
+装備重量が少ないほど、攻撃力が高まる
+
+青衣の踊り子は、妖精であったという
+妖精は、盲目の剣士に流水の剣を授け
+古き神、腐敗を封じたと伝わっている
+</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">両刃剣と密使を象ったタリスマン
+連撃の最終攻撃を強化する
+
+密使たちに伝わる両刃の剣技は
+攻撃の勢いを殺さないことを、極意とする
+故にその最終攻撃は、危険である
+</text>
+<text id="2121">%null%</text>
+<text id="2122">%null%</text>
+<text id="2123">%null%</text>
+<text id="2124">%null%</text>
+<text id="2125">%null%</text>
+<text id="2126">%null%</text>
+<text id="2127">%null%</text>
+<text id="2128">%null%</text>
+<text id="2129">%null%</text>
+<text id="2130">斧と戦士を象ったタリスマン
+タメ攻撃を強化する
+
+斧は、長征の戦王の武器である
+王を誇る戦士たちは、同じ武器を振るい
+力を込めた一撃に長けている
+</text>
+<text id="2131">%null%</text>
+<text id="2132">%null%</text>
+<text id="2133">%null%</text>
+<text id="2134">%null%</text>
+<text id="2135">%null%</text>
+<text id="2136">%null%</text>
+<text id="2137">%null%</text>
+<text id="2138">%null%</text>
+<text id="2139">%null%</text>
+<text id="2140">ランスと騎馬騎士を象ったタリスマン
+馬上での攻撃力を強化する
+
+馬上にある騎士は、恐ろしい
+高きによって低きを視るは
+勢いすでに破竹であろう
+</text>
+<text id="2141">%null%</text>
+<text id="2142">%null%</text>
+<text id="2143">%null%</text>
+<text id="2144">%null%</text>
+<text id="2145">%null%</text>
+<text id="2146">%null%</text>
+<text id="2147">%null%</text>
+<text id="2148">%null%</text>
+<text id="2149">%null%</text>
+<text id="2150">三本の鉄矢を象ったタリスマン
+古い兵士たちのもの
+
+矢やボルトによる射撃の
+攻撃力が高まる
+</text>
+<text id="2151">%null%</text>
+<text id="2152">%null%</text>
+<text id="2153">%null%</text>
+<text id="2154">%null%</text>
+<text id="2155">%null%</text>
+<text id="2156">%null%</text>
+<text id="2157">%null%</text>
+<text id="2158">%null%</text>
+<text id="2159">%null%</text>
+<text id="2160">血の君主の喜びを模したタリスマン
+
+周囲で出血状態が発生すると、攻撃力が高まる
+
+血の君主に、血を捧げよ
+御方の閨を、繭を血で満たせ
+幼き伴侶が目覚める時、我ら王朝開闢せん
+</text>
+<text id="2161">%null%</text>
+<text id="2162">%null%</text>
+<text id="2163">%null%</text>
+<text id="2164">%null%</text>
+<text id="2165">%null%</text>
+<text id="2166">%null%</text>
+<text id="2167">%null%</text>
+<text id="2168">%null%</text>
+<text id="2169">%null%</text>
+<text id="2170">蟲たちの喜びを模したタリスマン
+
+周囲で毒あるいは腐敗状態が発生すると
+攻撃力が高まる
+
+朱の女神に、腐敗を捧げよ
+遠い彼方で、朱い花咲誇り
+我ら落とし子に戻りたまえ
+</text>
+<text id="2171">%null%</text>
+<text id="2172">%null%</text>
+<text id="2173">%null%</text>
+<text id="2174">%null%</text>
+<text id="2175">%null%</text>
+<text id="2176">%null%</text>
+<text id="2177">%null%</text>
+<text id="2178">%null%</text>
+<text id="2179">%null%</text>
+<text id="2180">爪と凶手を象ったタリスマン
+ジャンプ攻撃を強化する
+
+暗殺を生業とする、カラス山の凶手たちは
+自らを死の猛禽に擬し、獲物に襲いかかる
+</text>
+<text id="2181">%null%</text>
+<text id="2182">%null%</text>
+<text id="2183">%null%</text>
+<text id="2184">%null%</text>
+<text id="2185">%null%</text>
+<text id="2186">%null%</text>
+<text id="2187">%null%</text>
+<text id="2188">%null%</text>
+<text id="2189">%null%</text>
+<text id="2190">叫ぶ巨人を象った、青銅のメダリオン
+咆哮とブレスを強化する
+
+古い時代、巨人は黄金樹の宿敵であった
+その轟く咆哮は大自然を荒ぶらせ
+雪崩をおこし、炎を嵐としたという
+</text>
+<text id="2191">%null%</text>
+<text id="2192">%null%</text>
+<text id="2193">%null%</text>
+<text id="2194">%null%</text>
+<text id="2195">%null%</text>
+<text id="2196">%null%</text>
+<text id="2197">%null%</text>
+<text id="2198">%null%</text>
+<text id="2199">%null%</text>
+<text id="2200">曲剣と剣士を象ったタリスマン
+ガードカウンターを強化する
+
+肉を切らせて骨を断つ、その卓越した剣技は
+かつて盲目の剣士が見出したという
+</text>
+<text id="2201">%null%</text>
+<text id="2202">%null%</text>
+<text id="2203">%null%</text>
+<text id="2204">%null%</text>
+<text id="2205">%null%</text>
+<text id="2206">%null%</text>
+<text id="2207">%null%</text>
+<text id="2208">%null%</text>
+<text id="2209">%null%</text>
+<text id="2210">壺たちが、友に贈るタリスマン
+投擲壺アイテムの威力を高める
+
+人の血肉を、その生の源としながらも
+壺たちは皆善良である。あるいはそれこそが
+彼らが作られた理由であったろうか
+</text>
+<text id="2211">%null%</text>
+<text id="2212">%null%</text>
+<text id="2213">%null%</text>
+<text id="2214">%null%</text>
+<text id="2215">%null%</text>
+<text id="2216">%null%</text>
+<text id="2217">%null%</text>
+<text id="2218">%null%</text>
+<text id="2219">%null%</text>
+<text id="2220">調香瓶を模したタリスマン
+調香アイテムの威力を高める
+
+調香師には、彼らだけが知る花園がある
+高原の辺縁に、あるいは隠された洞窟に
+そこで花々は、ただ香るためだけに咲く
+</text>
+<text id="3000">魔術師球と呼ばれる
+学院の悪夢を象ったタリスマン
+
+魔術の威力を高める
+
+輝石魔術には、源流という禁忌がある
+魔術師を集めて星の種となす
+源流では、これは探究の一手段なのだ
+</text>
+<text id="3001">魔術師球と呼ばれる学院の悪夢
+最初のそれを象ったタリスマン
+
+魔術の威力を大きく高める
+
+輝石魔術には、源流という禁忌がある
+魔術師を集めて星の種となす
+源流では、これは探究の一手段なのだ
+</text>
+<text id="3040">仮面の偶像が描かれた布きれ
+祈祷の威力を高める
+
+その偶像は信徒を模している
+形無きものを頑なに信じ、祈る様は
+孤独な教祖にすら勇気を与える
+
+信仰とは、つまり肯定であろう
+</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">大量の偶像が描かれた布きれ
+祈祷の威力を大きく高める
+
+その偶像は信徒を模している
+形無きものを頑なに信じ、祈る様は
+孤独な教祖にすら勇気を与える
+
+信仰とは、つまり肯定であろう
+</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">時の狭間、嵐の中心に座すという
+古き王を象ったタリスマン
+「伝説のタリスマン」のひとつ
+
+魔術と祈祷の効果時間を延ばす
+
+古き王の都、ファルム・アズラは
+遥か前からずっと
+ゆっくりと崩壊しているという
+</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">エルデの王、ラダゴンを象ったタリスマン
+「伝説のタリスマン」のひとつ
+
+魔術と祈祷の使用速度を速める
+
+赤髪のラダゴンは
+カーリアのレナラの夫として魔術を修め
+女王マリカの夫として祈祷を修めたという
+英雄は、完全たるを目指したのだ
+</text>
+<text id="3071">%null%</text>
+<text id="3072">%null%</text>
+<text id="3073">%null%</text>
+<text id="3074">%null%</text>
+<text id="3075">%null%</text>
+<text id="3076">%null%</text>
+<text id="3077">%null%</text>
+<text id="3078">%null%</text>
+<text id="3079">%null%</text>
+<text id="3080">血濡れた古い輝石の刃
+
+魔術と祈祷の消費ＦＰが少なくなるが
+最大ＨＰも減ってしまう
+
+原輝石を、自らの魂とするために
+古い魔術師は、この刃で心臓を切り裂く
+そしてそのまま死んでいく
+</text>
+<text id="3081">%null%</text>
+<text id="3082">%null%</text>
+<text id="3083">%null%</text>
+<text id="3084">%null%</text>
+<text id="3085">%null%</text>
+<text id="3086">%null%</text>
+<text id="3087">%null%</text>
+<text id="3088">%null%</text>
+<text id="3089">%null%</text>
+<text id="3090">エルデの王、ゴッドフレイを象ったタリスマン
+「伝説のタリスマン」のひとつ
+
+魔術／祈祷／戦技のタメ使用を強化する
+
+ゴッドフレイは、猛き戦士であった
+けれど、王となるを誓ったとき
+沸々と滾り続ける戦意を抑えるため
+宰相の獣、セローシュを背負ったのだ
+</text>
+<text id="4000">古竜が浮き彫られた、錬鉄のタリスマン
+物理カット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4001">二体の古竜が浮き彫られた、錬鉄のタリスマン
+物理カット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4002">三体の古竜が浮き彫られた、錬鉄のタリスマン
+物理カット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4003">巨大な古竜が浮き彫られた、錬鉄のタリスマン
+「伝説のタリスマン」のひとつ
+
+物理カット率を、きわめて大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">青い古竜の描かれたタリスマン
+魔力カット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4011">二体の青い古竜の描かれたタリスマン
+魔力カット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4012">三体の青い古竜の描かれたタリスマン
+魔力カット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">赤い古竜の描かれたタリスマン
+炎カット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4021">二体の赤い古竜の描かれたタリスマン
+炎カット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4022">三体の赤い古竜の描かれたタリスマン
+炎カット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">黄色い古竜の描かれたタリスマン
+雷カット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4031">二体の黄色い古竜の描かれたタリスマン
+雷カット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4032">三体の黄色い古竜の描かれたタリスマン
+雷カット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">金の古竜の描かれたタリスマン
+聖カット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4041">二体の金の古竜の描かれたタリスマン
+聖カット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4042">三体の金の古竜の描かれたタリスマン
+聖カット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">真珠色の古竜の描かれたタリスマン
+物理以外のカット率を高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4051">二体の真珠色の古竜の描かれたタリスマン
+物理以外のカット率を大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4052">三体の真珠色の古竜の描かれたタリスマン
+物理以外のカット率を、とても大きく高める
+
+黄金樹なき先史時代の主たる古竜は
+王を守る、巌の壁であったという
+故に竜姿は、あらゆる護りの象徴である
+</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">古い時代、人の身体に生じたという
+諸相の混ざった鱗のタリスマン
+
+致命の一撃のダメージを軽減する
+
+それは、生命の原初たる坩堝の名残である
+部分的な先祖返りであり、古くは神聖視されたが
+文明の後には穢れとして扱われた
+</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">古い時代、人の身体に生じたという
+諸相の混ざった羽のタリスマン
+
+ローリングの回避を強化するが
+常に、被ダメージも大きくなる
+
+それは、生命の原初たる坩堝の名残である
+部分的な先祖返りであり、古くは神聖視されたが
+文明の後には穢れとして扱われた
+</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">古代の死儀礼に由来するタリスマン
+青羽のそれは、ＨＰが減少したとき
+防御力を高める
+
+死に近付くは高揚である
+それでこそ、懸命に生に縋り付き
+捧げるべき死が生まれる
+</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">かつて黄金樹に捧げられた闘いの
+儀式の盾を模したタリスマン
+
+ＨＰが最大のとき、防御力を高める
+
+王配ラダゴンの時代、捧闘は廃れてしまった
+各地に残る闘技場は、その名残である
+</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">大盾と騎士を象ったタリスマン
+ガード強度を高める
+
+かつて、ローデイルの騎士たちは
+ツリーガードのあり様を範とした
+守るべきもののために、剣より先に
+まず盾を構えたのだ
+</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">古い時代、人の身体に生じたという
+諸相の混ざった瘤のタリスマン
+
+ヘッドショットのダメージと、衝撃を軽減する
+
+それは、生命の原初たる坩堝の名残である
+部分的な先祖返りであり、古くは神聖視されたが
+文明の後には穢れとして扱われた
+</text>
+<text id="5000">黄金樹の種子を模した、緋色のタリスマン
+緋雫の聖杯瓶の回復量を高める
+
+かつて黄金樹は、永遠にして完全であった
+故にその種子は、存在しないとされていた
+</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">黄金樹の種子を模した、青色のタリスマン
+青雫の聖杯瓶の回復量を高める
+
+かつて黄金樹は、永遠にして完全であった
+故にその種子は、存在しないとされていた
+</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">黄金樹の恵みたる雫
+その受領の様を模したタリスマン
+
+ＨＰをゆっくりと回復する
+
+かつて、恵みの雫は尽きぬ滴りであったという
+豊穣の時代、けれどそれはごく短く
+黄金樹は信仰となっていった
+</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">火山館の主、法務官ライカードの
+厳格な肖像が刻まれたタリスマン
+
+敵を倒したとき、ＨＰを回復する
+
+ライカードが背律の冒涜を誓ったとき
+あらゆる略奪は肯定された
+神自身がそうであるように
+</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">すべやかな肌を縫い合わせた
+神肌の使徒たちの聖布
+
+攻撃が連続すると、ＨＰを回復する
+
+産まれたばかりの使徒は
+これに包まれ、宵眼の女王に抱かれる
+そして神の死となるのだ
+</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">緋色に染まった、捻じくれた凶刃
+致命の一撃によりＨＰを回復する
+
+それは、かつて陰謀の夜に閃き
+デミゴッドに最初の死をもたらした
+黒き刃の似姿である
+</text>
+<text id="5051">%null%</text>
+<text id="5052">%null%</text>
+<text id="5053">%null%</text>
+<text id="5054">%null%</text>
+<text id="5055">%null%</text>
+<text id="5056">%null%</text>
+<text id="5057">%null%</text>
+<text id="5058">%null%</text>
+<text id="5059">%null%</text>
+<text id="5060">青色に染まった、捻じくれた凶刃
+致命の一撃によりＦＰを回復する
+
+それは、かつて陰謀の夜に閃き
+デミゴッドに最初の死をもたらした
+黒き刃の似姿である
+</text>
+<text id="6000">暗闇の霧を封じた神秘の小瓶
+
+装備者の立てる音を完全に消す
+
+円卓の暗部が用いたという呪具
+かつて、導きを外れた褪せ人は
+静寂に怯えていた
+</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">光沢のある暗い布を纏めたタリスマン
+
+敵から離れていれば
+しゃがんだ状態で、装備者の姿を完全に消す
+
+かつて、黒き刃の刺客たちが
+陰謀の夜にその姿を隠したヴェールの一部
+</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">盾に王家の紋章を象ったタリスマン
+
+戦技の消費ＦＰが少なくなる
+
+かつて、カーリア騎士の中でも
+王女の直参に与えられたという徽章
+当代の王女は唯一人、レナラの娘、ラニである
+</text>
+<text id="6040">長尾猫のラクリマを象ったブローチ
+
+落下ダメージを完全になくす
+ただし、落下死亡を防ぐことはできない
+
+それは、レアルカリアのお伽話に登場する
+大鐘楼に遊ぶ妖精猫である
+</text>
+<text id="6041">%null%</text>
+<text id="6042">%null%</text>
+<text id="6043">%null%</text>
+<text id="6044">%null%</text>
+<text id="6045">%null%</text>
+<text id="6046">%null%</text>
+<text id="6047">%null%</text>
+<text id="6048">%null%</text>
+<text id="6049">%null%</text>
+<text id="6050">目を潰された狂気の肖像
+媚びるような薄笑いを浮かべている
+
+敵に狙われやすくなる
+
+シャブリリという名のその男は
+讒言の罰として、人々に瞳を潰され
+やがてそこに、狂い火の病を宿したという
+</text>
+<text id="6051">%null%</text>
+<text id="6052">%null%</text>
+<text id="6053">%null%</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">皮膚を剥がされた狂気の肖像
+慈しみの薄笑いを浮かべている
+
+被ダメージが増える
+
+デーディカという名のその女は
+あらゆる不義、姦通を行い
+無数の異形の子をなしたという
+</text>
+<text id="6061">%null%</text>
+<text id="6062">%null%</text>
+<text id="6063">%null%</text>
+<text id="6064">%null%</text>
+<text id="6065">%null%</text>
+<text id="6066">%null%</text>
+<text id="6067">%null%</text>
+<text id="6068">%null%</text>
+<text id="6069">%null%</text>
+<text id="6070">折れそうに細い、枯れ枝のタリスマン
+
+死亡時にルーンを落とさず
+替わりに、このタリスマンが失われる
+
+それは、古い時代に枝打ちされた
+黄金樹の一部であるという
+</text>
+<text id="6071">%null%</text>
+<text id="6072">%null%</text>
+<text id="6073">%null%</text>
+<text id="6074">%null%</text>
+<text id="6075">%null%</text>
+<text id="6076">%null%</text>
+<text id="6077">%null%</text>
+<text id="6078">%null%</text>
+<text id="6079">%null%</text>
+<text id="6080">金色の人影を写す、小さな曇り鏡
+
+鉤指の主と同様の見た目となる
+
+侵入者を欺くために作られた
+褪せ人の呪具のひとつ
+</text>
+<text id="6081">%null%</text>
+<text id="6082">%null%</text>
+<text id="6083">%null%</text>
+<text id="6084">%null%</text>
+<text id="6085">%null%</text>
+<text id="6086">%null%</text>
+<text id="6087">%null%</text>
+<text id="6088">%null%</text>
+<text id="6089">%null%</text>
+<text id="6090">生身の人影を写す、小さな曇り鏡
+
+召喚された協力者と同様の見た目となる
+
+侵入者を欺くために作られた
+褪せ人の呪具のひとつ
+</text>
+<text id="6091">%null%</text>
+<text id="6092">%null%</text>
+<text id="6093">%null%</text>
+<text id="6094">%null%</text>
+<text id="6095">%null%</text>
+<text id="6096">%null%</text>
+<text id="6097">%null%</text>
+<text id="6098">%null%</text>
+<text id="6099">%null%</text>
+<text id="6100">奇妙に歪んだ神秘的な円環
+立ち振舞いが変化する</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">%null%</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">祖霊の王の角を切り取ったもの
+
+敵を倒したとき、ＦＰを回復する
+
+倒れた王の角を苗床に
+幾つもの若芽が開き、光を放っている
+それは、死から芽吹いた命であり
+死から力を得る
+</text>
+</entries>
+</fmg>

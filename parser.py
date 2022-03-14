@@ -11,8 +11,8 @@ from pathlib import Path
 
 npcOverloads = {}
 
-def loadNPCNames():
-    path = r".\item\GR\data\INTERROOT_win64\msg\engUS\NpcName.fmg.xml"
+def loadNPCNames(root,lang="engUS"):
+    path = str(root/(r"GR\data\INTERROOT_win64\msg\%s\NpcName.fmg.xml"%(lang)))
     npcNames = loadTextFile(path)
     remapping = {}
     for ids in npcNames:
@@ -76,47 +76,55 @@ def singleTextFiles(path):
         m[key] = ("",l[key])
     return m
 
-chunk = Path(r".")
-knownPairs = {"TutorialTitle":"TutorialBody",
-              "LoadingTitle":"LoadingText",
-              "AccessoryName":"AccessoryCaption",
-              "ArtsName":"ArtsCaption",
-              "GemName":"GemCaption",
-              "GoodsName":"GoodsCaption",
-              "MagicName":"MagicCaption",
-              "ProtectorName":"ProtectorCaption",
-              "WeaponName":"WeaponCaption",
-              }
-knownPairs = {k+".fmg":t+".fmg" for k,t in knownPairs.items()}
-pairTargets = {knownPairs[p]:p for p in knownPairs}
-master = []
-npcIds = loadNPCNames()
-duplicates = set()
-for file in chunk.rglob("*.xml"):
-    if "ToS" in file.stem:
-        continue
-    if file.stem in knownPairs:
-        text = pairedTextFiles(str(file),
-                               str(file).replace(file.stem,
-                                                 knownPairs[file.stem]))
-    elif file.stem in pairTargets:
-        continue
-    else:
-        text = singleTextFiles(str(file))
-    master.append("\n\n## %s\n"%file.stem)
-    if file.stem == "TalkMsg.fmg":
-        parseNPCDialogue(file,npcIds,master.append)
-    else:
-        for key,(title,description) in text.items():
-            if description in duplicates:
-                continue
-            duplicates.add(description)
-            if title:
-                master.append("\n### %s [%d]"%(title,key))
-                master.append(description)
-            else:
-                master.append("[%d] %s\n"%(key,description))
-text = "\n".join(master)
+def loadFromChunk(chunk,lang = "engUS"):
+    knownPairs = {"TutorialTitle":"TutorialBody",
+                  "LoadingTitle":"LoadingText",
+                  "AccessoryName":"AccessoryCaption",
+                  "ArtsName":"ArtsCaption",
+                  "GemName":"GemCaption",
+                  "GoodsName":"GoodsCaption",
+                  "MagicName":"MagicCaption",
+                  "ProtectorName":"ProtectorCaption",
+                  "WeaponName":"WeaponCaption",
+                  }
+    knownPairs = {k+".fmg":t+".fmg" for k,t in knownPairs.items()}
+    pairTargets = {knownPairs[p]:p for p in knownPairs}
+    master = []
+    npcIds = loadNPCNames(chunk,lang)
+    duplicates = set()
+    for file in chunk.rglob("*.xml"):
+        if "ToS" in file.stem:
+            continue
+        if file.stem in knownPairs:
+            text = pairedTextFiles(str(file),
+                                   str(file).replace(file.stem,
+                                                     knownPairs[file.stem]))
+        elif file.stem in pairTargets:
+            continue
+        else:
+            text = singleTextFiles(str(file))
+        master.append("\n\n## %s\n"%file.stem)
+        if file.stem == "TalkMsg.fmg":
+            parseNPCDialogue(file,npcIds,master.append)
+        else:
+            for key,(title,description) in text.items():
+                if description in duplicates:
+                    continue
+                duplicates.add(description)
+                if title:
+                    master.append("\n### %s [%d]"%(title,key))
+                    master.append(description)
+                else:
+                    master.append("[%d] %s\n"%(key,description))
+    text = "\n".join(master)
+    return text
+
+chunk = Path(r".\GameText")
+text = loadFromChunk(chunk)
 with open("Master.html","w",encoding = "utf8") as outf:
     outf.write(markdown.markdown(text))
     
+chunk = Path(r".\GameTextJP")
+text = loadFromChunk(chunk,"jpnJP")
+with open("MasterJP.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))

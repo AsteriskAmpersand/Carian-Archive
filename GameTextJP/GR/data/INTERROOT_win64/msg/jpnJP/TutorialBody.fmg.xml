@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">チュートリアル１の本文
+2行目
+3行目
+4行目
+5行目
+6行目
+7行目
+8行目
+9行目
+10行目</text>
+<text id="101000">&lt;?keyControlCamera?&gt;：&lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;：&lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;：&lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;：&lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;：&lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;長押し：ダッシュ</text>
+<text id="101110">ターゲット固定中に&lt;?keyControlCamera?&gt;：ターゲットの変更</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@24?&gt;：ガード</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">素材アイテムは、アイテム製作に使用できる</text>
+<text id="101150">敵の背後をとって近づき&lt;?keyicon@22?&gt;：致命の一撃</text>
+<text id="101170">&lt;?keyicon@27?&gt;：各種ゲージなどの表示</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">騎乗ジャンプ中にもう一度&lt;?keyicon@8?&gt;：二段ジャンプ</text>
+<text id="201010">&lt;?keyicon@26?&gt;：&lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;：&lt;?keyActName@18?&gt;</text>
+<text id="201070">&lt;?kgLStick?&gt;+&lt;?kgRR?&gt;：ローリング
+&lt;?kgRR?&gt;：バックステップ</text>
+<text id="201100">武器は、右手と左手に３個ずつ装備でき
+切り替えて使用することができる
+
+また、武器を両手持ちすることもできる
+両手持ちにより、攻撃が盾に弾かれにくくなり
+筋力も１．５倍の扱いとなる
+
+&lt;?keyicon@19?&gt;：&lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;：&lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;：武器両手持ち
+</text>
+<text id="301020">祝福で休むことで
+ＨＰ、ＦＰ、状態異常などが全て回復し
+聖杯瓶も補充される
+
+ただし、一部を除いて全ての敵が復活する
+
+祝福は光の集まる先で発見できる
+
+※こうした説明は、情報アイテムとして取得され
+　インベントリからいつでも再読できる
+</text>
+<text id="301060">魔術／祈祷は、祝福で記憶できる
+
+記憶した魔術／祈祷は
+魔術であれば杖を、祈祷であれば聖印を装備し
+ＦＰを消費することで使用できる
+
+&lt;?keyicon@0017?&gt;：&lt;?keyActName@17?&gt;
+</text>
+<text id="301130">弓を装備し、矢を撃つことができる
+矢は２つまで装備でき、使い分けることができる
+
+また、弓を両手持ちしている間
+&lt;?keyicon@24?&gt;長押しで精密射撃ができる
+狙いは&lt;?keyControlCamera?&gt;で定める
+
+&lt;?keyicon@22?&gt;：矢１を撃つ
+&lt;?keyicon@23?&gt;：矢２を撃つ
+&lt;?keyicon@24?&gt;：精密射撃
+</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">しゃがむと敵に見つかり難くなる
+草むらではその効果がより大きい
+
+敵に見つかっていない状態からの攻撃は
+通常よりもダメージが大きくなる
+
+&lt;?keyicon@9?&gt;：&lt;?keyActName@9?&gt;
+</text>
+<text id="301160">攻撃により、敵の体勢が崩れることがあり
+致命の一撃のチャンスとなる
+
+タメ攻撃やジャンプ攻撃は
+特に敵の体勢を崩しやすい
+
+&lt;?keyicon@23?&gt;長押し：タメ攻撃
+ジャンプ中に&lt;?keyicon@23?&gt;：ジャンプ攻撃
+</text>
+<text id="301500">地図では、自分の現在位置や
+地形や建築物などの情報を確認できる
+
+地図情報は、街道沿いの石碑で
+「地図断片」を手に入れることで更新される
+
+また、任意の場所に光の柱を配置し
+探索の目印にすることもできる
+
+&lt;?keyicon@29?&gt;：&lt;?keyActName@29?&gt;
+</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">祝福は本来、褪せ人を導き
+進むべき道を指し示すものである
+
+そして今でも、一部の祝福はその力を残し
+黄金の光跡で道を指し示している
+</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">「霊馬の指笛」を使用することで
+霊馬を召喚し、騎乗することができる
+
+霊馬が死亡しても、再召喚できるが
+緋雫の聖杯瓶が１つ消費される
+
+騎乗中、もう一度指笛を使用するか
+&lt;?keyicon@0009?&gt;で霊馬から降りる
+</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">死亡すると、最後に訪れた祝福で復活する
+
+死亡した場所に、所持ルーンを落とし
+回収前にもう一度死亡すると、失われてしまう
+
+落としたルーンの方角は
+画面上部の方位計に表示される
+</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">死亡すると、最後に訪れた祝福で復活する
+
+死亡した場所の近くに「マリカの楔」があれば
+そこから復活することも選択できる
+</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">「霊喚びの鈴」があれば
+遺灰から、様々な霊体を召喚できる
+召喚は基本的にＦＰを消費する
+
+霊体は、同時に１種類しか召喚できず
+マルチプレイ中は召喚できない
+</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">狭間の地の各所で、木の実や花、キノコや蝶など
+様々な素材アイテムが入手できる
+
+素材アイテムは、アイテム製作に使用できる
+</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">「ツール鞄」があれば、素材アイテムを用いて
+様々なアイテムを製作できる
+
+メインメニューの「アイテム製作」から行う
+
+製作できるアイテムの種類は
+「製法書」を手に入れることで増えていく
+
+&lt;?keyicon@28?&gt;：&lt;?keyActName@28?&gt;
+</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">製作できるアイテムには
+ヒビ壺など、特定の容器が必要なものがあり
+容器数を超える製作はできない
+
+容器アイテムは使用により消費されるが
+容器自体は無くならない
+</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">狭間の地の各所、小黄金樹の麓などでは
+結晶雫と呼ばれるアイテムが入手できる
+
+結晶雫は「霊薬の聖杯瓶」に２つ配合でき
+霊薬の効果を様々にカスタマイズできる
+
+配合は祝福で行う
+</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">「砥石の小刀」があれば
+祝福で「戦灰」を用い、武器に戦技を付与できる
+
+戦技は武器ごとに1つであり
+付与により、古い戦技は外れてしまう
+
+付与は武器種別により制限され
+固有の戦技を持つなどの、特別な武器には
+戦技の付与はできない
+</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">各地に残る「鳥の遠見」を使用すると
+鳥の視点で、向かう先を観察することができる
+
+&lt;?keyicon@17?&gt;：ズームイン
+&lt;?keyicon@18?&gt;：ズームアウト
+</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">「霊気流」のある場所で、騎乗してジャンプすると
+気流に乗り大きく跳び上がる
+
+また、騎乗して「霊気流」に飛び降りると
+高所からでもダメージを受けない
+
+騎乗中に霊気流で&lt;?keyicon@8?&gt;：霊気流ジャンプ
+</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">敵集団を撃破すると、聖杯瓶が回復する
+
+回復する聖杯瓶の種類、回数は
+敵集団により異なる
+
+ただし、上限を超えて回復することはない
+</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">雫スカラベには、緋色と青色が存在し
+倒すことで、それぞれの聖杯瓶が回復する
+
+ただし、上限を超えて回復することはない
+</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">「鉤呼びの指薬」を使用し
+他世界のプレイヤーの召喚サインを可視化できる
+
+金色のサインからは協力者を
+赤色のサインからは敵対者を
+それぞれ召喚でき、マルチプレイが開始される
+（貴方は「鉤指の主」となる）
+</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">「褪せ人の鉤指」を使用し
+金色の召喚サインを書くことができる
+
+サインから、他世界のプレイヤーに召喚されると
+協力マルチプレイが開始される
+
+貴方は協力者（鉤指）となり
+エリアボスの撃破が目的となる
+
+召喚主（鉤指の主）の方角が
+画面上部の方位計に表示される
+</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">「闘士の鉤指」を使用し
+赤色の召喚サインを書くことができる
+
+サインから、他世界のプレイヤーに召喚されると
+敵対マルチプレイが開始される
+
+貴方は敵対者（闘士）となり
+召喚者たる「鉤指の主」の撃破が目的となる
+</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">「爛れた血指」などを使用し
+他プレイヤーの世界に侵入を試みることができる
+
+侵入に成功すると、侵入マルチプレイが開始される
+
+貴方は侵入者（血の指）となり
+世界の主たる「鉤指の主」の撃破が目的となる
+
+鉤指の主が遠くにいる時は
+その方角が、画面上部の方位計に表示される
+</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">各地にある殉教者の偶像は、サイン溜まりである
+
+小偶像を使用した協力サイン、敵対サインは
+サイン溜まりに集積するため
+他プレイヤーを召喚しやすい場所となる
+</text>
+<text id="302000">「砥石の小刀」があれば
+祝福で「戦灰」を用い、武器に属性を付与できる
+
+付与された属性により、その武器の
+攻撃力属性、能力補正などが変化する
+
+付与は武器種別により制限され
+固有の戦技を持つなどの、特別な武器には
+属性の付与はできない
+</text>
+<text id="302380">「青い秘文字の指環」を使用すると
+他世界から狩人の召喚要請があった時
+それに応え、召喚される状態となる
+
+狩人として召喚されると
+狩人マルチプレイが開始される
+その目的は、侵入者の撃破となる
+
+召喚主（鉤指の主）の方角が
+画面上部の方位計に表示される
+</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">遺灰を使った霊体召喚は
+還魂碑の周辺でしか行うことはできない
+
+還魂碑の周辺、霊体召喚が可能な場所では
+画面左に碑文アイコンが表示される
+</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">敵の攻撃をガードした直後に
+カウンター攻撃ができる
+
+ガードカウンターは、敵の体勢を崩しやすい
+
+攻撃をガード直後に&lt;?keyicon@23?&gt;：ガードカウンター
+</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">左手の武器、あるいは両手持ちの武器で
+敵の攻撃をガードできる
+
+特に、盾によるガードは効果が大きい
+
+ガードはスタミナを消費し
+スタミナが尽きると、体制が崩れてしまう
+
+&lt;?keyicon@24?&gt;：ガード
+</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">「白い秘文字の指環」を使用すると
+侵入者に侵入された時、自動的に
+他世界に狩人の召喚を要請する状態となる
+（侵入された後に使用してもよい）
+
+要請に成功すると、狩人が召喚され
+その目的は侵入者の撃破となる
+</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">戦技とは、武器の持つ特殊な技である
+
+強力な攻撃から、一時的特殊効果まで幅広く
+その使用にはＦＰが消費される
+
+&lt;?keyicon@25?&gt;：&lt;?keyActName@25?&gt;
+</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">地図から、発見済の祝福を選択し
+そこに瞬時に移動することができる
+
+ただし、一部ダンジョンなどでは
+それができないことがある
+</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">鍛冶台で「鍛石」とルーンを消費して
+武器を強化できる
+
+狭間の地のどこかで、鍛冶屋を見つければ
+さらに上の段階の強化も可能になる
+</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">円卓は、祝福に導かれた褪せ人が集う場所であり
+不戦の約定により、戦闘行為が禁止されている
+（円卓のアイコンは、不戦の約定を示す）
+
+この世界でないどこかにあり
+祝福の移動でのみ、行き来ができる
+（地図からも移動できる）
+
+&lt;?keyicon@29?&gt;：&lt;?keyActName@29?&gt;
+</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">ジコ坊は、精酒のため
+眠りの濃霧を求めている
+
+深く眠る者を見つけ出し、
+トリーナの水晶玉を用いれば
+眠りの濃霧を写し取ることができる
+
+ただ眠っている者と違い、
+深く眠る者は霧がかかって見える
+
+深く眠る者に近付き&lt;?keyicon@27?&gt;：濃霧を写し取る
+</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">メインメニューの「ポーチ」に
+６つのアイテムを装備し、そこから使うことができる
+
+その内の４つのアイテムについては
+メインメニューを開くことなく使用することもできる
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;：ポーチ１のアイテムを使用
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;：ポーチ２のアイテムを使用
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;：ポーチ３のアイテムを使用
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;：ポーチ４のアイテムを使用
+</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">ローリングあるいはバックステップで
+敵の攻撃を回避できる
+
+ただし、どちらもスタミナを消費する
+
+&lt;?keyicon@3?&gt;+&lt;?keyicon@7?&gt;：ローリング
+&lt;?keyicon@7?&gt;：バックステップ
+</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">破片の君主を倒して得た大ルーンは
+恩恵の力を失っており、各地の神授塔で
+それを再び得ることができる
+
+向かうべき神授塔は
+大ルーンアイテムに記されている
+</text>
+<text id="309000">協力、侵入、敵対マルチプレイには
+それぞれ対応したアイテムが必要になる
+
+マルチプレイ用のアイテムは
+メインメニュー「マルチプレイ」で確認でき
+そこから直接使用することもできる
+
+&lt;?keyicon@28?&gt;：&lt;?keyActName@28?&gt;
+</text>
+<text id="402000">装備メニューでは、武器、矢、ボルト
+防具、タリスマン、アイテムを装備できる
+
+武器は左手と右手に３個ずつ装備でき
+どちらの手に装備するのかで、アクションは変化する
+</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">アイテム製作メニューでは
+素材アイテムを用いて、様々なアイテムを製作できる
+
+製作できるアイテムの種類は
+「製法書」を手に入れることで増えていく
+</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">インベントリメニューでは
+所持しているアイテムを確認することができ
+それらをその場に置いたり、破棄したりできる
+
+また道具については、このメニューから使用できる
+
+&lt;?keyicon@31?&gt;：大きな画像と説明文の表示
+&lt;?keyicon@30?&gt;：キャラクターデータ表示の切替
+</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">ステータスメニューでは
+自分のレベル、能力値、基礎力などを確認できる
+
+攻撃力や防御力、耐性値などは
+装備中の武器、防具の数値も反映される
+</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">メッセージメニューでは
+その場にメッセージを書くことができる
+それは他世界に伝播する
+
+メッセージの形式を切り替えることで
+より複雑なメッセージを書くことができ
+ジェスチャーを添付することもできる
+
+他プレイヤーのメッセージを評価することができ
+貴方のメッセージが評価された時は、ＨＰが回復する
+</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">マルチプレイメニューでは
+様々なマルチプレイ用のアイテムを使用できる
+
+また、グループ合言葉を設定すると
+同じ合言葉を設定しているプレイヤーの
+メッセージや召喚サイン、血痕、幻影などが
+優先的に表示されるようになる
+
+マルチプレイ合言葉を設定すると
+同じ合言葉を設定したプレイヤーとだけマッチングする
+ただし侵入マルチプレイでは、この合言葉は機能しない
+</text>
+<text id="402100">地図メニューでは、自分の現在位置や
+地形や建築物などの情報を確認できる
+
+任意の場所に光の柱を配置し
+探索の目印にすることもできる
+
+また、発見済の祝福を選択し
+そこに瞬時に移動することができる
+ただし、一部ダンジョンなどでは
+それができないことがある
+</text>
+<text id="402200">レベルアップメニューでは
+ルーンを消費して能力値を成長できる
+
+能力値が１成長すると、レベルも１上がり
+レベルが高くなるほど
+能力値の成長に必要なルーンは多くなる
+</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">聖杯瓶の使用回数を増やすことができる
+
+使用回数を増やすには、聖杯の欠片が必要になる</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">聖杯瓶の回復量を増やすことができる
+
+回復量を増やすには、【不死の遺骨】が必要になる</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">このメニューでは
+聖杯瓶の使用回数を振り分けることができる
+
+聖杯瓶全体の最大使用回数を
+ＨＰを回復する緋雫の聖杯瓶と
+ＦＰを回復する青雫の聖杯瓶に振り分ける
+</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">記憶メニューでは、魔術と祈祷を記憶できる
+
+記憶した魔術／祈祷は
+魔術であれば杖を、祈祷であれば聖印を装備し
+ＦＰを消費することで使用できる
+
+記憶できる最大数は、記憶スロットで決まり
+「メモリ・ストーン」で増やすことができる
+</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">このメニューでは
+所持しているアイテムを木箱に格納したり
+格納したアイテムを取り出したりできる
+
+所持数の上限を超えてアイテムを取得すると
+それらは自動的に木箱に格納される
+</text>
+<text id="402300">商いメニューでは、ルーンを消費して
+アイテムを購入することができる
+
+また、アイテムを売却し
+ルーンを得ることもできる
+
+商人により、販売されているアイテムは異なる
+</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">鍛治屋メニューでは
+「鍛石」とルーンを消費して武器を強化できる
+
+武器のレベルが上がるほど
+強化に必要な素材のランクが上がり、
+数も多く必要になる</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">戦灰メニューでは、「戦灰」を用いて
+武器に新しい戦技と属性を付与できる
+
+戦技は武器ごとに1つであり
+付与により、古い戦技は失われる
+
+また付与された属性により、その武器の
+攻撃力属性、能力補正などが変化する
+
+付与は武器種別により制限され
+固有の戦技を持つなどの、特別な武器には
+戦灰を用いた戦技／属性の付与はできない
+</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">調霊メニューでは
+「墓すずらん」とルーンを消費して
+遺灰から召喚する霊体を強化できる
+
+また、名前付きの霊体の強化には
+「霊姿の墓すずらん」が必要となる
+</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">竜餐魔法を会得することができる
+
+竜餐魔法を会得するには、竜餐の種を納める必要がある</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">大ルーンメニューでは
+再び力を得た大ルーンを装備できる
+
+装備した大ルーンは
+「ルーンの弧」を使用することで
+大いなる恩恵をもたらす
+</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">このメニューでは、霊薬の聖杯瓶に
+２つの結晶雫を配合できる
+
+配合により、霊薬は様々な特別な効果をもたらす
+</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">産まれ直しメニューでは
+「雫の幼生」を消費して
+レベルアップを最初からやり直すことができる
+
+最終的なレベルを低くすることはできず
+能力値を、素性の初期値以下にもできない
+</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">追憶の力メニューでは
+追憶から、その主の力を得ることができる
+
+ひとつの追憶から、得られる力はひとつであり
+力を得ると、追憶は失われてしまう
+</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">鍛冶台メニューでは
+「鍛石」とルーンを消費して武器を強化できる
+
+鍛冶台で強化できるのは「＋３」が上限となる
+
+狭間の地のどこかで、鍛冶屋を見つければ
+さらに上の段階の強化も可能になる
+</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">追憶の複製メニューでは
+過去に手に入れた、追憶を複製できる
+（既に、主の力を得たものも含まれる）
+
+ひとつの霊廟につき、複製は一度だけ可能となる
+</text>
+</entries>
+</fmg>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">しゃがみ</text>
+<text id="2">ガード</text>
+<text id="3">ガードカウンター</text>
+<text id="4">両手持ち</text>
+<text id="5">タメ攻撃、ジャンプ攻撃</text>
+<text id="6">戦技</text>
+<text id="7">パリィ</text>
+<text id="8">ターゲット固定</text>
+<text id="9">精密射撃</text>
+<text id="10">武器の装備</text>
+<text id="11">アイテム使用</text>
+<text id="12">松明</text>
+<text id="13">致命の一撃</text>
+<text id="14">ジェスチャー</text>
+<text id="15">地図</text>
+<text id="16">霊気流ジャンプ</text>
+<text id="17">使用アイテムの素早い選択</text>
+<text id="50">死亡と所持ルーン</text>
+<text id="51">%null%</text>
+<text id="52">霊体の召喚</text>
+<text id="53">祝福で休む</text>
+<text id="54">祝福の発見</text>
+<text id="55">祝福の導き</text>
+<text id="56">聖杯瓶</text>
+<text id="57">祝福への移動</text>
+<text id="58">騎乗時の攻撃</text>
+<text id="59">騎乗禁止エリア</text>
+<text id="60">アイテム製作</text>
+<text id="61">容器アイテム</text>
+<text id="62">武器のカスタマイズ</text>
+<text id="63">%null%</text>
+<text id="64">死亡後の復活</text>
+<text id="65">装備重量</text>
+<text id="66">交戦状態</text>
+<text id="67">霊体の強化</text>
+<text id="68">レベルアップ</text>
+<text id="69">%null%</text>
+<text id="70">状態異常：毒</text>
+<text id="71">状態異常：朱い腐敗</text>
+<text id="72">状態異常：出血</text>
+<text id="73">状態異常：凍傷／冷気</text>
+<text id="74">状態異常：睡眠</text>
+<text id="75">状態異常：発狂</text>
+<text id="76">状態異常：死</text>
+<text id="77">強靭度</text>
+<text id="100">協力者（鉤指）の目的</text>
+<text id="101">敵対者（闘士）の目的</text>
+<text id="102">マルチプレイの最大人数</text>
+<text id="103">召喚サインの可視化</text>
+<text id="104">協力サインを書く</text>
+<text id="105">敵対サインを書く</text>
+<text id="106">侵入</text>
+<text id="107">救援の要請</text>
+<text id="108">救援</text>
+<text id="109">サイン溜まり</text>
+<text id="110">グループ合言葉</text>
+<text id="111">マルチプレイ合言葉</text>
+<text id="112">メッセージ</text>
+<text id="113">マルチプレイの移動制限</text>
+<text id="114">幻影</text>
+<text id="115">血痕</text>
+<text id="116">救援者（狩人）の目的</text>
+<text id="117">召喚サイン</text>
+<text id="118">メッセージの拡張</text>
+<text id="119">侵入者の目的</text>
+<text id="150">ガードの弱み</text>
+<text id="151">体勢を崩す</text>
+<text id="152">落馬</text>
+<text id="153">硬い敵</text>
+<text id="154">弱点部位</text>
+<text id="200">雫スカラベ</text>
+<text id="250">テストデータ1 &lt;?kgOk?&gt; &lt;?kgCancel?&gt;</text>
+<text id="251">テストデータ2 &lt;?kgUDLR?&gt;</text>
+<text id="252">テストデータ3</text>
+<text id="253">テストデータ4</text>
+</entries>
+</fmg>

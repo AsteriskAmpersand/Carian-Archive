@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">武器効果1</text>
+<text id="2">武器効果2</text>
+<text id="3">武器効果3</text>
+<text id="100">出血効果</text>
+<text id="1000">ガードされても、一定のダメージがカットされない</text>
+<text id="1001">敵を倒したとき、ＨＰを回復する</text>
+<text id="1002">敵を倒したとき、ＦＰを回復する</text>
+<text id="1003">攻撃命中時に、ＨＰを回復する</text>
+<text id="1004">攻撃命中時に、ＦＰを回復する</text>
+<text id="1005">ＨＰをゆっくりと回復する</text>
+<text id="1006">ＦＰをゆっくりと回復する</text>
+<text id="1007">スタミナ回復速度を高める</text>
+<text id="1008">攻撃が連続するほど、攻撃力が高まる</text>
+<text id="1009">自傷ダメージを受ける</text>
+<text id="1010">獣の戦意を減退させる</text>
+<text id="1011">%null%</text>
+<text id="1012">物理属性魔術の威力を高める</text>
+<text id="1013">炎属性魔術の威力を高める</text>
+<text id="1014">魔属性魔術の威力を高める</text>
+<text id="1015">雷属性魔術の威力を高める</text>
+<text id="1016">聖属性魔術の威力を高める</text>
+<text id="1017">強化・回復魔術の範囲を強化する</text>
+<text id="1018">輝石魔術/祈祷の何れも扱える</text>
+<text id="1019">輝石魔術の触媒として使用可能</text>
+<text id="1020">祈祷の触媒として使用可能</text>
+<text id="1021">攻撃が連続すると、ＨＰを回復する</text>
+<text id="1022">攻撃が連続すると、ＦＰを回復する</text>
+<text id="1100">結晶人の魔術を強化する</text>
+<text id="1101">重力の魔術を強化する</text>
+<text id="1102">茨の魔術を強化する</text>
+<text id="1103">死の魔術を強化する</text>
+<text id="1104">満月の魔術を強化する</text>
+<text id="1105">石掘りの魔術を強化する</text>
+<text id="1106">輝剣の魔術を強化する</text>
+<text id="1107">カーリアの剣の魔術を強化する</text>
+<text id="1108">アズールの源流魔術を強化する</text>
+<text id="1109">ルーサットの源流魔術を強化する</text>
+<text id="1110">不可視の魔術を強化する</text>
+<text id="1111">巨人の火の祈祷を強化する</text>
+<text id="1112">黄金律原理主義の祈祷を強化する</text>
+<text id="1113">獣の祈祷を強化する</text>
+<text id="1114">王都古竜信仰の祈祷を強化する</text>
+<text id="1115">竜餐の祈祷を強化する</text>
+<text id="1116">狂い火の祈祷を強化する</text>
+<text id="1117">溶岩の魔術を強化する</text>
+<text id="1118">神狩りの祈祷を強化する</text>
+<text id="6400">毒の状態異常を、僅かに蓄積する（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6401">毒の状態異常を蓄積する（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6402">毒の状態異常を、大きく蓄積する（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">強い毒の状態異常を蓄積する（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6450">朱い腐敗の状態異常を、僅かに蓄積する（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6451">朱い腐敗の状態異常を蓄積する（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6452">朱い腐敗の状態異常を、大きく蓄積する（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6500">出血の状態異常を、僅かに蓄積する（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6501">出血の状態異常を蓄積する（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6502">出血の状態異常を、大きく蓄積する（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">強い出血の状態異常を蓄積する（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6550">死の状態異常を、僅かに蓄積する（&lt;?curseATKpwr?&gt;）</text>
+<text id="6551">死の状態異常を蓄積する（&lt;?curseATKpwr?&gt;）</text>
+<text id="6552">死の状態異常を、大きく蓄積する（&lt;?curseATKpwr?&gt;）</text>
+<text id="6600">冷気の状態異常を、僅かに蓄積する（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6601">冷気の状態異常を蓄積する（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6602">冷気の状態異常を、大きく蓄積する（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6650">睡眠の状態異常を、僅かに蓄積する（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6651">睡眠の状態異常を蓄積する（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6652">睡眠の状態異常を、大きく蓄積する（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6700">発狂の状態異常を、僅かに蓄積する（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6701">発狂の状態異常を蓄積する（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6702">発狂の状態異常を、大きく蓄積する（&lt;?madnessATKpwr?&gt;）</text>
+</entries>
+</fmg>

@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="15">リトライ</text>
+<text id="16">続ける</text>
+<text id="17">タイトル画面に戻る</text>
+<text id="40200">必要なルーンが足りません</text>
+<text id="40201">必要なアイテムが足りません</text>
+<text id="40202">必要なルーン、アイテムが足りません</text>
+<text id="40300">設定を初期状態に戻します
+よろしいですか？</text>
+<text id="40500">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="102000">&lt;?itemName?&gt; を置きます
+よろしいですか？</text>
+<text id="102001">&lt;?itemName?&gt; を破棄します
+よろしいですか？</text>
+<text id="102002">選択中のアイテムを全て置きます
+よろしいですか？</text>
+<text id="102003">選択中のアイテムを全て破棄します
+よろしいですか？</text>
+<text id="102004">置かれているアイテムが８個を超えてしまうため
+古いアイテムから消えてしまいます
+よろしいですか？</text>
+<text id="102005">&lt;?itemName?&gt;には戦灰が使用されています
+置いたアイテムが失われると、戦灰も一緒に失われます
+よろしいですか？</text>
+<text id="102006">&lt;?itemName?&gt;には戦灰が使用されています
+アイテムを破棄すると、戦灰も一緒に失われます
+よろしいですか？</text>
+<text id="102007">選択中のアイテムに、戦灰が使用されたものが含まれています
+置いたアイテムが失われると、戦灰も一緒に失われます
+よろしいですか？</text>
+<text id="102008">選択中のアイテムに、戦灰が使用されたものが含まれています
+アイテムを破棄すると、戦灰も一緒に失われます
+よろしいですか？</text>
+<text id="102009">%null%</text>
+<text id="102010">所持ルーンの上限を超えてしまいます
+上限を超えたルーンは失われますが、それでも使用しますか？</text>
+<text id="103000">必要能力値が足りていません
+本来の性能を発揮できません</text>
+<text id="103001">必要能力値が足りていません
+両手持ちの場合のみ、本来の性能を発揮します</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">この霊体を召喚するには、レベルが足りていません</text>
+<text id="103110">装備中の別のタリスマンと干渉するため
+このタリスマンを装備できません</text>
+<text id="103130">現在、装備を変更することはできません</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">記憶スロットが減少するため
+スロット数を超える魔術／祈祷を記憶からはずします
+よろしいですか？</text>
+<text id="103141">スロット数を超える魔術／祈祷を記憶からはずしました</text>
+<text id="104000">マルチプレイ合言葉履歴</text>
+<text id="104001">設定したい合言葉を選んでください</text>
+<text id="104002">グループ合言葉履歴</text>
+<text id="104003">設定したい合言葉を選んでください</text>
+<text id="104004">マルチプレイ合言葉履歴が存在しません</text>
+<text id="104005">グループ合言葉履歴が存在しません</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">指薬を使用すると、召喚されている霊体は帰還します
+よろしいですか？</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">指薬を使用すると、召喚サインは取り消されます
+よろしいですか？</text>
+<text id="110000">ゲームを保存して、タイトル画面に戻ります
+よろしいですか？</text>
+<text id="110316">言語を変更したい場合は
+タイトル画面に戻って設定してください</text>
+<text id="111100">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111101">現在の設定を反映しますか？</text>
+<text id="111102">一部の設定は、タイトル画面に戻るまで反映されません</text>
+<text id="111103">この項目はタイトルの再起動後に反映されます</text>
+<text id="111104">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111105">一部の設定は、タイトル画面に戻るまで反映されません</text>
+<text id="111106">HDRをOFFに変更しました</text>
+<text id="111107">HDRをONに変更しました</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">変更が反映されていない設定があります
+変更を反映するには、一度タイトル画面に戻ってください</text>
+<text id="211001">&lt;?placeName?&gt;に移動します
+よろしいですか？</text>
+<text id="211002">この場所では、祝福への移動は行えません</text>
+<text id="211003">マルチプレイ中は、祝福への移動は行えません</text>
+<text id="211004">祝福への移動は行えません</text>
+<text id="211005">罠にかかりました
+祝福で一度休息するまで、祝福への移動は行えません</text>
+<text id="211006">今は、祝福への移動は行えません</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">今は、祝福への移動は行えません</text>
+<text id="211100">配置したマーカーを全て削除します
+よろしいですか？</text>
+<text id="211101">マーカー配置の上限を超えるため
+これ以上マーカーを配置できません</text>
+<text id="211200">現在地にフォーカスすることができません</text>
+<text id="211300">マークできる上限を超えるため
+これ以上、祝福のマークはできません</text>
+<text id="211400">この祝福のマークを解除します
+よろしいですか？</text>
+<text id="212000">&lt;?demandSoul?&gt;ルーンでレベルアップしますか？</text>
+<text id="212001">レベルアップを中止します
+よろしいですか？</text>
+<text id="212002">成長させる能力値を１つ以上選択してください</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">レベルの上限です。これ以上レベルアップできません</text>
+<text id="212750">産まれ直しを実行しますか？</text>
+<text id="212751">産まれ直しを中止します</text>
+<text id="212752">元のレベルに到達するまで、レベルアップしてください</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">記憶スロットが減少するため
+スロット数を超える魔術／祈祷を記憶からはずします
+産まれ直しを実行しますか？</text>
+<text id="212761">スロット数を超える魔術／祈祷を記憶からはずしました</text>
+<text id="214000">この戦灰を&lt;?itemNameBeforeForge?&gt;からはずし
+&lt;?itemNameAfterForge?&gt;に使用しますか？</text>
+<text id="215000">宿す大ルーンを変更すると
+発動中の大ルーンの効果は解除されます
+よろしいですか？</text>
+<text id="216000">&lt;?itemNameBeforeForge?&gt;を
+&lt;?itemNameAfterForge?&gt;に強化しますか？</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">強化後の&lt;?itemNameAfterForge?&gt;を
+すでに所持しているため、強化できません</text>
+<text id="221000">&lt;?itemNameBeforeForge?&gt;を
+&lt;?itemNameAfterForge?&gt;に強化しますか？</text>
+<text id="221011">鍛冶台で強化できる上限に達しました
+この武器をこれ以上強化できません</text>
+<text id="225000">竜の心臓&lt;?demandSoul?&gt;個を供物とし
+&lt;?itemName?&gt;を我がものとします</text>
+<text id="225100">この力は、既に我がものとしています</text>
+<text id="226000">星光の欠片&lt;?demandSoul?&gt;個を渡し
+&lt;?itemName?&gt;を手に入れます</text>
+<text id="226100">この傀儡は、既に手に入れています</text>
+<text id="227000">&lt;?itemName?&gt;を複製します</text>
+<text id="227100">この戦灰は、これ以上複製できません</text>
+<text id="230000">&lt;?itemName?&gt;を手に入れます</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">所持上限を超えたアイテムは、木箱に格納されました</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">所持および格納上限を超えてしまうため、手に入れられません</text>
+<text id="230100">&lt;?itemName?&gt;を複製します</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">所持上限を超えたアイテムは、木箱に格納されました</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">所持および格納上限を超えてしまうため、複製できません</text>
+<text id="230150">この追憶は、これ以上複製できません</text>
+<text id="231000">&lt;?itemName?&gt;を
+&lt;?demandSoul?&gt;ルーンで購入します</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">所持上限を超えたアイテムは、木箱に格納されました</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">所持および格納上限を超えてしまうため、購入できません</text>
+<text id="231100">限定数以上は購入できません</text>
+<text id="232000">&lt;?itemName?&gt;を
+&lt;?sellSouls?&gt;ルーンで売却します</text>
+<text id="232001">%null%</text>
+<text id="232002">装備しているアイテムは売却できません</text>
+<text id="232003">このアイテムは売却できません</text>
+<text id="232004">&lt;?itemName?&gt; には戦灰が使用されています
+売却すると、使用されている戦灰は失われます
+よろしいですか？</text>
+<text id="235000">振り分けを行いますか？</text>
+<text id="235001">振り分けを中止します
+よろしいですか？</text>
+<text id="236001">&lt;?itemName?&gt;を製作します</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">所持上限を超えるため
+製作したアイテムは木箱に格納されました</text>
+<text id="236011">所持および格納上限を超えてしまうため
+アイテムを製作できません</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">ヒビ壺の所持数を超えてしまうため
+アイテムを製作できません</text>
+<text id="236021">調香瓶の所持数を超えてしまうため
+アイテムを製作できません</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">儀式壺の所持数を超えてしまうため
+アイテムを製作できません</text>
+<text id="236050">ヒビ壺を所持していないため
+アイテムを製作できません </text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">儀式壺を所持していないため
+アイテムを製作できません </text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">調香瓶を所持していないため
+アイテムを製作できません</text>
+<text id="236201">追憶と&lt;?demandSoul?&gt;ルーンを消費し
+&lt;?itemName?&gt;を得ます</text>
+<text id="236202">追憶と引き換えに、&lt;?itemName?&gt;を得ます</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">所持上限を超えたアイテムは、木箱に格納されました</text>
+<text id="236211">所持および格納上限を超えてしまうため、力を得ることができません</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">上限数を超えたため、これ以上追憶から力を得ることができません</text>
+<text id="236401">&lt;?itemName?&gt;に調整します</text>
+<text id="236402">&lt;?demandSoul?&gt;ルーンを消費し
+&lt;?itemName?&gt;に調整します</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">所持上限を超えるため
+調整したアイテムは木箱に格納されました</text>
+<text id="236411">所持および格納上限を超えてしまうため
+アイテムを調整できません</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">上限数を超えたため、調整できません</text>
+<text id="237000">緋雫の聖杯瓶</text>
+<text id="237001">青雫の聖杯瓶</text>
+<text id="241000">地図断片を入手しました
+（リムグレイブ西部）</text>
+<text id="241001">地図断片を入手しました
+（啜り泣きの半島）</text>
+<text id="241002">地図断片を入手しました
+（リムグレイブ東部）</text>
+<text id="241003">地図断片を入手しました
+（リエーニエ東部）</text>
+<text id="241004">地図断片を入手しました
+（リエーニエ北部）</text>
+<text id="241005">地図断片を入手しました
+（リエーニエ西部）</text>
+<text id="241006">地図断片を入手しました
+（アルター高原）</text>
+<text id="241007">地図断片を入手しました
+（王都ローデイル）</text>
+<text id="241008">地図断片を入手しました
+（ゲルミア火山）</text>
+<text id="241009">地図断片を入手しました
+（ケイリッド）</text>
+<text id="241010">地図断片を入手しました
+（竜塚）</text>
+<text id="241011">地図断片を入手しました
+（巨人山嶺西部）</text>
+<text id="241012">地図断片を入手しました
+（巨人山嶺東部）</text>
+<text id="241013">地図断片を入手しました
+（聖別雪原）</text>
+<text id="241014">新しい地図が追加されました
+＜ 地図 雪山4 ＞</text>
+<text id="241100">地図断片を入手しました
+（エインセル河）</text>
+<text id="241101">地図断片を入手しました
+（腐れ湖）</text>
+<text id="241102">地図断片を入手しました
+（モーグウィン王朝）</text>
+<text id="241103">地図断片を入手しました
+（シーフラ河）</text>
+<text id="241104">地図断片を入手しました
+（深き根の底）</text>
+<text id="241105">新しい地図が追加されました
+＜ 地図 地下王都2 ＞</text>
+<text id="251020">装備しているアイテムは格納できません</text>
+<text id="251021">このアイテムは格納できません</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">格納上限を超えてしまうため、格納できません</text>
+<text id="251031">所持上限を超えてしまうため、取り出せません</text>
+<text id="261000">記憶スロットがありません</text>
+<text id="261001">空きスロットが足りません</text>
+<text id="261002">記憶スロットがありません</text>
+<text id="261003">同じ魔術／祈祷は同時に記憶できません</text>
+<text id="261004">この魔術／祈祷を使用するには、必要能力値が足りていません</text>
+<text id="280001">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="281000">重複してセットすることはできません</text>
+<text id="290001">作成中のキャラクターを破棄して
+キャラクターベース選択に戻りますか？</text>
+<text id="290002">このキャラクターでゲームをはじめます
+よろしいですか？</text>
+<text id="290003">名前が入力されていません
+
+キャラクターの作成を完了するには
+名前の入力が必要です</text>
+<text id="290004">キャラクター情報の保存に失敗しました</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">編集中の内容を破棄します
+よろしいですか？</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">入力された名前は不適切な文字列が含まれているため
+キャラクターの名前に利用できません
+
+別の名前を入力してください</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">性別を変更すると
+一部の編集情報が失われます
+
+よろしいですか？</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">外見を変更すると
+保存していない外見は破棄されます
+
+よろしいですか？</text>
+<text id="290101">編集中の内容を破棄して、化粧を終了しますか？</text>
+<text id="290102">化粧を完了し、このキャラクターとなります
+よろしいですか？</text>
+<text id="290103">名前が入力されていません
+化粧を完了するには、名前の入力が必要です</text>
+<text id="290121">編集中の内容を破棄して、化粧を終了しますか？</text>
+<text id="290122">化粧を完了し、このキャラクターとなります
+よろしいですか？</text>
+<text id="290123">名前が入力されていません
+化粧を完了するには、名前の入力が必要です</text>
+<text id="290200">現状の外見を保存しますか？</text>
+<text id="290201">現状の外見を上書きして保存しますか？</text>
+<text id="290202">編集中の内容を破棄して
+外見を読み込みますか？</text>
+<text id="290203">体型が異なる外見の読み込みはできません</text>
+<text id="290204">選択した外見を削除します
+よろしいですか？ </text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">外見が保存されていません</text>
+<text id="290300">現在、編集できません
+編集する場合は「眼の変化」をOFFに設定してください</text>
+<text id="311000">このメッセージを削除します
+よろしいですか？</text>
+<text id="311001">このメッセージを評価しますか？</text>
+<text id="311002">このメッセージに悪評をつけますか？</text>
+<text id="321000">この内容でメッセージを作成します</text>
+<text id="321001">作成中のメッセージを破棄します
+よろしいですか？</text>
+<text id="322000">このメッセージを履歴から削除します
+よろしいですか？</text>
+<text id="334510">所持および格納上限を超えてしまうため
+&lt;?itemName?&gt;
+を入手できませんでした</text>
+<text id="334511">所持および格納上限を超えてしまうため
+&lt;?itemName?&gt;
+の一部を入手できませんでした</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">所持および格納上限を超えてしまうため
+入手できなかったアイテムがあります</text>
+<text id="401172">ELDEN RING Network Test Ver. は
+オンラインでのみプレイ可能です。
+タイトル画面に戻ります。</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404010">設定内容を破棄して、前の画面に戻ります
+よろしいですか？</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">HDR設定がONの場合
+ゲーム内メインメニューのシステムメニューでのみ
+画質を調整することができます</text>
+<text id="406011">選択したプロファイルで開始します</text>
+<text id="406012">選択したプロファイルを削除して
+新たにゲームを始めますか？</text>
+<text id="406013">選択したプロファイルを削除します
+よろしいですか？</text>
+<text id="450000">このまま&lt;?nextLoopCount?&gt;周目の世界をはじめますか？
+今はじめない場合は、後で円卓の大祝福から
+&lt;?nextLoopCount?&gt;周目の世界をはじめることができます</text>
+<text id="450001">&lt;?nextLoopCount?&gt;周目の世界をはじめると
+現在の&lt;?loopCount?&gt;周目の世界には戻れません
+&lt;?nextLoopCount?&gt;周目の世界をはじめてよろしいですか？</text>
+<text id="502000">選んだ対象を元の世界に送還しますか？</text>
+<text id="502001">送還できる対象が存在しません</text>
+<text id="550000">マルチプレイの不正な終了が繰り返されたため、
+一定時間が経過するまでマルチプレイができなくなります</text>
+<text id="550100">一定時間操作が行われなかったため
+元の世界に戻りました</text>
+<text id="620001">タイトル画面に戻ります
+よろしいですか？</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">操作説明を終了してゲームを開始します
+よろしいですか？</text>
+<text id="620100">本製品は開発中のため、機能の一部
+（Xbox ネットワークを利用したネットワーク機能を含む)が
+適切に動作しなかったり強制終了する可能性があります</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">本製品は製品版とは以下の動作が異なります
+・ネットワーク環境が無い場合はプレイすることができません</text>
+</entries>
+</fmg>
