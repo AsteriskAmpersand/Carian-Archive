@@ -16685,27 +16685,27 @@ A sorcery scroll from the Academy of Raya Lucaria.
 Details superior sorceries taught to scholars worthy of donning the stone crown and studying a certain conspectus.
 Can be given to a learned sorcerer to gain access to the following sorceries:
 
-	- Glintstone Cometshard</li>
-	- Star Shower</li>
-</ul>
+	- Glintstone Cometshard
+	- Star Shower
+
 
 --------------------------------------------------
 	Royal House Scroll [8851]
 Sorcery scroll of the Carian royal family, the heads of the Academy of Raya Lucaria.
 Can be given to a learned sorcerer to gain access to the following sorceries:
 
-	- Glintblade Phalanx</li>
-	- Carian Slicer</li>
-</ul>
+	- Glintblade Phalanx
+	- Carian Slicer
+
 
 --------------------------------------------------
 	Fire Monks' Prayerbook [8855]
 Prayerbook of the Fire Monks, who came from the Mountaintops of the Giants far to the north.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- O, Flame!</li>
-	- Surge, O Flame!</li>
-</ul>
+	- O, Flame!
+	- Surge, O Flame!
+
 
 --------------------------------------------------
 	Giant's Prayerbook [8856]
@@ -16713,9 +16713,9 @@ Prayerbook that contains the secrets of the Fire Giants.
 Kept hidden by the prelates who monitor the Giant's Flame.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Giantsflame Take Thee</li>
-	- Flame, Fall Upon Them</li>
-</ul>
+	- Giantsflame Take Thee
+	- Flame, Fall Upon Them
+
 
 --------------------------------------------------
 	Godskin Prayerbook [8857]
@@ -16723,9 +16723,9 @@ Prayerbook bound in supple skin.
 Incantations of the god-slaying black flame are written within.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Black Flame</li>
-	- Black Flame Blade</li>
-</ul>
+	- Black Flame
+	- Black Flame Blade
+
 
 --------------------------------------------------
 	Two Fingers' Prayerbook [8858]
@@ -16733,18 +16733,18 @@ Prayerbook containing incantations of the Two Fingers.
 An item once entrusted to Tarnished worthy of lordship.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Lord's Heal</li>
-	- Lord's Aid</li>
-</ul>
+	- Lord's Heal
+	- Lord's Aid
+
 
 --------------------------------------------------
 	Assassin's Prayerbook [8859]
 Prayerbook of the Roundtable Hold's assassins.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Assassin's Approach</li>
-	- Darkness</li>
-</ul>
+	- Assassin's Approach
+	- Darkness
+
 
 --------------------------------------------------
 	Erdtree Prayerbook [8860]
@@ -16758,9 +16758,9 @@ Prayerbook of the Golden Order fundamentalists.
 A dense and complex academic treatise that contains the Order's fundamental principles.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Radagon's Rings of Light</li>
-	- Law of Regression</li>
-</ul>
+	- Radagon's Rings of Light
+	- Law of Regression
+
 
 --------------------------------------------------
 	Dragon Cult Prayerbook [8864]
@@ -16768,10 +16768,10 @@ Prayerbook of the capital's ancient dragon cult.
 A text of the knights' faith that arose after the War of the Ancient Dragons.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Lightning Spear</li>
-	- Honed Bolt</li>
-	- Electrify Armament</li>
-</ul>
+	- Lightning Spear
+	- Honed Bolt
+	- Electrify Armament
+
 
 --------------------------------------------------
 	Ancient Dragon Prayerbook [8865]
@@ -16780,18 +16780,18 @@ A lost tome that never reached the Lands Between.
 Contains red lightning incantations.
 Can be given to a learned cleric to gain access to the following incantations:
 
-	- Ancient Dragons' Lightning Spear</li>
-	- Ancient Dragons' Lightning Strike</li>
-</ul>
+	- Ancient Dragons' Lightning Spear
+	- Ancient Dragons' Lightning Strike
+
 
 --------------------------------------------------
 	Academy Scroll [8866]
 Scroll of the Academy of Raya Lucaria, the glintstone sorcerers' place of study.
 Can be given to a learned sorcerer to gain access to the following sorceries:
 
-	- Great Glintstone Shard</li>
-	- Swift Glintstone Shard</li>
-</ul>
+	- Great Glintstone Shard
+	- Swift Glintstone Shard
+
 
 --------------------------------------------------
 	Pidia's Bell Bearing [8910]
@@ -16898,185 +16898,185 @@ Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new item
 Bell bearing of an unfortunate bone peddler who was slain by the Bell Bearing Hunter.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Thin Animal Bones</li>
-	- Hefty Beast Bone</li>
-</ul>
+	- Thin Animal Bones
+	- Hefty Beast Bone
+
 
 --------------------------------------------------
 	Meat Peddler's Bell Bearing [8946]
 Bell bearing of an unfortunate meat peddler who was slain by the Bell Bearing Hunter.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Sliver of Meat</li>
-	- Lump of Flesh</li>
-	- Turtle Neck Meat</li>
-</ul>
+	- Sliver of Meat
+	- Lump of Flesh
+	- Turtle Neck Meat
+
 
 --------------------------------------------------
 	Medicine Peddler's Bell Bearing [8947]
 Bell bearing of an unfortunate medicine peddler who was slain by the Bell Bearing Hunter.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Neutralizing Boluses</li>
-	- Stanching Boluses</li>
-	- Thawfrost Boluses</li>
-	- Stimulating Boluses</li>
-</ul>
+	- Neutralizing Boluses
+	- Stanching Boluses
+	- Thawfrost Boluses
+	- Stimulating Boluses
+
 
 --------------------------------------------------
 	Gravity Stone Peddler's Bell Bearing [8948]
 Bell bearing of an unfortunate gravity stone peddler who was slain by the Bell Bearing Hunter.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Gravity Stone Fan</li>
-	- Gravity Stone Chunk</li>
-</ul>
+	- Gravity Stone Fan
+	- Gravity Stone Chunk
+
 
 --------------------------------------------------
 	Smithing-Stone Miner's Bell Bearing [1] [8951]
 The bell bearing of a miner who once dug for smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Smithing Stone [1]</li>
-	- Smithing Stone [2]</li>
-	- Glintstone Scrap</li>
-</ul>
+	- Smithing Stone [1]
+	- Smithing Stone [2]
+	- Glintstone Scrap
+
 
 --------------------------------------------------
 	Smithing-Stone Miner's Bell Bearing [2] [8952]
 The bell bearing of a miner who once dug for smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Smithing Stone [3]</li>
-	- Smithing Stone [4]</li>
-	- Explosive Stone</li>
-</ul>
+	- Smithing Stone [3]
+	- Smithing Stone [4]
+	- Explosive Stone
+
 
 --------------------------------------------------
 	Smithing-Stone Miner's Bell Bearing [3] [8953]
 The bell bearing of a miner who once dug for smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Smithing Stone [5]</li>
-	- Smithing Stone [6]</li>
-</ul>
+	- Smithing Stone [5]
+	- Smithing Stone [6]
+
 
 --------------------------------------------------
 	Smithing-Stone Miner's Bell Bearing [4] [8954]
 The bell bearing of a miner who once dug for smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Smithing Stone [7]</li>
-	- Smithing Stone [8]</li>
-	- Ruin Fragment</li>
-</ul>
+	- Smithing Stone [7]
+	- Smithing Stone [8]
+	- Ruin Fragment
+
 
 --------------------------------------------------
 	Somberstone Miner's Bell Bearing [1] [8955]
 The bell bearing of a miner who once dug for somber smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Somber Smithing Stone [1]</li>
-	- Somber Smithing Stone [2]</li>
-	- Glintstone Scrap</li>
-</ul>
+	- Somber Smithing Stone [1]
+	- Somber Smithing Stone [2]
+	- Glintstone Scrap
+
 
 --------------------------------------------------
 	Somberstone Miner's Bell Bearing [2] [8956]
 The bell bearing of a miner who once dug for somber smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Somber Smithing Stone [3]</li>
-	- Somber Smithing Stone [4]</li>
-	- Cracked Crystal</li>
-</ul>
+	- Somber Smithing Stone [3]
+	- Somber Smithing Stone [4]
+	- Cracked Crystal
+
 
 --------------------------------------------------
 	Somberstone Miner's Bell Bearing [3] [8957]
 The bell bearing of a miner who once dug for somber smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Somber Smithing Stone [5]</li>
-	- Somber Smithing Stone [6]</li>
-</ul>
+	- Somber Smithing Stone [5]
+	- Somber Smithing Stone [6]
+
 
 --------------------------------------------------
 	Somberstone Miner's Bell Bearing [4] [8958]
 The bell bearing of a miner who once dug for somber smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Somber Smithing Stone [7]</li>
-	- Somber Smithing Stone [8]</li>
-	- Sanctuary Stone</li>
-</ul>
+	- Somber Smithing Stone [7]
+	- Somber Smithing Stone [8]
+	- Sanctuary Stone
+
 
 --------------------------------------------------
 	Somberstone Miner's Bell Bearing [5] [8959]
 The bell bearing of a miner who once dug for somber smithing stone.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Somber Smithing Stone [9]</li>
-</ul>
+	- Somber Smithing Stone [9]
+
 
 --------------------------------------------------
 	Glovewort Picker's Bell Bearing [1] [8960]
 The bell bearing of a forager who once picked grave glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Grave Glovewort [1]</li>
-	- Grave Glovewort [2]</li>
-	- Grave Glovewort [3]</li>
-</ul>
+	- Grave Glovewort [1]
+	- Grave Glovewort [2]
+	- Grave Glovewort [3]
+
 
 --------------------------------------------------
 	Glovewort Picker's Bell Bearing [2] [8961]
 The bell bearing of a forager who once picked grave glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Grave Glovewort [4]</li>
-	- Grave Glovewort [5]</li>
-	- Grave Glovewort [6]</li>
-</ul>
+	- Grave Glovewort [4]
+	- Grave Glovewort [5]
+	- Grave Glovewort [6]
+
 
 --------------------------------------------------
 	Glovewort Picker's Bell Bearing [3] [8962]
 The bell bearing of a forager who once picked grave glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Grave Glovewort [7]</li>
-	- Grave Glovewort [8]</li>
-	- Grave Glovewort [9]</li>
-</ul>
+	- Grave Glovewort [7]
+	- Grave Glovewort [8]
+	- Grave Glovewort [9]
+
 
 --------------------------------------------------
 	Ghost-Glovewort Picker's Bell Bearing [1] [8963]
 The bell bearing of a forager who once picked ghost glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Ghost Glovewort [1]</li>
-	- Ghost Glovewort [2]</li>
-	- Ghost Glovewort [3]</li>
-</ul>
+	- Ghost Glovewort [1]
+	- Ghost Glovewort [2]
+	- Ghost Glovewort [3]
+
 
 --------------------------------------------------
 	Ghost-Glovewort Picker's Bell Bearing [2] [8964]
 The bell bearing of a forager who once picked ghost glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Ghost Glovewort [4]</li>
-	- Ghost Glovewort [5]</li>
-	- Ghost Glovewort [6]</li>
-</ul>
+	- Ghost Glovewort [4]
+	- Ghost Glovewort [5]
+	- Ghost Glovewort [6]
+
 
 --------------------------------------------------
 	Ghost-Glovewort Picker's Bell Bearing [3] [8965]
 The bell bearing of a forager who once picked ghost glovewort flowers.
 Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
 
-	- Ghost Glovewort [7]</li>
-	- Ghost Glovewort [8]</li>
-	- Ghost Glovewort [9]</li>
-</ul>
+	- Ghost Glovewort [7]
+	- Ghost Glovewort [8]
+	- Ghost Glovewort [9]
+
 
 --------------------------------------------------
 	Iron Whetblade [8970]
@@ -17451,10 +17451,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Bone Arrow</li>
-	- Bone Arrow (Fletched)</li>
-	- Bone Bolt</li>
-</ul>
+	- Bone Arrow
+	- Bone Arrow (Fletched)
+	- Bone Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [3] [9301]
@@ -17462,11 +17462,11 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Pickled Turtle Neck</li>
-	- Poisonbone Arrow</li>
-	- Poisonbone Arrow (Fletched)</li>
-	- Poisonbone Bolt</li>
-</ul>
+	- Pickled Turtle Neck
+	- Poisonbone Arrow
+	- Poisonbone Arrow (Fletched)
+	- Poisonbone Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [6] [9302]
@@ -17474,12 +17474,12 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Blood Grease</li>
-	- Drawstring Blood Grease</li>
-	- Bloodbone Arrow</li>
-	- Bloodbone Arrow (Fletched)</li>
-	- Bloodbone Bolt</li>
-</ul>
+	- Blood Grease
+	- Drawstring Blood Grease
+	- Bloodbone Arrow
+	- Bloodbone Arrow (Fletched)
+	- Bloodbone Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [10] [9303]
@@ -17487,8 +17487,8 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Stormwing Bone Arrow</li>
-</ul>
+	- Stormwing Bone Arrow
+
 
 --------------------------------------------------
 	Fugitive Warrior's Recipe [5] [9304]
@@ -17502,10 +17502,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Soft Cotton</li>
-	- Stanching Boluses</li>
-	- Rainbow Stone Arrow</li>
-</ul>
+	- Soft Cotton
+	- Stanching Boluses
+	- Rainbow Stone Arrow
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [12] [9306]
@@ -17513,8 +17513,8 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Cursed-Blood Pot</li>
-</ul>
+	- Cursed-Blood Pot
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [19] [9307]
@@ -17522,9 +17522,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Sweet Raisin</li>
-	- Warming Stone</li>
-</ul>
+	- Sweet Raisin
+	- Warming Stone
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [13] [9308]
@@ -17532,10 +17532,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Bone Great Arrow</li>
-	- Bone Great Arrow (Fletched)</li>
-	- Bone Ballista Bolt</li>
-</ul>
+	- Bone Great Arrow
+	- Bone Great Arrow (Fletched)
+	- Bone Ballista Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [23] [9309]
@@ -17543,10 +17543,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Frozen Raisin</li>
-	- Clarifying Cured Meat</li>
-	- Clarifying White Cured Meat</li>
-</ul>
+	- Frozen Raisin
+	- Clarifying Cured Meat
+	- Clarifying White Cured Meat
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [17] [9310]
@@ -17554,10 +17554,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Soap</li>
-	- Oil Pot</li>
-	- Roped Oil Pot</li>
-</ul>
+	- Soap
+	- Oil Pot
+	- Roped Oil Pot
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [2] [9311]
@@ -17565,10 +17565,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Glowstone</li>
-	- Invigorating Cured Meat</li>
-	- Invigorating White Cured Meat</li>
-</ul>
+	- Glowstone
+	- Invigorating Cured Meat
+	- Invigorating White Cured Meat
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [21] [9312]
@@ -17576,16 +17576,16 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Alluring Pot</li>
-</ul>
+	- Alluring Pot
+
 
 --------------------------------------------------
 	Missionary's Cookbook [6] [9313]
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Holyproof Dried Liver</li>
-</ul>
+	- Holyproof Dried Liver
+
 
 --------------------------------------------------
 	Armorer's Cookbook [1] [9320]
@@ -17593,10 +17593,10 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Fire Grease</li>
-	- Drawstring Fire Grease</li>
-	- Fireproof Dried Liver</li>
-</ul>
+	- Fire Grease
+	- Drawstring Fire Grease
+	- Fireproof Dried Liver
+
 
 --------------------------------------------------
 	Armorer's Cookbook [2] [9321]
@@ -17604,11 +17604,11 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Firebone Arrow</li>
-	- Firebone Arrow (Fletched)</li>
-	- Firebone Bolt</li>
-	- Neutralizing Boluses</li>
-</ul>
+	- Firebone Arrow
+	- Firebone Arrow (Fletched)
+	- Firebone Bolt
+	- Neutralizing Boluses
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [11] [9322]
@@ -17616,10 +17616,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Crystal Dart</li>
-	- Spellproof Dried Liver</li>
-	- Shattershard Arrow</li>
-</ul>
+	- Crystal Dart
+	- Spellproof Dried Liver
+	- Shattershard Arrow
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [20] [9323]
@@ -17627,9 +17627,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Volcano Pot</li>
-	- Roped Volcano Pot</li>
-</ul>
+	- Volcano Pot
+	- Roped Volcano Pot
+
 
 --------------------------------------------------
 	Armorer's Cookbook [7] [9325]
@@ -17637,8 +17637,8 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Giantsflame Fire Pot</li>
-</ul>
+	- Giantsflame Fire Pot
+
 
 --------------------------------------------------
 	Armorer's Cookbook [4] [9326]
@@ -17646,8 +17646,8 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Redmane Fire Pot</li>
-</ul>
+	- Redmane Fire Pot
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [18] [9327]
@@ -17655,9 +17655,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Dappled Cured Meat</li>
-	- Dappled White Cured Meat</li>
-</ul>
+	- Dappled Cured Meat
+	- Dappled White Cured Meat
+
 
 --------------------------------------------------
 	Armorer's Cookbook [3] [9328]
@@ -17665,8 +17665,8 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Exalted Flesh</li>
-</ul>
+	- Exalted Flesh
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [16] [9329]
@@ -17674,9 +17674,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Thawfrost Boluses</li>
-	- Stimulating Boluses</li>
-</ul>
+	- Thawfrost Boluses
+	- Stimulating Boluses
+
 
 --------------------------------------------------
 	Armorer's Cookbook [6] [9330]
@@ -17684,8 +17684,8 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Preserving Boluses</li>
-</ul>
+	- Preserving Boluses
+
 
 --------------------------------------------------
 	Armorer's Cookbook [5] [9331]
@@ -17693,9 +17693,9 @@ A record of crafting techniques left by an armorer who served the great general 
 Contains knowledge of dealing with rot; the application of fire in particular.
 Acquire the knowledge to craft the following:
 
-	- Immunizing Cured Meat</li>
-	- Immunizing White Cured Meat</li>
-</ul>
+	- Immunizing Cured Meat
+	- Immunizing White Cured Meat
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [4] [9340]
@@ -17703,10 +17703,10 @@ A record of crafting techniques left by a glintstone craftsman who served the ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Magic Pot</li>
-	- Roped Magic Pot</li>
-	- Shield Grease</li>
-</ul>
+	- Magic Pot
+	- Roped Magic Pot
+	- Shield Grease
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [1] [9341]
@@ -17714,8 +17714,8 @@ A record of crafting techniques left by a glintstone craftsman who served the ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Cuckoo Glintstone</li>
-</ul>
+	- Cuckoo Glintstone
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [5] [9342]
@@ -17723,12 +17723,12 @@ A record of crafting techniques left by a glintstone craftsman who served the ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Magic Grease</li>
-	- Drawstring Magic Grease</li>
-	- Magicbone Arrow</li>
-	- Magicbone Arrow (Fletched)</li>
-	- Magicbone Bolt</li>
-</ul>
+	- Magic Grease
+	- Drawstring Magic Grease
+	- Magicbone Arrow
+	- Magicbone Arrow (Fletched)
+	- Magicbone Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [9] [9343]
@@ -17736,8 +17736,8 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Rancor Pot</li>
-</ul>
+	- Rancor Pot
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [8] [9344]
@@ -17745,8 +17745,8 @@ A record of crafting techniques left by a glintstone craftsman who served the Ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Academy Magic Pot</li>
-</ul>
+	- Academy Magic Pot
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [2] [9345]
@@ -17754,8 +17754,8 @@ A record of crafting techniques left by a glintstone craftsman who served the Ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Freezing Grease</li>
-</ul>
+	- Freezing Grease
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [6] [9346]
@@ -17763,8 +17763,8 @@ A record of crafting techniques left by a glintstone craftsman who served the Ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Freezing Pot</li>
-</ul>
+	- Freezing Pot
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [7] [9347]
@@ -17772,10 +17772,10 @@ A record of crafting techniques left by a glintstone craftsman who served the Ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Coldbone Arrow</li>
-	- Coldbone Arrow (Fletched)</li>
-	- Coldbone Bolt</li>
-</ul>
+	- Coldbone Arrow
+	- Coldbone Arrow (Fletched)
+	- Coldbone Bolt
+
 
 --------------------------------------------------
 	Glintstone Craftsman's Cookbook [3] [9348]
@@ -17783,27 +17783,27 @@ A record of crafting techniques left by a glintstone craftsman who served the Ac
 Contains information on "faux sorceries," such as they were called.
 Acquire the knowledge to craft the following:
 
-	- Albinauric Pot</li>
-</ul>
+	- Albinauric Pot
+
 
 --------------------------------------------------
 	Missionary's Cookbook [2] [9360]
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Scriptstone</li>
-	- Grace Mimic</li>
-	- Gold-Pickled Fowl Foot</li>
-</ul>
+	- Scriptstone
+	- Grace Mimic
+	- Gold-Pickled Fowl Foot
+
 
 --------------------------------------------------
 	Missionary's Cookbook [1] [9361]
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Holy Water Pot</li>
-	- Roped Holy Water Pot</li>
-</ul>
+	- Holy Water Pot
+	- Roped Holy Water Pot
+
 
 --------------------------------------------------
 	Missionary's Cookbook [5] [9363]
@@ -17816,20 +17816,20 @@ Acquire the knowledge to craft the following:
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Holy Grease</li>
-	- Drawstring Holy Grease</li>
-	- Haligbone Arrow</li>
-	- Haligbone Arrow (Fletched)</li>
-	- Haligbone Bolt</li>
-</ul>
+	- Holy Grease
+	- Drawstring Holy Grease
+	- Haligbone Arrow
+	- Haligbone Arrow (Fletched)
+	- Haligbone Bolt
+
 
 --------------------------------------------------
 	Missionary's Cookbook [3] [9365]
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Silver-Pickled Fowl Foot</li>
-</ul>
+	- Silver-Pickled Fowl Foot
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [4] [9380]
@@ -17837,9 +17837,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Fetid Pot</li>
-	- Roped Fetid Pot</li>
-</ul>
+	- Fetid Pot
+	- Roped Fetid Pot
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [5] [9383]
@@ -17847,8 +17847,8 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Beastlure Pot</li>
-</ul>
+	- Beastlure Pot
+
 
 --------------------------------------------------
 	Perfumer's Cookbook [1] [9384]
@@ -17856,9 +17856,9 @@ A record of crafting techniques left by a military perfumer.
 Contains martial techniques beyond the repertoire of an ordinary physician.
 Acquire the knowledge to craft the following:
 
-	- Spark Aromatic</li>
-	- Uplifting Aromatic</li>
-</ul>
+	- Spark Aromatic
+	- Uplifting Aromatic
+
 
 --------------------------------------------------
 	Perfumer's Cookbook [2] [9385]
@@ -17866,9 +17866,9 @@ A record of crafting techniques left by a depraved perfumer.
 Contains perilous techniques no ordinary physician would attempt.
 Acquire the knowledge to craft the following:
 
-	- Poison Spraymist</li>
-	- Bloodboil Aromatic</li>
-</ul>
+	- Poison Spraymist
+	- Bloodboil Aromatic
+
 
 --------------------------------------------------
 	Perfumer's Cookbook [3] [9386]
@@ -17876,8 +17876,8 @@ A record of crafting techniques left by a depraved perfumer.
 Contains perilous techniques no ordinary physician would attempt.
 Acquire the knowledge to craft the following:
 
-	- Ironjar Aromatic</li>
-</ul>
+	- Ironjar Aromatic
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [14] [9387]
@@ -17885,10 +17885,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Poison Pot</li>
-	- Roped Poison Pot</li>
-	- Poisonbone Dart</li>
-</ul>
+	- Poison Pot
+	- Roped Poison Pot
+	- Poisonbone Dart
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [8] [9388]
@@ -17896,9 +17896,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Poison Grease</li>
-	- Drawstring Poison Grease</li>
-</ul>
+	- Poison Grease
+	- Drawstring Poison Grease
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [22] [9389]
@@ -17906,10 +17906,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Rot Pot</li>
-	- Rot Grease</li>
-	- Drawstring Rot Grease</li>
-</ul>
+	- Rot Pot
+	- Rot Grease
+	- Drawstring Rot Grease
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [15] [9390]
@@ -17917,10 +17917,10 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Rotbone Arrow</li>
-	- Rotbone Arrow (Fletched)</li>
-	- Rotbone Bolt</li>
-</ul>
+	- Rotbone Arrow
+	- Rotbone Arrow (Fletched)
+	- Rotbone Bolt
+
 
 --------------------------------------------------
 	Nomadic Warrior's Cookbook [24] [9391]
@@ -17928,9 +17928,9 @@ A record of crafting techniques left by roaming nomad warriors.
 Contains knowledge for surviving in the face of utter scarcity.
 Acquire the knowledge to craft the following:
 
-	- Swarm Pot</li>
-	- Roped Fly Pot</li>
-</ul>
+	- Swarm Pot
+	- Roped Fly Pot
+
 
 --------------------------------------------------
 	Perfumer's Cookbook [4] [9392]
@@ -17938,8 +17938,8 @@ A record of crafting techniques left by a depraved perfumer.
 Contains perilous techniques no ordinary physician would attempt.
 Acquire the knowledge to craft the following:
 
-	- Acid Spraymist</li>
-</ul>
+	- Acid Spraymist
+
 
 --------------------------------------------------
 	Perfumer's Cookbook (13) [9393]
@@ -17955,12 +17955,12 @@ A record of crafting techniques taught by the capital's ancient dragon cult.
 Details techniques that harness lightning, the weapon of the ancient dragons.
 Acquire the knowledge to craft the following:
 
-	- Lightning Grease</li>
-	- Drawstring Lightning Grease</li>
-	- Lightningbone Arrow</li>
-	- Lightningbone Arrow (Fletched)</li>
-	- Lightningbone Bolt</li>
-</ul>
+	- Lightning Grease
+	- Drawstring Lightning Grease
+	- Lightningbone Arrow
+	- Lightningbone Arrow (Fletched)
+	- Lightningbone Bolt
+
 
 --------------------------------------------------
 	Ancient Dragon Apostle's Cookbook [2] [9401]
@@ -17968,9 +17968,9 @@ A record of crafting techniques taught by the capital's ancient dragon cult.
 Details techniques that harness lightning, the weapon of the ancient dragons.
 Acquire the knowledge to craft the following:
 
-	- Lightning Pot</li>
-	- Roped Lightning Pot</li>
-</ul>
+	- Lightning Pot
+	- Roped Lightning Pot
+
 
 --------------------------------------------------
 	Ancient Dragon Apostle's Cookbook [4] [9402]
@@ -17978,9 +17978,9 @@ A record of crafting techniques taught by the capital's ancient dragon cult.
 Details techniques that harness lightning, the weapon of the ancient dragons.
 Acquire the knowledge to craft the following:
 
-	- Ancient Dragonbolt Pot</li>
-	- Lightningproof Dried Liver</li>
-</ul>
+	- Ancient Dragonbolt Pot
+	- Lightningproof Dried Liver
+
 
 --------------------------------------------------
 	Ancient Dragon Apostle's Cookbook [3] [9403]
@@ -17988,44 +17988,44 @@ A record of crafting techniques taught by the capital's ancient dragon cult.
 Details techniques that harness lightning, the weapon of the ancient dragons.
 Acquire the knowledge to craft the following:
 
-	- Dragonwound Grease</li>
-</ul>
+	- Dragonwound Grease
+
 
 --------------------------------------------------
 	Fevor's Cookbook [1] [9420]
 A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
 Acquire the knowledge to craft the following:
 
-	- Sleep Pot</li>
-</ul>
+	- Sleep Pot
+
 
 --------------------------------------------------
 	Fevor's Cookbook [3] [9421]
 A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
 Acquire the knowledge to craft the following:
 
-	- Bewitching Branch</li>
-</ul>
+	- Bewitching Branch
+
 
 --------------------------------------------------
 	Fevor's Cookbook [2] [9422]
 A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
 Acquire the knowledge to craft the following:
 
-	- Soporific Grease</li>
-	- Drawstring Soporific Grease</li>
-	- Sleepbone Arrow</li>
-	- Sleepbone Arrow (Fletched)</li>
-	- Sleepbone Bolt</li>
-</ul>
+	- Soporific Grease
+	- Drawstring Soporific Grease
+	- Sleepbone Arrow
+	- Sleepbone Arrow (Fletched)
+	- Sleepbone Bolt
+
 
 --------------------------------------------------
 	Missionary's Cookbook [7] [9423]
 A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
 Acquire the knowledge to craft the following:
 
-	- Rejuvenating Boluses</li>
-</ul>
+	- Rejuvenating Boluses
+
 
 --------------------------------------------------
 	Frenzied's Cookbook [1] [9440]
@@ -18033,8 +18033,8 @@ A record of crafting techniques left by those afflicted by the madness of the fl
 Contains techniques discovered in desperation.
 Acquire the knowledge to craft the following:
 
-	- Clarifying Boluses</li>
-</ul>
+	- Clarifying Boluses
+
 
 --------------------------------------------------
 	Frenzied's Cookbook [2] [9441]
@@ -18042,8 +18042,8 @@ A record of crafting techniques left by those afflicted by the madness of the fl
 Contains techniques discovered in desperation.
 Acquire the knowledge to craft the following:
 
-	- Frenzyflame Stone</li>
-</ul>
+	- Frenzyflame Stone
+
 
 --------------------------------------------------
 	Cracked Pot [9500]
