@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Kein Talent
+Diese Waffe verfügt über keinerlei Talente.
+Besitzt die Waffe in der anderen Hand ein Talent, wird dieses Talent verwendet.</text>
+<text id="100">Talent: Löwenkralle
+Talent der Rotmähnen, die an der Seite von General Radahn gekämpft haben.
+Führt einen Vorwärtssalto aus und schlagt Eure Gegner mit der Waffe.</text>
+<text id="101">Talent: Aufspießender Stoß
+Ein Talent, das entwickelt wurde, um Schilde mit durchbohrenden Waffen zu überwinden. Sammelt Eure Kraft und springt vorwärts, um die Abwehr des Gegners zu durchdringen.</text>
+<text id="102">Talent: Bohrender Reißzahn
+Ein Talent von Yura, Jäger der Blutigen Finger.
+Ihr haltet die Klinge waagerecht für einen mächtigen Stoß, der sich nicht blocken lässt.</text>
+<text id="103">Talent: Wirbelhieb
+Ein Lieblingstalent geschickter Krieger.
+Wirbelt herum und schlitzt dabei Gegner auf. Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen.</text>
+<text id="104">%null%</text>
+<text id="105">Talent: Wuchtiger Ansturm
+Mit der Waffe an der Hüfte stürmt Ihr schnell vorwärts und stoßt zu.
+Halten, um größere Distanzen zu überbrücken.</text>
+<text id="106">Talent: Stampfer (Aufwärtsschnitt)
+Hebt Eure Waffe und nehmt eine niedrige Haltung ein, die kaum ein Angriff erschüttert.
+Setzt dann mit einem starken Angriff als Aufwärtsschlag nach.</text>
+<text id="107">Talent: Stampfer (Feger)
+Hebt die Waffe und nehmt eine niedrige Haltung ein, die kaum ein Angriff erschüttert.
+Setzt dann mit einem starken Angriff als sichelförmiger Schlag nach.</text>
+<text id="108">Talent: Blutzoll
+Ein Bluteid-Talent vom Fürsten des Blutes.
+Dreht Euch, um Kraft zu sammeln, und entfesselt einen Hagel von Stößen, um dem Gegner Blut und LP zu rauben.</text>
+<text id="109">Talent: Stoßhagel
+Dreht Euch, um Kraft zu sammeln, und entfesselt einen Hagel von Stößen.</text>
+<text id="110">Talent: Wilde Schläge
+Schwingt die Waffe mit aller Macht.
+Halten, um den Angriff aufrechtzuerhalten. Setzt mit einem normalen oder starken Angriff nach.</text>
+<text id="111">Talent: Wirbelhiebe
+Ein Talent für Stangenwaffen, das Euch kontinuierliche Wirbelangriffe ausführen lässt.
+Halten, um den Angriff aufrechtzuerhalten. Setzt mit einem normalen oder starken Angriff nach. Neutralisiert beim Wirbeln Geschosse wie Pfeile.</text>
+<text id="112">Talent: Doppelschnitt
+Ein Talent überragender Schwertkämpfer.
+Ihr nehmt eine niedrige Haltung ein und führt zwei sich kreuzende Hiebe aus.
+Durch wiederholte Eingabe könnt Ihr mit bis zu zwei Angriffen nachsetzen.</text>
+<text id="113">Talent: Ansturm des Prälaten
+Rammt die Waffe in den Boden, um eine Feuersbrunst zu entfachen, und stürmt dann los.
+Halten, um den Ansturm fortzusetzen.</text>
+<text id="114">Talent: Iaido
+Ein Talent der Schwertkämpfer des Schilflands.
+Ihr steckt die Waffe weg und haltet sie in konzentrierter Haltung an der Hüfte.
+Setzt mit einem normalen oder starken Angriff nach, um einen blitzschnellen Hieb auszuführen.</text>
+<text id="115">Talent: Duell
+Dieses Talent beginnt mit gerader Schwerthaltung.
+Setzt mit einem normalen Angriff nach, um aufwärts durch die gegnerische Abwehr zu schlagen, oder mit einem starken Angriff, um mit Anlauf einen Stoß auszuführen.</text>
+<text id="116">Talent: Riesenjagd
+Ein Talent für den Kampf gegen riesige Gegner.
+Tretet aus niedriger Haltung vor und stoßt aus der Bewegung mit aller Kraft nach oben.</text>
+<text id="117">Talent: Fackelangriff
+Stoßt die Fackel vorwärts, um Gegner in Brand zu stecken.
+Besonders effektiv gegen Gegner mit Feuerschwäche.</text>
+<text id="118">Talent: Lorettas Schnitt
+Ein Talent der Königlichen Ritterin Loretta. 
+Springt vorwärts, erfüllt die Klinge mit Schimmersteinmacht und führt dann während der Landung einen schwungvollen ausladenden Hieb aus.</text>
+<text id="119">Talent: Giftiger Falter
+Schlagt mit einer von Gift erfüllten Klinge zu.
+Trifft Euer Folgeangriff einen vergifteten Gegner, erleidet dieser beträchtlichen Schaden.</text>
+<text id="120">Talent: Wirbelnde Waffe
+Ein Defensivtalent der carianischen Prinzessinnen. 
+Lässt Eure Waffe schweben und in der Luft herumwirbeln. Getroffene Ziele erleiden automatisch eine Angriffsserie.</text>
+<text id="121">%null%</text>
+<text id="122">Talent: Sturmangriff
+Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen.
+Springt durch die Sturmwinde vorwärts und stoßt mit der Waffe nach unten, um Einschlagspunkt weitere Stürme zu entfesseln.</text>
+<text id="123">Talent: Sturmrufer
+Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen.
+Wirbelt mit der Waffe, um Sturmwinde zu erzeugen. Durch wiederholte Eingabe könnt Ihr mit bis zu zwei Angriffen nachsetzen.</text>
+<text id="124">Talent: Schwerttanz
+Schließt schnell zu Eurem Gegner auf und greift ihn mit mehreren wirbelnden Aufwärtshieben an.
+Durch eine zusätzliche Eingabe könnt Ihr nachsetzen und mit einem Abwärtshieb abschließen.</text>
+<text id="125">Talent: Wirbelnde Kette
+Führt einen schnellen Wirbelschlag mit Eurem Flegel aus.
+Setzt mit einem normalen oder starken Angriff nach, um den Schwung des Talents in eine Angriffsserie fließen zu lassen.</text>
+<text id="200">Talent: Schimmerphalanx
+Ein Talent der verzauberten Ritter, die der königlichen Familie von Caria dienen. Erzeugt einen Bogen magischer Schimmerklingen über Euch, die Gegner automatisch angreifen. Setzt mit einem starken Angriff nach, um einen Sprungstoß anzuhängen.</text>
+<text id="201">Talent: Heilige Klinge
+Erfüllt die Angriffe der Waffe mit heiliger Essenz und verschießt ein goldenes Klingenprojektil.
+Die heilige Essenz bleibt eine Zeit lang in der Waffe erhalten.</text>
+<text id="202">Talent: Eisspeer
+Ein Talent der Krieger, die Mondprinzessin Ranni dienen.
+Wirbelt die Waffe herum, um Eismagie zu entfesseln und dann in einem durchbohrenden Eisspeer zu bündeln.</text>
+<text id="203">Talent: Schimmersteinkiesel
+Ein Talent, das auf den Zaubereien für Schimmersteinkiesel aufbaut. 
+Setzt mit einem starken Angriff nach, um einen Stampfstoß auszuführen, während die Waffe noch mit Schimmersteinmagie erfüllt ist.</text>
+<text id="204">Talent: Blutiger Schnitt
+Vom Fürsten des Blutes gewährtes Bluteidtalent.
+Nehmt eine niedrige Haltung ein und benetzt die Klinge mit Eurem Blut, um einen weit ausladenden Blutschlitzer auszuführen.</text>
+<text id="205">Talent: Vampirfaust
+Ein Talent mit der Macht über das Leben selbst.
+Ein langsamer kontrollierter Schlag mit einer von Energie erfüllten Faust schlägt den Gegner bewusstlos und raubt seine LP. Wirkt nur gegen Feinde von menschlicher Statur.</text>
+<text id="206">%null%</text>
+<text id="207">Talent: Eruption
+Ein Talent der Ritter im Dienst von Haus Vulkan.
+Ihr rammt Eure Waffe in den Boden, um eine brodelnde Lavafontäne zu entfesseln.</text>
+<text id="208">Talent: Gebetsschlag
+Hebt die Waffe im Gebet und rammt sie dann in den Boden.
+Mündet dieser inspirierte Schlag in einem erfolgreichen Treffer, regeneriert er Eure LP und die Eurer Verbündeten in der Nähe.</text>
+<text id="209">Talent: Gravitation
+Ein Talent der Alabasterfürsten, deren Haut aus Stein bestand.
+Rammt die Waffe in den Boden, um ein Gravitationsfeld zu erzeugen. Der Angriff verursacht Schaden und zieht Gegner zu Euch heran.</text>
+<text id="210">Talent: Sturmklinge
+Ein verlorenes Talent aus Sturmschleier. 
+Eure Waffe wird von heulenden Stürmen umhüllt, die sich schnell hintereinander nach vorn abfeuern lassen.</text>
+<text id="211">%null%</text>
+<text id="212">Talent: Erderschütterer
+Rammt die Waffe in den Boden und sammelt Kraft, um eine erderschütternde Schockwelle zu entfesseln. 
+Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen.</text>
+<text id="213">Talent: Goldenes Land
+Rammt die Waffe in den Boden und sammelt Kraft, um eine Explosion heiliger Energie als goldene Pfeile zu entfesseln.
+Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen.</text>
+<text id="214">Talent: Flammender Schlag
+Dieses Talent erzeugt einen breiten Flammenbogen vor Euch.
+Setzt mit einem starken Angriff nach, um einen ausladenden Sprunghieb auszuführen.
+Hierdurch hüllt Ihr die Waffe zusätzlich in Feuer.</text>
+<text id="215">%null%</text>
+<text id="216">Talent: Donnerblitz
+Ein Talent des Drachenkults aus der Hauptstadt.
+Hebt Eure Waffe, um einen Blitz vom Himmel herabzurufen.
+Kann schnell hintereinander ausgelöst werden.</text>
+<text id="217">Talent: Blitzschnitt
+Ruft einen Blitz vom Himmel in Eure Waffe herab und schwingt sie abwärts, um eine Explosion auszulösen.
+Die Blitzaufladung hält eine Zeit lang an.</text>
+<text id="218">Talent: Carianische Erhabenheit
+Die Würde carianischer Könige in Form eines Talents. 
+Verwandelt Eure Klinge in ein magisches Großschwert und schwingt es abwärts. Durch Aufladung könnt Ihr die Stärke um bis zu zwei Stufen erhöhen.</text>
+<text id="219">Talent: Cariagroßschwert
+Die Würde carianischer Könige in Form eines Talents. 
+Verwandelt Eure Klinge in ein magisches Großschwert und schwingt es abwärts. Durch Aufladung könnt Ihr die Stärke erhöhen.</text>
+<text id="220">Talent: Vakuumschnitt
+Ein verlorenes Talent antiker Helden. 
+Hebt die Waffe hoch, hüllt sie in ein Vakuum und feuert es als klingenförmiges Projektil vorwärts.</text>
+<text id="221">Talent: Schwarzflammentornado
+Wirbelt die Waffe über Eurem Kopf herum und rammt sie dann in den Boden, um einen Wirbel schwarzer Flammen zu entfesseln.
+Halten, um einen Flammentornado zu erzeugen, während Ihr die Waffe herumwirbelt.</text>
+<text id="222">Talent: Heiliger Lichtring
+Ein Talent der Kommandanten der Reinfäule-Ritter.
+Konzentriert einen Ring aus Licht in der Waffe und schleudert ihn vorwärts.
+Lässt sich schnell hintereinander abfeuern.</text>
+<text id="223">Talent: Feuerspeier
+Blast in eine Fackelflamme, um einen breiten Feuerbogen vor Euch zu erzeugen. Auf dem Boden brennen die Flammen kurz weiter.</text>
+<text id="224">Talent: Blutklinge
+Benetzt die Klinge mit Eurem Blut und entfesselt dann eine fliegende Blutklinge, die zu Blutverlust führt.
+Lässt sich schnell hintereinander abfeuern.</text>
+<text id="225">Talent: Phantomschnitt
+Ein Talent, mit dem die Dunkelkavalleristen ihren ehemaligen Ausbilder ehren. Der Ausbilder erscheint als Phantom und führt sie an, um im Sprung die Waffe aufwärts zu schwingen. Setzt durch weitere Eingabe mit einem Angriff nach.</text>
+<text id="226">Talent: Spektrallanze
+Ein Talent der kopflosen Ritter des Mausoleums.
+Schleudert einen geisterhaften Speer auf Gegner.</text>
+<text id="227">Talent: Frostnebel
+Hüllt Eure Waffe in Frost und schlagt zu, um einen eisigen Nebel vor Euch zu verbreiten.
+Die Waffe bleibt eine Zeit lang von Frost erfüllt.</text>
+<text id="228">Talent: Giftiger Nebel
+Hüllt Eure Waffe in Gift und schlagt zu, um einen giftigen Nebel vor Euch zu verbreiten.
+Die Waffe bleibt eine Zeit lang von Gift erfüllt.</text>
+<text id="300">Talent: Schildschlag
+Geht hinter dem Schild in Abwehrhaltung und rammt den Gegner mit all Eurem Gewicht, während Ihr die Abwehrhaltung beibehaltet.
+Schwächere Gegner werden zurückgedrängt und geraten manchmal sogar ins Taumeln.</text>
+<text id="301">Talent: Barrikadenschild
+Ein von Sir Neidhardt entwickeltes Talent.
+Konzentriert Eure Energie in den Schild, um ihn kurz zu härten, sodass er stärkere Schläge ablenkt.</text>
+<text id="302">Talent: Parade
+Setzt dieses Talent rechtzeitig ein, und Ihr lenkt den Nahkampfangriff des Gegners ab und brecht seine Haltung.
+Dies gewährt Euch die Chance auf einen kritischen Treffer.</text>
+<text id="303">Talent: Faustschildparade
+Setzt dieses Talent rechtzeitig ein, und Ihr lenkt den Nahkampfangriff des Gegners ab und brecht seine Haltung.
+Diese Variante ist schneller als normale Paraden.</text>
+<text id="304">Talent: Parade
+Setzt dieses Talent rechtzeitig ein, und Ihr lenkt den Nahkampfangriff des Gegners ab und brecht seine Haltung.
+Dies gewährt Euch die Chance auf einen kritischen Treffer.</text>
+<text id="305">Talent: Carianischer Gegenschlag
+Schwingt den Schild, um Zaubereien und Anrufungen abzuwehren und ihre Magie in einen Konter mit Schimmerklingen zu verwandeln.
+Lässt sich auch als normale Parade einsetzen.</text>
+<text id="306">Talent: Sturmwall
+Schwingt den Schild, um einen Sturmwall vor Euch zu erschaffen, der Pfeile und andere materielle Projektile ablenkt.
+Lässt sich auch als normale Parade einsetzen.</text>
+<text id="307">Talent: Goldene Parade
+Setzt eine Anrufung des Erdenbaums ein und schwingt dann den Schild, um Angriffe abzuwehren und die Haltung des Gegners zu brechen.
+Wirkt sogar über eine kurze Distanz.</text>
+<text id="308">Talent: Schildaufprall
+Greift den Schild mit beiden Händen, nehmt eine Blockhaltung ein und stürmt vorwärts.
+Schwächere Gegner werden zurückgedrängt und geraten manchmal sogar ins Taumeln.
+Halten, um den Ansturm zu verlängern.</text>
+<text id="309">Talent: Thops' Barriere
+Errichtet eine magische Barriere, während Ihr den Schild schwingt, um Zaubereien und Anrufungen abzuwehren.
+Lässt sich auch als normale Parade einsetzen.</text>
+<text id="400">Talent: Durch und durch
+Ein mächtiges Talent für Bogenschützen, bei dem Ihr einen Großbogen schräg haltet.
+Macht den Bogen bereit und verdreht die Sehne, um einen mächtigen Großpfeil abzufeuern, der Gegner durchschlägt.</text>
+<text id="401">Talent: Sperrfeuer
+Ein Talent für Bogenschützen.
+Haltet den Bogen horizontal und feuert eine Salve von Pfeilen schneller, als es ein menschliches Auge verfolgen könnte.</text>
+<text id="402">Talent: Mächtiger Schuss
+Ein Talent für Bogenschützen.
+Haltet den Bogen schräg und zieht die Sehne dann maximal zurück, damit der Schuss die Abwehr des Gegners durchschlägt.</text>
+<text id="403">%null%</text>
+<text id="404">Talent: Verzauberter Schuss
+Ein Talent für Bogenschützen, das Pfeile mit spiritueller Macht erfüllt.
+Die Pfeile fliegen schneller als bei normalen Schüssen und folgen dem Ziel.</text>
+<text id="405">Talent: Himmelsschuss
+Ein Talent für Bogenschützen.
+Nehmt eine niedrige Haltung ein und feuert den Pfeil hoch in die Luft, sodass er bogenförmig auf den Gegner fliegt.</text>
+<text id="406">Talent: Pfeilhagel
+Ein Talent für Bogenschützen.
+Nehmt eine niedrige Haltung ein und feuert mehrere Pfeile hoch in die Luft, damit sie den Gegner wie ein Hagelschauer treffen.</text>
+<text id="407">%null%</text>
+<text id="501">Talent: Raureifstampfer
+Stampft hart auf den Boden, um eine Spur aus eisigem Nebel zu erzeugen.
+Der Nebel verursacht Frost.</text>
+<text id="502">Talent: Sturmstampfer
+Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen.
+Stampft hart auf den Boden, um einen kurzen Sturm zu entfesseln.</text>
+<text id="503">Talent: Tritt
+Stoßt den Gegner mit einem hohen Tritt zurück.
+Effektiv gegen abwehrende Gegner und kann sogar ihre Haltung brechen.
+Manchmal ist die einfachste Lösung auch die Beste.</text>
+<text id="504">Talent: Blitzbock
+Ein von kämpfenden Widdern inspiriertes Talent.
+Blökt und rollt Euch in Blitze gehüllt vorwärts.
+Ihr könnt mehrere Rollen schnell hintereinander ausführen.</text>
+<text id="505">Talent: Flamme der Rotmähnen
+Ein Talent der Rotmähnen, die an der Seite von General Radahn kämpften.
+Erzeugt vor Euch eine mächtige Feuersbrunst in einem weiten Bogen.</text>
+<text id="506">Talent: Bodenschlag
+Ihr springt hoch in die Luft und schlagt weiter vorne auf wie ein Meteor, um eine Schockwelle in alle Richtungen zu entfesseln.</text>
+<text id="507">Talent: Goldener Schlag
+Ein Talent der Avatare, die Niedere Erdenbäume beschützen.
+Ihr springt hoch in die Luft und schlagt weiter vorne auf wie ein Meteor, um goldene Schockwellen in alle Richtungen zu entfesseln.</text>
+<text id="508">Talent: Wellen der Finsternis
+Rammt die Waffe in den Boden, um drei Wellen der Finsternis zu entfesseln.
+Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen.</text>
+<text id="509">Talent: Hoarah Loux' Erschütterer
+Schlagt beidhändig auf den Boden, um die Erde zu erschüttern und eine Schockwelle zu entfesseln.
+Mit einer weiteren Eingabe schlagt Ihr erneut auf den Boden.</text>
+<text id="600">Talent: Eiserner Wille
+Ein Talent der Ritter.
+Haltet Eure Waffe vor das Gesicht und sammelt Eure Entschlossenheit, um Euren nächsten Angriff zu verstärken.</text>
+<text id="601">Talent: Mut der Königsritter
+Ein Talent der Ritter, die einst dem Eldenfürsten dienten.
+Haltet die Waffe vor Euer Gesicht und sammelt Eure Entschlossenheit, um Euren nächsten Angriff deutlich zu verstärken.</text>
+<text id="602">Talent: Schachzug des Assassinen
+Ein Talent, das Euch vor fremden Augen verbirgt, aber einen Teil Eurer Lebensenergie verschlingt.
+Ihr werdet so gut wie unsichtbar und bewegt Euch absolut lautlos.</text>
+<text id="603">Talent: Goldener Schwur
+Dieses Talent entspringt der langen Tradition der Ritter der Hauptstadt.
+Hebt die Waffe, um den Erdenbaum im Kampf zu ehren und verstärkt Eure Angriffskraft und Verteidigung sowie die Eurer Verbündeten in der Nähe.</text>
+<text id="604">Talent: Heilige Ordnung
+Ein Talent der fundamentalistischen Ritter der Goldenen Ordnung. 
+Salutiert und gewährt der Waffe heilige Essenz. Äußerst effektiv gegen jene, die im Tode leben.</text>
+<text id="605">Talent: Geteilte Ordnung
+Ein Talent der fundamentalistischen Ritter der Goldenen Ordnung.
+Gewährt Eurer Waffe und den Waffen Eurer Verbündeten in der Nähe heilige Essenz.
+Äußerst effektiv gegen jene, die im Tode leben.</text>
+<text id="606">Talent: Seppuku
+Eine verbotene Technik der Schwertkämpfer aus dem Schilfland.
+Rammt die Klinge in Euren Bauch, um sie in Blut zu tränken.
+Erhöht die Angriffskraft und die Chance, Blutverlust auszulösen.</text>
+<text id="607">Talent: Felsklinge
+Ein Talent mit Macht über die Schwerkraft.
+Rammt die Waffe in den Boden, um sie mit Gestein zu verstärken.
+Erhöht die Angriffskraft und hilft Euch, die Haltung des Gegners zu brechen.</text>
+<text id="650">Talent: Barbarenbrüllen
+Stoßt ein bestialisches Gebrüll aus, um Kampfgeist und Angriffskraft zu stärken.
+Solange dieser Effekt wirkt, werden starke Angriffe als wilde Kombos ausgeführt.</text>
+<text id="651">Talent: Kriegsgebrüll
+Erhöht mit einem Kriegsschrei die Angriffskraft.
+Solange dieser Effekt wirkt, werden starke Angriffe als aufgeladene Angriffe ausgeführt.</text>
+<text id="652">Talent: Schrei der Bestie
+Entfesselt ein bestialisches Brüllen, das wie ein Projektil durch die Luft schießt.</text>
+<text id="653">Talent: Trollbrüllen
+Blickt in die Ferne und stoßt ein gewaltiges Gebrüll aus, dessen mächtige Schockwelle umstehende Gegner zurückstößt.
+Setzt mit einem starken Angriff nach, um einen Abwärtsschlag auszuführen.</text>
+<text id="654">Talent: Prahlendes Brüllen
+Gebt Euch lautstark und voller Hochmut zu erkennen.
+Verstärkt die Angriffskraft und Verteidigung und beschleunigt die Ausdauerregeneration.</text>
+<text id="700">Talent: Beharren
+Verankert Eure Haltung im Boden und sammelt alle Kraft, um kurz Euer Gleichgewicht zu stärken.
+Während Ihr dieses Talent verwendet, erleidet Ihr weniger Schaden.</text>
+<text id="701">Talent: Unbeugsamer Schwur
+Ein Talent von den antiken Kriegern des Erdenbaums.
+Hebt den Schild und erfüllt Euch selbst mit goldener Macht. So werdet Ihr kurz unbesiegbar.</text>
+<text id="702">Talent: Heiliger Boden
+Hebt den Schild, um mit der Macht des Erdenbaums einen Bereich zu weihen, in dem bei Euch und Verbündeten kontinuierlich LP regeneriert werden und die Verteidigung gestärkt wird.</text>
+<text id="800">Talent: Schnellschritt
+Ein Talent für geschickte und flinke Krieger.
+Führt ein schnelles Manöver durch, mit dem Ihr fixierte Ziele umkreisen könnt.</text>
+<text id="801">Talent: Bluthundschritt
+Ein Talent, mit dem Ihr kurz unsichtbar werdet und blitzschnell ausweicht. Ihr bewegt Euch weiter und schneller als mit einen normalen Schnellschritt.
+Mit diesem Talent könnt Ihr fixierte Ziele umkreisen.</text>
+<text id="802">Talent: Nebelraptor
+Duckt Euch in eine niedrige Haltung, um kurz zu verschwinden.
+Trifft Euch ein gegnerischer Angriff, entkommt Ihr auf Raptorenschwingen schnell in die Luft.</text>
+<text id="850">Talent: Ruf des Weißen Schatten
+Haltet die Waffe zu einem kurzen Gebet, um einen weißen Schatten zu erschaffen.
+Dieses Phantom lenkt außerhalb von Kämpfen die Aggression von Gegnern mit menschlicher Statur auf sich. Halbmenschen lockt der Schatten sogar im Kampf an.</text>
+<text id="1000">Einzigartiges Talent: Sturm der Gläubigen
+Entfacht das Feuer von Biracs Glauben im Schädel und haltet ihn hoch, um einen Feuerregen in der Umgebung zu entfachen.
+Durch weitere Eingaben hebt Ihr den Schädel immer wieder und setzt den Angriff fort.</text>
+<text id="1001">Einzigartiges Talent: Feuerspeier
+Hebt den Schild, um einen Feuerball zu schleudern.
+Der Feuerball explodiert beim Aufprall.</text>
+<text id="1002">Einzigartiges Talent: Zungen des Feuers
+Haltet den Schild hoch und feuert Flammen aus seinem Schlund.
+Halten, um weiter Feuer zu schleudern.
+Dieses Talent kann beim Gehen eingesetzt werden.</text>
+<text id="1003">Einzigartiges Talent: Orakelblase
+Blast in das Horn, um eine magische Blase zu erschaffen.
+Die Blase schwebt langsam durch die Luft auf ihr Ziel zu.</text>
+<text id="1004">Einzigartiges Talent: Blasenfontäne
+Blast in das Horn, um eine Fontäne aus Blasen zu erschaffen.
+Die Blasen schweben langsam durch die Luft und prasseln dann auf das Ziel herunter.</text>
+<text id="1005">Einzigartiges Talent: Große Orakelblase
+Blast in das Horn, um eine große magische Blase zu erschaffen.
+Die Blase schwebt langsam durch die Luft auf ihr Ziel zu.</text>
+<text id="1006">Einzigartiges Talent: Meer aus Magma
+Schwingt eine Lavapeitsche über Eurem Kopf, um die Umgebung kurz in ein Meer aus Magma zu verwandeln.
+Halten, um die Lavapeitsche weiter zu schwingen.</text>
+<text id="1007">Einzigartiges Talent: Vipernbiss
+Schüttelt den Schild, um die Bronzeviper kurz zum Leben zu erwecken, damit sie blitzschnell zustößt und Eure Gegner beißt.</text>
+<text id="1008">Einzigartiges Talent: Mondlichtgroßschwert
+Haltet das Schwert in die Höhe und badet es im Licht des dunklen Mondes.
+Verstärkt kurz magische Angriffe und erfüllt die Klinge mit Frost.
+Aufgeladene Angriffe entfesseln Mondlichtsalven.</text>
+<text id="1009">Einzigartiges Talent: Silurias Kummer
+
+Stoßt spiralförmig mit der Waffe zu, um ihn mit einer Windhose zu umgeben.
+Aufgeladene Angriffe können Gegner fortwehen und den Tornado nach vorn abfeuern.</text>
+<text id="1010">Einzigartiges Talent: Sammelt Euch
+Haltet das Kriegsbanner in die Höhe und erteilt den Befehl zum Sammeln.
+Erhöht Eure Angriffskraft und Verteidigung sowie die Eurer Verbündeten in der Nähe.</text>
+<text id="1011">Einzigartiges Talent: Seht es mit eigenen Augen!
+Gewährt dem kleinen Drachen einen kurzen Einblick in das Leben und stoßt ihn gen Himmel, damit er Feuer auf einen weiten Bereich vor ihm speit.</text>
+<text id="1012">Einzigartiges Talent: Eochaids Tanzende Klinge
+Erfüllt das Schwert mit Energie und schleudert es für einen Spiralangriff nach vorn.
+Das Schwert verursacht kontinuierlich Schaden, während es sich heftig dreht. Durch Aufladen erhöht Ihr die Reichweite und Rotationsdauer.</text>
+<text id="1013">Einzigartiges Talent: Seelenknute
+Hebt die Flügel des Großhorns, um einen Nebel zu erzeugen, der die Seele schwächt.
+Senkt kurz die Verteidigung aller Gegner im Wirkungsbereich.</text>
+<text id="1014">Einzigartiges Talent: Vampirflammen
+Hebt das heilige Schwert in die Höhe, um es in blasphemisches Feuer zu hüllen, und senkt es dann, um Flammen vorwärts abzufeuern.
+Die Flammen rauben getroffenen Gegnern LP.</text>
+<text id="1015">Einzigartiges Talent: Schrei von Milos
+Stößt einen schrecklichen verfluchten Schrei aus, der alle Schadens- und Effektresistenzen von Gegnern in der Nähe verringert.
+Solange der Schrei aktiv ist, wird aus starken Angriffen eine Kombo.</text>
+<text id="1016">Einzigartiges Talent: Reduvia-Blutklinge
+Führt einen Schnitt mit dem Dolch aus, um seine Blutstropfen in fliegende Blutklingen zu verwandeln, die zu Blutverlust führen.
+Die Klingen lassen sich schnell hintereinander abfeuern.</text>
+<text id="1017">Einzigartiges Talent: Schimmersteinspeer
+Ein Talent, das auf den Zaubereien für Schimmersteinkiesel aufbaut.
+Erschafft durch Aufladen einen Schimmersteinspeer.
+Setzt mit einem starken Angriff nach, um einen Sprungstoß anzuhängen.</text>
+<text id="1018">Einzigartiges Talent: Fließende Form
+Verwandelt die Waffe kurz in ihre flüssige Form.
+Schwingt die Waffe wie eine Peitsche, um einen Sensenschwung mit großem Radius auszuführen.</text>
+<text id="1019">Einzigartiges Talent: Nacht- &amp; Flammenhaltung
+Schwert gerade halten, um Zauberei zu wirken.
+Setzt mit einem normalen Angriff nach, um die Zauberei "Nachtkomet" einzusetzen, oder mit einem starken Angriff, um den Bereich vor Euch mit Flammen zu überziehen.</text>
+<text id="1020">Einzigartiges Talent: Goldene Welle
+Erfüllt das Schwert mit dem goldenen Ruhm der Vergangenheit und feuert ihn auf Eure Gegner ab.
+Eine goldene Welle breitet sich fächerförmig vorwärts aus und durchschlägt alle Gegner im Wirkungsbereich.</text>
+<text id="1021">Einzigartiges Talent: Fatale Geisterflamme
+Schwingt das Schwert, um seine Klinge in Geisterflammen zu hüllen.
+Die Geisterflamme ergänzt Angriffe um Magieschaden und ist eisig kalt.</text>
+<text id="1022">Einzigartiges Talent: Ordnung herstellen
+Hebt die Waffe zum Salut und entfesselt eine goldene Explosion.
+Wiederholte Eingaben entfesseln Wellen goldenen Lichts.</text>
+<text id="1023">Einzigartiges Talent: Nebel des Schlafs
+Erschafft einen blassvioletten Nebel, der sich über einen weiten Bereich vorwärts ausbreitet.
+Dieser Nebel lässt Gegner im Schlaf versinken.</text>
+<text id="1024">Einzigartiges Talent: Speerrufritual
+Stoßt den Speer in die Höhe, um Gebete gen Himmel zu schicken und einen Hagel geisterhafter Speere zu entfesseln.</text>
+<text id="1025">Einzigartiges Talent: Wolfsangriff
+Erfüllt das Großschwert mit Frost und macht dann einen Vorwärtssalto, um es in den Boden zu rammen. Zieht es heraus, um eine Kältewelle zu entfesseln.</text>
+<text id="1026">Einzigartiges Talent: Donnerwolkenform
+Verwandelt Euch kurz in eine rote Donnerwolke und schwebt durch die Luft, um mit einer von Blitz erfüllten Klinge hinabzustoßen.
+Halten, um die Reichweite der Donnerwolkenform zu erhöhen.</text>
+<text id="1027">Einzigartiges Talent: Blutfluchschnitt
+Sammelt Eure Kräfte und stürmt vorwärts für einen diagonalen Abwärtshieb. Der Blutspur der Klinge folgt nach kurzer Zeit eine kleine Feuersbrunst.
+Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen.</text>
+<text id="1028">Einzigartiges Talent: Tanz der Kraniche
+Führt eine Reihe einbeiniger Sprünge für eine schnelle und elegante Schnittkombo aus, die an die Balz des Kranichs erinnern.
+Durch wiederholte Eingabe könnt Ihr bis zu zwei weitere Angriffe ausführen.</text>
+<text id="1029">Einzigartiges Talent: Goldener Brecher
+Springt in die Höhe, erfüllt in der Luft den Runensplitter mit Licht und rammt ihn dann in den Boden.
+Der bevorzugte Angriff des heroischen Radagon.</text>
+<text id="1030">Einzigartiges Talent: Ich befehle Euch, kniet!
+Schmettert Godricks Axt mehrmals in den Boden, um zwei Schockwellen zu entfesseln.
+Mit einer weiteren Eingabe erzeugt Ihr eine dritte Schockwelle.</text>
+<text id="1031">Einzigartiges Talent: Königliches Brüllen
+Erhöht mit mächtigem Kriegsgebrüll die Angriffskraft und stampft auf den Boden, um eine Schockwelle zu erzeugen, die sich nicht blocken lässt. Solange das Talent aktiv ist, wird der starke Angriff als Sprunghieb ausgeführt.</text>
+<text id="1032">Einzigartiges Talent: Sternrufer-Schrei
+Kreuzt Eure Schwerter und brüllt hinauf in den Himmel, um Eure Gegner heranzuziehen.
+Mit einer weiteren Eingabe führt Ihr einen Abwärtshieb mit Euren von Schwerkraft erfüllten Schwertern aus.</text>
+<text id="1033">Einzigartiges Talent: Welle der Zerstörung
+Hebt das Schwert gen Himmel und schlagt auf den Boden, um eine Gravitationswelle zu entfesseln.</text>
+<text id="1034">Einzigartiges Talent: Blutgunstritual
+Hebt den heiligen Speer und durchbohrt den Körper der Formlosen Mutter.
+Stecht bis zu drei Mal zu, um mit jedem Stich eine blutige Explosion zu entfesseln. Dieses Talent hüllt die Waffe eine Zeit lang in eine Blutflamme.</text>
+<text id="1035">Einzigartiges Talent: Fließende Form
+Verwandelt die Waffe kurz in ihre flüssige Form.
+Schwingt die Waffe wie eine Peitsche, um alles in der Umgebung zu treffen, und schmettert anschließend den tränenförmigen Kopf nach unten.</text>
+<text id="1036">Einzigartiges Talent: Klinge des Todes
+Entfesselt die Macht der Rune des Todes, um ein klingenähnliches Projektil abzufeuern.
+Die Klinge verursacht sofort Schaden. Eine Zeit lang reduziert sie auch die maximalen LP des Gegners und verursacht kontinuierlich Schaden.</text>
+<text id="1037">Einzigartiges Talent: Goldene Klinge
+Springt in die Luft, erfüllt die Waffe mit goldenen Flammen und feuert dann ein klingenähnliches Projektil auf den Gegner.
+Verursacht Heiligschaden.</text>
+<text id="1038">Einzigartiges Talent: Schicksalstod
+Befreit die Überreste des Schicksalstodes und rammt das Großschwert in den Boden, um viele Klingen zu entfesseln. Der Angriff verursacht sofort Schaden, reduziert die maximalen LP des Gegners und verringert die LP kurz kontinuierlich weiter.</text>
+<text id="1039">Einzigartiges Talent: Wirbelndes Rad
+Schlagt mit dem Rad auf den Boden, um es maximal zu beschleunigen. Halten, damit sich das Rad weiter dreht. Kann beim Gehen eingesetzt werden, um die Waffe in Gegner zu rammen.</text>
+<text id="1040">Einzigartiges Talent: Alabasterfürstensog
+Rammt die Waffe in den Boden, um ein Gravitationsfeld zu erzeugen.
+Der Angriff verursacht Schaden und zieht Gegner zu Euch heran. Der Wirkungsbereich ist größer als bei dem Talent "Gravitation".</text>
+<text id="1041">Einzigartiges Talent: Onyxfürstenstoß
+Rammt die Waffe in den Boden, um ein Gravitationsfeld zu entfesseln.
+Der Angriff verursacht Schaden und stößt Gegner von Euch weg.</text>
+<text id="1042">Einzigartiges Talent: Racheschwur
+Ihr schwört dem Großschwert, seinen Clan zu rächen. Erhöht kurz sämtliche Attribute.
+Solange der Schwur aktiv ist, stärkt er auch das Gleichgewicht.</text>
+<text id="1043">Einzigartiges Talent: Eisblitzschwert
+Erfüllt die Klinge mit einem eisigen Blitz und lasst den Blitz auf Euren Gegner niederkrachen.
+Der Eisblitzeffekt hält eine Zeit lang an.</text>
+<text id="1044">Einzigartiges Talent: Königliche Bestienklaue
+Schmettert den Hammer auf den Boden, um ihn mit den fünf Bestienklauen der Waffe aufzureißen.</text>
+<text id="1045">Einzigartiges Talent: Flammentanz
+Erfüllt die geflochtene Schnur mit der Flamme der Riesen und führt mehrere, weit reichende flinke Schläge aus.</text>
+<text id="1046">Einzigartiges Talent: Klauenschnipsen
+Lässt den Finger anschwellen, um seine Kraft zu bündeln, und verpasst Euren Gegnern dann einen gewaltigen Schnipser.</text>
+<text id="1047">Einzigartiges Talent: Sternennebel
+Erfüllt die Sterne der Ausgeburt mit Magie für einen ausladenden Schlag.
+Dieser Angriff erzeugt eine dunkle Sternenwolke, die nach kurzer Zeit explodiert.</text>
+<text id="1048">Einzigartiges Talent: Geisterflamme entfachen
+Stoßt mit der Dornenrute zu, um eine Geisterflamme an ihrer Spitze zu entfachen.
+Setzt mit einem normalen Angriff nach, um den Boden mit Geisterflammen zu überziehen, oder löst mit einem starken Angriff eine Explosion aus.</text>
+<text id="1049">Einzigartiges Talent: Drachenblitzspeer
+Erfüllt die Waffe mit den roten Blitzen der uralten Drachen und schleudert sie dann wie einen Speer.
+Durch Aufladen erhöht Ihr seine Macht.</text>
+<text id="1050">Einzigartiges Talent: Rasender Flammenstoß
+Erfüllt den Speer mit der Rasenden Flamme, springt vorwärts und rammt ihn in den Boden, um eine Explosion zu entfesseln.
+Die Explosion erfüllt sowohl Gegner als auch Euch selbst mit Wahnsinn.</text>
+<text id="1051">Einzigartiges Talent: Miquellas Lichtring
+Beschwört Miquellas Heiligenschein und schleudert ihn vorwärts.
+Kann schnell hintereinander geschleudert werden.</text>
+<text id="1052">Einzigartiges Talent: Goldene Härte
+Kreuzt die zwei Schwerter, um ihre Angriffe mit heiliger Essenz zu stärken.
+Ist dieser Effekt aktiv, werden starke Angriffe als Kombo mit zwei Waffen ausgeführt.</text>
+<text id="1053">Einzigartiges Talent: Letzte Riten
+Hebt das Epitaphium, um Euch und Verbündeten in der Nähe den Effekt "Heilige Ordnung" zu verleihen.
+Besonders effektiv, um jenen ewige Ruhe zu schenken, die im Tode leben.</text>
+<text id="1054">Einzigartiges Talent: Unblockbare Klinge
+Erfüllt die Klinge mit Licht, um sie zu verlängern, und schlagt dann blitzschnell sichelförmig zu.
+Dieser Angriff lässt sich nicht blocken.</text>
+<text id="1055">Einzigartiges Talent: Eochaids Tanzende Klinge
+Erfüllt das Schwert mit Energie und schleudert es für einen Spiralangriff nach vorn.
+Das Schwert verursacht kontinuierlich Schaden, während es sich heftig dreht. Durch Aufladen erhöht Ihr die Reichweite und Rotationsdauer.</text>
+<text id="1167">Einzigartiges Talent: Leichenlipidmesser
+Ein verlorenes Talent uralter Helden.
+Streckt das Schwert hoch, um die Macht des Leichenlipids freizusetzen, und schleudert es als klingenförmiges Projektil vorwärts.
+</text>
+<text id="1168">Einzigartiges Talent: Eissturm von Zamor
+Stoßt das Krummschwert in den Boden und baut Kraft auf, bevor Ihr einen eisigen Sturm über die Umgebung peitschen lasst.</text>
+<text id="1169">Einzigartiges Talent: Radahns Regen
+Ein Talent für Bogenschützen.
+Nehmt eine niedrige Haltung ein, macht den Bogen bereit und feuert eine Salve hoch in den Himmel, um die Pfeile auf Eure Gegner regnen zu lassen.</text>
+<text id="1170">Einzigartiges Talent: Schwarze Flamme der Königin
+Entfacht die göttertötende Schwarze Flamme in der Klinge und führt einen sichelförmigen Schlag aus.
+Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen. Die Schwarze Flamme verringert eine Zeit lang LP.</text>
+<text id="1171">Einzigartiges Talent: Erhabene Finesse
+Weicht elegant einem Angriff aus und geht auf Distanz zum Gegner.
+Setzt mit einem starken Angriff nach, um einen schnellen Satz zu machen, und führt mit einem weiteren starken Angriff einen Sensenschwung aus.</text>
+<text id="1172">Einzigartiges Talent: Magmaregen
+Führt in wirbelnder Bewegung mehrere Schnitte aus und verteilt dabei Magma um Euch herum.
+Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen.</text>
+<text id="1173">Einzigartiges Talent: Sternennebel
+Erfüllt die Schwinge der Ausgeburt mit Magie, um eine dunkle Sternenwolke zu erzeugen, die kurz verweilt und dann explodiert.</text>
+<text id="1174">Einzigartiges Talent: Todesfackel
+Entfacht die erloschene Sonne mit den Flammen des Todesprinzen und belegt Gegner mit dem Todeseffekt.
+Mit einer weiteren Eingabe schlagt Ihr mit der Waffe abwärts und löst eine Explosion aus.</text>
+<text id="1175">Einzigartiges Talent: Finesse des Bluthunds
+Schlagt mit dem Bluthundreißzahn aufwärts und nutzt den Schwung für einen Rückwärtssalto, mit dem Ihr auf Distanz zu Gegnern geht.
+Setzt mit einem starken Angriff nach, um mit dem Bluthundschritt anzugreifen.</text>
+<text id="1176">Einzigartiges Talent: Magmaguillotine
+Ergreift das Schuppenschwert mit beiden Händen, springt vorwärts und rammt es in den Boden, um eine Magmaexplosion zu entfesseln.
+Mit einer weiteren Eingabe führt Ihr einen Abwärtsschlag aus.</text>
+<text id="1177">Einzigartiges Talent: Blutiger Metzler
+Erzeugt eine Klinge aus verfluchtem Blut, um wiederholte, miteinander verflochtene aufeinanderfolgende Angriffe auszuführen.
+Mit einer weiteren Eingabe führt Ihr zusätzliche Angriffsserien aus.</text>
+<text id="1178">Einzigartiges Talent: Flüchtiges Mondlicht
+Ihr steckt die Waffe weg und haltet sie in konzentrierter Haltung an der Hüfte.
+Setzt mit einem normalen oder starken Angriff nach, um einen blitzschnellen Hieb auszuführen. Beide Angriffe feuern eine Lichtwelle ab.</text>
+<text id="1179">Einzigartiges Talent: Blutklingentanz
+Springt auf den Gegner zu, um einen Schlaghagel mit der Wucht eines Tornados zu entfesseln.
+Mit einer weiteren Eingabe führt Ihr einen Angriff aus, der in einem Ausweichmanöver endet.</text>
+<text id="1180">%null%</text>
+<text id="1181">Talent: Miquellas verborgene Klinge
+Ihr beschwört eine von Miquellas Schutz erfüllte Klinge und entfesselt einen Angriff, der jenen gewaltigen Schaden zufügt, die im Tode leben.</text>
+<text id="1182">Einzigartiges Talent: Allmächtiges Wissen
+Hebt das Zepter, um das Reich des Allwissenden zu manifestieren. Innerhalb des Wirkungsbereichs sind die Magie- und Heiligschaden-Resistenz reduziert, sowohl bei den Gegnern als auch bei Euch.</text>
+<text id="1183">Einzigartiges Talent: Weltenverschlinger
+Erfüllt das Zepter mit Magie und schlagt es auf den Boden, um allen Gegnern in der Nähe LP zu rauben.</text>
+<text id="1184">Einzigartiges Talent: Familiärer Groll
+Schüttelt sanft die Kupferköpfe, um rachsüchtige Geister zu rufen, die Gegner verfolgen.
+Aus den Qualen des Ehepartners und der Kinder erwächst ein fürchterlicher Zornesfluch.</text>
+<text id="1185">Einzigartiges Talent: Rosus' Ruf
+Haltet die Axt hoch, um die verlorenen Toten zu rufen.
+Drei Skelette erscheinen in einiger Entfernung und greifen gemeinsam an, bevor sie wieder verschwinden.</text>
+<text id="1186">Einzigartiges Talent: Gewitter
+Erfüllt die Flügelklinge der Waffe mit Blitzen und schwingt sie, um Euch mit einem Gewittersturm zu umgeben. Mit einer weiteren Eingabe führt Ihr zwei Wirbelangriffe aus. Die Klinge bleibt eine Zeit lang mit Blitzen geladen.</text>
+<text id="1187">Einzigartiges Talent: Heilige Phalanx
+Entfesselt die Macht einer geheimen Anrufung, um vor Euch eine Palisade aus goldenen Speeren zu errichten.</text>
+<text id="1188">Einzigartiges Talent: Riesenschlangenjagd
+Macht einen mächtigen Satz vorwärts und setzt per zusätzlicher Eingabe mit einem Aufwärtsstoß nach.
+Kämpft Ihr gegen Riesenschlangen, erscheint eine lange Lichtklinge, um die volle Macht der Waffe zu entfesseln.</text>
+<text id="1189">Einzigartiges Talent: Engelsschwingen
+Springt und erfüllt die Flügelklinge der Waffe mit Licht, um den Gegner dann mit einem Hieb anzugreifen.
+Die weißen Schwingen behindern die Erholung aus einer Tränenflasche.</text>
+<text id="1190">Einzigartiges Talent: Sturmtritt
+Rammt die Prothesenklinge in den Boden, um einen Sturm zu entfesseln.
+Setzt mit einem starken Angriff nach, um einen vom Blitz erfüllten Sprungangriff auszuführen.</text>
+<text id="1191">Einzigartiges Talent: Unblockbare Klinge
+Erfüllt die Klinge mit Licht und springt vorwärts, um einen plötzlichen durchbohrenden Angriff auszuführen, der sich nicht blocken lässt.</text>
+<text id="1192">Einzigartiges Talent: Zorn des Prälaten
+Konzentriert Magie in dem Schimmerstein, um eine uralten Zauberei zu aktivieren, deren magische Projektile automatisch Gegner verfolgen.</text>
+<text id="1193">Einzigartiges Talent: Erdenbaumramme
+Ihr springt hoch in die Luft und schlagt weiter vorne wie ein Meteor auf dem Boden auf, um goldene Schockwellen in alle Richtungen zu entfesseln.
+Dies ist das Stärkste aller Bodenschlag-Talente.</text>
+<text id="1194">Einzigartiges Talent: Gravitationsgeschoss
+Erfüllt den Kiefer der Sternenfallbestie mit Gravitationsblitzen und lasst einen Blitz in kurzer Entfernung einschlagen.
+Blitze lassen sich in schneller Folge auslösen.</text>
+<text id="1195">Einzigartiges Talent: Feuer des Schlafs
+Ihr blast in die Flamme des Leuchters und bedeckt den Boden vor Euch mit einer violetten Feuersbrunst.
+Die berauschenden Flammen schläfern Gegner ein.</text>
+<text id="1196">Einzigartiges Talent: Goldene Vergeltung
+Hebt den Schild, um seinen Schutzzauber zu entfesseln. Hierdurch neutralisiert Ihr Zaubereien und Anrufungen und schlagt mit goldener Macht zurück.</text>
+<text id="1197">Einzigartiges Talent: Ansteckende Wut
+Stachelt den Zorn der Qualle an, der Euch durchströmt.
+Verstärkt für einige Zeit Eure Angriffskraft.</text>
+<text id="1198">Einzigartiges Talent: Ordovis' Wirbel
+Konzentriert die Macht des Schmelztiegels, um das Schwert in der Luft herumzuwirbeln und es dann mit voller Wucht auf den Boden zu schlagen.
+Ihr könnt dieses Talent durch Aufladen verstärken.</text>
+<text id="1199">Einzigartiges Talent: Wirbelnde Waffe
+Konzentriert Magie in dem Schimmerstein, um das Zepter schweben und wild herumwirbeln zu lassen.
+Jeder, den das Zepter berührt, wird das Ziel magischer Angriffsserien.</text>
+</entries>
+</fmg>

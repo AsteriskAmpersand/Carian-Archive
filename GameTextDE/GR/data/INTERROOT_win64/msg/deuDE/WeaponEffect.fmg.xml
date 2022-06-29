@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Ein Teil des Schadens ignoriert die Abwehr.</text>
+<text id="1001">Regeneriert LP aus besiegten Gegnern.</text>
+<text id="1002">Regeneriert FP aus besiegten Gegnern.</text>
+<text id="1003">Erfolgreiche Angriffe regenerieren LP.</text>
+<text id="1004">Erfolgreiche Angriffe regenerieren FP.</text>
+<text id="1005">Regeneriert langsam LP.</text>
+<text id="1006">Regeneriert langsam FP.</text>
+<text id="1007">Verstärkt die Ausdauerregeneration.</text>
+<text id="1008">Angriffskraft steigt bei Angriffsserien.</text>
+<text id="1009">Erleidet selbst verursachten Schaden.</text>
+<text id="1010">Entzieht Bestien den Kampfeswillen.</text>
+<text id="1011">%null%</text>
+<text id="1012">Verstärkt körperliche Zauber.</text>
+<text id="1013">%null%</text>
+<text id="1014">Verstärkt Geisterzauber.</text>
+<text id="1015">Verstärkt Blitzzauber.</text>
+<text id="1016">Verstärkt heilige Zauber.</text>
+<text id="1017">Erhöht Stärkungs- &amp; Heilzauberbereich.</text>
+<text id="1018">Ermöglicht Zaubereien oder Anrufungen.</text>
+<text id="1019">Katalysator für Schimmersteinzaubereien.</text>
+<text id="1020">Siegel für Anrufungen.</text>
+<text id="1021">Angriffsserien regenerieren LP.</text>
+<text id="1022">Angriffsserien regenerieren FP.</text>
+<text id="1100">Verstärkt Kristallianerzauberei.</text>
+<text id="1101">Verstärkt Gravitationszauberei.</text>
+<text id="1102">Verstärkt Dornenzauberei.</text>
+<text id="1103">Verstärkt Todeszauberei.</text>
+<text id="1104">Verstärkt Vollmondzauberei.</text>
+<text id="1105">Verstärkt Steingräberzauberei.</text>
+<text id="1106">Verstärkt Schimmerklingenzauberei.</text>
+<text id="1107">Verstärkt Cariaschwertzauberei.</text>
+<text id="1108">Verstärkt Azurs Urzauberei.</text>
+<text id="1109">Verstärkt Lusats Urzauberei.</text>
+<text id="1110">Verstärkt Nachtzauberei.</text>
+<text id="1111">Verstärkt Anrufungen der Flamme der Riesen.</text>
+<text id="1112">Verstärkt Anrufungen der Fundamentalisten.</text>
+<text id="1113">Verstärkt von Gurranq gelehrte Anrufungen.</text>
+<text id="1114">Verstärkt Anrufungen des Drachenkults.</text>
+<text id="1115">Verstärkt Drachenkommunionsanrufungen.</text>
+<text id="1116">Verstärkt Anrufungen der Rasenden Flamme.</text>
+<text id="1117">Verstärkt Magmazauberei.</text>
+<text id="1118">Verstärkt Anrufungen der Götterskalpe.</text>
+<text id="6400">Löst leichte Vergiftung aus (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6401">Löst Vergiftung aus (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6402">Löst schwere Vergiftung aus (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Löst sehr schwere Vergiftung aus (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6450">Löst leichte Scharlachfäule aus (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6451">Löst Scharlachfäule aus (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6452">Löst schwere Scharlachfäule aus (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6500">Löst leichten Blutverlust aus (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6501">Löst Blutverlust aus (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6502">Löst schweren Blutverlust aus (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Löst sehr schweren Blutverlust aus (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6550">Löst leichten Todesfluch aus (&lt;?curseATKpwr?&gt;).</text>
+<text id="6551">Löst Todesfluch aus (&lt;?curseATKpwr?&gt;).</text>
+<text id="6552">Löst schweren Todesfluch aus (&lt;?curseATKpwr?&gt;).</text>
+<text id="6600">Löst leichten Frost aus (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6601">Löst Frost aus (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6602">Löst schweren Frost aus (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6650">Löst leichten Schlaf aus (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6651">Löst Schlaf aus (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6652">Löst starken Schlaf aus (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6700">Löst leichten Wahnsinn aus (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6701">Löst Wahnsinn aus (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6702">Löst starken Wahnsinn aus (&lt;?madnessATKpwr?&gt;).</text>
+</entries>
+</fmg>

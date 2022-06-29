@@ -1,0 +1,2316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200">%null%</text>
+<text id="1000">%null%</text>
+<text id="1100">%null%</text>
+<text id="1200">%null%</text>
+<text id="1300">%null%</text>
+<text id="1400">%null%</text>
+<text id="1500">%null%</text>
+<text id="1600">%null%</text>
+<text id="1700">%null%</text>
+<text id="1800">%null%</text>
+<text id="1900">%null%</text>
+<text id="2000">%null%</text>
+<text id="2100">%null%</text>
+<text id="2200">%null%</text>
+<text id="2300">%null%</text>
+<text id="2400">%null%</text>
+<text id="2500">%null%</text>
+<text id="2600">%null%</text>
+<text id="2700">%null%</text>
+<text id="2800">%null%</text>
+<text id="2900">%null%</text>
+<text id="3000">%null%</text>
+<text id="3100">%null%</text>
+<text id="3200">%null%</text>
+<text id="3300">%null%</text>
+<text id="3400">%null%</text>
+<text id="3500">%null%</text>
+<text id="3600">%null%</text>
+<text id="3700">%null%</text>
+<text id="3800">%null%</text>
+<text id="3900">%null%</text>
+<text id="4000">%null%</text>
+<text id="4100">%null%</text>
+<text id="4200">%null%</text>
+<text id="4300">%null%</text>
+<text id="4400">%null%</text>
+<text id="4500">%null%</text>
+<text id="4600">%null%</text>
+<text id="4700">%null%</text>
+<text id="4800">%null%</text>
+<text id="4900">%null%</text>
+<text id="5000">%null%</text>
+<text id="10000">Nackter Kopf ohne angelegte Rüstung.</text>
+<text id="10100">Nackter Torso ohne angelegte Rüstung.</text>
+<text id="10200">Nackte Arme ohne angelegte Rüstung.</text>
+<text id="10300">Nackte Beine ohne angelegte Rüstung.</text>
+<text id="40000">Ein Eisenhelm mit verrostetem Rand.
+
+Das Stoffelement des Helms bedeckt Mund und Nacken und bietet leichten Schutz vor Giften und anderen Reizstoffen.</text>
+<text id="40100">Eine Rüstung verstärkt mit kleinen Metallschuppen.
+
+Der Umhang, der die Schultern bedeckt, besteht aus behandelter Steinechsenhaut und bietet reichlich Schutz gegen Feuer.</text>
+<text id="40200">Gewöhnliche Eisenstulpen.</text>
+<text id="40300">Eine hochwertige Lederhose.
+
+Für mehr Bewegungsfreiheit wird die Wadenpartie geschnürt.</text>
+<text id="50000">Ein Helm der Kaiden-Söldner.
+
+Diese massigen, furchtlosen Söldner sollen aus dem eisigen Norden stammen und kämpfen auch zu Pferde ganz hervorragend.
+
+Kaiden ist der Name ihrer Heimat.</text>
+<text id="50100">Eine Rüstung der Kaiden-Söldner.
+Der silbrige Wolfspelz, der die Schultern ziert, schützt effektiv gegen Kälte.
+
+Diese massigen, furchtlosen Söldner sollen aus dem eisigen Norden stammen und kämpfen auch zu Pferde ganz hervorragend.
+
+Kaiden ist der Name ihrer Heimat.</text>
+<text id="50200">Stulpen der Kaiden-Söldner.
+
+Diese massigen, furchtlosen Söldner sollen aus dem eisigen Norden stammen und kämpfen auch zu Pferde ganz hervorragend.
+
+Kaiden ist der Name ihrer Heimat.</text>
+<text id="50300">Eine Hose der Kaiden-Söldner.
+
+Diese massigen, furchtlosen Söldner sollen aus dem eisigen Norden stammen und kämpfen auch zu Pferde ganz hervorragend.
+
+Kaiden ist der Name ihrer Heimat.</text>
+<text id="60000">Ein Schwarzeisenhelm der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Von Geburt an sprechen Drachenritter nicht ein Wort und suchen ihr Leben lang nach der Stärke der Drachen, ihrer Schönheit und Ehrfurcht gebietenden Präsenz.</text>
+<text id="60100">Eine Schwarzeisenrüstung der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Der Umhang besteht aus der Flügelmembran eines Drachen.</text>
+<text id="60200">Schwarzeisenstulpen der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Von Geburt an sprechen Drachenritter nicht ein Wort und suchen ihr Leben lang nach der Stärke der Drachen, ihrer Schönheit und Ehrfurcht gebietenden Präsenz.</text>
+<text id="60300">Ein Schwarzeisenbeinschutz der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Von Geburt an sprechen Drachenritter nicht ein Wort und suchen ihr Leben lang nach der Stärke der Drachen, ihrer Schönheit und Ehrfurcht gebietenden Präsenz.</text>
+<text id="61000">Ein Schwarzeisenhelm der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Von Geburt an sprechen Drachenritter nicht ein Wort und suchen ihr Leben lang nach der Stärke der Drachen, ihrer Schönheit und Ehrfurcht gebietenden Präsenz.</text>
+<text id="61100">Eine Schwarzeisenrüstung der Drachenritter.
+Verziert mit den Überresten eines erlegten Drachen – sowohl ein Zeichen stolzer Drachenjäger als auch der Beweis für die Teilnahme an der Kommunion.
+
+Von Geburt an sprechen Drachenritter nicht ein Wort und suchen ihr Leben lang nach der Stärke der Drachen, ihrer Schönheit und Ehrfurcht gebietenden Präsenz.</text>
+<text id="80000">Der Helm von Istvan, dem alten Ritter.
+Das zersetzte Metall ist mit steinharten Schuppen verstärkt, was ihn absolut effektiv gegen nicht körperliche Angriffe macht.
+
+Istvan ist einer der wenigen alten Befleckten, die bis heute überlebt haben.</text>
+<text id="80100">Die Rüstung von Istvan, dem alten Ritter.
+Das zersetzte Metall ist mit steinharten Schuppen verstärkt, was sie absolut effektiv gegen nicht körperliche Angriffe macht.
+
+Istvan ist einer der wenigen alten Befleckten, die bis heute überlebt haben.</text>
+<text id="80200">Die Stulpen von Istvan, dem alten Ritter.
+Das zersetzte Metall ist mit steinharten Schuppen verstärkt, was sie absolut effektiv gegen nicht körperliche Angriffe macht.
+
+Istvan ist einer der wenigen alten Befleckten, die bis heute überlebt haben.</text>
+<text id="80300">Der Beinschutz von Istvan, dem alten Ritter.
+Das zersetzte Metall ist mit steinharten Schuppen verstärkt, was ihn absolut effektiv gegen nicht körperliche Angriffe macht.
+
+Istvan ist einer der wenigen alten Befleckten, die bis heute überlebt haben.</text>
+<text id="81100">Die Rüstung von Istvan, dem alten Ritter.
+Das zersetzte Metall ist mit steinharten Schuppen verstärkt, was sie absolut effektiv gegen nicht körperliche Angriffe macht.
+
+Istvan ist einer der wenigen alten Befleckten, die bis heute überlebt haben.</text>
+<text id="90000">Eine Kapuze der Parfümeure aus der Erdenbaum-Hauptstadt.
+
+Parfümeure waren einst hoch angesehen und galten bei vielen als gesegnete Apotheker. Doch nach der Zertrümmerung wurden sie in den Krieg geschickt, wo die einstigen Heiler ihre Aromaten gegen Gifte und Sprengstoffe eintauschten.</text>
+<text id="90100">Die Robe eines Parfümeurs der Erdenbaum-Hauptstadt.
+
+Die dicke Schürze mit der bestickten Verzierung des Erdenbaums ist ein Beweis, dass dieser Parfümeur ein Meister der Heilkünste war, und ihr Gewicht ist gleichzeitig ein Symbol des Stolzes und der Verantwortung.</text>
+<text id="90200">Handschuhe der Parfümeure aus der Erdenbaum-Hauptstadt.
+
+Parfümeure waren einst hoch angesehen und galten bei vielen als gesegnete Apotheker. Doch nach der Zertrümmerung wurden sie in den Krieg geschickt, wo die einstigen Heiler ihre Aromaten gegen Gifte und Sprengstoffe eintauschten.</text>
+<text id="90300">Ein Sarong der Parfümeure aus der Erdenbaum-Hauptstadt.
+
+Parfümeure waren einst hoch angesehen und galten bei vielen als gesegnete Apotheker. Doch nach der Zertrümmerung wurden sie in den Krieg geschickt, wo die einstigen Heiler ihre Aromaten gegen Gifte und Sprengstoffe eintauschten.</text>
+<text id="91100">Die Robe eines Parfümeurs der Erdenbaum-Hauptstadt.
+
+Die dicke Schürze mit der bestickten Verzierung des Erdenbaums ist ein Beweis, dass dieser Parfümeur ein Meister der Heilkünste war, und ihr Gewicht ist gleichzeitig ein Symbol des Stolzes und der Verantwortung.</text>
+<text id="100000">Der Hut eines unbekannten Parfümeurs auf Reisen.
+
+Als Verbündeter eines Heilers ist er angeblich auf der Suche nach neuen Arzneidüften und Blumengärten, um Scheusale, Male und alle anderen zu behandeln, die als unrein gelten.</text>
+<text id="100100">Die Kleidung eines unbekannten Parfümeurs auf Reisen.
+
+Die dicke Schürze, das typische Kennzeichen der Parfümeure, wurde durch eine einfache weiche Lederschürze ersetzt.</text>
+<text id="100200">Die Handschuhe eines unbekannten Parfümeurs auf Reisen.
+
+Als Verbündeter eines Heilers ist er angeblich auf der Suche nach neuen Arzneidüften und Blumengärten, um Scheusale, Male und alle anderen zu behandeln, die als unrein gelten.</text>
+<text id="100300">Die Hose eines unbekannten Parfümeurs auf Reisen.
+
+Als Verbündeter eines Heilers ist er angeblich auf der Suche nach neuen Arzneidüften und Blumengärten, um Scheusale, Male und alle anderen zu behandeln, die als unrein gelten.</text>
+<text id="101100">Die Kleidung eines unbekannten Parfümeurs auf Reisen.
+
+Die dicke Schürze, das typische Kennzeichen der Parfümeure, wurde durch eine einfache weiche Lederschürze ersetzt.</text>
+<text id="120000">Der Spitzhut des Rasenden Alberich.
+Die roten Schimmersteine entstehen angeblich aus dem Blut von Opfern.
+Verstärkt Dornenzaubereien.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="120100">Die Robe des Rasenden Alberich.
+Die roten Schimmersteine entstehen angeblich aus dem Blut von Opfern.
+Verstärkt Dornenzaubereien.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="120200">Der Armschutz des Rasenden Alberich.
+Die roten Schimmersteine entstehen angeblich aus dem Blut von Opfern.
+Verstärkt Dornenzaubereien.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="120300">Die Hose des Rasenden Alberich.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="121000">Eine veränderte Variante des Spitzhuts des Rasenden Alberich.
+Die roten Schimmersteine entstehen angeblich aus dem Blut von Opfern.
+Verstärkt Dornenzaubereien.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="121100">Die Robe des Rasenden Alberich.
+
+Alberich war ein kluger, aber verstörter und ketzerischer Zauberer, den der ständige Hohn im Dienst der Tafelrundfeste letztendlich in den Wahnsinn trieb.</text>
+<text id="130000">Der Spitzhut des Schimmersteinzauberers Rogier, ein Zeichen der Ketzer.
+Verstärkt Talente der Schimmersteinzauberei.
+
+Sein Leben lang zeigte Rogier keinerlei Gefühlsregung. Niemand bemerkte seinen Zorn, seine Trauer, sein Bedauern oder seine Furcht.</text>
+<text id="130100">Die Reiserobe des Schimmersteinzauberers Rogier, verziert mit filigranen Mustern der Adligen.
+Verstärkt Talente der Schimmersteinzauberei.
+
+Sein Leben lang zeigte Rogier keinerlei Gefühlsregung. Niemand bemerkte seinen Zorn, seine Trauer, sein Bedauern oder seine Furcht.</text>
+<text id="130200">Die Handschuhe des Schimmersteinzauberers Rogier, verziert mit filigranen Mustern der Adligen.
+Verstärkt Talente der Schimmersteinzauberei.
+
+Sein Leben lang zeigte Rogier keinerlei Gefühlsregung. Niemand bemerkte seinen Zorn, seine Trauer, sein Bedauern oder seine Furcht.</text>
+<text id="130300">Die Hose des Schimmersteinzauberers Rogier, verziert mit filigranen Mustern der Adligen.
+Verstärkt Talente der Schimmersteinzauberei.
+
+Sein Leben lang zeigte Rogier keinerlei Gefühlsregung. Niemand bemerkte seinen Zorn, seine Trauer, sein Bedauern oder seine Furcht.</text>
+<text id="131100">Die Reiserobe des Schimmersteinzauberers Rogier, verziert mit filigranen Mustern der Adligen.
+Verstärkt Talente der Schimmersteinzauberei.
+
+Sein Leben lang zeigte Rogier keinerlei Gefühlsregung. Niemand bemerkte seinen Zorn, seine Trauer, sein Bedauern oder seine Furcht.</text>
+<text id="140000">Der Helm des großen gehörnten Tragoth, verziert mit einem goldenen Widdermotiv. Verstärkt Euer Gleichgewicht enorm.
+
+Der Ritter Tragoth ist überall für seine Hilfe berühmt. Unzählige Befleckte hätten ohne die Unterstützung des Gehörnten im Zwischenland gewiss ihr Leben verloren.</text>
+<text id="140100">Die Rüstung des großen gehörnten Tragoth, verleiht ihrem Träger zwei gewaltige Hörner, die das Gleichgewicht stärken.
+
+Der Ritter Tragoth ist überall für seine Hilfe berühmt. Unzählige Befleckte hätten ohne die Unterstützung des Gehörnten im Zwischenland gewiss ihr Leben verloren.</text>
+<text id="140200">Die Stulpen des großen gehörnten Tragoth, verziert mit einem goldenen Widdermotiv. Verstärken Euer Gleichgewicht enorm.
+
+Der Ritter Tragoth ist überall für seine Hilfe berühmt. Unzählige Befleckte hätten ohne die Unterstützung des Gehörnten im Zwischenland gewiss ihr Leben verloren.</text>
+<text id="140300">Der Beinschutz des großen gehörnten Tragoths, verziert mit einem goldenen Widdermotiv. Verstärkt Euer Gleichgewicht enorm.
+
+Der Ritter Tragoth ist überall für seine Hilfe berühmt. Unzählige Befleckte hätten ohne die Unterstützung des Gehörnten im Zwischenland gewiss ihr Leben verloren.</text>
+<text id="150000">Der Eisenkasa des Mannes, der sich selbst Shabriri nennt.
+Speziell so hergestellt, dass er geflochtenen Strohhüten aus dem Schilfland ähnelt.
+
+Das Herz dieses Mannes, einst als Yura bekannt, schlug sein Leben lang nur für eine Frau.</text>
+<text id="150100">Die Rüstung des Mannes, der sich selbst Shabriri nennt.
+Rein funktionell und viel getragen.
+
+Das Herz dieses Mannes, einst als Yura bekannt, schlug sein Leben lang nur für eine Frau.</text>
+<text id="150200">Die Stulpen des Mannes, der sich selbst Shabriri nennt.
+Rein funktionell und viel getragen.
+
+Das Herz dieses Mannes, einst als Yura bekannt, schlug sein Leben lang nur für eine Frau.</text>
+<text id="150300">Der Beinschutz des Mannes, der sich selbst Shabriri nennt.
+Rein funktionell und viel getragen.
+
+Das Herz dieses Mannes, einst als Yura bekannt, schlug sein Leben lang nur für eine Frau.</text>
+<text id="151100">Die Rüstung des Mannes, der sich selbst Shabriri nennt.
+Rein funktionell und viel getragen.
+
+Das Herz dieses Mannes, einst als Yura bekannt, schlug sein Leben lang nur für eine Frau.</text>
+<text id="160000">Ein grober olivbrauner Kapuzenmantel.
+
+Der Kragen aus angespitzten Ästen weist ihn als Kleidung jener aus, die geringer Verbrechen beschuldigt wurden.</text>
+<text id="160100">Kleidung aus einem groben Material, absolut gängig im Zwischenland.</text>
+<text id="160200">Ärmel aus einem groben Material.
+Kleidungsstück der verschmähten Befleckten,
+die im Zwischenland in die Sklaverei
+gezwungen wurden.</text>
+<text id="160300">Eine Hose aus einem groben Material, absolut gängig im Zwischenland.</text>
+<text id="170000">Eine Maske gefertigt nach dem Kopf eines schwarzen Wolfes.
+
+Das Relikt eines Assassinen, der sich als treuer Schatten von Ranni der Hexe ausgab. Die Ähnlichkeit ist verblüffend.</text>
+<text id="170100">Die viel getragene Rüstung von Blaidd dem Halbwolf.
+
+Der Pelz dient als Mantel und schützt vor Kälte.
+Blaidd war Rannis Klinge, aber die Kälte machte ihm trotzdem zu schaffen.</text>
+<text id="170200">Die viel getragenen Stulpen von Blaidd dem Halbwolf.
+
+Blaidd diente Ranni als treuer Schatten und hätte eher Tod und Schicksal getrotzt, als seine Lady zu verraten.</text>
+<text id="170300">Der viel getragene Beinschutz von Blaidd dem Halbwolf.
+
+Blaidd diente Ranni als treuer Schatten und hätte eher Tod und Schicksal getrotzt, als seine Lady zu verraten.</text>
+<text id="171100">Die viel getragene Rüstung von Blaidd dem Halbwolf.
+
+Blaidd diente Ranni als treuer Schatten und hätte eher Tod und Schicksal getrotzt, als seine Lady zu verraten.</text>
+<text id="180000">Eine Kapuze von den Assassinen der Schwarzen Klinge.
+
+Diese Assassinen, berüchtigt durch die Nacht der Schwarzen Messer, waren allesamt Frauen und angeblich sogar Numen, die für ihre enge Verbindung zu Marika bekannt sind.</text>
+<text id="180100">Eine schwarze lautlose Schuppenrüstung von den Assassinen der Schwarzen Klinge.
+
+Die Macht ihres Schleiers ist noch nicht verflogen und dämpft die Schritte des Trägers.
+
+Diese Assassinen, berüchtigt durch die Nacht der Schwarzen Messer, waren allesamt Frauen und angeblich sogar Numen, die für ihre enge Verbindung zu Marika bekannt sind.</text>
+<text id="180200">Stulpen von den Assassinen der Schwarzen Klinge.
+Hergestellt aus absolut lautlosen Schuppen.
+
+Diese Assassinen, berüchtigt durch die Nacht der Schwarzen Messer, waren allesamt Frauen und angeblich sogar Numen, die für ihre enge Verbindung zu Marika bekannt sind.</text>
+<text id="180300">Ein Beinschutz von den Assassinen der Schwarzen Klinge.
+Hergestellt aus absolut lautlosen Schuppen.
+
+Diese Assassinen, berüchtigt durch die Nacht der Schwarzen Messer, waren allesamt Frauen und angeblich sogar Numen, die für ihre enge Verbindung zu Marika bekannt sind.</text>
+<text id="181100">Eine Rüstung von den Assassinen der Schwarzen Klinge.
+Hergestellt aus absolut lautlosen Schuppen.
+
+Diese Assassinen, berüchtigt durch die Nacht der Schwarzen Messer, waren allesamt Frauen und angeblich sogar Numen, die für ihre enge Verbindung zu Marika bekannt sind.</text>
+<text id="190000">Eine dunkelrote Kapuze, die den gesamten Kopf bedeckt.
+
+Soldaten, die in die Strafkolonien geschickt wurden, mussten sie tragen, um ihr Gesicht zu verhüllen.</text>
+<text id="190100">Eine beschädigte Rüstung umhüllt mit einem großen tiefroten Tuch.
+Die Kleidung der Soldaten, die in die Strafkolonien geschickt wurden.</text>
+<text id="190200">Beschädigte Eisenstulpen.
+Die Kleidung der Soldaten, die in die Strafkolonien geschickt wurden.</text>
+<text id="190300">Ein beschädigter Eisenbeinschutz.
+Die Kleidung der Soldaten, die in die Strafkolonien geschickt wurden.</text>
+<text id="200000">Eine dicke vollständige Rüstung, die den gesamten Körper bedeckt.
+Der Helm gehörte enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+Vielleicht sollte der tiefrote Schal den Wind abhalten, denn in den Randgebieten sticht der Wind schlimmer als tausend Insekten.</text>
+<text id="200100">Eine dicke vollständige Rüstung, die den gesamten Körper bedeckt.
+Stammt von enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+All diese Ritter waren berühmte und hoch dekorierte Kämpfer. Darum behielten sie wohl auch ihren Rittertitel – trotz der Enteignung.</text>
+<text id="200200">Diese Stulpen sind Teil einer dicken vollständigen Rüstung, die den gesamten Körper bedeckt.
+Sie stammen von enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+All diese Ritter waren berühmte und hoch dekorierte Kämpfer. Darum behielten sie wohl auch ihren Rittertitel – trotz der Enteignung.</text>
+<text id="200300">Eine dicke vollständige Rüstung, die den gesamten Körper bedeckt.
+Der Beinshutz gehörte enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+All diese Ritter waren berühmte und hoch dekorierte Kämpfer. Darum behielten sie wohl auch ihren Rittertitel – trotz der Enteignung.</text>
+<text id="201000">Eine dicke vollständige Rüstung, die den gesamten Körper bedeckt.
+Der Helm gehörte enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+All diese Ritter waren berühmte und hoch dekorierte Kämpfer. Darum behielten sie wohl auch ihren Rittertitel – trotz der Enteignung.</text>
+<text id="201100">Teil einer dicken vollständigen Rüstung, die den gesamten Körper bedeckt.
+Stammt von enteigneten Rittern, die durch Verfehlung oder unglückliche Umstände ihre Heimat verloren hatten.
+
+All diese Ritter waren berühmte und hoch dekorierte Kämpfer. Darum behielten sie wohl auch ihren Rittertitel – trotz der Enteignung.</text>
+<text id="210000">Ein ramponierter Eisenhelm aus einem fremden Land.
+Elemer von den Dornen hat ihn einst getragen.
+
+Die gewundenen und verrosteten Eisendornen beweisen die Schuld des Trägers, der wahrscheinlich sogar zum Tode verurteilt ist. Dank ihnen fügt diese Rüstung beim Ausweichrollen auch Schaden hinzu.
+
+Elemer ermordete zahllose Ausbilder und Händler und war als Klangperlenjäger bekannt.</text>
+<text id="210100">Eine ramponierte Eisenrüstung aus einem fremden Land.
+Elemer von den Dornen hat sie einst getragen.
+
+Die gewundenen und verrosteten Eisendornen beweisen die Schuld des Trägers, der wahrscheinlich sogar zum Tode verurteilt ist. Dank ihnen fügt diese Rüstung beim Ausweichrollen auch Schaden hinzu.
+
+Elemer ermordete zahllose Ausbilder und Händler und war als Klangperlenjäger bekannt.</text>
+<text id="210200">Ramponierte Stulpen aus einem fremden Land.
+Elemer von den Dornen hat sie einst getragen.
+
+Die gewundenen und verrosteten Eisendornen beweisen die Schuld des Trägers, der wahrscheinlich sogar zum Tode verurteilt ist. Dank ihnen fügt diese Rüstung beim Ausweichrollen auch Schaden hinzu.
+
+Elemer ermordete zahllose Ausbilder und Händler und war als Klangperlenjäger bekannt.</text>
+<text id="210300">Ein ramponierter Beinschutz aus einem fremden Land.
+Elemer von den Dornen hat ihn einst getragen.
+
+Die gewundenen und verrosteten Eisendornen beweisen die Schuld des Trägers, der wahrscheinlich sogar zum Tode verurteilt ist. Dank ihnen fügt diese Rüstung beim Ausweichrollen auch Schaden hinzu.
+
+Elemer ermordete zahllose Ausbilder und Händler und war als Klangperlenjäger bekannt.</text>
+<text id="211100">Eine ramponierte Eisenrüstung aus einem fremden Land.
+Elemer von den Dornen hat sie einst getragen.
+
+Die gewundenen und verrosteten Eisendornen beweisen die Schuld des Trägers, der wahrscheinlich sogar zum Tode verurteilt ist. Dank ihnen fügt diese Rüstung beim Ausweichrollen auch Schaden hinzu.
+
+Elemer ermordete zahllose Ausbilder und Händler und war als Klangperlenjäger bekannt.</text>
+<text id="220000">Eine Kapuze der Pagen, die Adligen dienen und sie vor allen Gefahren beschützen.
+
+Die sackartige Form passt zu diesen fast unsichtbaren und unbekannten Gestalten.</text>
+<text id="220100">Ein Gewand der Pagen, die Adligen dienen und sie vor allen Gefahren beschützen.
+
+Diese Reisekleidung ist eine meisterhafte Maßanfertigung, damit sie keine Schande über ihre Herrschaften bringen.</text>
+<text id="220300">Eine Hose der Pagen, die Adligen dienen und sie vor allen Gefahren beschützen.
+
+Diese Reisekleidung ist eine meisterhafte Maßanfertigung, damit sie keine Schande über ihre Herrschaften bringen.</text>
+<text id="221100">Ein Gewand der Pagen, die Adligen dienen und sie vor allen Gefahren beschützen.
+
+Diese Reisekleidung ist eine meisterhafte Maßanfertigung, damit sie keine Schande über ihre Herrschaften bringen.</text>
+<text id="230000">Ein pechschwarzer Helm mit wehender schwarzer Mähne.
+Er stammt von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="230100">Eine pechschwarze Rüstung, dünn mit getrocknetem Blut bemalt.
+Sie stammt von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="230200">Pechschwarze Stulpen, dünn mit getrocknetem Blut bemalt.
+Sie stammen von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="230300">Ein pechschwarzer Beinschutz, dünn mit getrocknetem Blut bemalt.
+Er stammt von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="231000">Ein pechschwarzer Helm, dünn mit getrocknetem Blut bemalt.
+Er stammt von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="231100">Eine pechschwarze Rüstung, dünn mit getrocknetem Blut bemalt.
+Sie stammt von den Dunkelkavalleristen, die auf Grabrossen in den Kampf reiten.
+
+Die Dunkelkavalleristen, die nun ziellos durch die nächtlichen Straßen ziehen, wurden einst von dem Grausamen Mal geführt und brachten vielen großen Kriegern, Rittern und Helden den Tod.</text>
+<text id="240000">Eine Kettenhaube aus Blausilber.
+Stammt von den albinaurischen Bogenschützen, die auf Wölfen in den Kampf ziehen.
+
+Die Mutter der Schützen erschuf auch das Blausilber, um sie vor Magie und Frost zu bewahren.</text>
+<text id="240100">Eine Kettenrüstung aus Blausilber.
+Stammt von den albinaurischen Bogenschützen, die auf Wölfen in den Kampf ziehen.
+
+Die Mutter der Schützen erschuf auch das Blausilber, um sie vor Magie und Frost zu bewahren.</text>
+<text id="240200">Armreife aus Blausilber.
+Stammen von den albinaurischen Bogenschützen, die auf Wölfen in den Kampf ziehen.
+
+Die Mutter der Schützen erschuf auch das Blausilber, um sie vor Magie und Frost zu bewahren.</text>
+<text id="240300">Ein Kettenrock aus Blausilber.
+Stammt von den albinaurischen Bogenschützen, die auf Wölfen in den Kampf ziehen.
+
+Die Mutter der Schützen erschuf auch das Blausilber, um sie vor Magie und Frost zu bewahren.</text>
+<text id="241100">Eine Kettenrüstung aus Blausilber.
+Stammt von den albinaurischen Bogenschützen, die auf Wölfen in den Kampf ziehen.
+
+Die Mutter der Schützen erschuf auch das Blausilber, um sie vor Magie und Frost zu bewahren.</text>
+<text id="250000">Ein Hut der nomadischen Händler verziert mit winzigen Edelsteinen in vielen Farben.
+
+Einst florierte das Geschäft dieser Händler, als sie noch als Große Karawane durch die Lande zogen, aber dann wurde der gesamte Clan der Ketzerei beschuldigt und tief unter der Erde lebendig begraben.
+
+In ihrer Verzweiflung erhoben sie gemeinsam die Stimmen und beschworen die Rasende Flamme.</text>
+<text id="250100">Ein edles Gewand der nomadischen Händler verziert mit winzigen Edelsteinen in vielen Farben.
+
+Einst florierte das Geschäft dieser Händler, als sie noch als Große Karawane durch die Lande zogen, aber dann wurde der gesamte Clan der Ketzerei beschuldigt und tief unter der Erde lebendig begraben.
+
+In ihrer Verzweiflung erhoben sie gemeinsam die Stimmen und beschworen die Rasende Flamme.</text>
+<text id="250300">Eine Hose der nomadischen Händler.
+
+Einst florierte das Geschäft dieser Händler, als sie noch als Große Karawane durch die Lande zogen, aber dann wurde der gesamte Clan der Ketzerei beschuldigt und tief unter der Erde lebendig begraben.
+
+In ihrer Verzweiflung erhoben sie gemeinsam die Stimmen und beschworen die Rasende Flamme.</text>
+<text id="251100">Ein edles Gewand der nomadischen Händler verziert mit winzigen Edelsteinen in vielen Farben.
+
+Einst florierte das Geschäft dieser Händler, als sie noch als Große Karawane durch die Lande zogen, aber dann wurde der gesamte Clan der Ketzerei beschuldigt und tief unter der Erde lebendig begraben.
+
+In ihrer Verzweiflung erhoben sie gemeinsam die Stimmen und beschworen die Rasende Flamme.</text>
+<text id="260000">Ein deformierter goldener Helm.
+Er ist mit verschiedenen Teilen eines Drachen verziert und stammt von den missgebildeten Baumwächtern.
+
+Nach dem Angriff des großen uralten Drachen Gransax kam den Wächtern die Erleuchtung: Sie können den Erdenbaum nur beschützen, indem sie selbst zu Drachen werden!</text>
+<text id="260100">Eine deformierte goldene Rüstung.
+Sie ist mit verschiedenen Bildern eines Drachen verziert und stammt von den missgebildeten Baumwächtern.
+
+Nach dem Angriff des großen uralten Drachen Gransax kam den Wächtern die Erleuchtung: Sie können den Erdenbaum nur beschützen, indem sie selbst zu Drachen werden!</text>
+<text id="260200">Deformierte goldene Stulpen.
+Sie sind mit verschiedenen Bildern eines Drachen verziert und stammen von den missgebildeten Baumwächtern.
+
+Nach dem Angriff des großen uralten Drachen Gransax kam den Wächtern die Erleuchtung: Sie können den Erdenbaum nur beschützen, indem sie selbst zu Drachen werden!</text>
+<text id="260300">Ein deformierter goldener Beinschutz.
+Er ist mit verschiedenen Bildern eines Drachen verziert und stammt von den missgebildeten Baumwächtern.
+
+Nach dem Angriff des großen uralten Drachen Gransax kam den Wächtern die Erleuchtung: Sie können den Erdenbaum nur beschützen, indem sie selbst zu Drachen werden!</text>
+<text id="270000">Ein goldener Helm der schweren Baumwächterkavalleristen, die dem Erdenbaum dienen.
+
+Nur Wenigen ist es gestattet, ein goldenes Holzwappen von solch stattlicher Größe wie auf diesem Helm zu tragen.</text>
+<text id="270100">Eine goldene Rüstung der schweren Baumwächterkavalleristen, die dem Erdenbaum dienen.
+
+Verziert mit einem Umhang, auf dem das Zeichen des heiligen Baumes prangt.
+
+Unglaublich robust und nahezu unzerstörbar ist sie immer noch von dem alten Segen erfüllt.</text>
+<text id="270200">Goldene Stulpen der schweren Baumwächterkavalleristen, die dem Erdenbaum dienen.
+
+Unglaublich robust und nahezu unzerstörbar sind sie immer noch von dem alten Segen erfüllt.</text>
+<text id="270300">Ein goldener Beinschutz der schweren Baumwächterkavalleristen, die dem Erdenbaum dienen.
+
+Unglaublich robust und nahezu unzerstörbar ist er immer noch von dem alten Segen erfüllt.</text>
+<text id="271100">Eine goldene Rüstung der schweren Baumwächterkavalleristen, die dem Erdenbaum dienen.
+
+Unglaublich robust und nahezu unzerstörbar ist sie immer noch von dem alten Segen erfüllt.</text>
+<text id="280000">Der silberne Helm der Ritterin Loretta, die Miquellas Haligbaum diente.
+
+Loretta, früher eine königliche Ritterin Carias, begab sich auf eine lange Reise, um eine Zuflucht für die Albinaurics zu suchen. Sie war überzeugt, der Haligbaum wäre ihre beste Chance auf die lang ersehnte Erlösung.</text>
+<text id="280100">Die silberne Rüstung der Ritterin Loretta, die Miquellas Haligbaum diente.
+
+Loretta war früher eine königliche Ritterin Carias und ihr lapislazuliblauer Umhang ist ein Symbol ihres ritterlichen Stolzes, der bis heute ihre Schritte lenkt.</text>
+<text id="280200">Die silbernen Stulpen der Ritterin Loretta, die Miquellas Haligbaum diente.
+
+Loretta, früher eine königliche Ritterin Carias, begab sich auf eine lange Reise, um eine Zuflucht für die Albinaurics zu suchen. Sie war überzeugt, der Haligbaum wäre ihre beste Chance auf die lang ersehnte Erlösung.</text>
+<text id="280300">Der silberne Beinschutz der Ritterin Loretta, die Miquellas Haligbaum diente.
+
+Loretta, früher eine königliche Ritterin Carias, begab sich auf eine lange Reise, um eine Zuflucht für die Albinaurics zu suchen. Sie war überzeugt, der Haligbaum wäre ihre beste Chance auf die lang ersehnte Erlösung.</text>
+<text id="281100">Die silberne Rüstung der Ritterin Loretta, die Miquellas Haligbaum diente.
+
+Loretta, früher eine königliche Ritterin Carias, begab sich auf eine lange Reise, um eine Zuflucht für die Albinaurics zu suchen. Sie war überzeugt, der Haligbaum wäre ihre beste Chance auf die lang ersehnte Erlösung.</text>
+<text id="290000">Eine Seidenkapuze der Mönche aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="290100">Eine Rüstung mit Seidenumhang der Mönche aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="290200">Mönchsarmreife aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="290300">Ein Mönchsbeinschutz aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="291000">Eine Kapuze der Mönche aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="291100">Eine Rüstung der Mönche aus der Ewigen Stadt.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="292000">Die Krone einer Schwertmaid aus der Ewigen Stadt.
+Diese Frauen sind die Leibwache der Nachtjungfern, und die Seide verbirgt ihre Augen.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="292100">Die Rüstung einer Schwertmaid aus der Ewigen Stadt.
+Diese Frauen sind die Leibwache der Nachtjungfern und tragen Umhänge aus Seide.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="293000">Eine Doppelkrone der Nachtjungfern aus der Ewigen Stadt.
+Sie ist ein Zeichen für den höchsten Rang des Klerus und verdeckt die Augen des Trägers mit Seide.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="293100">Eine Rüstung der Nachtjungfern aus der Ewigen Stadt.
+Sie ist ein Zeichen für den höchsten Rang des Klerus und wird mit einem Seidenumhang getragen.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und ihren Fürsten der Nacht.</text>
+<text id="294000">Die veränderte Variante der Krone einer Schwertmaid aus der Ewigen Stadt.
+Der seidene Augenschleier wurde entfernt, ein absoluter Bruch mit alten Traditionen.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="294100">Die Rüstung einer Schwertmaid aus der Ewigen Stadt.
+Diese Frauen sind die Leibwache der Nachtjungfern.
+
+Vor langer Zeit erregten die Nox den Zorn des Höheren Willens und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.</text>
+<text id="300000">Ein Stirnband mit einem Paar großer Hörner.
+Stammt von einem Krieger der Ahnenjünger.
+
+Die Ahnenjünger leben in einiger Entfernung vom Erdenbaum und warten auf neue Knospen. Diese werden gewiss bald aus ihren eigenen Körpern und aus ihren Seelen sprießen.</text>
+<text id="300100">Ein Mantel aus borstigem Fell.
+Stammt von einem Krieger der Ahnenjünger.
+
+Die Ahnenjünger leben in einiger Entfernung vom Erdenbaum und warten auf neue Knospen. Diese werden gewiss bald aus ihren eigenen Körpern und aus ihren Seelen sprießen.</text>
+<text id="300300">Gamaschen aus borstigem Fell.
+Stammen von einem Krieger der Ahnenjünger.
+
+Die Ahnenjünger leben in einiger Entfernung vom Erdenbaum und warten auf neue Knospen. Diese werden gewiss bald aus ihren eigenen Körpern und aus ihren Seelen sprießen.</text>
+<text id="301000">Ein Stirnband mit leuchtenden Hörnern.
+Stammt von einem Schamanen der Ahnenjünger.
+
+Hörner mit Knospen, besonders die leuchtenden, sind ideal als zeremonielle Objekte für die Verehrung der Ahnen.</text>
+<text id="301100">Kleidung aus borstigem Fell.
+Stammt von einem Schamanen der Ahnenjünger.
+
+Die Ahnenjünger leben in einiger Entfernung vom Erdenbaum und warten auf neue Knospen. Diese werden gewiss bald aus ihren eigenen Körpern und aus ihren Seelen sprießen.</text>
+<text id="301300">Gamaschen aus borstigem Fell.
+Stammen von einem Schamanen der Ahnenjünger.
+
+Die Ahnenjünger leben in einiger Entfernung vom Erdenbaum und warten auf neue Knospen. Diese werden gewiss bald aus ihren eigenen Körpern und aus ihren Seelen sprießen.</text>
+<text id="310000">Ein Bronzehelm verziert mit unzähligen Schlangen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.
+
+Die Schlange gilt als Verräterin des Erdenbaums, und das Publikum war ganz begeistert, wenn ihre bronzenen Abbilder brutal geschlagen wurden.</text>
+<text id="310100">Dieser dicke borstige Umhang ist ein Symbol der unterirdischen Grabhüter.
+
+Jene, die einst im Kolosseum um ihr Leben kämpften, wurden von dort vertrieben und sind nun Hüter des Erdenbaumbegräbnisses.</text>
+<text id="310300">Ein Beinschutz verziert mit Bronzeschlangen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.
+
+Die Schlange gilt als Verräterin des Erdenbaums, und das Publikum war ganz begeistert, wenn ihre bronzenen Abbilder brutal geschlagen wurden.</text>
+<text id="311100">Schutzausrüstung verziert mit Bronzeschlangen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.
+
+Die Schlange gilt als Verräterin des Erdenbaums, und das Publikum war ganz begeistert, wenn ihre bronzenen Abbilder brutal geschlagen wurden.</text>
+<text id="320000">Eine schwarze Stoffkapuze mit Goldstickerei.
+Stammt von einem der Adligen, die dem Fürsten des Blutes dienen.
+
+Diese Assassinen schlagen bevorzugt aus Blutlachen zu und verbreiten als Missionare die Lehren des verfluchten Blutes.</text>
+<text id="320100">Eine schwarze Stoffrobe mit Goldstickerei.
+Stammt von einem der Adligen, die dem Fürsten des Blutes dienen.
+
+Das große metallische Element an der Schulter symbolisiert den adligen Rang, den der Träger zu Beginn der neuen Dynastie erhalten soll, auf die er hinarbeitet.</text>
+<text id="320300">Ein schwarzes Lendentuch aus Stoff.
+Stammt von einem der Adligen, die dem Fürsten des Blutes dienen.
+
+Diese Assassinen schlagen bevorzugt aus Blutlachen zu und verbreiten als Missionare die Lehren des verfluchten Blutes.</text>
+<text id="330000">Eine gravierte goldene Maske.
+Stammt von den Wächtern Niederer Erdenbäume.
+
+Nach einem alten Pakt mit dem Erdenbaum war der Tod für sie angeblich nicht das Ende, sondern der Anfang eines ewigen Lebens als Wächter.</text>
+<text id="330100">Ein goldenes Gewand mit Gravur.
+Stammt von den Wächtern Niederer Erdenbäume.
+Verstärkt die LP-Regeneration einer Flasche mit Purpurtränen, senkt aber deutlich die Resistenz gegen Feuerschaden.
+
+Angeblich sind die blutroten Blumen, die auf ihren Rücken blühen, eine Folge ihres uralten Pakts. Vielleicht sind die Wächter schon selbst zum Teil Bäume.</text>
+<text id="330200">Goldener gravierter Armschutz.
+Stammt von den Wächtern Niederer Erdenbäume.
+
+Nach einem alten Pakt mit dem Erdenbaum war der Tod für sie angeblich nicht das Ende, sondern der Anfang eines ewigen Lebens als Wächter.</text>
+<text id="330300">Ein goldener gravierter Beinschutz.
+Stammt von den Wächtern Niederer Erdenbäume.
+
+Nach einem alten Pakt mit dem Erdenbaum war der Tod für sie angeblich nicht das Ende, sondern der Anfang eines ewigen Lebens als Wächter.</text>
+<text id="331100">Ein goldenes Gewand mit Gravur.
+Stammt von den Wächtern Niederer Erdenbäume.
+
+Nach einem alten Pakt mit dem Erdenbaum war der Tod für sie angeblich nicht das Ende, sondern der Anfang eines ewigen Lebens als Wächter.</text>
+<text id="340000">Dieser geflügelte Helm stammt von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="340100">Diese Rüstung stammt von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="340200">Diese Stulpen stammen von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="340300">Dieser Beinschutz stammt von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="341000">Dieser geflügelte Helm stammt von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="341100">Diese Rüstung stammt von den berühmten Rittern der Reinfäule, die während der Zertrümmerung niemals besiegt wurden.
+
+Die Ritter der Reinfäule kämpften an Malenias Seite, obwohl ihr Fleisch mit jedem Tag unweigerlich verfaulte. Sie akzeptierten dieses Schicksal freiwillig und waren vielleicht deswegen unbesiegbar.</text>
+<text id="350000">Eine Eisenkettenhaube über einem Stirnband mit Flammengravur.
+Teil des Gewands der Feuermönche.
+
+Die Feuermönche beschützen die Flamme des Ruins und verstoßen damit gegen die Gesetze des Erdenbaums. Sie befindet sich angeblich hoch oben auf den Berggipfeln der Riesen.</text>
+<text id="350100">Eine Schwarzeisenrüstung verziert mit einem roten Tuch.
+Teil des Gewands der Feuermönche.
+
+Die groteske Fratze auf der Brust ist angeblich der verdorbene uralte Gott der Flamme.
+
+Manchmal entwickeln sich Tabus durch Furcht zu einer Besessenheit.</text>
+<text id="350200">Schwarzeisenstulpen mit Flammenmotiv.
+Teil des Gewands der Feuermönche.
+
+Die Feuermönche beschützen die Flamme des Ruins und verstoßen damit gegen die Gesetze des Erdenbaums. Sie befindet sich angeblich hoch oben auf den Berggipfeln der Riesen.</text>
+<text id="350300">Ein Schwarzeisenbeinschutz mit Flammenmotiv.
+Teil des Gewands der Feuermönche.
+
+Die Feuermönche beschützen die Flamme des Ruins und verstoßen damit gegen die Gesetze des Erdenbaums. Sie befindet sich angeblich hoch oben auf den Berggipfeln der Riesen.</text>
+<text id="351000">Eine Eisenkettenhaube über einem Stirnband mit Flammengravur.
+Teil des Gewands der Schwarzflammenmönche.
+
+Die Schwarzflammenmönche verehren die göttertötende Schwarze Flamme, und wurden so zu Verrätern. Selbst für Hüter scheint es manchmal unmöglich, der Verlockung eines Tabus zu widerstehen.</text>
+<text id="351100">Eine Goldeneisenrüstung mit aschefarbenem Tuch.
+Teil des Gewands der Schwarzflammenmönche.
+
+Die Schwarzflammenmönche verehren die göttertötende Schwarze Flamme, und wurden so zu Verrätern. Selbst für Hüter scheint es manchmal unmöglich, der Verlockung eines Tabus zu widerstehen.</text>
+<text id="351200">Goldeneisenstulpen mit Flammenmotiv.
+Teil des Gewands der Schwarzflammenmönche.
+
+Die Schwarzflammenmönche verehren die göttertötende Schwarze Flamme, und wurden so zu Verrätern. Selbst für Hüter scheint es manchmal unmöglich, der Verlockung eines Tabus zu widerstehen.</text>
+<text id="351300">Ein Goldeneisenbeinschutz mit Flammenmotiv.
+Teil des Gewands der Schwarzflammenmönche.
+
+Die Schwarzflammenmönche verehren die göttertötende Schwarze Flamme, und wurden so zu Verrätern. Selbst für Hüter scheint es manchmal unmöglich, der Verlockung eines Tabus zu widerstehen.</text>
+<text id="360000">Ein Helm mit heiligem Antlitz und einem Kessel.
+Teil des Gewands der Feuerprälaten, ihres Zeichens Kommandeure der Feuermönche.
+
+Es heißt, der Kessel oben am Helm sei ursprünglich mit Glut gefüllt gewesen, aus der eine Flamme schoss, wenn der Glaube des Trägers seinen Höhepunkt erreichte. Das Feuer dieses Kessels ist jedoch erloschen.</text>
+<text id="360100">Eine Schwarzeisenrüstung verziert mit rotem Stoff.
+Teil des Gewands der Feuerprälaten, ihres Zeichens Kommandeure der Feuermönche.
+
+Die gewaltige Statur der Prälaten ist ein Symbol für die schwere Verantwortung, die sie als Hüter der Flamme tragen. "Brennt dies in Eure Brust als Zeichen meiner Macht."</text>
+<text id="360200">Schwarzeisenstulpen nach dem Vorbild lodernder Flammen.
+Teil des Gewands der Feuerprälaten, ihres Zeichens Kommandeure der Feuermönche.
+
+Die gewaltige Statur der Prälaten ist ein Symbol für die schwere Verantwortung, die sie als Hüter der Flamme tragen. "Brennt dies in Eure Brust als Zeichen meiner Macht."</text>
+<text id="360300">Ein Schwarzeisenbeinschutz nach dem Vorbild lodernder Flammen.
+Teil des Gewands der Feuerprälaten, ihres Zeichens Kommandeure der Feuermönche.
+
+Die gewaltige Statur der Prälaten ist ein Symbol für die schwere Verantwortung, die sie als Hüter der Flamme tragen. "Brennt dies in Eure Brust als Zeichen meiner Macht."</text>
+<text id="361100">Eine Schwarzeisenrüstung.
+Teil des Gewands der Feuerprälaten, ihres Zeichens Kommandeure der Feuermönche.
+
+Die gewaltige Statur der Prälaten ist ein Symbol für die schwere Verantwortung, die sie als Hüter der Flamme tragen. "Brennt dies in Eure Brust als Zeichen meiner Macht."</text>
+<text id="370000">Ein kostbares Stirnband mit feiner Goldverzierung.
+Die Reisekleidung eines Adligen aus der Hauptstadt.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="370100">Kleidung aus erlesenem Stoff mit feiner Goldstickerei.
+Die Reisekleidung eines Adligen aus der Hauptstadt. Furchtbar ausgebleicht und zerrissen.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="370300">Stiefel aus gegerbtem Leder.
+Die Reisekleidung eines Adligen aus der Hauptstadt.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="371100">Kleidung aus erlesenem Stoff mit feiner Goldstickerei.
+Die Reisekleidung eines Adligen aus der Hauptstadt. Furchtbar ausgebleicht und zerrissen.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="380000">Ein Lederhut mit einer zerzausten Feder.
+Die Reisekleidung eines Adligen aus der Hauptstadt, unter dessen Ahnen angeblich ein Ritter war.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="380100">Ein gegerbter Ledermantel mit feiner Goldstickerei.
+Die Reisekleidung eines Adligen aus der Hauptstadt, unter dessen Ahnen angeblich ein Ritter war.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="390000">Eine weiche Stoffhaube.
+Die Reisekleidung eines Adligen aus der Hauptstadt. Bei älteren Leuten beliebt.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="390100">Ein weiches Stoffgewand mit feiner Goldstickerei.
+Die Reisekleidung eines Adligen aus der Hauptstadt. Bei älteren Leuten beliebt.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="390300">Robuste Schuhe aus Leder.
+Die Reisekleidung eines Adligen aus der Hauptstadt. Bei älteren Leuten beliebt.
+
+Diese untoten Wanderer verließen ihre Heimat nach der Zertrümmerung. Sie sind das mitleiderregende Resultat des endlosen Lebens.</text>
+<text id="420000">Ein Helm beinharter, dreckiger und niederer Soldaten.
+
+Die obere Verlängerung lässt den Träger größer wirken. Nicht viel, aber etwas.</text>
+<text id="420100">Die Rüstung eines beinharten dreckigen Soldaten.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten – an diesen Orten halten die niederen Soldaten unermüdlich Wacht.</text>
+<text id="420200">Die Handschuhe eines beinharten dreckigen Soldaten.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten – an diesen Orten halten die niederen Soldaten unermüdlich Wacht.</text>
+<text id="420300">Der Beinschutz eines beinharten, dreckigen Soldaten.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten – an diesen Orten halten niedere Soldaten unermüdlich Wacht.</text>
+<text id="430000">Eine weinrote Spitzkapuze.
+Teil des Gewands der als Ketzer beschuldigten Weisen.
+
+Ein Beweis, dass ihr Träger aus der Stadt verbannt wurde.</text>
+<text id="430100">Eine weinrote Robe.
+Teil des Gewands der als Ketzer beschuldigten Weisen.
+
+Ein Beweis, dass ihr Träger aus der Stadt verbannt wurde.</text>
+<text id="430300">Eine weinrote Hose.
+Teil des Gewands der als Ketzer beschuldigten Weisen.
+
+Ein Beweis, dass ihr Träger aus der Stadt verbannt wurde.</text>
+<text id="440000">Ovaler Helm, der jeden Kopf bedecken kann.
+Sehr schwer und hart.
+Verringert den durch Kollisionen und Kopfschüsse erlittenen Schaden.
+
+Das Helminnere ist pechschwarz und beruhigt den panischen Krieger darin. Vielleicht wirkt das geräumige Innere auch dem Druck und der Klaustrophobie entgegen.</text>
+<text id="460000">Die Krone von Godfrey, erster Eldenfürst.
+
+Das Zeitalter des Erdenbaums begann mit vielen Schlachten unter dem Banner von Godfrey.
+
+Er führte den Krieg gegen die Riesen. Er stellte sich allein dem Fürsten der Stürme. Und dann, als sein letzter würdiger Gegner fiel, erloschen auch der Glanz und die Farbe in Godfreys Augen. So lautet zumindest eine Legende.</text>
+<text id="460100">Die Rüstung von Godfrey, erster Eldenfürst.
+
+Das Zeitalter des Erdenbaums begann mit vielen Schlachten unter dem Banner von Godfrey.
+
+Er führte den Krieg gegen die Riesen. Er stellte sich allein dem Fürsten der Stürme. Und dann, als sein letzter würdiger Gegner fiel, erloschen auch der Glanz und die Farbe in Godfreys Augen. So lautet zumindest eine Legende.</text>
+<text id="460200">Der Armschutz von Godfrey, erster Eldenfürst.
+
+Das Zeitalter des Erdenbaums begann mit vielen Schlachten unter dem Banner von Godfrey.
+
+Er führte den Krieg gegen die Riesen. Er stellte sich allein dem Fürsten der Stürme. Und dann, als sein letzter würdiger Gegner fiel, erloschen auch der Glanz und die Farbe in Godfreys Augen. So lautet zumindest eine Legende.</text>
+<text id="460300">Der Beinschutz von Godfrey, erster Eldenfürst.
+
+Das Zeitalter des Erdenbaums begann mit vielen Schlachten unter dem Banner von Godfrey.
+
+Er führte den Krieg gegen die Riesen. Er stellte sich allein dem Fürsten der Stürme. Und dann, als sein letzter würdiger Gegner fiel, erloschen auch der Glanz und die Farbe in Godfreys Augen. So lautet zumindest eine Legende.</text>
+<text id="461100">Die Rüstung von Godfrey, erster Eldenfürst.
+
+Das Zeitalter des Erdenbaums begann mit vielen Schlachten unter dem Banner von Godfrey.
+
+Er führte den Krieg gegen die Riesen. Er stellte sich allein dem Fürsten der Stürme. Und dann, als sein letzter würdiger Gegner fiel, erloschen auch der Glanz und die Farbe in Godfreys Augen. So lautet zumindest eine Legende.</text>
+<text id="470000">Ein Helm des goldenen Löwen mit wehender roter Mähne.
+Einst getragen von General Radahn.
+
+Radahn erbte das flammendrote Haar seines Vaters Radagon und liebt seine heroische Symbolkraft.
+
+"Ich war der Sohn eines Helden. Nun diene ich dem Fürsten der Schlacht als Löwe."</text>
+<text id="470100">Eine Rüstung des goldenen Löwen.
+Einst getragen von General Radahn.
+
+Der goldene Löwe ist das Symbol von Godfrey, dem Ersten Eldenfürsten, und seines Bestienregenten, Serosh. Seit seiner Kindheit war Radahn von dem Fürsten der Schlacht fasziniert.</text>
+<text id="470200">Stulpen des goldenen Löwen.
+Einst getragen von General Radahn.
+
+Der goldene Löwe ist das Symbol von Godfrey dem ersten Fürsten und seines Bestienregenten Serosh. Seit seiner Kindheit war Radahn von dem Fürsten der Schlacht fasziniert.</text>
+<text id="470300">Der Beinschutz des goldenen Löwen.
+Einst getragen von General Radahn.
+
+Der goldene Löwe ist das Symbol von Godfrey dem ersten Fürsten und seines Bestienregenten Serosh. Seit seiner Kindheit war Radahn von dem Fürsten der Schlacht fasziniert.</text>
+<text id="471100">Eine Rüstung des goldenen Löwen.
+Einst getragen von General Radahn.
+
+Der goldene Löwe ist das Symbol von Godfrey, dem Ersten Eldenfürsten, und seines Bestienregenten, Serosh. Seit seiner Kindheit war Radahn von dem Fürsten der Schlacht fasziniert.</text>
+<text id="480100">Das Gewand von Mohg, Fürst des Blutes, verziert mit einem extravaganten Goldemblem auf schwarzem Tuch.
+
+Ein Gewand, das der Koryphäe würdig ist, die über die kommende Mohgwyn-Dynastie herrschen wird. Oder vielleicht doch nur das Gewand eines Wahnsinnigen.</text>
+<text id="481100">Das Gewand von Mohg, Fürst des Blutes, verziert mit einem extravaganten Goldemblem auf schwarzem Tuch.
+
+Ein Gewand, das der Koryphäe würdig ist, die über die kommende Mohgwyn-Dynastie herrschen wird. Oder vielleicht doch nur das Gewand eines Wahnsinnigen.</text>
+<text id="510000">Eine hohe Krone mit einem Bild des Vollmonds.
+Einst getragen von Rennala der Königin des Vollmonds.
+Erhöht Eure Weisheit.
+
+Als Rennala, gleichzeitig Oberhaupt der Akademie von Raya Lucaria und der königlichen Familie von Caria, ihren Gemahl Radagon verlor, starb auch ihr Herz.
+
+Und da wurde es der Akademie klar. Rennala war keine Heldin.</text>
+<text id="510100">Eine Robe und gleichzeitig ein Symbol der größten Zauberer.
+Einst getragen von Rennala, der Königin des Vollmonds.
+
+Als Rennala, gleichzeitig Oberhaupt der Akademie von Raya Lucaria und der königlichen Familie von Caria, ihren Gemahl Radagon verlor, starb auch ihr Herz.
+
+Und da wurde es der Akademie klar. Rennala war keine Heldin.</text>
+<text id="510200">Armreife und gleichzeitig ein Symbol der größten Zauberer.
+Einst getragen von Rennala, der Königin des Vollmonds.
+
+Als Rennala, gleichzeitig Oberhaupt der Akademie von Raya Lucaria und der königlichen Familie von Caria, ihren Gemahl Radagon verlor, starb auch ihr Herz.
+
+Und da wurde es der Akademie klar. Rennala war keine Heldin.</text>
+<text id="510300">Feine Hose und gleichzeitig ein Symbol der größten Zauberer.
+Einst getragen von Rennala der Königin des Vollmonds.
+
+Als Rennala, gleichzeitig Oberhaupt der Akademie von Raya Lucaria und der königlichen Familie von Caria, ihren Gemahl Radagon verlor, starb auch ihr Herz.
+
+Und da wurde es der Akademie klar. Rennala war keine Heldin.</text>
+<text id="520000">Eine Kapuze genäht aus glatten Hautstücken.
+Stammt von den Aposteln der Götterskalpe.
+
+Die Apostel, die einst angeblich dem Schicksalstod dienten, führen die göttertötende Schwarze Flamme. Aber nach ihrer Niederlage gegen Maliketh die Schwarze Klinge wurde die Quelle ihrer Macht versiegelt.</text>
+<text id="520100">Eine Robe genäht aus glatten Hautstücken.
+Stammt von den Aposteln der Götterskalpe.
+
+Die Apostel, die einst angeblich dem Schicksalstod dienten, führen die göttertötende Schwarze Flamme. Aber nach ihrer Niederlage gegen Maliketh die Schwarze Klinge wurde die Quelle ihrer Macht versiegelt.</text>
+<text id="520200">Diese schwarzen Armschutze stammen von den Aposteln der Götterskalpe.
+
+Die Apostel, die einst angeblich dem Schicksalstod dienten, führen die göttertötende Schwarze Flamme. Aber nach ihrer Niederlage gegen Maliketh die Schwarze Klinge wurde die Quelle ihrer Macht versiegelt.</text>
+<text id="520300">Eine Hose genäht aus glatten Hautstücken.
+Stammt von den Aposteln der Götterskalpe.
+
+Die Apostel, die einst angeblich dem Schicksalstod dienten, führen die göttertötende Schwarze Flamme. Aber nach ihrer Niederlage gegen Maliketh die Schwarze Klinge wurde die Quelle ihrer Macht versiegelt.</text>
+<text id="530000">Eine Kapuze genäht aus glatten Hautstücken.
+Durch das Unterhautfett ist sie besonders weich.
+Stammt von den Adligen der Götterskalpe.
+
+Die Adligen sind die ältesten Apostel, die angeblich eine unmenschliche Gestalt angenommen haben. Ein wenig wie der Schmelztiegel, der Erdenbaum in seiner Urform.</text>
+<text id="530100">Eine Robe genäht aus glatten Hautstücken.
+Durch das Unterhautfett ist sie besonders weich. Stammt von den Adligen der Götterskalpe, die für ihre siebenfachen Schürzen bekannt sind.
+Verstärkt Anrufungen der Erhabenen Präsenz.
+
+Die Adligen sind die ältesten Apostel, die angeblich eine unmenschliche Gestalt angenommen haben. Ein wenig wie der Schmelztiegel, der ursprüngliche Erdenbaum.</text>
+<text id="530200">Diese schwarzen Armreife stammen von den Adligen der Götterskalpe.
+
+Die Adligen sind die ältesten Apostel, die angeblich eine unmenschliche Gestalt angenommen harben. Ein wenig wie der Schmelztiegel, der ursprüngliche Erdenbaum.</text>
+<text id="530300">Eine Hose genäht aus glatten Hautstücken.
+Durch das Unterhautfett ist sie besonders weich.
+Stammt von den Adligen der Götterskalpe.
+
+Die Adligen sind die ältesten Apostel, die angeblich eine unmenschliche Gestalt angenommen haben. Ein wenig wie der Schmelztiegel, der Erdenbaum in seiner Urform.</text>
+<text id="540000">Das Kopftuch eines wahnsinnigen Parfümeurs.
+
+Diese zur Ketzerei neigenden Parfümeure trinken ihre eigenen Arzneien, um Körper und Geist zu verändern. Die unweigerliche Selbstzerstörung erklärt auch ihren Namen.</text>
+<text id="540100">Die Robe eines wahnsinnigen Parfümeurs.
+Die Stickerei der Schürze allein ist ein Fluch auf den Erdenbaum.
+
+Diese zur Ketzerei neigenden Parfümeure trinken ihre eigenen Arzneien, um Körper und Geist zu verändern. Die unweigerliche Selbstzerstörung erklärt auch ihren Namen.</text>
+<text id="540200">Die Handschuhe eines wahnsinnigen Parfümeurs.
+
+Diese zur Ketzerei neigenden Parfümeure trinken ihre eigenen Arzneien, um Körper und Geist zu verändern. Die unweigerliche Selbstzerstörung erklärt auch ihren Namen.</text>
+<text id="540300">Die Hose eines wahnsinnigen Parfümeurs.
+
+Diese zur Ketzerei neigenden Parfümeure trinken ihre eigenen Arzneien, um Körper und Geist zu verändern. Die unweigerliche Selbstzerstörung erklärt auch ihren Namen.</text>
+<text id="541100">Die Robe eines wahnsinnigen Parfümeurs.
+Die Stickerei der Schürze allein ist ein Fluch auf den Erdenbaum.
+
+Diese zur Ketzerei neigenden Parfümeure trinken ihre eigenen Arzneien, um Körper und Geist zu verändern. Die unweigerliche Selbstzerstörung erklärt auch ihren Namen.</text>
+<text id="570000">Der Helm eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Die Axtverzierung ist das Zeichen des Ritters Ordovis, das auch seine Männer tragen.
+
+Durch diesen Helm strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="570100">Die Rüstung eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Der Ritter Ordovis und seine Männer trugen diese Rüstungen.
+
+Durch diese Rüstung strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="570200">Die Stulpen eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Durch diese Stulpen strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.
+
+Mit der Zeit sahen die Menschen die Stärke dieser Ritter und sogar ihre Erscheinung als Zeichen des Chaos und straften sie mit Verachtung.</text>
+<text id="570300">Der Beinschutz eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Durch diesen Beinschutz strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.
+
+Mit der Zeit sahen die Menschen die Stärke dieser Ritter und sogar ihre Erscheinung als Zeichen des Chaos und straften sie mit Verachtung.</text>
+<text id="571000">Der Helm eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Die Baumverzierung ist das Zeichen der Ritterin Siluria, das auch ihre Männer tragen.
+
+Durch diesen Helm strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="571100">Die Rüstung eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Die Ritterin Siluria und ihre Männer trugen diese Rüstungen.
+
+Durch diese Rüstung strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="572100">Die Rüstung eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Der Ritter Ordovis und seine Männer trugen diese Rüstungen.
+
+Durch diese Rüstung strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="573100">Die Rüstung eines Schmelztiegelritters im Dienst von Godfrey dem ersten Eldenfürsten.
+
+Die Ritterin Siluria und ihre Männer trugen diese Rüstungen.
+
+Durch diese Rüstung strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.</text>
+<text id="580000">Die riesige blaue Schimmersteinkrone von Lusat, Zauberer der Urströmungen.
+
+Diese Krone ersetzte vollständig Lusats Gehirn und seinen Schädel. So getrennt von seinem Körper ist sie fast tot. Fast. Die letzten Überreste seiner Macht verstärken immer noch Lusats Urströmungszauber, verbrauchen aber zusätzliche FP.</text>
+<text id="580100">Eine Robe der Großmeister aus der Akademie von Raya Lucaria.
+Blaue Schimmersteine haben sie zersetzt.
+
+Seit die Großmeister Azur und Lusat aus der Akademie vertrieben wurden, hat niemand mehr ihren alten Rang erreicht.</text>
+<text id="580200">Manschetten zersetzt von blauen Schimmersteinen.
+Sie stammen von Lusat, Zauberer der Urströmungen.
+
+Lusat hatte einen fast anorganischen Zustand erreicht.</text>
+<text id="580300">Ein zerfetztes Lendentuch, das bis zu den Oberschenkeln reicht.
+Absolut gängig bei altmodischen Zauberern.</text>
+<text id="581000">Die riesige blaugrüne Schimmersteinkrone von Azur, Zauberer der Urströmungen.
+
+Diese Krone ersetzte vollständig Azurs Gehirn und seinen Schädel. So getrennt von seinem Körper ist sie fast tot. Fast. Die letzten Überreste seiner Macht verstärken immer noch Azurs Urströmungszauber, verbrauchen aber zusätzliche FP.</text>
+<text id="581100">Eine Robe der Großmeister aus der Akademie von Raya Lucaria.
+Blaugrüne Schimmersteine haben sie zersetzt.
+
+Seit die Großmeister Azur und Lusat aus der Akademie vertrieben wurden, hat niemand mehr ihren alten Rang erreicht.</text>
+<text id="581200">Manschetten zersetzt von blaugrünen Schimmersteinen.
+Sie stammen von Azur, Zauberer der Urströmungen.
+
+Azur hatte einen fast anorganischen Zustand erreicht.</text>
+<text id="590000">Ein mit unzähligen Augen und Ohren besetzter Helm.
+Stammt von Gideon Ofnir dem Allwissenden.
+
+Wahres Wissen beginnt damit, seine eigene Ignoranz zu erkennen. Und der Einsicht, dass die Suche nach Wissen niemals enden wird. Aber als Gideon einen Blick in Königin Marikas Willen warf, ergriff ihn kalte Furcht.
+
+Furcht vor dem Ende, das nicht sein darf.</text>
+<text id="590100">Eine mit unzähligen Augen und Ohren besetzte Rüstung.
+Stammt von Gideon Ofnir dem Allwissenden.
+
+Wahres Wissen beginnt damit, seine eigene Ignoranz zu erkennen. Und der Einsicht, dass die Suche nach Wissen niemals enden wird. Aber als Gideon einen Blick in Königin Marikas Willen warf, ergriff ihn kalte Furcht.
+
+Furcht vor dem Ende, das nicht sein darf.</text>
+<text id="590200">Mit unzähligen Augen und Ohren besetzte Stulpen.
+Sie stammen von Gideon Ofnir dem Allwissenden.
+
+Wahres Wissen beginnt damit, seine eigene Ignoranz zu erkennen. Und der Einsicht, dass die Suche nach Wissen niemals enden wird. Aber als Gideon einen Blick in Königin Marikas Willen warf, ergriff ihn kalte Furcht.
+
+Furcht vor dem Ende, das nicht sein darf.</text>
+<text id="590300">Ein mit unzähligen Augen und Ohren besetzter Beinschutz.
+Stammt von Gideon Ofnir dem Allwissenden.
+
+Wahres Wissen beginnt damit, seine eigene Ignoranz zu erkennen. Und der Einsicht, dass die Suche nach Wissen niemals enden wird. Aber als Gideon einen Blick in Königin Marikas Willen warf, ergriff ihn kalte Furcht.
+
+Furcht vor dem Ende, das nicht sein darf.</text>
+<text id="591100">Eine mit unzähligen Augen und Ohren besetzte Rüstung.
+Stammt von Gideon Ofnir dem Allwissenden.
+
+Wahres Wissen beginnt damit, seine eigene Ignoranz zu erkennen. Und der Einsicht, dass die Suche nach Wissen niemals enden wird. Aber als Gideon einen Blick in Königin Marikas Willen warf, ergriff ihn kalte Furcht.
+
+Furcht vor dem Ende, das nicht sein darf.</text>
+<text id="600000">Ein Helm aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Stammt von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnt sich dieser Helm nach dem anderen D.</text>
+<text id="600100">Eine Rüstung aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Stammt von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnt sich diese Rüstung nach dem anderen D.</text>
+<text id="600200">Stulpen aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Sie stammen von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnen sich diese Stulpen nach dem anderen D.</text>
+<text id="600300">Ein Beinschutz aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Stammt von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnt sich dieser Beinschutz nach dem anderen D.</text>
+<text id="601100">Eine Rüstung aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Stammt von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnt sich diese Rüstung nach dem anderen D.</text>
+<text id="601300">Ein Beinschutz aus Gold und Silber verschlungen wie Zwillinge, die ein Schicksal teilen.
+Stammt von dem als D bekannten Duo.
+
+Jeder Zwilling besitzt einen Körper und einen Verstand, aber sie teilen sich eine Seele. Nicht ein Mal stehen sie Seite an Seite. Nicht ein Wort sprechen sie zueinander.
+
+Vielleicht sehnt sich dieser Beinschutz nach dem anderen D.</text>
+<text id="610000">Helm aus Metallschrott.</text>
+<text id="610100">Rüstung aus Metallschrott.</text>
+<text id="610200">Stulpen aus Metallschrott.</text>
+<text id="610300">Beinschutz aus Metallschrott.</text>
+<text id="611000">Helm aus Metallschrott.</text>
+<text id="611100">Rüstung aus Metallschrott.</text>
+<text id="620000">Eine Augenbinde der verbannten Propheten, die ein drohendes Unheil verkündeten und deshalb aus ihrer Heimat vertrieben wurden.
+
+Warum zögern, wenn der Weg in die Zukunft klar ist? Schließt einfach Eure Augen und geht los.</text>
+<text id="620100">Die Robe des Klerikers Corhyn.
+
+Auch in der Verbannung wollte Corhyn seine Prophezeiungen nicht widerrufen. Zum Dank nahm sich die Führende Hand der Gnade seiner an.
+
+Seit diesem Tag erinnert ihn das Wagenrad um seinen Hals stets daran, dass die wahre Führung jene belohnt, deren Willen niemals wankt. Jene, deren Glaube durch nichts zu erschüttern ist.</text>
+<text id="620300">Eine Hose der verbannten Propheten, die ein drohendes Unheil verkündeten und deshalb aus ihrer Heimat vertrieben wurden.
+
+Besteht aus rauem Stoff, der wie eine scharfe Feile auf der Haut scheuert.</text>
+<text id="621100">Eine Robe der verbannten Propheten, die ein drohendes Unheil verkündeten und deshalb aus ihrer Heimat vertrieben wurden.
+
+Besteht aus rauem Stoff, der wie eine scharfe Feile auf der Haut scheuert.</text>
+<text id="622100">Eine Robe der verbannten Propheten, die ein drohendes Unheil verkündeten und deshalb aus ihrer Heimat vertrieben wurden.
+
+Die Fesseln um ihren Hals sind eine Warnung an andere, ihren Predigten kein Gehör zu schenken.</text>
+<text id="630000">Eine Kapuze aus weichem Stoff.
+Stammt von jemandem, dessen Blick in den Kosmos über uns gerichtet ist.
+
+Diese Sterndeuter versuchen, das Schicksal aus den Sternen zu lesen und sind angeblich Erben der Schimmersteinzauberer.
+
+Aber leider ist das nächtliche Firmament längst keine Wiege des Schicksals mehr.</text>
+<text id="630100">Eine Robe aus weichem Stoff.
+Stammt von jemandem, dessen Blick in den Kosmos über uns gerichtet ist.
+
+Diese Sterndeuter versuchen, das Schicksal aus den Sternen zu lesen und sind angeblich Erben der Schimmersteinzauberer.
+
+Aber leider ist das nächtliche Firmament längst keine Wiege des Schicksals mehr.</text>
+<text id="630200">Handschuhe aus feinem weichem Stoff.
+Sie stammen von jemandem, dessen Blick in den Kosmos über uns gerichtet ist.
+
+Diese Sterndeuter versuchen, das Schicksal aus den Sternen zu lesen und sind angeblich Erben der Schimmersteinzauberer.
+
+Aber leider ist das nächtliche Firmament längst keine Wiege des Schicksals mehr.</text>
+<text id="630300">Eine Hose, die unter einer Robe getragen wird.
+Stammt von jemandem, dessen Blick in den Kosmos über uns gerichtet ist.
+
+Diese Sterndeuter versuchen, das Schicksal aus den Sternen zu lesen und sind angeblich Erben der Schimmersteinzauberer.
+
+Aber leider ist das nächtliche Firmament längst keine Wiege des Schicksals mehr.</text>
+<text id="631100">Eine Robe aus weichem Stoff.
+Stammt von jemandem, dessen Blick in den Kosmos über uns gerichtet ist.
+
+Diese Sterndeuter versuchen, das Schicksal aus den Sternen zu lesen und sind angeblich Erben der Schimmersteinzauberer.
+
+Aber leider ist das nächtliche Firmament längst keine Wiege des Schicksals mehr.</text>
+<text id="640000">Ein runder Eisenhelm mit auffallend großer Krempe.
+Stammt von Lionel Löwenherz.
+
+Als dieser tapfere und edle Ritter Fia traf, die man aus ihrer Heimat vertrieben hatte, nahm er sie als seine Tochter an.</text>
+<text id="640100">Eine runde Eisenrüstung, am Rücken ist ein Banner befestigt.
+Stammt von Lionel Löwenherz.
+
+Als dieser tapfere und edle Ritter Fia traf, die man aus ihrer Heimat vertrieben hatte, nahm er sie als seine Tochter an.</text>
+<text id="640200">Abgerundete Eisenstulpen.
+Sie stammen von Lionel Löwenherz.
+
+Als dieser tapfere und edle Ritter Fia traf, die man aus ihrer Heimat vertrieben hatte, nahm er sie als seine Tochter an.</text>
+<text id="640300">Ein abgerundeter Eisenbeinschutz.
+Stammt von Lionel Löwenherz.
+
+Als dieser tapfere und edle Ritter Fia traf, die man aus ihrer Heimat vertrieben hatte, nahm er sie als seine Tochter an.</text>
+<text id="641100">Eine runde Eisenrüstung.
+Stammt von Lionel Löwenherz.
+
+Als dieser tapfere und edle Ritter Fia traf, die man aus ihrer Heimat vertrieben hatte, nahm er sie als seine Tochter an.</text>
+<text id="650000">Ein Silberhelm mit Doppelschweif und Blumenverzierung. Symbol des hochgeschätzten Familienoberhaupts von Haus Hoslow.
+
+Juno Hoslow hatte einen jüngeren Bruder mit großem Mundwerk, aber ohne Rückgrat.
+
+Er war so eine Schande, dass Juno das Erbe der Hoslow ohne jegliche Gegenwehr antrat und von da an seinen kleinen Bruder noch mehr verhätschelte.</text>
+<text id="650100">Eine rot verzierte kitschige Silberrüstung.
+Ein Erbstück von Haus Hoslow.
+
+Als Juno Hoslow eine Einladung nach Haus Vulkan erhielt, schlug er sie diskret aus.
+
+"Ich habe bereits so viel Blut in meinem Leben vergossen, mich aber dennoch niemals wie ein Held gefühlt."</text>
+<text id="650200">Rot verzierte kitschige Silberstulpen.
+Ein Erbstück von Haus Hoslow.
+
+Als Juno Hoslow eine Einladung nach Haus Vulkan erhielt, schlug er sie diskret aus.
+
+"Ich habe bereits so viel Blut in meinem Leben vergossen, mich aber dennoch niemals wie ein Held gefühlt."</text>
+<text id="650300">Ein rot verzierter kitschiger Silberbeinschutz.
+Ein Erbstück von Haus Hoslow.
+
+Als Juno Hoslow eine Einladung nach Haus Vulkan erhielt, schlug er sie diskret aus.
+
+"Ich habe bereits so viel Blut in meinem Leben vergossen, mich aber dennoch niemals wie ein Held gefühlt."</text>
+<text id="651000">Eine Replik des Silberhelms mit Blumenverzierung. Allerdings ohne den Doppelschweif.
+
+Diallos Hoslows älterer Bruder war ein wortkarger und ernster Mann. Durch all seine Errungenschaften wirkte er regelrecht unnahbar.
+
+Also wollte es der jüngere Bruder dem älteren gleichtun. Er sehnte sich nach dem Tag, an dem er die Geschichte von Haus Hoslow in Blut schreiben würde. Im vollen Bewusstsein, damit das Herz seines Bruders zu brechen.</text>
+<text id="652100">Eine rot verzierte kitschige Silberrüstung.
+Ein Erbstück von Haus Hoslow.
+
+Als Juno Hoslow eine Einladung nach Haus Vulkan erhielt, schlug er sie diskret aus.
+
+"Ich habe bereits so viel Blut in meinem Leben vergossen, mich aber dennoch niemals wie ein Held gefühlt."</text>
+<text id="660000">Der Helm eines Ritters, der aus seinem Heimatland verbannt wurde.
+Dreckig und nach der langen Reise des Trägers deutlich ramponiert.
+
+Das Visier ist kaputt und lässt sich nicht länger herunterklappen.
+
+Metallrüstungen sind schwer, aber stabil und bieten hervorragende Schadensresistenz.</text>
+<text id="660100">Der Brustpanzer eines Ritters, der aus seinem Heimatland verbannt wurde.
+Dreckig und nach der langen Reise des Trägers deutlich ramponiert.
+
+Das Wappen auf der Vorderseite ist arg verbeult und abgenutzt und inspiriert absolut niemanden mehr.
+
+Metallrüstungen sind schwer, aber stabil und bieten hervorragende Schadensresistenz.</text>
+<text id="660200">Die Stulpen eines Ritters, der aus seinem Heimatland verbannt wurde.
+Dreckig und nach der langen Reise des Trägers deutlich ramponiert.
+
+Metallrüstungen sind schwer, aber stabil und bieten hervorragende Schadensresistenz.</text>
+<text id="660300">Der Beinschutz eines Ritters, der aus seinem Heimatland verbannt wurde.
+Dreckig und nach der langen Reise des Trägers deutlich ramponiert.
+
+Metallrüstungen sind schwer, aber stabil und bieten hervorragende Schadensresistenz.</text>
+<text id="661100">Der Brustpanzer eines Ritters, der aus seinem Heimatland verbannt wurde.
+Dreckig und nach der langen Reise des Trägers deutlich ramponiert.
+
+Das Wappen auf der Vorderseite ist arg verbeult und abgenutzt und inspiriert absolut niemanden mehr.
+
+Metallrüstungen sind schwer, aber stabil und bieten hervorragende Schadensresistenz.</text>
+<text id="670000">Die Haube eines nomadischen Kriegers.
+Der blaue Stoff symbolisiert das glitzernde Wasser, so fließend, wie das Schwert die Bewegungen seines Trägers ausführt.
+
+Stehende Gewässer werden faulig, und Stagnation führt zu Verfall. Krieger müssen immer in Bewegung bleiben.</text>
+<text id="670100">Die Weste eines nomadischen Kriegers.
+Der blaue Stoff symbolisiert das glitzernde Wasser, so fließend, wie das Schwert die Bewegungen seines Trägers ausführt.
+
+Stehende Gewässer werden faulig, und Stagnation führt zu Verfall. Krieger müssen immer in Bewegung bleiben.</text>
+<text id="670200">Stulpen eines Nomadenkriegers.
+Aus stabilem Leder gefertigt.</text>
+<text id="670300">Der Beinschutz eines Nomadenkriegers.
+Aus stabilem Leder gefertigt.</text>
+<text id="680000">Eine von Blut befleckte Maske mit einem leichten Grinsen.
+Stammt von Feldchirurgen, deren Morde angeblich von Mitgefühl geleitet wurden.
+
+Der Fürst des Blutes belebt den Träger mit seinem Fluch, wenn Blut vergossen wird. Erhöht leicht Eure Angriffskraft, wenn jemand in der Nähe an Blutverlust leidet.</text>
+<text id="680100">Das blutbefleckte weiße Gewand der Feldchirurgen, deren Morde angeblich von Mitgefühl geleitet wurden.
+
+Keiner der Chirurgen, die der Fürst des Blutes entführen ließ, konnte jedoch das verfluchte Blut bändigen.
+Keiner außer Varré.</text>
+<text id="680200">Die blutbefleckten weißen Handschuhe der Feldchirurgen, deren Morde angeblich von Mitgefühl geleitet wurden.
+
+Keiner der Chirurgen, die der Fürst des Blutes entführen ließ, konnte jedoch das verfluchte Blut bändigen.
+Keiner außer Varré.</text>
+<text id="680300">Die blutbefleckte Hose der Feldchirurgen, deren Morde angeblich von Mitgefühl geleitet wurden.
+
+Keiner der Chirurgen, die der Fürst des Blutes entführen ließ, konnte jedoch das verfluchte Blut bändigen.
+Keiner außer Varré.</text>
+<text id="681100">Das blutbefleckte weiße Gewand der Feldchirurgen, deren Morde angeblich von Mitgefühl geleitet wurden.
+
+Keiner der Chirurgen, die der Fürst des Blutes entführen ließ, konnte jedoch das verfluchte Blut bändigen.
+Keiner außer Varré.</text>
+<text id="690000">Ein Helm verziert mit goldenen menschlichen Knochen.
+Gehörte einem der stummen Diener von Sir Gideon dem Allwissenden.
+Regeneriert bei niedrigen LP langsam Eure LP.
+
+Angeblich stammen die Knochen von einem Fürsten der Antike – dem seelenlosen König. Ensha war der Fürst der Verlorenen und der Verzweifelten.</text>
+<text id="690100">Eine Rüstung verziert mit goldenen menschlichen Knochen.
+Gehörte einem der stummen Diener von Sir Gideon dem Allwissenden.
+Regeneriert bei niedrigen LP langsam Eure LP.
+
+Angeblich stammen die Knochen von einem Fürsten der Antike – dem seelenlosen König. Ensha war der Fürst der Verlorenen und der Verzweifelten.</text>
+<text id="690200">Stulpen verziert mit goldenen menschlichen Knochen.
+Sie gehörten einem der stummen Diener von Sir Gideon dem Allwissenden.
+Regenerieren bei niedrigen LP langsam Eure LP.
+
+Angeblich stammen die Knochen von einem Fürsten der Antike – dem seelenlosen König. Ensha war der Fürst der Verlorenen und der Verzweifelten.</text>
+<text id="690300">Ein Beinschutz verziert mit goldenen menschlichen Knochen.
+Gehörte einem der stummen Diener von Sir Gideon dem Allwissenden.
+Regeneriert bei niedrigen LP langsam Eure LP.
+
+Angeblich stammen die Knochen von einem Fürsten der Antike – dem seelenlosen König. Ensha war der Fürst der Verlorenen und der Verzweifelten.</text>
+<text id="700000">Stirnband aus geflochtenem Leder.
+Diese Variante wird von Kriegern im eisigen Oberland bevorzugt.
+
+Die kleinen Fahnen, weißen Bänder und Weizenähren, die oft als Verzierung angebracht werden, sind Gebete zum Abschied aus ihrer Heimat. Dieses Lebwohl für die Krieger, die von ihren Reisen wahrscheinlich nicht mehr zurückkehren, ist allerdings nur ein schwacher Trost.</text>
+<text id="700100">Kampftracht, die aus einer Lederrüstung
+mit einem großen Tuch besteht.
+Bevorzugt wird diese Variante von den Kriegern im eisigen Oberland.
+
+Das rote Tuch zeigt, dass der Träger vor langer Zeit am
+Großen Marsch teilnahm, und diese zeremonielle Ausführung
+ist gleichzeitig eine Bitte um den Segen des Kriegerkönigs,
+der den Marsch damals anführte.</text>
+<text id="700200">Stulpen, die mit dickem Leder umwickelt sind.
+Diese Kleidung wird von Kriegern im eisigen Oberland getragen.
+
+Der Fellbesatz schützt den Träger vor Kälte.</text>
+<text id="700300">Beinschutz, der mit dickem Leder umwickelt ist.
+Diese Kleidung wird von Kriegern im eisigen Oberland getragen.
+
+Der Fellbesatz schützt den Träger vor Kälte.</text>
+<text id="701000">Kampfkleidung, die mit dickem Leder umwickelt ist.
+Diese Kleidung wird von Kriegern im eisigen Oberland getragen.</text>
+<text id="702000">Helm, der mit dickem Leder umwickelt ist.
+Diese Kleidung wird von Kriegern im eisigen Oberland getragen.</text>
+<text id="720000">Ein silberner Helm, in den winzige Bestien eingraviert sind.
+Er stammt von Bernahl dem Rekusanten.
+
+Die Bestien mit ihren bedeckten Augen und Ohren stehen für einen Eid: "Verschließt Eure Augen, verschließt Eure Ohren, verschließt Euren Geist vor jeglichem Zweifel. Nun folgt dem Pfad, der vor langer Zeit in Stein gemeißelt wurde."</text>
+<text id="720100">Eine silberne Rüstung, in die winzige Bestien eingraviert sind.
+Sie stammt von Bernahl dem Rekusanten.
+
+Helden und Fürsten ziehen Bestien wie magisch an. Dies ist die Rüstung eines Helden, der des Fürstenthrons würdig ist. Und genau das war Bernahl.
+
+Bis zu dem Tag, an dem seine Jungfer sich in die Flammen stürzte.</text>
+<text id="720200">Silberstulpen, in die winzige Bestien eingraviert sind.
+Sie stammen von Bernahl dem Rekusanten.
+
+Helden und Fürsten ziehen Bestien wie magisch an. Dies ist die Rüstung eines Helden, der des Fürstenthrons würdig ist. Und genau das war Bernahl.
+
+Bis zu dem Tag, an dem seine Jungfer sich in die Flammen stürzte.</text>
+<text id="720300">Ein Silberbeinschutz, in den winzige Bestien eingraviert sind.
+Stammt von Bernahl dem Rekusanten.
+
+Helden und Fürsten ziehen Bestien wie magisch an. Dies ist die Rüstung eines Helden, der des Fürstenthrons würdig ist. Und genau das war Bernahl.
+
+Bis zu dem Tag, an dem seine Jungfer sich in die Flammen stürzte.</text>
+<text id="721100">Eine silberne Rüstung, in die winzige Bestien eingraviert sind.
+Sie stammt von Bernahl dem Rekusanten.
+
+Helden und Fürsten ziehen Bestien wie magisch an. Dies ist die Rüstung eines Helden, der des Fürstenthrons würdig ist. Und genau das war Bernahl.
+
+Bis zu dem Tag, an dem seine Jungfer sich in die Flammen stürzte.</text>
+<text id="730000">Stirnband der Tapfersten des Ödlands.
+Der Beweis, dass der Träger viele Gegner besiegt hat.
+
+Die tapferen Krieger des Ödlands folgen dem Beispiel ihres Herrschers Hoarah Loux und meiden überflüssige Verzierungen.</text>
+<text id="730100">Schulterplatte der Tapfersten des Ödlands.
+Der Beweis, dass der Träger viele Gegner besiegt hat.
+
+Die tapferen Krieger des Ödlands folgen dem Beispiel ihres Herrschers Hoarah Loux und meiden überflüssige Verzierungen.</text>
+<text id="730200">Ein Armschutz der Tapfersten des Ödlands.
+Der Beweis, dass der Träger viele Gegner besiegt hat.
+
+Die tapferen Krieger des Ödlands folgen dem Beispiel ihres Herrschers Hoarah Loux und meiden überflüssige Verzierungen.</text>
+<text id="730300">Gamaschen aus Lederriemen.
+Ein gängiges Kleidungsstück im Ödland.</text>
+<text id="740000">Ein leuchtend blutroter Kapuzenmantel.
+Stammt von einem verbannten Mitglied der Königsfamilie.
+Erhöht Eure Kraft.
+
+Diese Mäntel wurden oft jenen verliehen, die ohne bestimmte Befehle eine Reise in ferne Lande antraten, von der sie nie zurückkehren würden. Anders gesagt, mit diesem Geschenk ließen sich unerwünschte Elemente leichter abschieben.
+
+Roderika sah nicht ein einziges Mal die führende Hand der Gnade.</text>
+<text id="740100">Reisekleidung aus metallischem weißen Seidengewebe.
+Stammt von einem verbannten Mitglied der Königsfamilie.
+
+Mit diesem Prachtgewand würden nicht einmal die schwärzesten Schafe des Königshauses Ansehen und Ruf ihrer Familie ruinieren, fände man sie irgendwo allein und mausetot in einem Graben.</text>
+<text id="740200">Handschuhe aus weichem Leder.
+Sie stammen von einem verbannten Mitglied der Königsfamilie.
+
+Mit diesen Prachtstücken würden nicht einmal die schwärzesten Schafe des Königshauses Ansehen und Ruf ihrer Familie ruinieren, fände man sie irgendwo allein und mausetot in einem Graben.</text>
+<text id="740300">Eine weiße Hose geschneidert von Meisterhand.
+Stammt von einem verbannten Mitglied der Königsfamilie.
+
+Mit diesem Prachtstück würden nicht einmal die schwärzesten Schafe des Königshauses Ansehen und Ruf ihrer Familie ruinieren, fände man sie irgendwo allein und mausetot in einem Graben.</text>
+<text id="741000">Ein dunkelblauer Kapuzenmantel.
+Stammt von einem verbannten Mitglied der Königsfamilie.
+Verstärkt Euren Geist.
+
+Diese Mäntel wurden oft jenen verliehen, die mit einer Mission in ferne Lande aufbrachen, aus denen sie nie zurückkehren würden. Aber bleibt diesen Tapferen wirklich eine Wahl, nachdem sie die führende Hand der Gnade erblickt haben?</text>
+<text id="760000">Ein Bestienhelm aus schwarzem Eisen mit Goldverzierung.
+Stammt von Maliketh der schwarzen Klinge.
+
+Maliketh, Königin Marikas treuer Halbbruder, besaß eine vom Schicksalstod erfüllte Klinge und wurde von allen Halbgöttern gefürchtet.
+
+Aber die Helden wussten, was auf dem Spiel stand.
+Genau das machte sie ja zu Helden.</text>
+<text id="760100">Eine Bestienrüstung aus schwarzem Eisen mit Goldverzierung.
+Stammt von Maliketh der Schwarzen Klinge.
+
+Maliketh, Königin Marikas treuer Halbbruder, besaß eine vom Schicksalstod erfüllte Klinge und wurde von allen Halbgöttern gefürchtet.
+
+Aber die Helden wussten, was auf dem Spiel stand. Genau das machte sie ja zu Helden.</text>
+<text id="760200">Bestienstulpen aus schwarzem Eisen mit Goldverzierung.
+Sie stammen von Maliketh der Schwarzen Klinge.
+
+Maliketh, Königin Marikas treuer Halbbruder, besaß eine vom Schicksalstod erfüllte Klinge und wurde von allen Halbgöttern gefürchtet.
+
+Aber die Helden wussten, was auf dem Spiel stand. Genau das machte sie ja zu Helden.</text>
+<text id="760300">Ein Bestienbeinschutz aus schwarzem Eisen mit Goldverzierung.
+Stammt von Maliketh der Schwarzen Klinge.
+
+Maliketh, Königin Marikas treuer Halbbruder, besaß eine vom Schicksalstod erfüllte Klinge und wurde von allen Halbgöttern gefürchtet.
+
+Aber die Helden wussten, was auf dem Spiel stand. Genau das machte sie ja zu Helden.</text>
+<text id="761100">Eine Bestienrüstung aus schwarzem Eisen mit Goldverzierung.
+Stammt von Maliketh der Schwarzen Klinge.
+
+Maliketh, Königin Marikas treuer Halbbruder, besaß eine vom Schicksalstod erfüllte Klinge und wurde von allen Halbgöttern gefürchtet.
+
+Aber die Helden wussten, was auf dem Spiel stand. Genau das machte sie ja zu Helden.</text>
+<text id="770000">Ein geflügelter Helm aus reinem Gold.
+Stammt von Malenia, Miquellas Klinge.
+
+Malenia erwartete Miquella am Fuße der Hülle.
+
+"Mein Bruder wird sein Wort halten. Denn er besitzt die Weisheit und die Anziehungskraft eines Gottes. Er ist wahrlich der Mächtigste unter den Himmlischen."</text>
+<text id="770100">Eine Rüstung aus reinem Gold.
+Stammt von Malenia, Miquellas Klinge.
+
+Malenia erwartete Miquella am Fuße der Hülle.
+
+"Mein Bruder wird sein Wort halten. Denn er besitzt die Weisheit und die Anziehungskraft eines Gottes. Er ist wahrlich der Mächtigste unter den Himmlischen."</text>
+<text id="770200">Eine Stulpe aus reinem Gold.
+Sie stammt von Malenia, Miquellas Klinge.
+
+Malenia erwartete Miquella am Fuße der Hülle.
+
+"Mein Bruder wird sein Wort halten. Denn er besitzt die Weisheit und die Anziehungskraft eines Gottes. Er ist wahrlich der Mächtigste unter den Himmlischen."</text>
+<text id="770300">Ein Beinschutz aus reinem Gold.
+Stammt von Malenia, Miquellas Klinge.
+
+Malenia erwartete Miquella am Fuße der Hülle.
+
+"Mein Bruder wird sein Wort halten. Denn er besitzt die Weisheit und die Anziehungskraft eines Gottes. Er ist wahrlich der Mächtigste unter den Himmlischen."</text>
+<text id="771100">Eine Rüstung aus reinem Gold.
+Stammt von Malenia, Miquellas Klinge.
+
+Malenia erwartete Miquella am Fuße der Hülle.
+
+"Mein Bruder wird sein Wort halten. Denn er besitzt die Weisheit und die Anziehungskraft eines Gottes. Er ist wahrlich der Mächtigste unter den Himmlischen."</text>
+<text id="780000">Ein alter Helm, der schon viele Schlachten erlebt hat.
+Stammt von Niall, dem Veteranengeneral von Sol.
+
+Niall war der Letzte seiner Armee und dank seiner Macht über die Geister beschützte er seinen Herrn noch lange über den Tod hinaus.
+
+Der alte General konnte nicht sterben und suchte vergeblich nach einem Ort, an dem er endlich Ruhe finden würde.</text>
+<text id="780100">Eine alte Rüstung, die schon viele Schlachten erlebt hat.
+Stammt von Niall, dem Veteranengeneral von Sol.
+
+Niall war der Letzte seiner Armee und dank seiner Macht über die Geister beschützte er seinen Herrn noch lange über den Tod hinaus.
+
+Der alte General konnte nicht sterben und suchte vergeblich nach einem Ort, an dem er endlich Ruhe finden würde.</text>
+<text id="780200">Alte Stulpen, die schon viele Schlachten erlebt haben.
+Sie stammen von Niall, dem Veteranengeneral von Sol.
+
+Niall war der Letzte seiner Armee und dank seiner Macht über die Geister beschützte er seinen Herrn noch lange über den Tod hinaus.
+
+Der alte General konnte nicht sterben und suchte vergeblich nach einem Ort, an dem er endlich Ruhe finden würde.</text>
+<text id="780300">Ein alter Beinschutz, der schon viele Schlachten erlebt hat.
+Stammt von Niall, dem Veteranengeneral von Sol.
+
+Niall war der Letzte seiner Armee und dank seiner Macht über die Geister beschützte er seinen Herrn noch lange über den Tod hinaus.
+
+Der alte General konnte nicht sterben und suchte vergeblich nach einem Ort, an dem er endlich Ruhe finden würde.</text>
+<text id="781100">Eine alte Rüstung, die schon viele Schlachten erlebt hat.
+Stammt von Niall, dem Veteranengeneral von Sol.
+
+Niall war der Letzte seiner Armee und dank seiner Macht über die Geister beschützte er seinen Herrn noch lange über den Tod hinaus.
+
+Der alte General konnte nicht sterben und suchte vergeblich nach einem Ort, an dem er endlich Ruhe finden würde.</text>
+<text id="790000">Ein Metallhelm mit spitzem Schnabel.
+Stammt von einem der Bluthundritter.
+
+Die Bluthundritter sind erfahrene Jäger, und niemand kann diesen Fährtenlesern entkommen.
+
+Ohne ein Wort zu sprechen, wählt jeder Ritter seinen eigenen Herrn aus. Ist die Entscheidung erst getroffen, bleibt der Ritter seinem Herrn ein Leben lang treu.</text>
+<text id="790100">Eine Metallrüstung mit hervorstechendem Brustpanzer.
+Stammt von einem der Bluthundritter.
+
+Die Bluthundritter sind erfahrene Jäger, und niemand kann diesen Fährtenlesern entkommen.
+
+Ohne ein Wort zu sprechen, wählt jeder Ritter seinen eigenen Herrn aus. Ist die Entscheidung erst getroffen, bleibt der Ritter seinem Herrn ein Leben lang treu.</text>
+<text id="790200">Die Metallstulpen eines Bluthundritters.
+
+Die Bluthundritter sind erfahrene Jäger, und niemand kann diesen Fährtenlesern entkommen.
+
+Ohne ein Wort zu sprechen, wählt jeder Ritter seinen eigenen Herrn aus. Ist die Entscheidung erst getroffen, bleibt der Ritter seinem Herrn ein Leben lang treu.</text>
+<text id="790300">Der Metallbeinschutz eines Bluthundritters.
+
+Die Bluthundritter sind erfahrene Jäger, und niemand kann diesen Fährtenlesern entkommen.
+
+Ohne ein Wort zu sprechen, wählt jeder Ritter seinen eigenen Herrn aus. Ist die Entscheidung erst getroffen, bleibt der Ritter seinem Herrn ein Leben lang treu.</text>
+<text id="791100">Eine Metallrüstung mit hervorstechendem Brustpanzer.
+Stammt von einem der Bluthundritter.
+
+Die Bluthundritter sind erfahrene Jäger, und niemand kann diesen Fährtenlesern entkommen.
+
+Ohne ein Wort zu sprechen, wählt jeder Ritter seinen eigenen Herrn aus. Ist die Entscheidung erst getroffen, bleibt der Ritter seinem Herrn ein Leben lang treu.</text>
+<text id="800000">Eine Kapuze der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Verziert mit einem bunten Blumenarrangement.</text>
+<text id="800100">Zeremonielle Kleidung der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Die kaum sichtbaren Flecken sind eindeutig Blut.</text>
+<text id="801000">Eine veränderte Variante einer Kapuze der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Verziert mit einem atemberaubenden Blumenarrangement.</text>
+<text id="801100">Zeremonielle Kleidung der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Die kaum sichtbaren Flecken sind eindeutig Blut.</text>
+<text id="802000">Eine Kapuze der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Diese leuchtend blau gefärbte Kapuze tragen nur die Jungfern, die bei dem Fest die zentrale Rolle spielen.</text>
+<text id="802100">Zeremonielle Kleidung der Tänzerinnen, die bei dem Fest in Dominula auftreten, dem Windmühlendorf.
+
+Dieses leuchtend blau gefärbte Gewand tragen nur die Jungfern, die bei dem Fest die zentrale Rolle spielen.</text>
+<text id="810000">Ein Stirnband zur Befestigung eines Tuches.
+Standardkopfbedeckung der einfachen Leute im Zwischenland.
+
+Allerdings gibt es heute keine einfachen Leute mehr, die noch bei Verstand sind.</text>
+<text id="810100">Ein Gewand mit dickem bestickten Umhang.
+Standardkleidung der einfachen Leute im Zwischenland.
+
+Das um den Hals getragene Brett ist mit einem ausladenden Baum verziert, dessen Wurzeln und Äste zwei Löcher bilden. Dies ist ein selbst auferlegtes Joch, das die Ergebenheit des Trägers gegenüber dem Erdenbaum demonstriert.</text>
+<text id="810300">Unscheinbare Schuhe aus Stoff.
+Standardkleidung der einfachen Leute im Zwischenland.
+
+Allerdings gibt es heute keine einfachen Leute mehr, die noch bei Verstand sind.</text>
+<text id="811000">Ein Stirnband ohne Tuch.
+Standardkopfbedeckung der einfachen Leute im Zwischenland.
+
+Allerdings gibt es heute keine einfachen Leute mehr, die noch bei Verstand sind.</text>
+<text id="811100">Ein kunstvoll besticktes Gewand.
+Standardkleidung der einfachen Leute im Zwischenland.
+
+Das um den Hals getragene Brett ist mit einem ausladenden Baum verziert, dessen Wurzeln und Äste zwei Löcher bilden. Dies ist ein selbst auferlegtes Joch, das die Ergebenheit des Trägers gegenüber dem Erdenbaum demonstriert.</text>
+<text id="812000">Ein Gewand mit unscheinbarem Stoffumhang.
+Standardkleidung der einfachen Leute im Zwischenland.
+
+Das um den Hals getragene Brett ist mit einem ausladenden Baum verziert, dessen Wurzeln und Äste zwei Löcher bilden. Dies ist ein selbst auferlegtes Joch, das die Ergebenheit des Trägers gegenüber dem Erdenbaum demonstriert.</text>
+<text id="812100">Ein unscheinbares Stoffgewand.
+Standardkleidung der einfachen Leute im Zwischenland.
+
+Das um den Hals getragene Brett ist mit einem ausladenden Baum verziert, dessen Wurzeln und Äste zwei Löcher bilden. Dies ist ein selbst auferlegtes Joch, das die Ergebenheit des Trägers gegenüber dem Erdenbaum demonstriert.</text>
+<text id="820000">Ein weiches Bündel, das einem Orakelgesandten als Kopfbedeckung diente.
+Dicht mit mehreren Lagen Stoff umwickelt.
+Verstärkt Blasentalente.
+
+Niemand weiß, was sich unter dem Stoff verbirgt, aber manche behaupten, sie hätten ein leises Wimmern gehört. Aber das war bestimmt nur Einbildung.</text>
+<text id="830000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit auf Kosten der LP und Ausdauer.
+
+Gelehrte des Hauses Zwillingsweis zählten zur Elite der Akademie. Ihnen war es gestattet, ihre Studien und Talente in jegliche Form der Zauberei auszuweiten.</text>
+<text id="830100">Eine Robe der Zaubereigelehrten von Raya Lucaria.
+
+Wer sich dem Studium der Schimmersteine aus glitzerndem Bernstein widmet, bekommt dieses bescheidene und doch elegante dunkelblaue Gewand verliehen, sobald die Schwüre von Demut und Entbehrungen abgelegt wurden.
+
+Doch je länger man lebt, desto leichter vergisst man die alten Schwüre.</text>
+<text id="830200">Manschetten der Zaubereigelehrten von Raya Lucaria.
+
+Zum Schutz der Unterarme werden sie einfach mit einem ganz normalen Stück Stoff umwickelt.</text>
+<text id="830300">Beinwickel der Zaubereigelehrten von Raya Lucaria.
+
+Zum Schutz der Beine werden sie einfach mit einem ganz normalen Stück Stoff umwickelt.</text>
+<text id="831000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit auf Kosten der LP.
+
+Die Linie des Hauses Olivinus begann mit dem Zauberer Lusat, und seine Anhänger setzen sein Studium der Meteore fort.</text>
+<text id="832000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit und Geschick auf Kosten der LP.
+
+Gelehrte des Hauses Lazuli studieren carianische Zaubereien – ein heterodoxes Streben, das Mond und Sterne als gleichwertig betrachtet.</text>
+<text id="833000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht die Weisheit zulasten der Ausdauer.
+
+Haus Karolos ist das älteste Haus der Akademie und geht auf den Zauberer Azur zurück. Seine Gelehrten studieren unermüdlich die Geheimnisse der Kometen.</text>
+<text id="834000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit und Arkanenergie auf Kosten der Ausdauer.
+
+Diese sanft aussehende Krone wurde einer Gelehrten verliehen, die sich in ihren Studien auszeichnete, was ihr auch den Titel "Hexe" einbrachte.</text>
+<text id="834100">%null%</text>
+<text id="840000">Ein zylindrischer Metallplattenhelm mit Gitter.
+Wird von Marionettensoldaten getragen, die den Schimmersteinzauberern dienen.
+
+Der Helm ist erstaunlich primitiv gefertigt.
+
+Für eine Puppe jedoch zählt nur eins – dass er nicht bricht.</text>
+<text id="840100">Eine Rüstung aus gitterförmig angeordneten Metallbändern.
+Wird von Marionettensoldaten getragen, die den Schimmersteinzauberern dienen.
+
+Die Rüstung ist erstaunlich primitiv gefertigt und inzwischen stark verrostet und verbeult.
+
+Für eine Puppe jedoch zählt nur eins – dass sie nicht bricht.</text>
+<text id="850000">Ein Metallhelm geformt nach dem Antlitz eines Vogels.
+Wird von Flugmarionettensoldaten getragen, die den Schimmersteinzauberern dienen.
+
+Der Helm ist erstaunlich primitiv gefertigt.
+
+Für eine Puppe jedoch zählt nur eins – dass er nicht bricht.</text>
+<text id="860000">Ein Helm von Vargram dem blutigem Wolf, einem der ersten Befleckten, der die Tafelrundfeste besuchte.
+
+Zu seinem Spitznamen kam Vargram über die weiße Wolfsmähne, die seinen Helm ziert.</text>
+<text id="860100">Eine Rüstung von Vargram dem blutigen Wolf, einem der ersten Befleckten, der die Tafelrundfeste besuchte.
+
+Alten Legenden zufolge sind Wölfe die Schatten des Himmlischen. Und genau dieses Ziel hatte sich Vargram gesetzt.</text>
+<text id="860200">Stulpen von Vargram dem blutigen Wolf, einem der ersten Befleckten, der die Tafelrundfeste besuchte.
+
+Alten Legenden zufolge sind Wölfe die Schatten des Himmlischen. Und genau dieses Ziel hatte sich Vargram gesetzt.</text>
+<text id="860300">Ein Beinschutz von Vargram dem blutigen Wolf, einem der ersten Befleckten, die die Tafelrundfeste besuchten.
+
+Alten Legenden zufolge sind Wölfe die Schatten des Himmlischen. Und genau dieses Ziel hatte sich Vargram gesetzt.</text>
+<text id="861100">Eine Rüstung von Vargram dem blutigen Wolf, einem der ersten Befleckten, der die Tafelrundfeste besuchte.
+
+Alten Legenden zufolge sind Wölfe die Schatten des Himmlischen. Und genau dieses Ziel hatte sich Vargram gesetzt.</text>
+<text id="870000">Ein Helm aus verbundenen Eisenstreifen.
+Bevorzugte Ausrüstung der Krieger im Schilfland.
+
+Seit langer Zeit tobt im Schilfland ein furchtbarer Bürgerkrieg und ebenso lang entfremdet sich das Land mit jedem Tag mehr von seinen Nachbarn. Es ist also keine große Überraschung, dass angeblich alle in diesem Land einem blutrünstigen Wahn verfallen sind.</text>
+<text id="870100">Eine Rüstung aus verbundenen Eisenstreifen.
+Bevorzugte Ausrüstung der Krieger im Schilfland.
+
+Die dreckige äußere Schicht besteht aus verdorrtem Schilf aus der Heimatstadt des Kriegers. Ein wehmütiges Andenken oder doch nur rein funktionell?</text>
+<text id="870200">Stulpen, die mit hartem Leder umwickelt sind.
+Bevorzugte Ausrüstung der Krieger im Schilfland.</text>
+<text id="870300">Ein Beinschutz, der mit hartem Leder umwickelt ist.
+Bevorzugte Ausrüstung der Krieger im Schilfland.</text>
+<text id="871100">Eine Rüstung aus verbundenen Eisenstreifen.
+Bevorzugte Ausrüstung der Krieger im Schilfland.
+
+Seit langer Zeit tobt im Schilfland ein furchtbarer Bürgerkrieg und ebenso lang entfremdet sich das Land mit jedem Tag mehr von seinen Nachbarn. Es ist also keine große Überraschung, dass angeblich alle in diesem Land einem blutrünstigen Wahn verfallen sind.</text>
+<text id="872000">Diese hölzerne Maske trägt das Antlitz eines alten Mannes mit gefletschten Zähnen und ist der Grund für den Spitznamen des wohl größten Schwertkämpfers aus dem Schilfland.Erhöht das Geschick und senkt den Fokus.Je schärfer sein Geist wurde, desto weniger konnte er die Absurditäten dieser Welt ignorieren. Und so ließ Okina alles hinter sich und stieg in eine höhere Bewusstseinsebene auf. Dort gab es nur ihn selbst. Sein Katana. Seine Meisterschaft.Und schon bald wurde aus Okina ein wahrer Dämon mit dem Schwert.</text>
+<text id="872100">Eine Rüstung der Weißen Halme, hergestellt aus verbundenen Eisenplatten.
+Stammt von einem der Inaba, den obersten Jüngern des großen Schwertkämpfers Okina.
+
+Die Inaba suchten nicht nur nach ihrem Meister, der sie vor langer Zeit verlassen hatte, sondern auch nach einem ehrenvollen Tod im Kampf.
+
+Der Weg der Weißen Halme führt unweigerlich in den Tod und ist perfekt für die Inaba. Nichts ersehnt ein Inaba so sehr, wie durch das Schwert zu fallen.</text>
+<text id="872200">Stulpen der Weißen Halme, hergestellt aus verbundenen Eisenplatten.
+Sie stammen von einem der Inaba, den obersten Jüngern des großen Schwertkämpfers Okina.
+
+Die Inaba suchten nicht nur nach ihrem Meister, der sie vor langer Zeit verlassen hatte, sondern auch nach einem ehrenvollen Tod im Kampf.
+
+Der Weg der Weißen Halme führt unweigerlich in den Tod und ist perfekt für die Inaba. Nichts ersehnt ein Inaba so sehr, wie durch das Schwert zu fallen.</text>
+<text id="872300">Ein Beinschutz der Weißen Halme, hergestellt aus verbundenen Eisenplatten.
+Stammt von einem der Inaba, den obersten Jüngern des großen Schwertkämpfers Okina.
+
+Die Inaba suchten nicht nur nach ihrem Meister, der sie vor langer Zeit verlassen hatte, sondern auch nach einem ehrenvollen Tod im Kampf.
+
+Der Weg der Weißen Halme führt unweigerlich in den Tod und ist perfekt für die Inaba. Nichts ersehnt ein Inaba so sehr, wie durch das Schwert zu fallen.</text>
+<text id="880000">Eine schwarze Kapuze, um in den Schatten zu verschwinden.
+Wird von Bekennern des Klerus getragen.
+
+Die Kirche außerhalb des Zwischenlands hat sich den Lehren der Zwei Finger verschrieben und entsendet Bekenner, die der führenden Hand der Gnade folgen.
+
+Die Bekenner sind treue Diener der Zwei Finger und stets bereit, ihre Gegner zu jagen und leise verschwinden zu lassen.</text>
+<text id="880100">Eine schwarze Lederrüstung, um in den Schatten zu verschwinden.
+Stammt von Bekennern des Klerus.
+
+Die Kirche außerhalb des Zwischenlands hat sich den Lehren der Zwei Finger verschrieben und entsendet Bekenner, die der führenden Hand der Gnade folgen.
+
+Die Bekenner sind treue Diener der Zwei Finger und stets bereit, ihre Gegner zu jagen und leise verschwinden zu lassen.</text>
+<text id="880200">Schwarze Lederhandschuhe der Bekenner des Klerus.
+
+Die Kirche außerhalb des Zwischenlands hat sich den Lehren der Zwei Finger verschrieben und entsendet Bekenner, die der führenden Hand der Gnade folgen.
+
+Die Bekenner sind treue Diener der Zwei Finger und stets bereit, ihre Gegner zu jagen und leise verschwinden zu lassen.</text>
+<text id="880300">Lederstiefel der Bekenner des Klerus.
+
+Die Kirche außerhalb des Zwischenlands hat sich den Lehren der Zwei Finger verschrieben und entsendet Bekenner, die der führenden Hand der Gnade folgen.
+
+Die Bekenner sind treue Diener der Zwei Finger und stets bereit, ihre Gegner zu jagen und leise verschwinden zu lassen.</text>
+<text id="881000">Diesen Stoffturban tragen die Bekenner des Klerus unter ihrer schwarzen Kapuze.
+
+Die Kapuzen wurden speziell so gefertigt, dass ihre Träger im Schatten verschwinden.</text>
+<text id="881100">Eine schwarze Lederrüstung, um in den Schatten zu verschwinden.
+Stammt von Bekennern des Klerus.
+
+Die Kirche außerhalb des Zwischenlands hat sich den Lehren der Zwei Finger verschrieben und entsendet Bekenner, die der führenden Hand der Gnade folgen.
+
+Die Bekenner sind treue Diener der Zwei Finger und stets bereit, ihre Gegner zu jagen und leise verschwinden zu lassen.</text>
+<text id="890000">Eine eiserne Maske, die von den Übelsten aller verurteilten Schwerverbrecher getragen wird.
+Dick, schwer und lässt den Träger kaum atmen.
+
+Dieses abscheuliche Ding wurde nur zu einem Zweck erfunden: den Träger zu quälen und so in seinem Herzen abgrundtiefen Hass zu säen. Oder einen spirituellen Eifer, der von Hass kaum zu unterscheiden ist.</text>
+<text id="890100">Die zerschlissene Kleidung eines Gefangenen, verurteilt für ein abscheuliches Verbrechen.
+
+Da sie noch nie gewaschen wurde, steht sie fast vor Dreck.</text>
+<text id="890300">Zerschlissene Hosen, die von den abscheulichsten Verbrechern getragen werden.
+
+Da sie noch nie gewaschen wurden, stehen sie fast vor Dreck. Der Geruch ist unbeschreiblich.</text>
+<text id="891000">Eine eiserne Maske für verurteilte Schwerverbrecher.
+Diese hier stammt von Terrortroll der Schwarzwache.
+
+Sie ließ ihn noch furchteinflößender wirken und erleichterte ihm, seinen Willen durchzusetzen. Sie war jedoch auch ein Spiegel seiner Leere.</text>
+<text id="900000">Die Kapuze einer Wanderjungfer.
+
+Jungfern machen sich aus unterschiedlichen Gründen auf die Reise durch das Zwischenland. Manche suchen eine Audienz bei den Fingern, andere den vom Schicksal auserwählten Befleckten, der dringend ihrer führenden Hand bedarf.</text>
+<text id="900100">Die Robe einer Wanderjungfer.
+
+Jungfern machen sich aus unterschiedlichen Gründen auf die Reise durch das Zwischenland. Manche suchen eine Audienz bei den Fingern, andere den vom Schicksal auserwählten Befleckten, der dringend ihrer führenden Hand bedarf.</text>
+<text id="900200">Die Handschuhe einer Wanderjungfer.
+
+Jungfern machen sich aus unterschiedlichen Gründen auf die Reise durch das Zwischenland. Manche suchen eine Audienz bei den Fingern, andere den vom Schicksal auserwählten Befleckten, der dringend ihrer führenden Hand bedarf.</text>
+<text id="900300">Die Stiefel einer Wanderjungfer.
+
+Jungfern machen sich aus unterschiedlichen Gründen auf die Reise durch das Zwischenland. Manche suchen eine Audienz bei den Fingern, andere den vom Schicksal auserwählten Befleckten, der dringend ihrer führenden Hand bedarf.</text>
+<text id="901100">Die bescheidene Kleidung einer Wanderjungfer, für gewöhnlich das Untergewand ihrer Robe.</text>
+<text id="902000">Ein Stirnband der Jungfern, die den Zwei Fingern dienen.
+
+Die Jungfern widmen ihr Leben einem Befleckten, um mit ihm die Führung und Weisheit der Zwei Finger zu teilen.
+
+Die führende Hand der Gnade sorgt dafür, dass sich Jungfer und Befleckter auch finden. Zumindest wurde es so vor langer Zeit versprochen.</text>
+<text id="902100">Eine Robe der Jungfern, die den Zwei Fingern dienen.
+
+Die Jungfern widmen ihr Leben einem Befleckten, um mit ihm die Führung und Weisheit der Zwei Finger zu teilen.
+
+Die führende Hand der Gnade sorgt dafür, dass sich Jungfer und Befleckter auch finden. Zumindest wurde es so vor langer Zeit versprochen.</text>
+<text id="902300">Schuhe der Jungfern, die den Zwei Fingern dienen.
+
+Die Jungfern widmen ihr Leben einem Befleckten, um mit ihm die Führung und Weisheit der Zwei Finger zu teilen.
+
+Die führende Hand der Gnade sorgt dafür, dass sich Jungfer und Befleckter auch finden. Zumindest wurde es so vor langer Zeit versprochen.</text>
+<text id="903100">Eine Robe der Jungfern, die den Zwei Fingern dienen.
+
+Die Jungfern widmen ihr Leben einem Befleckten, um mit ihm die Führung und Weisheit der Zwei Finger zu teilen.
+
+Die führende Hand der Gnade sorgt dafür, dass sich Jungfer und Befleckter auch finden. Zumindest wurde es so vor langer Zeit versprochen.</text>
+<text id="910000">Großer Hut mit den Bewegungen der Sterne auf der Innenseite.
+Getragen von den Zauberpräzeptoren, die der königlichen Familie von Caria dienen.
+Erhöht den Geist auf Kosten der Ausdauer.
+
+Schimmersteinzauberer sind die Nachkommen von Astrologen, eine Tatsache, derer sich die Carianer bewusst sind. Auch wenn ihr Schicksal längst von den Sternen getrennt wurde.</text>
+<text id="910100">Eine lange leuchtend blaue Robe, auf die der Lauf der Sterne gezeichnet ist.
+Stammt von den Zauberpräzeptoren, die der königlichen Familie von Caria dienten.
+
+Schimmersteinzauberer sind die Nachfahren von Astrologen, das vergaßen die Carianer nie. Auch wenn ihr Schicksal längst von den Sternen getrennt war.</text>
+<text id="910200">Handschuhe der Zauberpräzeptoren, die der königlichen Familie von Caria dienen.
+Schwarz und diskret.</text>
+<text id="910300">Eine Hose der Zauberpräzeptoren, die der königlichen Familie von Caria dienen.
+Schwarz und diskret.</text>
+<text id="911000">Eine Maske, deren Mund mit goldenem Faden zugenäht ist.
+Erhöht die Arkanenergie.
+
+Nach seiner Vermählung mit Rennala befahl Radagon den Zauberpräzeptoren, diese Maske zu tragen. Sie sollte verdeutlichen, dass ihre Angelegenheiten nicht für die Ohren Dritter bestimmt sind.</text>
+<text id="911100">Ein schlichtes Untergewand zu einer langen leuchtend blauen Robe, die mit dem Lauf der Sterne verziert ist.</text>
+<text id="920000">%null%</text>
+<text id="930000">Eine Skelettmaske, die das Gesicht fest umschließt.
+Stammt von den Assassinen des Rabenhorsts.
+
+Dieser Ritualfetisch gräbt sich gnadenlos tiefer in das Gesicht des Trägers. Aber auch wenn er nun äußerlich einem Todesvogel gleicht, seine menschlichen Instinkte sind noch vorhanden.</text>
+<text id="930100">Eine Robe mit schwarzen Federn eines Raubvogels.
+Stammt von den Assassinen des Rabenhorsts.
+
+Ein Ritualfetisch für die Verwandlung in einen Todesvogel, wenn auch rein äußerlich.
+Verstärkt Sprungangriffe.
+
+"Wir sind die Todesvögel, die Schatten der Schöpfung."</text>
+<text id="930200">Improvisierte Manschetten aus schmutzigem Stoff, der einfach um die Arme gewickelt wird.
+Typische Ausrüstung von Banditen.</text>
+<text id="930300">Lederstiefel eines Banditen.
+
+Leichtes Material, das eine schnelle und leise Fortbewegung ermöglicht. Dafür bieten sie nur wenig Schadensresistenz.</text>
+<text id="931100">Lederkleidung eines Banditen.
+
+Leichtes Material, das eine schnelle und leise Fortbewegung ermöglicht. Dafür bietet sie nur wenig Schadensresistenz.</text>
+<text id="940000">Eine spitze, zerfetzte Kapuze.
+Stammt von Ritter Jerren.
+
+Die Kapuze verbirgt eine alte bärtige Maske.
+
+Jerren diente General Radahn als Gastkommandant. Man erzählt sich, sie hätten sich gegenseitig einen ehrenhaften Tod geschworen. </text>
+<text id="940100">Eine ungewöhnlich bunte Rüstung.
+Stammt von Ritter Jerren.
+
+Jerren zog lange einen nomadischen Lebensstil vor, doch als Gast der königlichen Familie von Caria wurde er auch zu General Radahns Gastkommandant.
+
+Dort band den einstmals ruhelosen Geist ein ehrenhafter Eid.</text>
+<text id="940200">Ritter Jerrens Manschetten.
+
+Jerren zog lange einen nomadischen Lebensstil vor, doch als Gast der königlichen Familie von Caria wurde er zu General Radahn Gastkommandant.
+
+Dort band den einstmals ruhelosen Geist ein ehrenhafter Eid.</text>
+<text id="940300">Ritter Jerrens Kniehose.
+
+Jerren zog lange einen nomadischen Lebensstil vor, doch als Gast der königlichen Familie von Caria wurde er zu General Radahn Gastkommandant.
+
+Dort band den einstmals ruhelosen Geist ein ehrenhafter Eid.</text>
+<text id="941000">Eine veränderte Variante der Kapuze des Exzentrikers.
+Stammt von Ritter Jerren.
+
+Jerren diente General Radahn als Gastkommandant. Man erzählt sich, sie hätten sich gegenseitig einen ehrenhaften Tod geschworen.</text>
+<text id="950000">Ein von den Fingern versengter und mit Blasen bedeckter Eisenhelm.
+Getragen von Vyke, dem Ritter der Tafelrundfeste.
+
+Kein anderer Befleckter war dem Thron des Eldenfürsten näher als Vyke. Jedoch stieg er ohne jegliche Vorwarnung weit unter die Hauptstadt hinab und wurde von der Rasenden Flamme versengt.
+
+Traf Vyke seine Entscheidung für seine Jungfer oder hat ihn eine andere Macht mit Suggestionen gelockt?</text>
+<text id="950100">Eine von den Fingern versengte und mit Blasen bedeckte Eisenrüstung.
+Getragen von Vyke, dem Ritter der Tafelrundfeste.
+
+Kein anderer Befleckter war dem Thron des Eldenfürsten näher als Vyke. Jedoch stieg er ohne jegliche Vorwarnung weit unter die Hauptstadt hinab und wurde von der Rasenden Flamme versengt.
+
+Traf Vyke seine Entscheidung für seine Jungfer oder hat ihn eine andere Macht mit Suggestionen gelockt?</text>
+<text id="950200">Von den Fingern versengte und mit Blasen bedeckte Eisenstulpen.
+Getragen von Vyke, dem Ritter der Tafelrundfeste.
+
+Kein anderer Befleckter war dem Thron des Eldenfürsten näher als Vyke. Jedoch stieg er ohne jegliche Vorwarnung weit unter die Hauptstadt hinab und wurde von der Rasenden Flamme versengt.
+
+Traf Vyke seine Entscheidung für seine Jungfer oder hat ihn eine andere Macht mit Suggestionen gelockt?</text>
+<text id="950300">Von den Fingern versengter und mit Blasen bedeckter Eisenbeinschutz.
+Getragen von Vyke, dem Ritter der Tafelrundfeste.
+
+Kein anderer Befleckter war dem Thron des Eldenfürsten näher als Vyke. Jedoch stieg er ohne jegliche Vorwarnung weit unter die Hauptstadt hinab und wurde von der Rasenden Flamme versengt.
+
+Traf Vyke seine Entscheidung für seine Jungfer oder hat ihn eine andere Macht mit Suggestionen gelockt?</text>
+<text id="951100">Eine von den Fingern versengte und mit Blasen bedeckte Eisenrüstung.
+Getragen von Vyke, dem Ritter der Tafelrundfeste.
+
+Kein anderer Befleckter war dem Thron des Eldenfürsten näher als Vyke. Jedoch stieg er ohne jegliche Vorwarnung weit unter die Hauptstadt hinab und wurde von der Rasenden Flamme versengt.
+
+Traf Vyke seine Entscheidung für seine Jungfer oder hat ihn eine andere Macht mit Suggestionen gelockt?</text>
+<text id="960000">Weiße Maske von Tanith, Herrin auf Haus Vulkan nach dem Bild einer fremden Königin.
+Erhöht das Geschick.
+
+Als Rykard Tanith vor langer Zeit zum ersten Mal sah, arbeitete sie als Tänzerin in einem fremden Land. Bald darauf machte er sie zu seiner Gemahlin. Sie war der einzige Mensch, der an seiner Seite blieb, als er zur Schlange der Blasphemie wurde.
+
+In diesem Moment war Tanith wirklich verzaubert von ihm.</text>
+<text id="960100">Edles Kleid aus weißer Seide von Tanith, Herrin auf Haus Vulkan.
+
+Als Rykard Tanith vor langer Zeit zum ersten Mal sah, arbeitete sie als Tänzerin in einem fremden Land. Bald darauf machte er sie zu seiner Gemahlin. Sie war der einzige Mensch, der an seiner Seite blieb, als er zur Schlange der Blasphemie wurde.
+
+In diesem Moment war Tanith wirklich verzaubert von ihm.</text>
+<text id="960300">Elegante weiße Hose, die perfekt unter ein seidenes Kleid passt.</text>
+<text id="961000">Eine Maske nach dem Antlitz eines runzligen Weisen.
+Gebräuchlich unter den Herren eines kleinen Volks.
+Stärkt den Glauben.
+
+Diese Maske verkörpert die Ideale eines Anführers: vornehmlich Weisheit und eine gewisse verblasste Genialität. Wer im Zentrum gesellschaftlichen Treibens steht, schätzt diese Eigenschaften.</text>
+<text id="961100">Opulente Robe getragen von Herren eines kleinen Volks.
+
+Ihr Blau unterstreicht den hohen Status des Trägers.</text>
+<text id="962100">Bestickte, leuchtend grüne Robe getragen von adligen Kindern.
+
+Das Tragen einer solchen Robe wird traditionell als Symbol aufkeimender Unabhängigkeit gewertet.</text>
+<text id="963000">Eine Maske nach dem Antlitz eines jungen weißhaarigen Adligen.
+Traditionell vom Oberhaupt des Hauses Marais getragen.
+Erhöht die Arkanenergie.
+
+Aus der Familie Marais kamen über Generationen sowohl die Henker als auch die Kastellane der Schattenburg. Diese Maske ist das Abbild des Ersten ihrer Linie.</text>
+<text id="963100">Eine Robe mit schwarzem Mantel über den Schultern.
+Traditionell vom Oberhaupt des Hauses Marais getragen.
+
+Alle Söhne des Hauses Marais werden kränklich geboren. So überrascht es nicht, dass Maleigh Marais, sich von einer wunderschönen und wilden Göttin mit angeborener Fäulnis verführen ließ.</text>
+<text id="963200">Manschetten aus blutigen, eng gebundenen Bandagen.
+
+Den eitrigen Armen darunter ist jeder Schutz recht.</text>
+<text id="964000">Eine Maske aus blutigen, eng gebundenen Bandagen.
+
+Selbst die abstoßendste Verhüllung ist leichter zu ertragen als das eitrige Gesicht darunter.</text>
+<text id="964100">Eine dreckige blaue Robe, die von Handlangern der Magister bei ebenso dreckigen Pflichten getragen wird.
+
+Spionage, Hinrichtung, grauenhafte Rituale ... Dunkel ist das Wasser, das die Mühlen der Menschheit antreibt.</text>
+<text id="970000">Ein deformierter Helm, der einem Mal mit abgetrennten Hörnern ähnelt.
+Er stammt vom Dungfresser und entspricht seinem Weltbild. So sieht er sich selbst.
+
+Das Herz eines Mals ohne den entsprechenden Körper; was könnte grausamer sein? Was ist das noch wert, wenn der Fluch am Ende alles verschlingt?</text>
+<text id="970100">Eine deformierte Rüstung, die einem Mal mit abgetrennten Hörnern ähnelt.
+Sie stammt vom Dungfresser.
+
+Das schwere sonnenförmige Medaillon ist ein Symbol der Führung, die er vor so langer Zeit sah, und auch ein Symbol des Rings, den er mit ihrer Hilfe eines Tages finden wird.</text>
+<text id="970200">Deformierte Stulpen, die einem Mal mit abgetrennten Hörnern ähneln.
+Stammt vom Dungfresser und entsprechen seinem Weltbild. So sieht er sich selbst.
+
+Das Herz eines Mals ohne den entsprechenden Körper; was könnte grausamer sein? Was ist das noch wert, wenn der Fluch am Ende alles verschlingt?</text>
+<text id="970300">Ein deformierter Beinschutz, der einem Mal mit abgetrennten Hörnern ähnelt.
+Stammt vom Dungfresser und entspricht seinem Weltbild. So sieht er sich selbst.
+
+Das Herz eines Mals ohne den entsprechenden Körper; was könnte grausamer sein? Was ist das noch wert, wenn der Fluch am Ende alles verschlingt?</text>
+<text id="980000">Ein Helm der verzauberten Ritter, die einst der königlichen Familie von Caria dienten.
+
+Die von der Mondkönigin geweihten, verzauberten Ritter waren allesamt Helden höchsten Ranges, verloren mit dem Niedergang der Königsfamilie aber schnell an Bedeutung.</text>
+<text id="980100">Eine Rüstung der verzauberten Ritter, die einst der königlichen Familie von Caria dienten.
+
+Die von der Mondkönigin geweihten, verzauberten Ritter waren allesamt Helden höchsten Ranges, verloren mit dem Niedergang der Königsfamilie aber schnell an Bedeutung.</text>
+<text id="980200">Stulpen der verzauberten Ritter, die einst der königlichen Familie von Caria dienten.
+
+Die von der Mondkönigin geweihten, verzauberten Ritter waren allesamt Helden höchsten Ranges, verloren mit dem Niedergang der Königsfamilie aber schnell an Bedeutung.</text>
+<text id="980300">Ein Beinschutz der verzauberten Ritter, die einst der königlichen Familie von Caria dienten.
+
+Die von der Mondkönigin geweihten, verzauberten Ritter waren allesamt Helden höchsten Ranges, verloren mit dem Niedergang der Königsfamilie aber schnell an Bedeutung.</text>
+<text id="981100">Eine Rüstung der verzauberten Ritter, die einst der königlichen Familie von Caria dienten.
+
+Die von der Mondkönigin geweihten, verzauberten Ritter waren allesamt Helden höchsten Ranges, verloren mit dem Niedergang der Königsfamilie aber schnell an Bedeutung.</text>
+<text id="990000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit und Kondition auf Kosten der FP.
+
+Die Krone von Hierodas wurde Gelehrten verliehen, die sich außerhalb der Akademie mit nomadischen Studien beschäftigten.</text>
+<text id="990100">Eine gewöhnliche Robe aus dickem Stoff.
+Stammt vom abtrünnigen Zauberer Wilhelm, einem der ersten Befleckten, die die Tafelrundfeste besuchten.
+
+Wilhelm studierte die Zauberei im Geheimen und wagte sich sogar an die Urströmung, wurde aber zu einer Konfrontation mit seinem Freund Vargram gedrängt und angeblich in der Tafelrundfeste eingekerkert.</text>
+<text id="990200">Gewöhnliche Ledermanschetten.
+Die Handinnenseiten sind mit glanzlosem Schimmerstein verziert.</text>
+<text id="990300">Gewöhnliche Lederstiefel, die einer langen Reise standhalten.</text>
+<text id="991100">Eine gewöhnliche Robe aus dickem Stoff.
+Stammt vom abtrünnigen Zauberer Wilhelm, einem der ersten Befleckten, die die Tafelrundfeste besuchten.
+
+Wilhelm studierte die Zauberei im Geheimen und wagte sich sogar an die Urströmung, wurde aber zu einer Konfrontation mit seinem Freund Vargram gedrängt und angeblich in der Tafelrundfeste eingekerkert.</text>
+<text id="1000000">Eine der Schimmersteinkronen, die nur den Gelehrten von Raya Lucaria verliehen wurden, deren Bemühungen man als würdig erachtete.
+Erhöht Weisheit und Stärke auf Kosten der FP.
+
+Gelehrte des Hauses Haima suchten nach der Macht, Konflikte zu lösen, und studierten zu diesem Zweck die Zauberei des Kanonenfeuers und des Hammers.</text>
+<text id="1000100">Eine Robe der Akademiegelehrten von Raya Lucaria, stark ramponiert durch viele Schlachten.
+
+Wann immer ein Krieg ausbricht, versiegelt die Akademie alle Türen und nur Haimas Gelehrte wagen sich nach draußen.
+Abschottung ist der Tod des Forscherdrangs und lediglich eine bequeme Form der Flucht.</text>
+<text id="1000200">Manschetten der Akademiegelehrten von Raya Lucaria, stark ramponiert durch viele Schlachten.</text>
+<text id="1000300">Beinwickel der Akademiegelehrten von Raya Lucaria, stark ramponiert durch viele Schlachten.</text>
+<text id="1010000">Ein spitzer Hexenhut, durch und durch gefroren.
+Wird häufig von jenen bevorzugt, die sich den ketzerischen Zaubereien verschrieben haben.
+Verstärkt eisige Zaubereien.
+
+Dieses Exemplar stammt von der Schneevettel, die Ranni tief im Wald traf, als sie noch jung war. Die alte Hexe war eine Meisterin der eisigen Zaubereien.
+Angeblich wurde die Puppe mit Rannis Seele nach ihrem Abbild erschaffen.
+
+Die alte Hexe brachte Ranni insgeheim all ihr Wissen bei.</text>
+<text id="1010100">Eine schneefarbene Hexenrobe.
+Dieses Exemplar stammt von der Schneevettel, die Ranni tief im Wald traf, als sie noch jung war. Die alte Hexe war eine Meisterin der eisigen Zaubereien.
+
+Angeblich wurde die Puppe mit Rannis Seele nach ihrem Abbild erschaffen.
+
+Die alte Hexe brachte Ranni insgeheim all ihr Wissen bei.</text>
+<text id="1010300">Ein schneefarbener Hexenrock.
+Dieses Exemplar stammt von der Schneevettel, die Ranni tief im Wald traf, als sie noch jung war. Die alte Hexe war eine Meisterin der eisigen Zaubereien.
+
+Angeblich wurde die Puppe mit Rannis Seele nach ihrem Abbild erschaffen.
+
+Die alte Hexe brachte Ranni insgeheim all ihr Wissen bei.</text>
+<text id="1011100">Eine schneefarbene Hexenrobe.
+Dieses Exemplar stammt von der Schneevettel, die Ranni tief im Wald traf, als sie noch jung war. Die alte Hexe war eine Meisterin der eisigen Zaubereien.
+
+Angeblich wurde die Puppe mit Rannis Seele nach ihrem Abbild erschaffen.
+
+Die alte Hexe brachte Ranni insgeheim all ihr Wissen bei.</text>
+<text id="1020100">Leichte, aber dennoch stabile Kleidung.
+
+Wird oft von jungen Frauen bevorzugt, die in die Welt hinaus ziehen, um sich ihrem Schicksal zu stellen.</text>
+<text id="1020200">Leichter, aber dennoch stabiler Lederarmschutz.
+
+Er wird oft von jungen Frauen bevorzugt, die in die Welt hinaus ziehen, um sich ihrem Schicksal zu stellen.</text>
+<text id="1020300">Leichte, aber dennoch stabile Lederstiefel.
+
+Sie werden oft von jungen Frauen bevorzugt, die in die Welt hinaus ziehen, um sich ihrem Schicksal zu stellen.</text>
+<text id="1030000">Eine Kappe der jungen Gelehrten der Akademie von Raya Lucaria. Diese Gelehrten werden ständig aus dem Bernsteinei von Königin Rennala wiedergeboren, dem Oberhaupt der Akademie.
+
+Allerdings ist ihre Wiedergeburt unvollkommen und durch die vielen vergeblichen Versuche sind sie am Ende süchtig danach.
+
+Für sie ist die Wiedergeburt wie ein Schlaf und mit jedem Erwachen verlieren sie sämtliche Erinnerungen.</text>
+<text id="1030100">Eine Robe der jungen Gelehrten der Akademie von Raya Lucaria. Diese Gelehrten werden ständig aus dem Bernsteinei von Königin Rennala wiedergeboren, dem Oberhaupt der Akademie.
+
+Allerdings ist ihre Wiedergeburt unvollkommen und durch die vielen vergeblichen Versuche sind sie am Ende süchtig danach.
+
+Für sie ist die Wiedergeburt wie ein Schlaf und mit jedem Erwachen verlieren sie sämtliche Erinnerungen.</text>
+<text id="1040000">Eine Maske in Form eines flammenden Heiligenscheins.
+Erschaffen und hinterlassen von Fürst Goldmaske, einem strengen Fundamentalisten der Goldenen Ordnung.
+Verstärkt Anrufungen der Goldenen Ordnung.
+
+Das Design erinnert sowohl an die brillante Inspiration, die ihn einst erfüllte, als auch an die Vision eines Rings, den er gewiss am Ende seiner langen Suche finden wird.
+
+"Ihr, der Ihr glänzt, wie ich es einst tat, tragt dies und findet Eure Bestimmung!"</text>
+<text id="1040100">Zerschlissene Lumpen, die kaum den Körper bedecken.
+
+Fürst Goldmaske verabscheute prächtige Gewänder; wer braucht elegante Kleidung, wenn er nach wahrer Brillanz strebt?</text>
+<text id="1040200">Armreifen nach dem Vorbild der Äste des Erdenbaums.
+Eines der wenigen Schmuckstücke der Jünger von Fürst Goldmaske.
+
+All diese Jünger haben ihn längst verlassen.</text>
+<text id="1040300">Ein Hüftwickel nach dem Vorbild der Äste des Erdenbaums.
+Eines der wenigen Schmuckstücke der Jünger von Fürst Goldmaske.
+
+All diese Jünger haben ihn längst verlassen.</text>
+<text id="1050100">Ein Umhang aus zerfetztem Fell, der von Margit, dem Grausamen Mal, getragen wird.
+
+Nachdem das Grausame Mal während der Zetrümmerung unzählige Helden abgeschlachtet hat, ist es zu einem Albtraum für diejenigen geworden, die Ambitionen für den Erdenbaum oder die Herrschaft hegen.</text>
+<text id="1060000">Eine Maske gefertigt aus dem rohen Balg eines jungen Albinauric.
+
+Erhöht Eure Arkanenergie, verringert aber die HP-Regeneration einer Flasche mit Purpurtränen.
+
+Diese Maske ist zwar kein Götterskalp, aber dennoch das Produkt unaussprechlicher Niedertracht.</text>
+<text id="1060100">Das Kettenhemd eines jungen Albinauric.
+
+Dass es wie ein vorgestreckter Bauch aussieht, hat keinen besonderen Vorteil.</text>
+<text id="1070000">Eine Maske der Ritter aus Zamor, die im Krieg gegen die Riesen als Helden gefeiert wurden.
+
+Angeblich sind diese extrem langlebigen und in eisige Winde gehüllten Krieger seit Beginn der Geschichte eingeschworene Todfeinde der Feuerriesen.</text>
+<text id="1070100">Eine Rüstung der Ritter aus Zamor, die im Krieg gegen die Riesen als Helden gefeiert wurden.
+
+Angeblich sind diese extrem langlebigen und in eisige Winde gehüllten Krieger seit Beginn der Geschichte eingeschworene Todfeinde der Feuerriesen.</text>
+<text id="1070200">Armreifen der Ritter aus Zamor, die im Krieg gegen die Riesen als Helden gefeiert wurden.
+
+Angeblich sind diese extrem langlebigen und in eisige Winde gehüllten Krieger seit Beginn der Geschichte eingeschworene Todfeinde der Feuerriesen.</text>
+<text id="1070300">Beinwickel der Ritter aus Zamor, die im Krieg gegen die Riesen als Helden gefeiert wurden.
+
+Angeblich sind diese extrem langlebigen und in eisige Winde gehüllten Krieger seit Beginn der Geschichte eingeschworene Todfeinde der Feuerriesen.</text>
+<text id="1080000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an einen Katzenkopf und birgt sogar Spuren ihrer Weisheit.</text>
+<text id="1081000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an einen Dämon mit Reißzähnen und birgt Spuren von bestialischer Stärke.</text>
+<text id="1082000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an einen langzüngigen Dämon und birgt sogar Spuren teuflischen Geschicks.</text>
+<text id="1083000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an das Antlitz einer Leiche und birgt Spuren eines vergessenen Glaubens.</text>
+<text id="1084000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an einen Wolfskopf und birgt sogar Spuren seiner Ausdauer.</text>
+<text id="1085000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Erinnert ein wenig an einen Ältesten und birgt sogar Spuren arkanen Wissens.</text>
+<text id="1090000">Eine Maske hergestellt aus den Überresten einer formlosen Silberträne und verstärkt mit ihrer gehärteten abgestreiften Hülle.
+Erhöht deutlich Eure Arkanenergie zulasten körperlicher Angriffskraft.
+
+Nun könnt Ihr ein Wesen imitieren, dessen gesamtes Leben eine einzige Imitation war. Das Schicksal geht wahrlich seltsame Wege.</text>
+<text id="1100000">Eine Haube aus Kettengeflecht.
+Standardausrüstung für einfache Soldaten.
+
+Macht nicht gerade viel her, schützt aber durchaus zuverlässig.</text>
+<text id="1100100">Eine Rüstung aus Kettengeflecht.
+Standardausrüstung für einfache Soldaten.
+
+Macht nicht gerade viel her, schützt aber durchaus zuverlässig.</text>
+<text id="1100200">Von einfachen Soldaten getragene Stulpen.
+
+Machen nicht gerade viel her, schützen aber durchaus zuverlässig.</text>
+<text id="1100300">Beinschutz aus Kettengeflecht.
+Standardausrüstung für einfache Soldaten.
+
+Machen nicht gerade viel her, schützen aber durchaus zuverlässig.</text>
+<text id="1101000">Ein stabiler Großhelm aus Eisen.
+
+Ausgesprochen schwer und schränkt die Sicht des Trägers extrem ein, bietet aber beträchtliche Schadensresistenz.</text>
+<text id="1101100">Ein brauner Wappenrock, der über einer Kettenrüstung getragen wird.
+
+Sein Wappen weist den Träger als Augen und Ohren von Sir Gideon dem Allwissenden aus.</text>
+<text id="1102100">Ein blauer Wappenrock, der über einer Kettenrüstung getragen wird.
+
+Seine Vorderseite ist mit Erdenbaum verziert, ein Design, das im gesamten Zwischenland beliebt ist.</text>
+<text id="1110000">Ein Landoktopusjunges, das direkt auf dem Kopf getragen wird.
+Ist immer noch warm und fühlt sich ein wenig an wie menschliche Haut.
+
+Wenn Euch der Gestank nicht abschreckt, ist seine Elastizität ein hervorragender Schutz vor Schlägen.</text>
+<text id="1120000">Ein Gefäß, das umgekehrt perfekt über Euren Kopf passt.
+Ein von Eisenfaust Alexander mit Stolz hergestelltes Kunstwerk.
+
+Als Zeichen der Freundschaft verstärkt das Gefäß sogar die Wirkung von Wurftöpfen.</text>
+<text id="1130000">Pilze, die einen Körper vollkommen überwuchern.
+Diese großen Exemplare wachsen auf dem Kopf.
+
+Für die Verehrer der Scharlachfäule sind sie heilige Kleidung, die sie mit dem Land verbindet.</text>
+<text id="1130100">Pilze, die einen Körper vollkommen überwuchern.
+Diese großen Exemplare wachsen auf dem Torso.
+
+Für die Verehrer der Scharlachfäule sind sie heilige Kleidung, die sie mit dem Land verbindet.</text>
+<text id="1130200">Pilze, die einen Körper vollkommen überwuchern.
+Diese großen Exemplare wachsen auf den Armen.
+
+Für die Verehrer der Scharlachfäule sind sie heilige Kleidung, die sie mit dem Land verbindet.</text>
+<text id="1130300">Pilze, die einen Körper vollkommen überwuchern.
+Diese großen Exemplare wachsen auf den Beinen.
+
+Für die Verehrer der Scharlachfäule sind sie heilige Kleidung, die sie mit dem Land verbindet.</text>
+<text id="1300000">Ein Helm hergestellt aus einem Kristallspiegel.
+Eines der magischen Artefakte der Ewigen Stadt.
+Sehr zerbrechlich und anfällig für Schläge.
+
+Er schützt vor der Einmischung des Höheren Willens und seiner Fingerdiener und ist damit perfekt für alle Hochverräter.</text>
+<text id="1301000">Ein Helm hergestellt aus einem Kristallspiegel, den Iji der Kriegsstratege angeblich Tag und Nacht getragen hat.
+Sehr zerbrechlich und anfällig für Schläge.
+
+Er schützt vor der Einmischung des Höheren Willens und seiner Fingerdiener und ist damit perfekt für Hochverräter.
+
+Sogar Iji war über seinen Verrat zutiefst entsetzt.</text>
+<text id="1400000">Eine Kapuze aus schmucklosem schwarzen Stoff, um die Identität des Trägers zu verbergen.
+
+In dieser Welt gibt es nur wenig, das unbedingt jeder wissen sollte.</text>
+<text id="1400100">Die leichte und in vielen Kämpfen erprobte Lederrüstung eines geschickten Soldaten.
+
+Viele verehren die Träger dieser Rüstungen für ihre ritterliche und aufrechte Gesinnung.</text>
+<text id="1400200">Die leichten und in vielen Kämpfen erprobten Lederhandschuhe eines geschickten Soldaten.
+
+Viele verehren die Träger dieser Rüstungen für ihre ritterliche und aufrechte Gesinnung.</text>
+<text id="1400300">Die leichten und in vielen Kämpfen erprobten Lederstiefel eines geschickten Soldaten.
+
+Viele verehren die Träger dieser Rüstungen für ihre ritterliche und aufrechte Gesinnung.</text>
+<text id="1401000">Eine schwarze Stoffmaske, die den Mund bedeckt.
+
+Wird von Banditen bevorzugt, um ihre Identität zu verbergen, und schützt sogar ein wenig gegen Gift.</text>
+<text id="1500000">Der Eisenhelm eines unbekannten Ritters.
+Wurde aus dünnen Eisenplatten gefertigt.
+
+Solche Metallrüstungen sind schwer, bieten aber eine hohe Schadensresistenz.</text>
+<text id="1500100">Die Eisenrüstung eines unbekannten Ritters.
+Wurde aus dünnen Eisenplatten gefertigt.
+
+Solche Metallrüstungen sind schwer, bieten aber eine hohe Schadensresistenz.</text>
+<text id="1500200">Die Eisenstulpen eines unbekannten Ritters.
+Sie wurden aus dünnen Eisenplatten gefertigt.
+
+Solche Metallrüstungen sind schwer, bieten aber eine hohe Schadensresistenz.</text>
+<text id="1500300">Der Eisenbeinschutz eines unbekannten Ritters.
+Wurde aus dünnen Eisenplatten gefertigt.
+
+Solche Metallrüstungen sind schwer, bieten aber eine hohe Schadensresistenz.</text>
+<text id="1600000">Eine Kapuze, die deutlich größer ist als der Kopf, den sie bedecken soll.
+Dies ist eine Art Grabtuch für jene, die endlich finden, wonach sie so lange gesucht haben.
+Verstärkt Weisheit und Glauben zulasten der LP.
+
+"Ah, gewiss blickte die junge Rennala einst hinauf zu eben diesem Mond."</text>
+<text id="1700000">Ein Helm der Soldaten, die Godrick dem Verpflanzten die Treue halten.
+Der Helm wird über einer Kettenhaube getragen und besteht aus stabilem Eisen.</text>
+<text id="1700100">Eine Rüstung der Soldaten, die Godrick dem Verpflanzten die Treue halten.
+
+Der Wappenrock ist mit dem Erdenbaum und dem Bestienregenten verziert, einem Symbol des goldenen Stammbaums. Doch beide zeugen heute von einem Ruhm, der längst vergangenen ist.</text>
+<text id="1700200">Stulpen der Soldaten, die Godrick dem Verpflanzten die Treue halten.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1700300">Ein Beinschutz der Soldaten, die Godrick dem Verpflanzte die Treue halten.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1710000">Ein Helm der Soldaten, die der Akademie von Raya Lucaria dienen.
+Die Stirnpartie ist mit einer einzelnen Kuckucksfeder verziert.</text>
+<text id="1710100">Eine Rüstung der Soldaten, die der Akademie von Raya Lucaria dienen.
+
+Den Wappenrock zieren zwei Kuckucksvögel, die in einen gewaltigen Schimmerstein blicken.
+
+Für Schimmersteinzauberer ist der Körper ein vergängliches Ding. Der Kuckuck weiß, wie unwichtig er ist, aber er beschützt ihn dennoch mit all seiner Macht.</text>
+<text id="1710200">Stulpen der Soldaten, die der Akademie von Raya Lucaria dienen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1710300">Ein Beinschutz der Soldaten, die der Akademie von Raya Lucaria dienen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1720000">Ein Helm der Soldaten, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+Der Helm wird über einer Kettenhaube getragen und besteht aus stabilem Eisen.</text>
+<text id="1720100">Eine Rüstung der Soldaten, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Den Wappenrock ziert eine prachtvolle Darstellung des Erdenbaums. Diese goldene Verzierung findet man bei keinem anderen Soldaten.</text>
+<text id="1720200">Stulpen der Soldaten, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1720300">Ein Beinschutz der Soldaten, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1730000">Ein Helm der Soldaten, die an der Seite von General Radahn kämpften.
+Sein Visier wurde den Reißzähnen eines Löwen nachempfunden.</text>
+<text id="1730100">Eine Rüstung der Soldaten, die an der Seite von General Radahn kämpften.
+
+Den Wappenrock ziert ein rotmähniger Löwe, der ein Schwert hält – ein Symbol für Radahn. Wer auch immer diese Rüstung trug, war eine echte Rotmähne und dieses Titels würdig.</text>
+<text id="1730200">Stulpen der Soldaten, die an der Seite von General Radahn kämpften.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1730300">Ein Beinschutz der Soldaten, die an der Seite von General Radahn kämpften.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1740100">Rüstung der kopflosen Soldaten, die das Wandernde Mausoleum unentwegt bewachen.
+
+Der Wappenrock zeigt die Mausoleumsglocke, die in ständiger Trauer um die seelenlosen Halbgötter läutet.</text>
+<text id="1740200">Stulpen der kopflosen Soldaten, die auf ewig das Wandernde Mausoleum bewachen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1740300">Ein Beinschutz der geisterhaften Soldaten, die auf ewig das Wandernde Mausoleum bewachen.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1750000">Ein Helm der Soldaten, die dem Haligbaum die Treue geschworen haben.
+Dieser Eisenhelm ist mit einer Krone aus purem Gold verziert.
+Verstärkt Euren Glauben.</text>
+<text id="1750100">Eine Rüstung der Soldaten, die dem Haligbaum die Treue geschworen haben.
+
+Der Wappenrock ist mit einem Bild des Haligbaums verziert.
+
+Obwohl der Haligbaum stets mit Miquellas eigenem Blut gewässert wurde, wuchs er nie zu einem Erdenbaum heran.</text>
+<text id="1750200">Stulpen der Soldaten, die dem Haligbaum die Treue geschworen haben.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1750300">Ein Beinschutz der Soldaten, die dem Haligbaum die Treue geschworen haben.
+
+Von Rost und Flecken aus unzähligen Kämpfen gezeichnet.</text>
+<text id="1760000">Ein Helm der Ritter, die einst Prätor Rykard die Treue hielten.
+
+Der Kamm aus roten Federn ist ein Symbol für Rykards Abstammung. Immerhin ist er der Sohn von Fürst Radagon.</text>
+<text id="1760100">Eine Rüstung der Ritter, die einst Prätor Rykard die Treue hielten.
+
+Ihr Emblem trägt heute niemand mehr, da es für einen Fürsten steht, dessen hohe Ambitionen in lüsterne Verdorbenheit umschlug.
+
+Und so wie dieser Fürst seine Würde verlor, verloren die Ritter ihren Herren.</text>
+<text id="1760200">Stulpen der Ritter, die einst Prätor Rykard die Treue hielten.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1760300">Ein Beinschutz der Ritter, die einst Prätor Rykard die Treue hielten.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1761100">Eine Rüstung der Ritter, die einst Prätor Rykard die Treue hielten.
+
+Ihr Emblem trägt heute niemand mehr, da es für einen Fürsten steht, dessen hohe Ambitionen in lüsterne Verdorbenheit umschlug.
+
+Und so wie dieser Fürst seine Würde verlor, verloren die Ritter ihren Herren.</text>
+<text id="1770000">Ein Helm der Ritter, die Godrick dem Verpflanzten die Treue halten.
+Verziert mit strähnigem aschfarbenen Haar.</text>
+<text id="1770100">Eine Rüstung der Ritter, die Godrick dem Verpflanzten die Treue halten.
+
+Auf der linken Brustseite prangt eine zweiköpfige Kriegsaxt, ein Symbol des goldenen Stammbaums.
+Diese Ritter waren vor langer Zeit gewiss für ihre Stärke berühmt.</text>
+<text id="1770200">Stulpen der Ritter, die Godrick dem Verpflanzten die Treue halten.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1770300">Ein Beinschutz der Ritter, die Godrick dem Verpflanzten die Treue halten.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1771100">Eine Rüstung der Ritter, die Godrick dem Verpflanzten die Treue halten.
+
+Auf der linken Brustseite prangt eine zweiköpfige Kriegsaxt, ein Symbol des goldenen Stammbaums.
+Diese Ritter waren vor langer Zeit gewiss für ihre Stärke berühmt.</text>
+<text id="1780000">Ein Helm der Ritter, die der Akademie von Raya Lucaria dienen.
+
+Die Stirnpartie ist mit einer einzelnen Kuckucksfeder verziert.</text>
+<text id="1780100">Eine Rüstung der Ritter, die der Akademie von Raya Lucaria dienen.
+
+Auf der linken Brustseite prangt ein wachsamer Kuckuck, der den Rittern ihren Namen verlieh.
+
+Vielleicht ist der wissende Blick des Vogels ein Symbol, dass sie mehr sein wollten, als einfache Diener der Akademie.</text>
+<text id="1780200">Stulpen der Ritter, die der Akademie von Raya Lucaria dienen.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1780300">Ein Beinschutz der Ritter, die der Akademie von Raya Lucaria dienen.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1781100">Eine Rüstung der Ritter, die der Akademie von Raya Lucaria dienen.
+
+Auf der linken Brustseite prangt ein wachsamer Kuckuck, der den Rittern ihren Namen verlieh.
+
+Vielleicht ist der wissende Blick des Vogels ein Symbol, dass sie mehr sein wollten, als einfache Diener der Akademie.</text>
+<text id="1790000">Ein Helm der Ritter, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Die goldene Baumkrone zeigt, dass sein Träger zu den Wächtern des Baums selbst zählte.</text>
+<text id="1790100">Eine Rüstung der Ritter, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Auf der linken Brustseite prangt das Symbol der Getreuen des Erdenbaums. Angeblich war es einst sogar mit einem Schutzzauber erfüllt.</text>
+<text id="1790200">Stulpen der Ritter, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1790300">Ein Beinschutz der Ritter, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1791100">Eine Rüstung der Ritter, die treu bis in den Tod die königliche Hauptstadt Leyndell beschützen.
+
+Auf der linken Brustseite prangt das Symbol der Getreuen des Erdenbaums. Angeblich war es einst sogar mit einem Schutzzauber erfüllt.</text>
+<text id="1800000">Ein Helm der Ritter, die an der Seite von General Radahn kämpften.
+
+Die rote Verzierung ist ein Symbol für Radahns Abstammung von Fürst Radagon – die Mähne des stolzen Roten Löwen.</text>
+<text id="1800100">Eine Rüstung der Ritter, die an der Seite von General Radahn kämpften.
+
+Als Malenias Scharlachfäule sie in die Knie zwang, brannten die Rotmähnenritter als Zeichen ihrer Entschlossenheit das Emblem in die linke Brustseite ihrer Rüstung.
+
+"Leb wohl, geliebte Heimat, wir werden uns nie wiedersehen! Denn unser Platz ist nun hier, als letztes Bollwerk gegen diese Seuche."</text>
+<text id="1800200">Schwarzeisenstulpen der Ritter, die an der Seite von General Radahn kämpften. Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1800300">Ein Beinschutz der Ritter, die an der Seite von General Radahn kämpften.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1801100">Eine Rüstung der Ritter, die an der Seite von General Radahn kämpften.
+
+Als Malenias Scharlachfäule sie in die Knie zwang, brannten die Rotmähnenritter als Zeichen ihrer Entschlossenheit das Emblem in die linke Brustseite ihrer Rüstung.
+
+"Leb wohl, geliebte Heimat, wir werden uns nie wiedersehen! Denn unser Platz ist nun hier, als letztes Bollwerk gegen diese Seuche."</text>
+<text id="1810100">Eine Rüstung der kopflosen Ritter, die auf ewig das Wandernde Mausoleum bewachen.
+
+Die Flügelornamente auf dem Rücken erinnern an den Todesvogel, ein Symbol für den selbst auferlegten Fluch, der ihre Geister an dieses Land bindet. Diese treuen Ritter enthaupten sich selbst, um auch im Tod ihrem Herrn zu dienen.</text>
+<text id="1810200">Stulpen der kopflosen Ritter, die auf ewig das Wandernde Mausoleum bewachen.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1810300">Ein Beinschutz der kopflosen Ritter, die auf ewig das Wandernde Mausoleum bewachen.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1811100">Eine Rüstung der kopflosen Ritter, die auf ewig das Wandernde Mausoleum bewachen.
+
+Die Flügelornamente auf dem Rücken erinnern an den Todesvogel, ein Symbol für den selbst auferlegten Fluch, der ihre Geister an dieses Land bindet. Diese treuen Ritter enthaupten sich selbst, um auch im Tod ihrem Herrn zu dienen.</text>
+<text id="1820000">Ein Helm der Ritter, die dem Haligbaum die Treue geschworen haben.
+Dieser Helm ist mit einer Krone aus reinem Gold verziert.
+
+Verstärkt Euren Glauben.</text>
+<text id="1820100">Eine Rüstung der Ritter, die dem Haligbaum die Treue geschworen haben.
+
+Auf der linken Brustseite prangt das Wappen des Haligbaums.
+
+Obwohl der Haligbaum stets mit Miquellas eigenem Blut gewässert wurde, wuchs er nie zu einem Erdenbaum heran.</text>
+<text id="1820200">Stulpen der Ritter, die dem Haligbaum die Treue geschworen haben.
+
+Noch haben sie nichts von ihrem Glanz eingebüßt.</text>
+<text id="1820300">Ein Beinschutz der Ritter, die dem Haligbaum die Treue geschworen haben.
+
+Noch hat er nichts von seinem Glanz eingebüßt.</text>
+<text id="1821100">Eine Rüstung der Ritter, die dem Haligbaum die Treue geschworen haben.
+
+Auf der linken Brustseite prangt das Wappen des Haligbaums.
+
+Obwohl der Haligbaum stets mit Miquellas eigenem Blut gewässert wurde, wuchs er nie zu einem Erdenbaum heran.</text>
+<text id="1830000">Ein typischer Eisenhut der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1830100">Eine gefütterte Stoffrüstung mit Kettenpanzerung für die Schultern.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1830200">Arg verkratzte und verbeulte Stulpen aus Metall.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1830300">Ein Beinschutz aus Metall, der schon unzählige Male repariert wurde.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1840000">Ein Helm mit Metallplatte als zusätzlicher Schutz.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1840100">Eine gefütterte Stoffrüstung mit deutlich mehr als nur ein paar Flecken.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1850000">Eine vergoldete Eisenkappe.
+Die typische Ausrüstung der Fußsoldaten, die treu die königliche Hauptstadt Leyndell beschützen.</text>
+<text id="1850100">Eine gefütterte Stoffrüstung mit Lederumhang für die Schultern.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1860000">Ein absolut schnörkelloser Eisenhelm.
+Typische Ausrüstung der Fußsoldaten im Dienst eines Fürsten.</text>
+<text id="1860100">Eine gefütterte Stoffrüstung mit deutlichen Anzeichen der Scharlachfäule.
+Typische Ausrüstung der Fußsoldaten aus General Radahns Armee.</text>
+<text id="1870100">Eine gefütterte Stoffrüstung mit Blutflecken rund um die Halspartie, die wohl niemand mehr auswaschen kann.
+Typische Ausrüstung der kopflosen Fußsoldaten, die auf ewig das Wandernde Mausoleum bewachen.</text>
+<text id="1880000">Eine Eisenkappe verziert mit einer Krone aus reinem Gold.
+Verstärkt Euren Glauben.
+
+Stammt von einem der Fußsoldaten, die dem Haligbaum ewige Treue geschworen haben.
+
+Wer sollte Miquellas Segen mehr verdienen als die Schwachen und die Vergessenen?</text>
+<text id="1880100">Eine gefütterte Stoffrüstung mit elfenbeinfarbenem Umhang für die Schultern.
+Typische Ausrüstung der Fußsoldaten, die dem Haligbaum die Treue geschworen haben.</text>
+<text id="1890000">Eine Maske mit langen und grauenhaft verdrehten Hörnern, stammt eindeutig von einem Maltöter.
+Erhöht Eure Stärke.
+
+Das Antlitz zeigt die von Schadenfreude verzerrte Fratze eines Ältesten.
+
+Dieses Gesicht verfolgt die Male in ihren Albträumen und stammt angeblich von einem bösen Geist.</text>
+<text id="1890100">Eine Robe der Maltöter, Schlächter mit verdrehtem Gewissen.
+
+Die dicke Schürze erinnert an Rollo, einen Parfümeur aus der Antike und Stammvater der Maltöter.</text>
+<text id="1890200">Lange und steife Lederhandschuhe eines Maltöters.</text>
+<text id="1890300">Steife Lederstiefel eines Maltöters.</text>
+<text id="1900000">Ein grauer Skarabäus, der direkt auf dem Kopf getragen wird.
+Diese Skarabäen rollen Kriegsasche zu Kugeln zusammen.
+
+Senkt leicht die FP-Kosten von Talenten, erhöht aber den erlittenen Schaden.</text>
+<text id="1901000">Ein goldener Skarabäus, der direkt auf dem Kopf getragen wird.
+Diese Skarabäen rollen Anrufungen zu Kugeln zusammen.
+
+Senkt leicht die FP-Kosten von Anrufungen, erhöht aber den erlittenen Schaden.
+
+Wenn sich das Leben des Skarabäus dem Ende zuneigt, verlässt er seinen aufgerollten Schatz, breitet die Flügel aus und tritt den langen Heimflug zu seinem Nest an.</text>
+<text id="1902000">Ein blaugrüner Skarabäus, der direkt auf dem Kopf getragen wird.
+Diese Skarabäen rollen Zaubereien zu Kugeln zusammen.
+
+Senkt leicht die FP-Kosten von Zaubereien, erhöht aber den erlittenen Schaden.</text>
+<text id="1910000">Ein roter Skarabäus, der direkt auf dem Kopf getragen wird.
+Diese Skarabäen rollen Purpurtränen zu Kugeln zusammen.
+
+Verstärkt leicht die Regeneration einer Flasche mit Purpurtränen, erhöht aber den erlittenen Schaden.</text>
+<text id="1920000">Ein blauer Skarabäus, der direkt auf dem Kopf getragen wird.
+Diese Skarabäen rollen Himmelstränen zu Kugeln zusammen.
+
+Verstärkt leicht die Regeneration einer Flasche mit Himmelstränen, erhöht aber den erlittenen Schaden.</text>
+<text id="1930100">Ein extrem dünnes und durchsichtiges weißes Kleid, das die Gefährtin auf dem Sterbebett trägt, wenn sie den Toten in ihre Arme schließt.
+
+Regeneriert langsam die LP von Verbündeten in der Nähe, nicht jedoch die LP des Trägers.
+
+Der Stoff ist weich wie ein Windhauch im Frühling, um selbst Mumien nicht zu beschädigen. Die Gefährtin will schließlich nur ihre Wärme mit dem Verstorbenen teilen.</text>
+<text id="1930300">Der Rock von Phia, Gefährtin auf dem Sterbebett.</text>
+<text id="1940000">Eine schwarze Stoffkapuze, die den gesamten Kopf bedeckt.
+Fia, die Gefährtin auf dem Sterbebett, trug sie auf der langen Reise nach ihrer Verbannung.
+
+Der Stoff selbst ist weich wie Seide.</text>
+<text id="1940100">Eine schwarze Stoffrobe, die den gesamten Körper bedeckt.
+Fia, die Gefährtin auf dem Sterbebett, trug sie auf der langen Reise nach ihrer Verbannung.
+
+Der Stoff selbst ist weich wie Seide und so dünn, dass Ihr in ihrer Umarmung jeden Herzschlag und jedes Quäntchen ihrer Wärme spürt.</text>
+<text id="1941100">Eine schwarze Stoffrobe, die den gesamten Körper bedeckt.
+Fia, die Gefährtin auf dem Sterbebett, trug sie auf der langen Reise nach ihrer Verbannung.
+
+Der Stoff selbst ist weich wie Seide und so dünn, dass Ihr in ihrer Umarmung jeden Herzschlag und jedes Quäntchen ihrer Wärme spürt.</text>
+<text id="1950000">%null%</text>
+<text id="1950100">%null%</text>
+<text id="1950200">%null%</text>
+<text id="1950300">%null%</text>
+<text id="1960000">%null%</text>
+<text id="1970100">%null%</text>
+<text id="1970200">%null%</text>
+<text id="1980000">Eine furchtbar befleckte und zerfetzte Kapuze.
+Stammt von einem ehemaligen Fußsoldaten, der sich heute als Bandit verdingt.</text>
+<text id="1980100">Eine furchtbar befleckte und zerfetzte Stoffrüstung.
+Stammt von einem ehemaligen Fußsoldaten, der sich heute als Bandit verdingt.</text>
+<text id="1980200">Furchtbar befleckte und verbeulte Stulpen.
+Sie stammen von einem ehemaligen Fußsoldaten, der sich heute als Bandit verdingt.</text>
+<text id="1990000">Die Kapuze eines Pagen, der von seinem Lehnsfürsten für besondere Privilegien ausgewählt wurde.
+
+Die sackartige Form passt zu diesen fast unsichtbaren und unbekannten Gestalten.</text>
+<text id="1990100">Die Kleidung eines Pagen, der von seinem Lehnsfürsten für besondere Privilegien ausgewählt wurde.
+
+Diese Reisekleidung ist eine meisterhafte Maßanfertigung, damit der Page keine Schande über seine Herrschaften bringt.</text>
+<text id="1991100">Die Kleidung eines Pagen, der von seinem Lehnsfürsten für besondere Privilegien ausgewählt wurde.
+
+Diese Reisekleidung ist eine meisterhafte Maßanfertigung, damit der Page keine Schande über seine Herrschaften bringt.</text>
+<text id="2000000">Ein Bronzehelm verziert mit unzähligen Schlangen und von Scharlachfäule zerfressen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.</text>
+<text id="2000100">Ein dicker borstiger Umhang zerfressen von Scharlachfäule.
+
+Das Symbol für die Aufgabe eines unterirdischen Grabhüters.</text>
+<text id="2000300">Ein Beinschutz verziert mit Bronzeschlangen und von Scharlachfäule zerfressen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.</text>
+<text id="2001100">Ein Umhang verziert mit Bronzeschlangen und von Scharlachfäule zerfressen.
+Stammt von einem der Gladiatoren, die aus dem Kolosseum vertrieben wurden.
+
+Mit dieser Ausrüstung wird der Träger zu einer leichteren Beute für seine Feinde.</text>
+<text id="2010000">Pilze, die einen Körper vollkommen überwuchern.
+Diese großen Exemplare bilden einen gewaltigen Kopfschutz.
+Verstärkt Eure Angriffskraft, wenn jemand in der Nähe an Gift oder Fäulnis leidet.
+
+Vor langer Zeit dienten große Fürsten der Scharlachfäule. Vielleicht waren dies ihre Kronen.</text>
+<text id="2020000">Eine Maske, die Gefangenen mit Gewalt über den Kopf gezogen wurde, um ihre Folter noch zu verschlimmern. Sie steigert die Ängste ihrer Opfer und lässt jeden noch so kleinen Schmerz als reinste Todesqual erscheinen.
+Verstärkt Eure Angriffskraft, wenn Ihr an Wahnsinn leidet.
+
+Sobald der Folterknecht zur Schwarzen Knute greift, ist die Zeit der Fragen vorbei und die Nacht der ewigen Schmerzen beginnt.</text>
+<text id="2030000">Eine Robe der Gelehrten von Haus Lazuli, absolut einzigartig in der Akademie von Raya Lucaria.
+
+Diese Gelehrten wollten ursprünglich die carianischen Zaubereien meistern und setzten am Ende den Mond mit den Sternen gleich.
+
+Die Robe in der Farbe des Vollmonds ist ein Symbol ihrer Ketzerei.</text>
+</entries>
+</fmg>
