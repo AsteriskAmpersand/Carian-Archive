@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="101000">&lt;?keyControlCamera?&gt;: &lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;: &lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;: &lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;: &lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">Tieni premuti &lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Scatto</text>
+<text id="101110">&lt;?keyControlCamera?&gt; da agganciato: Cambia bersaglio</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@24?&gt;: Difesa</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">Usa i materiali per creare oggetti.</text>
+<text id="101150">&lt;?keyicon@22?&gt; alle spalle del nemico: Colpo critico</text>
+<text id="101170">&lt;?keyicon@27?&gt;: Visualizzazione interfaccia</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">&lt;?keyicon@8?&gt; dopo un salto a cavallo: Doppio salto</text>
+<text id="201010">&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;</text>
+<text id="201070">%null%</text>
+<text id="201100">A ogni mano possono essere assegnati fino a tre armamenti, alternabili a piacere.
+
+Alcuni armamenti sono impugnabili anche a due mani, nel qual caso potenziano la forza effettiva del 50% e permettono di sferrare attacchi più difficili da respingere con uno scudo.
+
+&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Impugna a due mani</text>
+<text id="301020">Riposa presso un luogo di grazia per recuperare PV e PA, rimuovere le alterazioni di stato e ricaricare le ampolle sacre.
+I nemici sconfitti, tuttavia, saranno in buona parte riportati in vita.
+
+Procedi verso il punto in cui converge la luce per trovare i luoghi di grazia.
+
+*Queste spiegazioni sono acquisite sotto forma di oggetti informativi che puoi consultare nell'inventario.</text>
+<text id="301060">Nei luoghi di grazia puoi memorizzare stregonerie e incantesimi.
+
+Equipaggia un bastone per lanciare stregonerie o un sigillo sacro per invocare incantesimi.
+Il lancio di stregonerie e incantesimi consuma PA.
+
+&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;</text>
+<text id="301130">Usa un arco per scoccare frecce.
+Puoi equipaggiare fino a due tipologie di frecce tra cui scegliere.
+
+Quando impugni un arco a due mani, tieni premuto &lt;?keyicon@24?&gt; per attivare la mira di precisione.
+Usa &lt;?keyControlCamera?&gt; per regolare la mira.
+
+&lt;?keyicon@22?&gt;: Scocca freccia di tipo 1
+&lt;?keyicon@23?&gt;: Scocca freccia di tipo 2
+&lt;?keyicon@24?&gt;: Mira di precisione</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">Accovacciati per essere meno visibile ai nemici.
+Questa tecnica è efficace soprattutto nell'erba alta.
+
+Gli attacchi ai nemici ignari della tua presenza causano danni maggiori.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="301160">Alcuni attacchi possono sbilanciare il nemico, esponendolo a un colpo critico.
+
+Gli attacchi caricati e in salto rendono particolarmente facile sbilanciare il nemico.
+
+Tieni premuto &lt;?keyicon@23?&gt;: Attacco caricato
+&lt;?keyicon@23?&gt; in salto: Attacco in salto</text>
+<text id="301500">Usa la mappa per verificare la tua posizione, il terreno e gli edifici circostanti.
+
+Puoi aggiornare le informazioni della mappa recuperando frammenti presso le stele.
+
+Aggiungi contrassegni alla mappa per orientarti nell'esplorazione.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">La grazia ha il ruolo di guidare i Senzaluce e condurli sulla retta via.
+
+Ancora oggi esistono luoghi di grazia che preservano questo potere.
+I loro raggi dorati ti indicheranno la strada.</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">Usa il fischietto per evocare e salire in sella al tuo destriero fantasma.
+
+Se viene ucciso, puoi evocarlo di nuovo al costo di un'ampolla di lacrime cremisi.
+
+Usa di nuovo il fischietto o premi &lt;?keyicon@0009?&gt; per smontare.</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">Se muori, tornerai in vita presso l'ultimo luogo di grazia che hai visitato.
+
+Le rune in tuo possesso resteranno presso il luogo della tua morte.
+Se muori di nuovo prima di raggiungerle, tuttavia, le perderai per sempre.
+
+La bussola posta nella parte superiore dello schermo indica la posizione delle rune smarrite.</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">Se muori, tornerai in vita presso l'ultimo luogo di grazia in cui hai riposato.
+
+Se muori vicino a una statua di Marika, tuttavia, potrai scegliere di ripartire da quel punto.</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">Una campana evoca spiriti ti permette di evocare spiriti dalle ceneri.
+In genere, l'evocazione consuma PA.
+
+Puoi evocare un solo tipo di spirito alla volta.
+Non è possibile evocare spiriti in multigiocatore.</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">Le terre dell'Interregno offrono frutti, fiori, funghi e farfalle in abbondanza, oltre ad altri tipi di materie prime.
+
+Questi materiali possono essere impiegati per creare oggetti.</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">I corredi da creazione consentono di fabbricare oggetti con i materiali a disposizione.
+
+Seleziona "Creazione oggetti" dal menu principale per iniziare.
+
+Trova ricettari per imparare a creare nuovi oggetti.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">Per creare alcuni oggetti ti serviranno vasi incrinati o altri recipienti.
+Questi oggetti non possono essere creati in numero superiore ai contenitori disponibili.
+
+Gli oggetti si consumano con l'uso, ma i recipienti sono riutilizzabili.</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">Le lacrime di cristallo si trovano alla base degli Alberi Madre minori o altrove nell'Interregno.
+
+Presso i luoghi di grazia puoi sciogliere due lacrime di cristallo in un'ampolla di balsamo portentoso, ottenendo elisir con effetti specifici.</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">Presso i luoghi di grazia, usa le ceneri di guerra con un coltello da affilatura per conferire nuove abilità agli armamenti.
+
+Ogni armamento può avere una sola abilità.
+Eventuali abilità già presenti saranno rimosse.
+
+Le abilità disponibili variano in base al tipo di armamento. Alcuni armamenti speciali hanno abilità fisse e non possono ottenerne altre.</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">Usa i telescopi occhio di falco sparsi nelle diverse aree per scrutare l'orizzonte nella direzione in cui il telescopio è puntato.
+
+&lt;?keyicon@17?&gt;: Aumenta ingrandimento
+&lt;?keyicon@18?&gt;: Riduci ingrandimento</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">Salta mentre sei a cavallo vicino a una fonte spiritica per sfruttare la sua corrente ascensionale.
+
+Quando scendi da una fonte spiritica in sella a un destriero non subisci danni, neppure se l'altezza è elevata.
+
+Premi &lt;?keyicon@8?&gt; vicino a una fonte spiritica mentre cavalchi: Salto con la fonte spiritica</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">Stermina un gruppo di nemici per rifornire le tue ampolle.
+
+Il numero e il tipo di ampolle riempite varia in base al gruppo di nemici.
+
+Tuttavia, non puoi superare il limite di ampolle consentito.</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">Esistono scarabei della lacrima cerulea e cremisi.
+
+Sconfiggili per riempire le ampolle corrispondenti.
+
+Tuttavia, non puoi superare il limite di ampolle consentito.</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">Usa il rimedio del Dito torto invocatore per rivelare i segni di evocazione dei giocatori di altri mondi.
+
+I segni color oro appartengono agli alleati.
+I segni rossi appartengono agli avversari.
+In entrambi i casi, l'evocazione avvierà una sessione multigiocatore, designandoti come ospite di Dita.</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">Usa il Dito torto di Senzaluce per lasciare un segno di evocazione d'oro.
+
+Quando un giocatore di un altro mondo ti evocherà, avrà inizio una sessione multigiocatore cooperativa.
+
+Verrai designato come alleato (Dito torto) e il tuo obiettivo sarà sconfiggere il boss dell'area.
+
+La bussola posta nella parte superiore dello schermo indica chi ti ha evocato, l'ospite di Dita.</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">Usa il Dito torto di duellante per lasciare un segno di evocazione rosso.
+
+Quando un giocatore di un altro mondo ti evocherà, avrà inizio una sessione multigiocatore competitiva.
+
+Verrai designato come avversario (duellante) e il tuo obiettivo sarà sconfiggere l'ospite di Dita che ti ha evocato.</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">Usa un Dito sanguinante purulento per provare a invadere il mondo di un altro giocatore.
+
+Se l'invasione riesce, avrà inizio una sessione multigiocatore.
+
+Verrai designato come invasore (Dito sanguinante) e il tuo obiettivo sarà sconfiggere l'ospite di Dita di quel mondo.
+
+Se ti allontanerai troppo dall'ospite di Dita, la bussola posta nella parte superiore dello schermo ti indicherà la sua posizione.</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">In ciascuna area sono presenti effigi di martiri che svolgono la funzione di bacini di evocazione.
+
+In questi luoghi puoi evocare facilmente altri giocatori, poiché i bacini di evocazione raccolgono segni cooperativi e ostili creati con piccole effigi.</text>
+<text id="302000">Usa un coltello da affilatura nei pressi di un luogo di grazia per infondere affinità agli armamenti dalle ceneri di guerra.
+
+Questo procedimento permette di modificare l'affinità offensiva di un armamento o di incrementare i bonus agli attributi, per esempio.
+
+Le affinità disponibili variano in base al tipo di armamento. Alcuni armamenti speciali, come quelli dotati di abilità uniche, non possono ricevere affinità.</text>
+<text id="302380">Usa un anello inciso blu per renderti disponibile alle evocazioni di soccorso da altri mondi.
+
+Una volta evocato come cacciatore, avrà inizio una sessione multigiocatore, dove il tuo obiettivo sarà sconfiggere chi ha invaso quel mondo.
+
+La bussola posta nella parte superiore dello schermo indica la posizione dell'evocatore, l'ospite di Dita.</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">Avvicinati a un monumento alla rinascita per evocare spiriti dalle ceneri.
+
+Quando sei nei pressi di un monumento e soddisfi i requisiti per l'evocazione, comparirà un'icona sul lato sinistro dello schermo.</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">Puoi eseguire un contrattacco subito dopo aver bloccato un colpo nemico.
+
+I contrattacchi in difesa sbilanciano facilmente i nemici.
+
+&lt;?keyicon@23?&gt; subito dopo aver bloccato un attacco:
+Contrattacco in difesa</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">Gli armamenti impugnati con la mano sinistra o a due mani consentono di difendersi dagli attacchi nemici.
+L'uso di uno scudo rende più efficace la difesa.
+
+La difesa consuma vigore. 
+Se esaurisci il vigore, gli attacchi nemici ti sbilanciano.
+
+&lt;?keyicon@24?&gt;: Difesa</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">Usa un anello inciso bianco per chiedere automaticamente l'intervento di un cacciatore proveniente da un altro mondo se il tuo viene invaso.
+È utilizzabile anche a invasione avvenuta.
+
+Se la richiesta avrà successo, sarà evocato un cacciatore che avrà l'obiettivo di sconfiggere chi ti ha invaso.</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">Gli armamenti possiedono proprietà speciali chiamate abilità.
+
+Esistono abilità di vario tipo, dagli attacchi potenti agli effetti temporanei.
+L'uso di abilità consuma PA.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">Dalla mappa puoi raggiungere all'istante tutti i luoghi di grazia già scoperti.
+
+Tuttavia, in alcune segrete e aree speciali questa funzione non è disponibile.</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">Presso i banchi da lavoro puoi spendere rune e pietre da forgiatura per migliorare gli armamenti.
+
+Nell'Interregno troverai un fabbro in grado di rendere i tuoi armamenti ancora più potenti.</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">La Rocca della Tavola rotonda è un luogo dove convengono i Senzaluce, guidati dalla grazia. Un patto di non aggressione proibisce i duelli.
+L'icona della Tavola rotonda segnala quando la regola è in vigore.
+
+La Rocca della Tavola rotonda non appartiene a questo mondo e può essere raggiunta solo attraverso i luoghi di grazia. Usa la mappa per raggiungerla.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">%null%</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">Seleziona "Borsa" nel menu principale per equipaggiare sei oggetti nella tua borsa.
+
+Quattro di questi oggetti possono essere usati senza accedere al menu principale.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: Usa oggetto nella borsa 1
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: Usa oggetto nella borsa 2
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: Usa oggetto nella borsa 3
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: Usa oggetto nella borsa 4</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">Puoi evitare gli attacchi nemici con una capriola o un passo indietro.
+Entrambe le azioni consumano vigore.
+
+&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Capriola
+&lt;?keyicon@7?&gt;: Passo indietro</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">Le rune maggiori che ottieni sconfiggendo gli araldi del frammento hanno perso il loro potere benefico.
+Tuttavia, puoi riattivarlo presso le torri divine sparse nell'Interregno.
+
+Leggi la descrizione di ciascuna runa maggiore per scoprire quale torre divina visitare.</text>
+<text id="302501">%null%</text>
+<text id="302502">%null%</text>
+<text id="302503">%null%</text>
+<text id="302504">%null%</text>
+<text id="302505">%null%</text>
+<text id="302506">%null%</text>
+<text id="302507">%null%</text>
+<text id="302508">%null%</text>
+<text id="302509">%null%</text>
+<text id="302510">Salta giù e troverai la Caverna della Conoscenza.
+
+Laggiù potrai apprendere di più riguardo i comandi di gioco e le azioni basilari, oltre ad altri suggerimenti che potrebbero esserti utili durante le avventure nell'Interregno.</text>
+<text id="309000">Sono necessari oggetti specifici per ciascun tipo di multigiocatore: cooperativo, competitivo o a invasione.
+
+Seleziona "Multigiocatore" dal menu principale per visualizzare gli oggetti che possiedi.
+Puoi anche usarli direttamente da questo menu.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="402000">Il menu dell'equipaggiamento consente di selezionare armamenti, frecce, dardi, armature, talismani e oggetti.
+
+Puoi assegnare fino a tre armamenti per mano. 
+Le azioni eseguibili con ciascuno variano in base al braccio a cui è assegnato.</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">Nel menu di creazione puoi fabbricare oggetti con i materiali di cui disponi.
+
+Trova i ricettari per imparare a realizzare nuovi oggetti.</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">Nel menu dell'inventario puoi passare in rassegna i tuoi oggetti, lasciarli a terra o scartarli.
+
+Da qui puoi anche usare gli strumenti.
+
+&lt;?keyicon@31?&gt;: Mostra immagine grande e spiegazione
+&lt;?keyicon@30?&gt;: Alterna dati personaggio</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">Nel menu di stato puoi verificare il tuo livello, gli attributi, i valori base e altro.
+
+Le informazioni mostrate riflettono le modifiche apportate ad attacco, difesa e resistenza dagli armamenti e dalle armature che hai equipaggiato.</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">Il menu dei messaggi permette di lasciare brevi frasi che i giocatori di altri mondi potranno leggere nei punti in cui le hai scritte.
+
+Modificando il formato dei messaggi è possibile offrire indicazioni più articolate, e anche allegare gesti.
+
+I messaggi degli altri giocatori possono essere valutati.
+Quando un altro giocatore valuta un tuo messaggio, i tuoi PV vengono ripristinati.</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">Nel menu del multigiocatore puoi usare vari oggetti multigiocatore.
+
+Imposta una password di gruppo per favorire la visibilità di messaggi, segni di evocazione, macchie di sangue e spettri dei giocatori che condividono la medesima password.
+
+Se imposti una password multigiocatore, nella maggior parte delle funzionalità multigiocatore sarai abbinato ai giocatori che condividono quella password.
+Le password multigiocatore, tuttavia, non influiscono sulle invasioni.</text>
+<text id="402100">Usa il menu della mappa per controllare la posizione attuale, la conformazione del terreno e gli edifici circostanti.
+
+Puoi anche aggiungere segnali luminosi da usare come punti di riferimento durante l'esplorazione.
+
+Inoltre, puoi raggiungere all'istante tutti i luoghi di grazia precedentemente scoperti.
+Tuttavia, in alcune segrete e aree speciali questa funzione non è disponibile.</text>
+<text id="402200">Nel menu Nuovo livello puoi spendere rune per incrementare i tuoi attributi.
+
+Ogni attributo migliorato ti garantisce un avanzamento di livello.
+Con l'innalzamento del livello aumenta anche la quantità di rune richiesta per migliorare gli attributi.</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">%null%</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">%null%</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">Questo menu permette di distribuire il numero di utilizzi tra tutte le tue ampolle, tenendo conto del limite totale prefissato.
+
+Puoi decidere quanti utilizzi assegnare all'ampolla di lacrime cremisi, che ripristina i PV, e quanti all'ampolla di lacrime cerulee, che ricarica i PA.</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">Nel menu della memoria puoi memorizzare stregonerie e incantesimi.
+
+Equipaggia un bastone per lanciare stregonerie o un sigillo sacro per invocare incantesimi.
+Il lancio di stregonerie e incantesimi consuma PA.
+
+Gli slot di memoria determinano il numero di stregonerie e incantesimi che puoi ricordare.
+Ottieni una pietra della memoria per aumentare il numero di slot.</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">In questo menu puoi depositare nel forziere gli oggetti che trasporti o prelevare quelli depositati.
+
+Se raccogli un oggetto dopo aver raggiunto il suo limite massimo trasportabile, quell'oggetto sarà trasferito automaticamente al forziere.</text>
+<text id="402300">Nel menu del negozio puoi acquistare oggetti spendendo rune o, all'inverso, vendere oggetti in cambio di rune.
+
+Ogni mercante offre un catalogo di prodotti differente.</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">%null%</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">Nel menu delle ceneri di guerra, usa queste ultime per fornire abilità e affinità agli armamenti presso un luogo di grazia.
+
+Ogni armamento può avere una sola abilità.
+Eventuali abilità già presenti saranno rimosse.
+
+Questo procedimento permette di modificare l'affinità offensiva di un armamento o di incrementare i bonus agli attributi, per esempio.
+
+Abilità e affinità disponibili variano in base all'armamento.
+Ad alcuni non è possibile associare nuove abilità o affinità usando le ceneri di guerra.</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">Il menu Sintonia spiritica consente di spendere rune e convallarie sepolcrali per potenziare gli spiriti evocati dalle ceneri.
+
+Per potenziare gli spiriti con nome sono necessarie convallarie spettrali.</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">%null%</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">Nel menu Runa maggiore puoi equipaggiare le rune maggiori di cui hai ripristinato i poteri.
+
+Usa una saetta runica per amplificare ulteriormente l'efficacia delle rune maggiori in uso.</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">In questo menu puoi sciogliere due lacrime di cristallo nell'ampolla di balsamo portentoso.
+
+Questo permette di creare elisir con effetti specifici.</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">Il menu Rinascita consente di spendere lacrime di larva per azzerare i tuoi livelli e riassegnarli da capo.
+
+Devi riassegnare i livelli finché non raggiunge il tuo livello attuale e non puoi ridurre un qualsiasi attributo al di sotto del livello iniziale determinato dalla tua origine.</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">Il menu Potere della rimembranza consente di estrarre dai ricordi i poteri del suo proprietario.
+
+Ciascun ricordo fornisce un potere. Una volta ottenuto, la rimembranza svanisce.</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">Nel menu della fucina puoi spendere rune e pietre da forgiatura per migliorare gli armamenti.
+
+Presso i banchi da lavoro puoi migliorare i tuoi armamenti fino a raggiungere un bonus +3.
+
+Nell'Interregno troverai un fabbro in grado di rendere i tuoi armamenti ancora più potenti.</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">Il menu Duplicazione rimembranze consente di duplicare le rimembranze ottenute.
+(Questo vale anche per le rimembranze da cui hai già ricevuto poteri.)
+
+La duplicazione può essere eseguita una sola volta per mausoleo.</text>
+</entries>
+</fmg>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Une partie des dégâts ignore la garde.</text>
+<text id="1001">Restaure des PV à chaque ennemi vaincu.</text>
+<text id="1002">Restaure des PC à chaque ennemi vaincu.</text>
+<text id="1003">Les attaques rendent des PV</text>
+<text id="1004">Les attaques rendent des PC</text>
+<text id="1005">Restitue progressivement des PV.</text>
+<text id="1006">Restitue progressivement des PC.</text>
+<text id="1007">Accélère la récupération d'endurance</text>
+<text id="1008">Les atq. successives gagnent en puissance</text>
+<text id="1009">Inflige des dégâts à son porteur.</text>
+<text id="1010">Effraie les bêtes</text>
+<text id="1011">%null%</text>
+<text id="1012">Augmente puissance des sorts physiques.</text>
+<text id="1013">%null%</text>
+<text id="1014">Augmente puissance des sorts spirituels.</text>
+<text id="1015">Augmente puissance des sorts de foudre.</text>
+<text id="1016">Augmente puissance des sorts sacrés.</text>
+<text id="1017">Agrandit zone d'eff. des renforts/soins.</text>
+<text id="1018">Convient à toute sorc. ou incantation.</text>
+<text id="1019">Catalyseur pour sorc. des p. d'éclat.</text>
+<text id="1020">Sert de sceau pour les incantations.</text>
+<text id="1021">Les attaques successives rendent des PV.</text>
+<text id="1022">Les attaques successives rendent des PC.</text>
+<text id="1100">Renforce les sorcelleries cristaliennes</text>
+<text id="1101">Renforce les sorcelleries gravitationnelles</text>
+<text id="1102">Renforce les sorcelleries d'épines</text>
+<text id="1103">Renforce les sorcelleries de mort</text>
+<text id="1104">Renforce les sorcelleries de la Pleine Lune</text>
+<text id="1105">Renforce les sorcelleries telluriques</text>
+<text id="1106">Renforce les sorcelleries de laméclat</text>
+<text id="1107">Renforce les sorcelleries de lame de Caria</text>
+<text id="1108">Renforce les sorcelleries du courant d'Azur</text>
+<text id="1109">Renforce les sorcelleries du courant de Lusat</text>
+<text id="1110">Renforce les sorcelleries d'invisibilité</text>
+<text id="1111">Renforce les incantations de la Flamme des Géants</text>
+<text id="1112">Renforce les incantations de l'Ordre d'or</text>
+<text id="1113">Renforce les incantations bestiales</text>
+<text id="1114">Renforce les incantations draconiques</text>
+<text id="1115">Renforce les incantations de la communion draconique</text>
+<text id="1116">Renforce les incantations de la Flamme exaltée</text>
+<text id="1117">Renforce les sorcelleries magmatiques</text>
+<text id="1118">Renforce les incantations déicides</text>
+<text id="6400">Accumule du poison (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Accumule du poison (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">Accumule du poison (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Accumule du poison (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Accumule de la putréfaction écarlate (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">Accumule de la putréfaction écarlate (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">Accumule de la putréfaction écarlate (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">Accumule du saignement (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">Accumule du saignement (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">Accumule du saignement (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Accumule du saignement (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">Accumule de la malemort (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">Accumule de la malemort (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">Accumule de la malemort (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Accumule de la congélation (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">Accumule de la congélation (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">Accumule de la congélation (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">Accumule du sommeil (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">Accumule du sommeil (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">Accumule du sommeil (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">Accumule de la démence (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">Accumule de la démence (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">Accumule de la démence (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

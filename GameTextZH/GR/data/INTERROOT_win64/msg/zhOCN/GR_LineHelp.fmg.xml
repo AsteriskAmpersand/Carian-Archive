@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">使用选择的道具</text>
+<text id="4101">将选择的道具放置原地</text>
+<text id="4102">丢弃选择的道具</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">大量使用选择的道具</text>
+<text id="4111">将选择的道具大量放置原地</text>
+<text id="4112">大量丢弃选择的道具</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">请选择要大量放置原地的道具</text>
+<text id="4122">请选择要大量丢弃的道具</text>
+<text id="5100">使用指定数量的道具</text>
+<text id="5101">将指定数量的道具放置原地</text>
+<text id="5102">丢弃指定数量的道具</text>
+<text id="5103">%null%</text>
+<text id="5104">购买指定数量的道具</text>
+<text id="5105">卖出指定数量的道具</text>
+<text id="5106">收纳指定数量的道具</text>
+<text id="5107">取出指定数量的道具</text>
+<text id="6000">请选择排序方式</text>
+<text id="30000">请选择要确认的项目</text>
+<text id="40331">确认配置内容，前往下一个画面</text>
+<text id="40500">将所有配置恢复为默认</text>
+<text id="102000">请选择要操作的道具</text>
+<text id="103000">请选择装备空格</text>
+<text id="103500">请选择要装备的道具</text>
+<text id="105000">确认角色的基本信息</text>
+<text id="106000">请选择要执行的项目</text>
+<text id="106001">请选择要配置的项目</text>
+<text id="110001">配置镜头上下移动控制</text>
+<text id="110002">配置镜头左右移动控制</text>
+<text id="110003">重置镜头时，是否恢复默认角度</text>
+<text id="110004">配置镜头运镜速度</text>
+<text id="110005">锁定目标死亡时，是否自动更换锁定目标</text>
+<text id="110006">未锁定目标时，是否自动锁定攻击目标</text>
+<text id="110007">镜头触碰墙壁时，是否自动避开</text>
+<text id="110008">%null%</text>
+<text id="110009">配置跳跃的操作方式</text>
+<text id="110010">配置装备大型武器锁定目标后，攻击时是否能手动变更方向</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">配置画面品质着重于画质或帧率</text>
+<text id="110101">配置流血表现</text>
+<text id="110102">配置字幕显示</text>
+<text id="110103">配置是否显示各种量表</text>
+<text id="110104">使出特殊攻击时，是否呈现特殊运镜</text>
+<text id="110105">音乐音量配置</text>
+<text id="110106">音效音量配置</text>
+<text id="110107">语音音量配置</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">整体音量配置</text>
+<text id="110118">角色左右移动时，镜头是否自行转动</text>
+<text id="110201">画面亮度配置</text>
+<text id="110202">开启高动态范围成像（ＨＤＲ）时的画质调整</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">配置开启／关闭高动态范围成像（ＨＤＲ）</text>
+<text id="110301">是否使用语音聊天</text>
+<text id="110302">与所在区域外的联机玩家配对配置</text>
+<text id="110303">编辑配对暗号，只有完全符合的玩家才能成功配对</text>
+<text id="110304">配置其他玩家的名称显示方式</text>
+<text id="110305">配置以联机游玩／脱机游玩开始游戏</text>
+<text id="110306">其他世界中如果有敌对者，可以限制不显示自己的召唤记号</text>
+<text id="110307">配置是否同意游戏分析</text>
+<text id="110500">保存游戏进度，返回标题画面</text>
+<text id="110501">保存游戏进度，返回桌面</text>
+<text id="110900">确认操作方式</text>
+<text id="111006">配置采取各项动作时对应的按键</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">根据使用的装置，配置操作指示显示的按键</text>
+<text id="111011">配置是否显示教学</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">配置鼠标操作镜头时的灵敏度</text>
+<text id="111021">%null%</text>
+<text id="111022">配置鼠标操作镜头时的左右移动</text>
+<text id="111023">配置鼠标操作镜头时的上下移动</text>
+<text id="111110">配置以全屏幕或窗口化启动游戏</text>
+<text id="111111">选择游戏屏幕分辨率</text>
+<text id="111112">配置是否于效能低下时简化渲染效果</text>
+<text id="111113">配置画面品质</text>
+<text id="111114">详细配置画面品质</text>
+<text id="111210">选择贴图材质的品质</text>
+<text id="111211">选择反锯齿的品质</text>
+<text id="111212">选择屏幕空间环境光遮蔽的品质</text>
+<text id="111213">选择景深效果的品质</text>
+<text id="111214">选择动态模糊的品质</text>
+<text id="111215">选择阴影的品质</text>
+<text id="111216">选择光线呈现的品质</text>
+<text id="111217">选择特效的品质</text>
+<text id="111218">选择光影细部呈现的品质</text>
+<text id="111219">选择反射呈现的品质</text>
+<text id="111220">选择水面品质</text>
+<text id="111221">选择造型品质</text>
+<text id="111222">选择光线追踪的品质</text>
+<text id="111223">选择全面照明的品质</text>
+<text id="111224">选择草地的品质</text>
+<text id="212000">请选择想成长的能力值</text>
+<text id="212001">花费卢恩，进行升级</text>
+<text id="212750">请选择想成长的能力值</text>
+<text id="212751">准备重新诞生</text>
+<text id="214000">请选择要使用战灰的武器</text>
+<text id="214001">请选择要使用的战灰</text>
+<text id="214002">请选择武器要赋予的属性</text>
+<text id="215000">请选择要寄宿大卢恩的空格</text>
+<text id="215001">请选择要寄宿的卢恩</text>
+<text id="216000">请选择要强化的骨灰</text>
+<text id="221000">请选择要强化的武器</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">请选择要强化的武器</text>
+<text id="222000">请选择记忆空格</text>
+<text id="222001">请选择要记忆的魔法、祷告</text>
+<text id="225000">请选择龙的力量，将其力量化为己有</text>
+<text id="226000">请选择想取得的傀儡</text>
+<text id="227000">请选择要复制的战灰</text>
+<text id="230000">请选择想取得的傀儡</text>
+<text id="230100">请选择要复制的追忆</text>
+<text id="231000">请选择要购买的道具</text>
+<text id="231500">请选择要获得的英雄防具</text>
+<text id="232000">请选择要卖出的道具</text>
+<text id="236000">请选择要制作的道具</text>
+<text id="236200">请选择要使用的追忆，将其力量化为己有</text>
+<text id="236201">请选择想从追忆获得的力量</text>
+<text id="236400">请选择修改前的服装</text>
+<text id="236401">请选择修改后的服装</text>
+<text id="238000">请选择调配空格</text>
+<text id="238001">请选择要调配的结晶露滴</text>
+<text id="241000">确认地图的信息</text>
+<text id="241100">放置标记</text>
+<text id="241101">移除标记</text>
+<text id="241102">移除所有标记</text>
+<text id="241200">请选择想传送过去的赐福</text>
+<text id="241300">请选择想传送过去的赐福</text>
+<text id="251000">请选择要收纳至木箱的道具</text>
+<text id="251001">请选择要从木箱拿出的道具</text>
+<text id="280005">请选择想更动配置的动作</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">请按下想配置成的按键</text>
+<text id="280100">在移动时按下，能慢步移动</text>
+<text id="280101">向前方移动</text>
+<text id="280102">向后方移动</text>
+<text id="280103">向左方移动</text>
+<text id="280104">向右方移动</text>
+<text id="280105">在静止状态按下能后跃
+移动时按下能翻滚，按住不放能冲刺</text>
+<text id="280106">能进行跳跃</text>
+<text id="280107">能切换站立、蹲下的动作</text>
+<text id="280200">能向上移动镜头，锁定时能向上切换目标</text>
+<text id="280201">能向下移动镜头，锁定时能向下切换目标</text>
+<text id="280202">能向左移动镜头，锁定时能向左切换目标</text>
+<text id="280203">能向右移动镜头，锁定时能向右切换目标</text>
+<text id="280204">能重置镜头
+画面中有可以锁定的目标时，能锁定／解除锁定目标</text>
+<text id="280300">切换使用的道具</text>
+<text id="280301">切换右手武器</text>
+<text id="280302">切换左手武器</text>
+<text id="280303">切换魔法、祷告</text>
+<text id="280400">用右手武器使出轻攻击</text>
+<text id="280401">用右手武器使出重攻击，按住不放能蓄力攻击</text>
+<text id="280402">用左手武器进行防御</text>
+<text id="280403">发动战技</text>
+<text id="280404">能做出各种行动</text>
+<text id="280405">能使用道具</text>
+<text id="280406">双手共持右手武器
+按住不放能双手共持左手武器</text>
+<text id="288000">请选择想使用的角色</text>
+<text id="288001">请选择想使用的角色雏形</text>
+<text id="291000">请输入名字</text>
+<text id="291001">选择体型</text>
+<text id="291002">选择年龄段</text>
+<text id="291003">选择声音</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">选择出身</text>
+<text id="291011">选择遗物</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">选择基本外貌</text>
+<text id="291021">编辑脸部细节</text>
+<text id="291022">编辑身体细节</text>
+<text id="291023">编辑肤色细节</text>
+<text id="291024">%null%</text>
+<text id="291025">编辑外貌细节</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">保存目前的外貌</text>
+<text id="291031">读取已保存的外貌</text>
+<text id="291050">完成创建角色</text>
+<text id="291051">结束化妆，化为新的外貌</text>
+<text id="291052">结束化妆，化为新的外貌</text>
+<text id="292000">编辑脸部特征</text>
+<text id="292001">编辑脸部轮廓</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">编辑头发</text>
+<text id="292011">编辑眉毛</text>
+<text id="292012">编辑胡子</text>
+<text id="292013">编辑睫毛</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">编辑眼睛</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">编辑皮肤特色</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">编辑化妆</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">编辑刺青／痣／眼罩</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">选择与目前相似的脸型</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">调整头部</text>
+<text id="292061">调整胸部</text>
+<text id="292062">调整腹部</text>
+<text id="292063">调整腕部</text>
+<text id="292064">调整腿部</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">调整体毛量</text>
+<text id="292071">编辑体毛颜色</text>
+<text id="292072">选择肌肉量</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">配置是否显示烫伤伤痕</text>
+<text id="293000">选择骨胳形状</text>
+<text id="293001">调整轮廓深度</text>
+<text id="293002">调整脸部的年龄印象</text>
+<text id="293003">调整脸部的外貌印象</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">编辑脸部平衡</text>
+<text id="293011">编辑额头或眉心</text>
+<text id="293012">编辑眉骨</text>
+<text id="293013">编辑眼睛</text>
+<text id="293014">编辑鼻梁</text>
+<text id="293015">编辑鼻翼</text>
+<text id="293016">编辑脸颊</text>
+<text id="293017">编辑嘴唇</text>
+<text id="293018">编辑嘴巴</text>
+<text id="293019">编辑下巴</text>
+<text id="293020">编辑下颚</text>
+<text id="293100">选择发型</text>
+<text id="293101">编辑发色</text>
+<text id="293102">编辑头发光泽</text>
+<text id="293103">编辑发根的漆黑度</text>
+<text id="293104">编辑白发多寡</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">选择眉毛形状</text>
+<text id="293111">编辑眉色</text>
+<text id="293112">调整眉毛光泽</text>
+<text id="293113">调整眉毛根部的漆黑度</text>
+<text id="293114">调整白色眉毛的多寡</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">选择胡子形状</text>
+<text id="293121">编辑胡子颜色</text>
+<text id="293122">调整胡子光泽</text>
+<text id="293123">调整胡子根部的漆黑度</text>
+<text id="293124">调整白色胡子的多寡</text>
+<text id="293125">调整胡渣的浓密度</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">选择睫毛形状</text>
+<text id="293131">编辑睫毛颜色</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">调整右眼虹膜大小</text>
+<text id="293141">编辑右眼虹膜颜色</text>
+<text id="293142">调整右眼水晶体的混浊程度</text>
+<text id="293143">编辑右眼水晶体混浊部分的颜色</text>
+<text id="293144">编辑右眼的眼白颜色</text>
+<text id="293145">调整右眼虹膜距离脸中心的位置</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">编辑左眼虹膜大小</text>
+<text id="293151">编辑左眼虹膜颜色</text>
+<text id="293152">调整左眼水晶体的混浊程度</text>
+<text id="293153">编辑左眼水晶体混浊部分的颜色</text>
+<text id="293154">编辑左眼的眼白颜色</text>
+<text id="293155">调整左眼虹膜距离脸中心的位置</text>
+<text id="293156">是否套用变化后的眼睛配置</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">调整毛孔的显眼程度</text>
+<text id="293161">调整皮肤光泽</text>
+<text id="293162">调整眼窝浓淡</text>
+<text id="293163">编辑眼窝颜色</text>
+<text id="293164">调整腮红浓淡</text>
+<text id="293165">编辑腮红颜色</text>
+<text id="293166">调整眼线浓淡</text>
+<text id="293167">编辑眼线颜色</text>
+<text id="293168">调整眼皮的眼影浓淡</text>
+<text id="293169">编辑眼皮的眼影颜色</text>
+<text id="293170">调整卧蚕的眼影浓淡</text>
+<text id="293171">编辑卧蚕的眼影颜色</text>
+<text id="293172">调整口红浓淡</text>
+<text id="293173">编辑口红颜色</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">选择刺青／痣的形状</text>
+<text id="293181">编辑刺青／痣的颜色</text>
+<text id="293182">调整刺青／痣的细节</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">选择眼罩</text>
+<text id="293191">编辑眼罩的颜色</text>
+<text id="297100">强壮的体型
+体型与能力高低无关</text>
+<text id="297101">纤细的体型
+体型与能力高低无关</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">年轻时期的外貌
+外貌与能力高低无关</text>
+<text id="297111">壮年时期的外貌
+外貌与能力高低无关</text>
+<text id="297112">年迈时期的外貌
+外貌与能力高低无关</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">年轻时期的声音，第一种</text>
+<text id="297121">壮年时期的声音，第一种</text>
+<text id="297122">年迈时期的声音，第一种</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">年轻时期的声音，第二种</text>
+<text id="297126">壮年时期的声音，第二种</text>
+<text id="297127">年迈时期的声音，第二种</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">受祖国放逐的流浪骑士
+身穿金属盔甲，稳如泰山</text>
+<text id="297131">游牧民族的双刀剑士
+身手十分灵巧</text>
+<text id="297132">挥舞战斧的强壮勇者
+据说是蛮荒地王者的后代</text>
+<text id="297133">专挑致命一击攻击的危险盗贼
+会用弓箭，能进行远距离攻击</text>
+<text id="297134">试图从星星找寻命运的人物
+继承了辉石魔法</text>
+<text id="297135">做出不祥的预言
+因此受到迫害的预言家
+会使用恢复类的祷告</text>
+<text id="297136">来自与外隔绝的异国
+芦苇之地的武士
+擅于用刀与长弓的战士</text>
+<text id="297137">受判重刑，戴着铁面具的囚犯
+原本似乎出身上流社会
+会使用辉石魔法</text>
+<text id="297138">擅于暗地行动的教会密使
+使用剑术与祷告，相辅相成</text>
+<text id="297139">不知缘故，但裸着身体的人物
+身上只带着棍棒</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">没有遗物
+将过去的一切留在故乡</text>
+<text id="297151">镶有红色琥珀的链坠
+能提升血量的上限</text>
+<text id="297152">蕴藏在交界地居民眼中的赐福
+残存下来的黄金碎屑
+使用后能获得大量卢恩</text>
+<text id="297153">从交界地漂流而来的黄金种子
+据说可以用在强化圣杯瓶</text>
+<text id="297154">娇小魔像们的骨灰
+据说有灵魂寄宿其中</text>
+<text id="297155">%null%</text>
+<text id="297156">即使坏掉也会复原，神奇的壶（３个）
+是投掷壶类道具的容器</text>
+<text id="297157">参考剑的外型设计的石制钥匙（２把）
+据说能解开小恶魔像的封印
+但使用后会损坏</text>
+<text id="297158">能够魅惑敌人的神圣树枝（５枝）
+据说起源来自半神米凯拉</text>
+<text id="297159">煮熟的虾子肉（５个）
+一定时间内，提升物理减伤率</text>
+<text id="297160">被众人压碎双眼的男性疯狂肖像
+将变得容易受敌人攻击</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">标准肌肉量的身体</text>
+<text id="297171">肌肉较多的身体</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">翻转刺青／痣</text>
+<text id="297181">不翻转刺青／痣</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">使用变化后的眼睛配置</text>
+<text id="297186">不使用变化后的眼睛配置</text>
+<text id="297187">显示烫伤的伤痕</text>
+<text id="297188">不显示烫伤的伤痕</text>
+<text id="297200">褪色者之中最常见的外貌
+在过去，褪色者都是战士</text>
+<text id="297201">禁欲求道者的外貌
+他们追求的道，不尽相同</text>
+<text id="297202">自称继承交界地贵族血统的人
+所拥有的外貌</text>
+<text id="297203">遗世独立的家族拥有的外貌
+与古老传说、异端有所关联</text>
+<text id="297204">北方荒凉大地居民的外貌
+据说他们是巨人的后代</text>
+<text id="297205">在茫茫大海中徘徊
+遍寻故乡交界地所在的水手
+所拥有的外貌</text>
+<text id="297206">与外隔绝的异国
+芦苇之地居民的外貌
+那片土地充斥着血腥</text>
+<text id="297207">拥有岩石皮肤的人拥有的外貌
+古龙的子民大多短命</text>
+<text id="297208">人称夜人的少数人拥有的外貌
+传说他们有着银色血液</text>
+<text id="297209">人称异界居民的后代，稀人的外貌
+很长寿，然而诞生的人数非常之少</text>
+<text id="297220">褪色者之中最常见的外貌
+在过去，褪色者都是战士</text>
+<text id="297221">禁欲求道者的外貌
+他们追求的道，不尽相同</text>
+<text id="297222">自称继承交界地贵族血统的人们
+所拥有的外貌</text>
+<text id="297223">遗世独立的家族拥有的外貌
+他们与古老传说、异端有所关联</text>
+<text id="297224">北方荒凉大地居民的外貌
+据说他们是巨人的后代</text>
+<text id="297225">在茫茫大海中徘徊
+遍寻故乡交界地所在的水手
+所拥有的外貌</text>
+<text id="297226">与外隔绝的异国
+芦苇之地居民的外貌
+那片土地充斥着血腥</text>
+<text id="297227">拥有岩石皮肤的人拥有的外貌
+古龙的子民大多短命</text>
+<text id="297228">人称夜人的少数人拥有的外貌
+传说他们有着银色血液</text>
+<text id="297229">人称异界居民的后代，稀人的外貌
+很长寿，然而诞生的人数非常之少</text>
+<text id="301000">请选择要登录至空格的肢体动作</text>
+<text id="301001">请选择要使用的肢体动作</text>
+<text id="321000">编辑讯息内容</text>
+<text id="321001">选择想搭配的肢体动作</text>
+<text id="321002">完成讯息编辑</text>
+<text id="321003">请选择范文</text>
+<text id="321004">请选择想搭配的肢体动作</text>
+<text id="321005">请选择单字的类别</text>
+<text id="321006">请选择范文</text>
+<text id="321007">请选择单字</text>
+<text id="321008">请选择连接词</text>
+<text id="322000">确认自己写下的讯息</text>
+<text id="324000">确认最近阅读过的讯息</text>
+<text id="406000">请选择要读取的角色档案</text>
+<text id="406001">请选择要删除的角色档案</text>
+</entries>
+</fmg>

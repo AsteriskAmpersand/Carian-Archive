@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Accovacciati per essere meno visibile ai nemici.
+Risulta efficace soprattutto nell'erba alta.
+Gli attacchi ai nemici ignari della tua presenza causano danni maggiori.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Usa un armamento nella mano sinistra (o in entrambe) per difenderti dagli attacchi nemici.
+Gli scudi sono particolarmente efficaci in difesa.
+La difesa consuma vigore. Se esaurisci il vigore mentre la guardia è alta, la tua difesa sarà spezzata.
+
+&lt;?keyicon@24?&gt;: Difesa</text>
+<text id="3">Puoi eseguire un contrattacco subito dopo aver bloccato un colpo nemico.
+I contrattacchi in difesa spesso possono sbilanciare il nemico.
+
+&lt;?keyicon@23?&gt; subito dopo aver bloccato un attacco: Contrattacco in difesa</text>
+<text id="4">Quando impugni un armamento a due mani, ne aumenti la potenza del 50%.
+Questo diminuisce gli attributi richiesti e gli armamenti che scalano in base alla forza faranno più danni.
+Inoltre, gli attacchi con quell'armamento saranno più difficili da respingere con uno scudo.
+
+ &lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Impugna un armamento a due mani</text>
+<text id="5">Gli attacchi caricati e in salto sono più potenti.
+Usali per sbilanciare facilmente il nemico.
+Inoltre, hanno maggiore probabilità di disarcionare i cavalieri.
+
+Tieni premuto &lt;?keyicon@23?&gt;: Attacco caricato
+&lt;?keyicon@23?&gt; durante un salto: Attacco in salto</text>
+<text id="6">Gli armamenti possiedono proprietà speciali chiamate abilità.
+Esistono abilità di vario tipo, dagli attacchi potenti agli effetti temporanei.
+L'uso di abilità consuma PA.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">Gli scudi consentono di usare la parata, un'abilità che devia gli attacchi in mischia.
+Se eseguita correttamente, la parata sbilancia l'avversario e lo espone a un colpo critico.
+
+&lt;?keyicon@25?&gt; nel momento dell'attacco nemico: Parata</text>
+<text id="8">Aggancia un nemico per centrare la visuale su di lui durante il combattimento.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; con un bersaglio agganciato: Cambia bersaglio</text>
+<text id="9">Quando impugni un arco a due mani, tieni premuto &lt;?keyicon@24?&gt; per attivare la mira di precisione.
+Usa &lt;?keyControlCamera?&gt; per gestire la mira con ancora maggiore precisione.
+Colpisci i nemici umanoidi alla testa per infliggere danni maggiori.
+
+&lt;?keyicon@24?&gt; impugnando un arco a due mani: Mira di precisione</text>
+<text id="10">Puoi equipaggiare tre armamenti per mano.
+
+Alcuni armamenti, come gli scudi, garantiscono azioni diverse in base alla mano usata.</text>
+<text id="11">Puoi equipaggiare fino a dieci oggetti contemporaneamente.
+Gli oggetti equipaggiati sono utilizzabili senza passare dal menu degli oggetti.
+Inoltre, puoi assegnare oggetti alla borsa per usarli direttamente dal menu principale.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Alza la torcia per vedere più lontano al buio.
+
+&lt;?keyicon@24?&gt; con la torcia assegnata alla mano sinistra: Alza la torcia</text>
+<text id="13">Portati alle spalle di un nemico per eseguire un colpo critico.
+Anche i nemici sbilanciati sono vulnerabili ai colpi critici.
+I colpi critici su bersagli sbilanciati infliggono più danni di quelli alle spalle.
+
+&lt;?keyicon@22?&gt; alle spalle di un nemico: Colpo critico
+&lt;?keyicon@22?&gt; contro un nemico sbilanciato: Colpo critico</text>
+<text id="14">Usa i "gesti" dal menu principale per eseguire varie pose.</text>
+<text id="15">Consulta la mappa per individuare l'area in cui ti trovi o controllare il terreno e le strutture circostanti.
+Puoi aggiornare le informazioni della mappa recuperando frammenti presso le stele.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Salta con il cavallo vicino a una fonte spiritica per sfruttare la sua corrente ascensionale.
+Quando scendi da una fonte spiritica in sella a un destriero non subisci danni, neppure se l'altezza è elevata.
+
+&lt;?keyicon@8?&gt; vicino a una fonte spiritica su un cavallo: Salto con fonte spiritica</text>
+<text id="17">Se hai più oggetti equipaggiati, tieni premuto &lt;?keyicon@18?&gt; per selezionare velocemente quello assegnato al primo slot.
+
+Tieni premuto &lt;?keyicon@18?&gt;: Seleziona il primo oggetto equipaggiato</text>
+<text id="50">Quando muori, le rune in tuo possesso restano presso il luogo della tua morte.
+Puoi recuperarle tornando in quel punto.
+Se morirai di nuovo prima di raggiungerle, tuttavia, saranno perse per sempre.</text>
+<text id="51">%null%</text>
+<text id="52">Quando l'icona di un monumento appare sul lato sinistro dello schermo, significa che puoi evocare spiriti dalle ceneri.
+Esistono diversi tipi di spiriti evocabili.
+Le evocazioni consumano PA.</text>
+<text id="53">Riposa presso un luogo di grazia per recuperare PV e PA, curare le alterazioni di stato e ricaricare tutte le ampolle sacre.
+
+Tuttavia, molti dei nemici sconfitti saranno riportati in vita.</text>
+<text id="54">I luoghi di grazia non ancora raggiunti emettono raggi di luce.
+
+Se vedi un fascio luminoso, è probabile si tratti di un luogo di grazia.</text>
+<text id="55">La grazia ha il ruolo di guidare i Senzaluce e condurli sulla retta via.
+Ancora oggi esistono luoghi di grazia che preservano questo potere.
+I loro raggi dorati ti indicheranno la strada.</text>
+<text id="56">L'ampolla di lacrime cremisi ripristina i PV.
+L'ampolla di lacrime cerulee ripristina i PA.
+
+Presso i luoghi di grazia puoi distribuire le dosi in ciascuna ampolla.
+Sempre presso i luoghi di grazia, inoltre, puoi usare oggetti per potenziare le ampolle.</text>
+<text id="57">Dalla mappa puoi raggiungere all'istante tutti i luoghi di grazia già scoperti.
+
+Tuttavia, in alcune segrete e aree speciali questa funzione non è disponibile.</text>
+<text id="58">Quando sei a cavallo puoi attaccare con gli armamenti impugnati con la mano destra o a due mani.
+
+Se subisci una determinata quantità di danni mentre sei in sella, il tuo personaggio sarà disarcionato.
+Questo ti rende molto più vulnerabile.</text>
+<text id="59">Non è possibile entrare a cavallo all'interno di grossi edifici, caverne, catacombe o altri spazi simili.
+
+Allo stesso modo, non puoi chiamare il tuo destriero quando sei dentro questi ambienti.</text>
+<text id="60">I corredi da creazione consentono di fabbricare oggetti con i materiali a disposizione.
+Seleziona "Creazione oggetti" dal menu principale per iniziare.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Per creare alcuni oggetti ti serviranno vasi incrinati o altri recipienti.
+Gli oggetti si consumano con l'uso, ma i contenitori sono riutilizzabili.</text>
+<text id="62">Le ceneri di guerra sono ricordi delle affinità e delle abilità infuse negli armamenti in un lontano passato.
+I coltelli da affilatura permettono di usare le ceneri presso i luoghi di grazia per personalizzare gli armamenti.</text>
+<text id="63">%null%</text>
+<text id="64">Se muori, tornerai in vita presso l'ultimo luogo di grazia in cui hai riposato.
+
+Se muori vicino a una statua di Marika, tuttavia, potrai scegliere di ripartire da quel punto.</text>
+<text id="65">Se superi il 70% del carico massimo trasportabile, le tue schivate in capriola diventeranno più lente e goffe.
+
+Se superi totalmente il tuo carico massimo, non potrai più eseguire capriole.</text>
+<text id="66">Durante i combattimenti non è consentito creare oggetti o aprire la mappa.</text>
+<text id="67">Gli spiriti evocati dalle ceneri possono essere potenziati con la sintonia spiritica.
+
+Per potenziare gli spiriti serve una convallaria.</text>
+<text id="68">Quando avanzi di livello puoi spendere rune per incrementare i tuoi attributi.
+
+Attributi e livello aumentano di pari passo, insieme alla quantità di rune necessaria per incrementare ulteriormente gli attributi.</text>
+<text id="69">%null%</text>
+<text id="70">Quando la barra del veleno raggiunge il massimo, inizi a subire danni nel tempo a causa dell'avvelenamento.
+Un valore elevato di immunità rallenta il caricamento della barra.</text>
+<text id="71">Quando la barra della marcescenza scarlatta raggiunge il massimo, cominci a subire danni nel tempo a causa della malattia.
+La marcescenza scarlatta è un'alterazione di stato molto pericolosa, ma un valore elevato di immunità rallenta il caricamento della barra.</text>
+<text id="72">Quando la barra del sangue raggiunge il massimo, inizia il sanguinamento.
+Il sanguinamento infligge danni in proporzione ai PV massimi.
+Un valore elevato di robustezza rallenta il caricamento della barra.</text>
+<text id="73">Quando la barra dell'assideramento raggiunge il massimo, subisci danni e le conseguenze del congelamento.
+L'assideramento incrementa tutti i danni subiti.
+Un valore elevato di robustezza rallenta il caricamento della barra.</text>
+<text id="74">Quando la barra del sonno raggiunge il massimo, inizi ad accusare sonnolenza.
+Se il tuo personaggio è debole, ti addormenterai completamente.
+Un valore elevato di concentrazione rallenta il caricamento della barra.</text>
+<text id="75">Quando la barra della follia raggiunge il massimo, perdi la ragione e, con essa, ingenti quantità di PV e PA.
+Solo gli umani sono suscettibili alla follia.
+Un valore elevato di concentrazione rallenta il caricamento della barra.</text>
+<text id="76">Quando la barra del morbo mortale raggiunge il massimo, muori all'istante.
+Si tratta di un'alterazione di stato molto pericolosa, ma un valore elevato
+di resilienza aumenta la resistenza al morbo e rallenta il caricamento della barra.</text>
+<text id="77">Le armature pesanti rendono più stabili, riducendo il rinculo causato dai colpi nemici.
+
+Lo stesso effetto si ottiene anche dalle armi a due mani.</text>
+<text id="100">Nel multigiocatore cooperativo, l'obiettivo del Dito torto è aiutare l'ospite di Dita a sconfiggere il boss dell'area.
+
+Il Dito torto tornerà nel proprio mondo in caso di morte o una volta sconfitto il boss, in base a cosa avvenga prima.</text>
+<text id="101">Nel multigiocatore competitivo, l'obiettivo del duellante è sconfiggere l'ospite di Dita.
+
+Il duellante tornerà nel proprio mondo in caso di morte o una volta sconfitto l'ospite, in base a cosa avvenga prima.</text>
+<text id="102">Il multigiocatore consente la presenza di un massimo di due Dita torte e di un duellante o un Dito sanguinante in contemporanea.
+
+Il giocatore ospite può incrementare il numero massimo di invasori o duellanti usando una lingua di provocatore.</text>
+<text id="103">Usando un rimedio del Dito torto invocatore puoi vedere i segni di evocazione lasciati dai giocatori in altri mondi.
+
+Evoca un altro giocatore da un suo segno per avviare una sessione multigiocatore in cui tu sei l'ospite di Dita.</text>
+<text id="104">Usa un Dito torto di Senzaluce per lasciare un segno di evocazione d'oro.
+Il segno sarà visibile nei mondi degli altri giocatori e permetterà loro
+di evocarti come alleato Dito torto per il multigiocatore cooperativo.</text>
+<text id="105">Usa un Dito torto di duellante per lasciare un segno di evocazione rosso.
+Il segno sarà visibile nei mondi degli altri giocatori e permetterà loro
+di evocarti come duellante avversario per il multigiocatore competitivo.</text>
+<text id="106">Usa un Dito sanguinante purulento per invadere il mondo di un altro giocatore come Dito sanguinante.
+
+Esistono anche altri oggetti che consentono di diventare invasori.</text>
+<text id="107">Usa un anello inciso bianco per evocare automaticamente un cacciatore
+di supporto in caso di invasione del tuo mondo.
+L'evocazione non è sempre possibile.</text>
+<text id="108">Usa un anello inciso blu per renderti disponibile alle invocazioni
+d'aiuto da altri mondi in qualità di cacciatore.</text>
+<text id="109">In ciascuna area sono presenti effigi di martiri che svolgono la funzione di bacini di evocazione.
+
+Qui si raccolgono segni di evocazione composti di piccole effigi.
+Raggiungi questi luoghi per evocare agevolmente altri giocatori.</text>
+<text id="110">Imposta una password di gruppo per favorire la visibilità di messaggi, segni di evocazione,
+macchie di sangue e spettri dei giocatori che condividono la medesima password.</text>
+<text id="111">Se imposti una password multigiocatore, nella maggior parte delle funzionalità multigiocatore
+sarai abbinato ai giocatori che condividono la medesima password.
+
+Le password multigiocatore, tuttavia, non influiscono sulle invasioni.</text>
+<text id="112">Usa il menu dei messaggi per lasciare indicazioni agli altri giocatori.
+
+Il tuo messaggio sarà visibile agli altri avventurieri nel punto in cui l'hai scritto.</text>
+<text id="113">Nel multigiocatore, l'area di esplorazione è limitata.
+L'accesso alle altre zone è inibito da una barriera luminosa.
+
+Potrai riprendere la loro esplorazione al termine della sessione multigiocatore.</text>
+<text id="114">A volte potresti imbatterti in pallide figure spettrali.
+
+Sono le tracce residue delle azioni recenti compiute da giocatori di altri mondi.</text>
+<text id="115">Le macchie di sangue compaiono nei punti in cui sono morti i giocatori di altri mondi.
+
+Puoi esaminarle per scoprire come hanno perso la vita.</text>
+<text id="116">Nel multigiocatore collaborativo, l'obiettivo del cacciatore è sconfiggere un invasore.
+Il cacciatore tornerà nel proprio mondo in caso di morte o una volta sconfitto l'invasore, in base a cosa avvenga prima.</text>
+<text id="117">Negli altri mondi è possibile lasciare due segni di evocazione.
+
+I segni oro chiamano un alleato Dito torto, quelli rossi un avversario duellante.</text>
+<text id="118">Puoi modificare il formato dei messaggi per comunicare concetti più articolati.
+È anche possibile allegare gesti ai messaggi.
+
+&lt;?image@2010?&gt;: Modifica formato del messaggio</text>
+<text id="119">In un'invasione multigiocatore, l'obiettivo dell'invasore è sconfiggere l'ospite di Dita.
+L'invasore tornerà nel proprio mondo in caso di morte o una volta sconfitto l'ospite di Dita, in base a cosa avvenga prima.</text>
+<text id="150">Gli attacchi con affinità specifiche, come fuoco o fulmine, possono superare le difese nemiche
+con maggiore facilità rispetto ai normali attacchi fisici.
+
+La difesa non ha effetto contro la maggior parte delle prese.</text>
+<text id="151">Alcuni attacchi possono sbilanciare il nemico, esponendolo a un colpo critico.
+
+Gli attacchi caricati e in salto rendono particolarmente facile sbilanciare il bersaglio.</text>
+<text id="152">Attacca ripetutamente un nemico a cavallo per farlo sbilanciare e cadere a terra.
+Approfittane per infliggergli un colpo critico.
+
+Gli attacchi caricati e in salto hanno una probabilità maggiore di disarcionare un nemico.</text>
+<text id="153">Gli attacchi da taglio delle armi affilate sono scarsamente efficaci contro corazze e placche.
+Gli attacchi da impatto hanno elevate probabilità di andare a segno.</text>
+<text id="154">%null%</text>
+<text id="200">Esistono scarabei della lacrima cerulea e cremisi.
+Sconfiggili per riempire le ampolle corrispondenti.
+Tuttavia, non puoi superare il limite di ampolle consentito.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

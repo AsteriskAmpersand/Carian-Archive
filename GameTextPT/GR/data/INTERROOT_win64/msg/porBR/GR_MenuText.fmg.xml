@@ -1,0 +1,2960 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1010"> x</text>
+<text id="3010">&lt;?null?&gt;</text>
+<text id="3011">&lt;?null?&gt;</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020"> </text>
+<text id="3021"> </text>
+<text id="3500">Escolha o local de renascimento</text>
+<text id="3501">Estaca de Marika</text>
+<text id="3502">Último local da graça visitado</text>
+<text id="4100">Usar</text>
+<text id="4101">Deixar</text>
+<text id="4102">Descartar</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Usar número selecionado</text>
+<text id="4111">Abandonar número selecionado</text>
+<text id="4112">Descartar número selecionado</text>
+<text id="5100">Usar quantos?</text>
+<text id="5101">Deixar quantos?</text>
+<text id="5102">Descartar quantos?</text>
+<text id="5103">%null%</text>
+<text id="5104">Comprar quantos?</text>
+<text id="5105">Vender quantos?</text>
+<text id="5106">Guardar quantos?</text>
+<text id="5107">Pegar quantos?</text>
+<text id="5108">Produzir quantos?</text>
+<text id="5109">Receber quantos?</text>
+<text id="5501">Explicação</text>
+<text id="5502">Ver controles</text>
+<text id="5600">Explicação de menu</text>
+<text id="5700">Alternar exibição de status de multijogador</text>
+<text id="5701">%null%</text>
+<text id="5702">%null%</text>
+<text id="5703">%null%</text>
+<text id="5704">%null%</text>
+<text id="5705">%null%</text>
+<text id="5706">%null%</text>
+<text id="5707">%null%</text>
+<text id="5708">%null%</text>
+<text id="5709">%null%</text>
+<text id="5710">Alternar exibição de status de multijogador</text>
+<text id="6100">Ordem padrão</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">Tipo de item</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">Quantidade carregada</text>
+<text id="6111">Peso</text>
+<text id="6112">%null%</text>
+<text id="6113">%null%</text>
+<text id="6114">%null%</text>
+<text id="6115">%null%</text>
+<text id="6116">%null%</text>
+<text id="6117">%null%</text>
+<text id="6118">%null%</text>
+<text id="6119">%null%</text>
+<text id="6120">Custo de PF</text>
+<text id="6121">Espaços usados</text>
+<text id="6122">%null%</text>
+<text id="6123">%null%</text>
+<text id="6124">%null%</text>
+<text id="6125">%null%</text>
+<text id="6126">%null%</text>
+<text id="6127">%null%</text>
+<text id="6128">%null%</text>
+<text id="6129">%null%</text>
+<text id="6130">Poder de ataque</text>
+<text id="6131">%null%</text>
+<text id="6132">%null%</text>
+<text id="6133">%null%</text>
+<text id="6134">%null%</text>
+<text id="6135">%null%</text>
+<text id="6136">%null%</text>
+<text id="6137">%null%</text>
+<text id="6138">%null%</text>
+<text id="6139">%null%</text>
+<text id="6140">Dano negado ao defender</text>
+<text id="6170">Negação de dano</text>
+<text id="6171">%null%</text>
+<text id="6172">%null%</text>
+<text id="6173">%null%</text>
+<text id="6174">%null%</text>
+<text id="6175">%null%</text>
+<text id="6176">%null%</text>
+<text id="6177">%null%</text>
+<text id="6178">%null%</text>
+<text id="6179">%null%</text>
+<text id="6180">Resistência</text>
+<text id="6181">%null%</text>
+<text id="6182">%null%</text>
+<text id="6183">%null%</text>
+<text id="6184">%null%</text>
+<text id="6185">%null%</text>
+<text id="6186">%null%</text>
+<text id="6187">%null%</text>
+<text id="6188">%null%</text>
+<text id="6189">%null%</text>
+<text id="6190">Ordem de aquisição</text>
+<text id="10100">Nome</text>
+<text id="10101">Tipo físico</text>
+<text id="10102">Origem</text>
+<text id="10103">Recordação</text>
+<text id="10200">Nível</text>
+<text id="10201">Runas carregadas</text>
+<text id="10202">Runas necessárias</text>
+<text id="10203">%null%</text>
+<text id="10204">Grandes Runas</text>
+<text id="10300">%null%</text>
+<text id="10301">Idade</text>
+<text id="10400">Vitalidade</text>
+<text id="10401">Fortitude</text>
+<text id="10402">Mente</text>
+<text id="10403">Força</text>
+<text id="10404">Destreza</text>
+<text id="10405">%null%</text>
+<text id="10406">Inteligência</text>
+<text id="10407">Fé</text>
+<text id="10408">%null%</text>
+<text id="10409">Arcano</text>
+<text id="10500">PV</text>
+<text id="10501">PF</text>
+<text id="10502">Vigor</text>
+<text id="10503">%null%</text>
+<text id="10504">%null%</text>
+<text id="10505">%null%</text>
+<text id="10506">%null%</text>
+<text id="10507">%null%</text>
+<text id="10508">%null%</text>
+<text id="10509">%null%</text>
+<text id="10510">Carga de equipamentos</text>
+<text id="10511">%null%</text>
+<text id="10512">Carga max equip</text>
+<text id="10513">Carga leve</text>
+<text id="10514">Carga média</text>
+<text id="10515">Carga pesada</text>
+<text id="10516">Sobrecarga</text>
+<text id="10517">%null%</text>
+<text id="10518">%null%</text>
+<text id="10519">%null%</text>
+<text id="10520">Arma D 1</text>
+<text id="10521">Arma D 2</text>
+<text id="10522">Arma D 3</text>
+<text id="10523">Arma E 1</text>
+<text id="10524">Arma E 2</text>
+<text id="10525">Arma E 3</text>
+<text id="10526">%null%</text>
+<text id="10527">%null%</text>
+<text id="10528">%null%</text>
+<text id="10529">%null%</text>
+<text id="10530">Físico</text>
+<text id="10531">vs esmagadores</text>
+<text id="10532">vs cortantes</text>
+<text id="10533">vs perfurantes</text>
+<text id="10534">Mágico</text>
+<text id="10535">Fogo</text>
+<text id="10536">Relâmpago</text>
+<text id="10537">Sagrado</text>
+<text id="10538">%null%</text>
+<text id="10539">%null%</text>
+<text id="10540">Imunidade</text>
+<text id="10541">Robustez</text>
+<text id="10542">Foco</text>
+<text id="10543">Vitalidade</text>
+<text id="10561">Espaços de memória</text>
+<text id="10562">Descoberta</text>
+<text id="10563">%null%</text>
+<text id="10564">%null%</text>
+<text id="10565">%null%</text>
+<text id="10566">%null%</text>
+<text id="10567">%null%</text>
+<text id="10568">%null%</text>
+<text id="10569">%null%</text>
+<text id="10570">Equilíbrio</text>
+<text id="11001">Tipo de arma</text>
+<text id="11002">Tipo do feitiço</text>
+<text id="11003">Afinidade de ataque</text>
+<text id="11004">Qt. carregada</text>
+<text id="11005">Armazenado(s)</text>
+<text id="11006">Habilidade</text>
+<text id="11007">Carregando</text>
+<text id="11008">%null%</text>
+<text id="11009">Recipientes</text>
+<text id="11010">Físico</text>
+<text id="11011">Mágico</text>
+<text id="11012">Fogo</text>
+<text id="11013">Relâmpago</text>
+<text id="11014">Sagrado</text>
+<text id="11015">%null%</text>
+<text id="11016">%null%</text>
+<text id="11017">%null%</text>
+<text id="11018">%null%</text>
+<text id="11019">%null%</text>
+<text id="11020">Físico</text>
+<text id="11021">Mágico</text>
+<text id="11022">Fogo</text>
+<text id="11023">Relâmpago</text>
+<text id="11024">Sagrado</text>
+<text id="11025">%null%</text>
+<text id="11026">%null%</text>
+<text id="11027">%null%</text>
+<text id="11028">%null%</text>
+<text id="11029">%null%</text>
+<text id="11030">Crítico</text>
+<text id="11031">Aumento de defesa</text>
+<text id="11032">Alcance</text>
+<text id="11033">%null%</text>
+<text id="11034">Custo de PF</text>
+<text id="11035">Feitiçaria</text>
+<text id="11036">Encantamento</text>
+<text id="11037">%null%</text>
+<text id="11038">%null%</text>
+<text id="11039">%null%</text>
+<text id="11040">Espaços usados</text>
+<text id="11041">Custo de PF</text>
+<text id="11042">Custo de PF</text>
+<text id="11043">Custo de PV</text>
+<text id="11180">Físico</text>
+<text id="11181">vs esmagadores</text>
+<text id="11182">vs cortantes</text>
+<text id="11183">vs perfurantes</text>
+<text id="11184">Mágico</text>
+<text id="11185">Ígneo</text>
+<text id="11186">Relâmpago</text>
+<text id="11187">Sagrado</text>
+<text id="11188">%null%</text>
+<text id="11189">%null%</text>
+<text id="11190">Imunidade</text>
+<text id="11191">Robustez</text>
+<text id="11192">Foco</text>
+<text id="11193">Vitalidade</text>
+<text id="11194">%null%</text>
+<text id="11195">%null%</text>
+<text id="11196">%null%</text>
+<text id="11197">%null%</text>
+<text id="11198">%null%</text>
+<text id="11199">%null%</text>
+<text id="11200">Equilíbrio</text>
+<text id="11300">For</text>
+<text id="11301">Des</text>
+<text id="11302">Int</text>
+<text id="11303">Fé</text>
+<text id="11304">Arc</text>
+<text id="11305">%null%</text>
+<text id="11306">%null%</text>
+<text id="11307">%null%</text>
+<text id="11308">%null%</text>
+<text id="11309">%null%</text>
+<text id="11310">For</text>
+<text id="11311">Des</text>
+<text id="11312">Int</text>
+<text id="11313">Fé</text>
+<text id="11314">For</text>
+<text id="11315">Des</text>
+<text id="11316">Int</text>
+<text id="11317">Fé</text>
+<text id="11318">Arc</text>
+<text id="11319">Arc</text>
+<text id="11320">-</text>
+<text id="11321">S</text>
+<text id="11322">A</text>
+<text id="11323">B</text>
+<text id="11324">C</text>
+<text id="11325">D</text>
+<text id="11326">E</text>
+<text id="11327">%null%</text>
+<text id="11328">%null%</text>
+<text id="11329">%null%</text>
+<text id="11330">Consumível</text>
+<text id="11331">Reutilizável</text>
+<text id="11351">Peso</text>
+<text id="11352">%null%</text>
+<text id="11353">%null%</text>
+<text id="11354">%null%</text>
+<text id="11355">%null%</text>
+<text id="11356">%null%</text>
+<text id="11357">%null%</text>
+<text id="11358">%null%</text>
+<text id="11359">%null%</text>
+<text id="11360">Tipo de item</text>
+<text id="11400">Recipientes em posse</text>
+<text id="12000">Runas necessárias</text>
+<text id="12001">%null%</text>
+<text id="12002">%null%</text>
+<text id="12003">%null%</text>
+<text id="12004">%null%</text>
+<text id="12005">%null%</text>
+<text id="12006">%null%</text>
+<text id="12007">%null%</text>
+<text id="12008">%null%</text>
+<text id="12009">%null%</text>
+<text id="12010">Runas oferecidas</text>
+<text id="20000">Poder de ataque</text>
+<text id="20001">Dano negado ao defender</text>
+<text id="20002">Atributos necessários</text>
+<text id="20003">Bônus de atributo</text>
+<text id="20004">Efeitos passivos</text>
+<text id="20005">%null%</text>
+<text id="20006">Efeito do item</text>
+<text id="20007">Obteve</text>
+<text id="20008">Pontos de atributo</text>
+<text id="20009">Poder base</text>
+<text id="20010">Defesa/Negação de dano</text>
+<text id="20011">Poder de defesa</text>
+<text id="20012">Negação de dano</text>
+<text id="20013">Proteção</text>
+<text id="20014">Corpo</text>
+<text id="20015">Linhagem</text>
+<text id="20016">Equipamento</text>
+<text id="20017">Resistência</text>
+<text id="20050">Negação de dano</text>
+<text id="20051">Resistência</text>
+<text id="20100">Combinação de condições</text>
+<text id="20200">Condição necessária</text>
+<text id="30100">Nome deste personagem</text>
+<text id="30101">O tipo físico deste personagem</text>
+<text id="30102">A história deste personagem
+Os caminhos sinuosos que o trouxeram até aqui</text>
+<text id="30103">A recordação carregada por este personagem
+Cada uma, uma lembrança de seu dono</text>
+<text id="30200">Um número cumulativo que representa a força
+geral dos atributos.
+Você pode subir de nível usando runas.</text>
+<text id="30201">Total de runas em sua posse.
+Você deixará as runas que possuir no local onde morreu.</text>
+<text id="30202">Número de runas necessárias para subir de nível.
+Quando você passa de nível, você pode escolher qual atributo aumentar.</text>
+<text id="30203">%null%</text>
+<text id="30204">O número de Grandes Runas que você possui</text>
+<text id="30301">Idade aparente do personagem</text>
+<text id="30400">Atributo que rege os PV.
+Também afeta a resistência e a imunidade
+ao fogo.</text>
+<text id="30401">Atributo que governa o vigor.
+Também afeta robustez.
+Esse atributo também determina quão
+pesado seu equipamento pode ser.</text>
+<text id="30402">Atributo que determina os PF.
+Também afeta o foco.</text>
+<text id="30403">Atributo requerido para empunhar armas pesadas.
+Também melhora o poder de ataque de armas com
+bônus de força e afeta sua defesa física.</text>
+<text id="30404">Atributo necessário para empunhar armas avançadas.
+Também melhora o poder de ataque de armas com
+bônus de destreza, reduz o tempo de lançamento de
+feitiços, suaviza o dano de queda e torna mais difícil
+ser derrubado do seu cavalo.</text>
+<text id="30405">%null%</text>
+<text id="30406">Atributo necessário para executar feitiços
+pedrilhantes. Também aumenta o poder
+mágico de feitiços com influência de inteligência
+e melhora a resistência mágica.</text>
+<text id="30407">Atributo necessário para executar encantamentos
+sagrados. Também melhora feitiços que
+recebem bônus de fé.</text>
+<text id="30408">%null%</text>
+<text id="30409">Atributo que rege a descoberta.
+Também afeta a defesa sagrada, a vitalidade
+e certos feitiços e encantamentos.</text>
+<text id="30500">Sua vida. Se reduzida a nada, você morre.
+Restaure-a bebendo do Frasco de Lágrimas
+Carmesins ou descansando em um local da graça.</text>
+<text id="30501">Energia consumida para usar feitiços e habilidades.
+Restaure-a bebendo do Frasco de Lágrimas Cerúleas
+ou descansando em um local da graça.</text>
+<text id="30502">Necessário para várias ações.
+Se esgota quando certas ações são feitas,
+mas se recupera automaticamente.</text>
+<text id="30503">%null%</text>
+<text id="30504">%null%</text>
+<text id="30505">%null%</text>
+<text id="30506">%null%</text>
+<text id="30507">%null%</text>
+<text id="30508">%null%</text>
+<text id="30509">%null%</text>
+<text id="30510">O peso total das armas e armaduras equipadas.
+A velocidade de movimento diminui conforme o peso
+aumenta. O número à direta é o peso máximo que
+pode ser equipado; se excedê-lo, a velocidade de
+movimento diminuirá drasticamente.</text>
+<text id="30511">%null%</text>
+<text id="30512">Peso máximo das armas e armaduras
+equipáveis. A velocidade de movimento
+diminui conforme o peso aumenta.
+Exceda esse número e o movimento
+se tornará drasticamente mais lento.</text>
+<text id="30513">%null%</text>
+<text id="30514">%null%</text>
+<text id="30515">%null%</text>
+<text id="30516">%null%</text>
+<text id="30517">%null%</text>
+<text id="30518">%null%</text>
+<text id="30519">%null%</text>
+<text id="30520">Poder de ataque da arma 
+no espaço 1 da mão direita.</text>
+<text id="30521">Poder de ataque da arma 
+no espaço 2 da mão direita.</text>
+<text id="30522">Poder de ataque da arma 
+no espaço 3 da mão direita.</text>
+<text id="30523">Poder de ataque da arma 
+no espaço 1 da mão esquerda.</text>
+<text id="30524">Poder de ataque da arma 
+no espaço 2 da mão esquerda.</text>
+<text id="30525">Poder de ataque da arma 
+no espaço 3 da mão esquerda.</text>
+<text id="30526">%null%</text>
+<text id="30527">%null%</text>
+<text id="30528">%null%</text>
+<text id="30529">%null%</text>
+<text id="30530">A capacidade do corpo de
+aguentar dano físico padrão.</text>
+<text id="30531">A capacidade do corpo de
+aguentar dano físico esmagador.</text>
+<text id="30532">A capacidade do corpo de
+aguentar dano físico cortante.</text>
+<text id="30533">A capacidade do corpo de
+aguentar dano físico perfurante.</text>
+<text id="30534">A capacidade do corpo de
+aguentar dano mágico.</text>
+<text id="30535">A capacidade do corpo de
+aguentar dano de fogo.</text>
+<text id="30536">A capacidade do corpo de
+aguentar dano elétrico.</text>
+<text id="30537">A capacidade do corpo de aguentar dano sagrado.</text>
+<text id="30538">%null%</text>
+<text id="30539">%null%</text>
+<text id="30540">A capacidade do corpo de resistir a vários
+venenos e à podridão.
+Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="30541">A capacidade do corpo de resistir
+à perda de sangue e ao congelamento.
+Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="30542">A capacidade do corpo de resistir
+ao sono e a surtos de loucura.
+Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="30543">A capacidade do corpo de resistir à morte.
+Quanto mais alto o valor, mais difícil de ser afligido pela morte instantânea.</text>
+<text id="30561">O número de espaços disponíveis
+para memorizar feitiços e encantos</text>
+<text id="30562">Determina a chance de encontrar itens
+ao derrotar inimigos.</text>
+<text id="30563">%null%</text>
+<text id="30564">%null%</text>
+<text id="30565">%null%</text>
+<text id="30566">%null%</text>
+<text id="30567">%null%</text>
+<text id="30568">%null%</text>
+<text id="30569">%null%</text>
+<text id="30570">O quanto você pode resistir
+a colapsar sob ataques inimigos.</text>
+<text id="30571">%null%</text>
+<text id="30572">%null%</text>
+<text id="30573">%null%</text>
+<text id="30574">%null%</text>
+<text id="30575">%null%</text>
+<text id="30576">%null%</text>
+<text id="30577">%null%</text>
+<text id="30578">%null%</text>
+<text id="30579">%null%</text>
+<text id="30580">Seu poder de defesa e negação de dano
+contra ataques físicos padrões. O primeiro é 
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30581">Seu poder de defesa e negação de dano
+contra ataques físicos esmagadores. O primeiro é 
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30582">Seu poder de defesa e negação de dano
+contra ataques físicos cortantes. O primeiro é 
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30583">Seu poder de defesa e negação de dano
+contra ataques físicos perfurantes. O primeiro é 
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30584">Seu poder de defesa e negação de dano
+contra ataques mágicos. O primeiro é
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30585">Seu poder de defesa e negação de dano
+contra ataques de fogo. O primeiro é
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30586">Seu poder de defesa e negação de dano
+contra ataques elétricos. O primeiro é
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e quaisquer efeitos adicionais.</text>
+<text id="30587">Seu poder de defesa e negação de dano
+contra ataques sagrados. O primeiro é
+calculado através dos atributos, enquanto
+o último é calculado através dos equipamentos
+de proteção e de quaisquer efeitos adicionais.</text>
+<text id="30588">%null%</text>
+<text id="30589">%null%</text>
+<text id="30590">Sua resistência a diversos venenos e
+à podridão. Quanto maior o número,
+menor sua suscetibilidade. Regida pelos seus
+atributos, assim como pelos equipamentos de
+proteção e quaisquer efeitos adicionais.</text>
+<text id="30591">Sua resistência à perda de sangue e
+ao congelamento. Quanto maior o número,
+menor sua suscetibilidade. Regida pelos seus
+atributos, assim como pelos equipamentos de
+proteção e por quaisquer efeitos adicionais.</text>
+<text id="30592">Sua resistência ao sono e a surtos de
+loucura. Quanto maior o número,
+menor sua suscetibilidade. Regida pelos seus
+atributos, assim como pelos equipamentos de
+proteção e por quaisquer efeitos adicionais.</text>
+<text id="30593">Sua resistência à morte. Quanto maior o
+número, menor sua suscetibilidade a uma
+morte instantânea. Regida pelos seus atributos,
+assim como pelos equipamentos de defesa e por quaisquer efeitos adicionais.</text>
+<text id="31001">Categoria da arma.
+Armas que pertencem à mesma categoria
+possuem propriedades semelhantes.</text>
+<text id="31002">Feitiços e encantamentos</text>
+<text id="31003">Os tipos de dano físico causados por
+esta arma. Além do dano físico padrão,
+dano esmagador, cortante e perfurante
+também podem ser causados.</text>
+<text id="31004">O número que você tem desse item.
+O número à direita indica a quantidade
+máxima que você pode ter de cada vez.</text>
+<text id="31005">A quantidade desse item armazenado
+no baú. O número à direita indica a
+quantidade máxima que você pode
+carregar de uma vez.</text>
+<text id="31006">Os nomes das habilidades que você pode usar.
+A maioria das habilidades consome PF.</text>
+<text id="31007">Número de recipientes carregados no momento</text>
+<text id="31008">Recipientes, essenciais para a produção, existem em vários formatos, como potes rachados e frascos de perfume. O número da esquerda indica quantos recipientes estão sendo usados atualmente. O número da direita indica quantos recipientes você possui.</text>
+<text id="31009">Número de recipientes restantes
+para usar na produção</text>
+<text id="31010">Poder do ataque físico</text>
+<text id="31011">Poder do ataque mágico</text>
+<text id="31012">Poder do ataque de fogo</text>
+<text id="31013">Poder do ataque elétrico</text>
+<text id="31014">Poder do ataque sagrado</text>
+<text id="31015">%null%</text>
+<text id="31016">%null%</text>
+<text id="31017">%null%</text>
+<text id="31018">%null%</text>
+<text id="31019">%null%</text>
+<text id="31020">O grau em qual o dano físico 
+é negado enquanto estiver defendendo</text>
+<text id="31021">O grau em qual o dano mágico
+é negado enquanto estiver defendendo</text>
+<text id="31022">O grau em qual o dano de fogo
+é negado enquanto estiver defendendo</text>
+<text id="31023">O grau em qual o dano elétrico
+é negado enquanto estiver defendendo</text>
+<text id="31024">O grau em qual o dano sagrado
+é negado enquanto estiver defendendo</text>
+<text id="31025">%null%</text>
+<text id="31026">%null%</text>
+<text id="31027">%null%</text>
+<text id="31028">%null%</text>
+<text id="31029">%null%</text>
+<text id="31030">A força dos acertos críticos,
+que podem ser realizados em inimigos
+pegos por trás ou com postura quebrada.</text>
+<text id="31031">A estabilidade da defesa do personagem.
+Quanto mais alto o valor, menor será a
+quantidade de vigor gasto ao se
+defender de ataques.</text>
+<text id="31032">Distância das armas de longo alcance</text>
+<text id="31033">%null%</text>
+<text id="31034">A quantidade de PF necessária para
+executar essa habilidade</text>
+<text id="31035">O grau em que os feitiços aumentam em poder</text>
+<text id="31036">O grau em que os encantos
+aumentam em poder</text>
+<text id="31037">%null%</text>
+<text id="31038">%null%</text>
+<text id="31039">%null%</text>
+<text id="31040">O número de espaços necessários
+para memorizar feitiços e encantos</text>
+<text id="31041">A quantidade de PF necessária para
+lançar este feitiço</text>
+<text id="31042">A quantidade de PF necessária para
+usar este item</text>
+<text id="31043">A quantidade de PV necessária para usar este item</text>
+<text id="31180">O grau em que o dano físico padrão
+recebido é negado</text>
+<text id="31181">O grau em que o dano físico esmagador
+recebido é negado</text>
+<text id="31182">O grau em que o dano físico cortante
+recebido é negado</text>
+<text id="31183">O grau em que o dano físico perfurante
+recebido é negado</text>
+<text id="31184">O grau em que o dano mágico
+recebido é negado</text>
+<text id="31185">O grau em que o dano de fogo
+recebido é negado</text>
+<text id="31186">O grau em que o dano elétrico
+recebido é negado</text>
+<text id="31187">O grau em que o dano
+sagrado recebido é negado</text>
+<text id="31188">%null%</text>
+<text id="31189">%null%</text>
+<text id="31190">A resistência que sua armadura oferece contra vários venenos e a podridão. Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="31191">A resistência que sua armadura oferece contra a perda de sangue e o congelamento. Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="31192">A resistência que sua armadura oferece contra o sono e os surtos de loucura. Quanto mais alto o valor, mais difícil sucumbir a essas mazelas.</text>
+<text id="31193">A resistência que sua armadura oferece contra a morte. Quanto mais alto o valor, mais difícil de ser afligido pela morte instantânea.</text>
+<text id="31194">%null%</text>
+<text id="31195">%null%</text>
+<text id="31196">%null%</text>
+<text id="31197">%null%</text>
+<text id="31198">%null%</text>
+<text id="31199">%null%</text>
+<text id="31200">O quanto você pode resistir
+a colapsar sob ataques inimigos.</text>
+<text id="31300">Força necessária para dominar esta arma.
+Sem força suficiente, o dano dessa
+arma será significativamente reduzido.</text>
+<text id="31301">Destreza necessária para dominar esta arma.
+Sem destreza suficiente, o dano dessa
+arma será significativamente reduzido.</text>
+<text id="31302">Inteligência necessária para dominar esta arma.
+Sem inteligência suficiente, o dano dessa
+arma será significativamente reduzido.</text>
+<text id="31303">Fé necessária para dominar esta arma.
+Sem fé suficiente, o dano dessa
+arma será significativamente reduzido.</text>
+<text id="31304">Arcano necessário para dominar esta arma.
+Sem arcano suficiente, o dano dessa
+arma será consideravelmente reduzido.</text>
+<text id="31305">%null%</text>
+<text id="31306">%null%</text>
+<text id="31307">Inteligência necessária para lançar esse
+feitiço ou encantamento.
+Sem inteligência suficiente, ele não pode
+ser usado.</text>
+<text id="31308">Fé necessária para lançar esse feitiço
+ou encantamento.
+Sem fé suficiente, ele não pode
+ser usado.</text>
+<text id="31309">Arcano necessário para lançar esse
+feitiço ou encantamento.
+Sem arcano suficiente, ele não pode
+ser usado.</text>
+<text id="31310">O grau em que os ataques desta 
+arma recebem bônus de força</text>
+<text id="31311">O grau em que os ataques desta 
+arma recebem bônus de destreza</text>
+<text id="31312">O grau em que os ataques desta 
+arma recebem bônus de inteligência</text>
+<text id="31313">O grau em que os ataques desta 
+arma recebem bônus de fé</text>
+<text id="31314">O grau em que o poder ou efeitos passivos
+desta arma recebem bônus de força</text>
+<text id="31315">O grau em que o poder ou efeitos passivos
+desta arma recebem bônus de destreza</text>
+<text id="31316">O grau em que o poder ou efeitos passivos
+desta arma recebem bônus de inteligência</text>
+<text id="31317">O grau em que o poder ou efeitos passivos
+desta arma recebem bônus de fé</text>
+<text id="31318">O grau em que o poder ou os efeitos passivos
+desta arma recebem bônus de arcano</text>
+<text id="31319">O grau em que os ataques desta
+arma recebem bônus de arcano</text>
+<text id="31351">Peso deste equipamento</text>
+<text id="31352">%null%</text>
+<text id="31353">%null%</text>
+<text id="31354">%null%</text>
+<text id="31355">%null%</text>
+<text id="31356">%null%</text>
+<text id="31357">%null%</text>
+<text id="31358">%null%</text>
+<text id="31359">%null%</text>
+<text id="31360">Tipo do item.
+Mostra se ele será ou não
+consumido ao ser usado.</text>
+<text id="31500">Os efeitos inatos desta arma</text>
+<text id="31511">Habilidade concedida por estas Cinzas da Guerra</text>
+<text id="31512">Tipos de arma que as Cinzas da Guerra podem alterar</text>
+<text id="31513">Afinidades que estas Cinzas da Guerra podem conceder.
+Podem ser expandidas com lâminas de amolar.</text>
+<text id="32000">Runas necessárias para comprar</text>
+<text id="32001">Runas necessárias para fazer melhorias</text>
+<text id="32002">Runas necessárias para conceder</text>
+<text id="32003">%null%</text>
+<text id="32004">Número de runas necessárias para receber
+poder das lembranças.</text>
+<text id="32005">%null%</text>
+<text id="32006">%null%</text>
+<text id="32007">%null%</text>
+<text id="32008">%null%</text>
+<text id="32009">%null%</text>
+<text id="32010">Runas recebidas na venda</text>
+<text id="40110">Confirmar</text>
+<text id="40111">%null%</text>
+<text id="40112">%null%</text>
+<text id="40113">%null%</text>
+<text id="40114">%null%</text>
+<text id="40115">%null%</text>
+<text id="40116">%null%</text>
+<text id="40117">%null%</text>
+<text id="40118">%null%</text>
+<text id="40119">%null%</text>
+<text id="40120">Nenhum inserido</text>
+<text id="40300">Ligado</text>
+<text id="40301">Desligado</text>
+<text id="40302">Pouco</text>
+<text id="40303">Automático</text>
+<text id="40304">%null%</text>
+<text id="40305">%null%</text>
+<text id="40306">%null%</text>
+<text id="40307">%null%</text>
+<text id="40308">%null%</text>
+<text id="40309">%null%</text>
+<text id="40310">Normal</text>
+<text id="40311">Invertido</text>
+<text id="40312">%null%</text>
+<text id="40313">%null%</text>
+<text id="40314">%null%</text>
+<text id="40315">%null%</text>
+<text id="40316">%null%</text>
+<text id="40317">%null%</text>
+<text id="40318">%null%</text>
+<text id="40319">%null%</text>
+<text id="40320">Permitido</text>
+<text id="40321">Restrito</text>
+<text id="40322">%null%</text>
+<text id="40323">%null%</text>
+<text id="40324">%null%</text>
+<text id="40325">%null%</text>
+<text id="40326">%null%</text>
+<text id="40327">%null%</text>
+<text id="40328">%null%</text>
+<text id="40329">%null%</text>
+<text id="40330">Padrões</text>
+<text id="40331">Próximo</text>
+<text id="40332">%null%</text>
+<text id="40333">%null%</text>
+<text id="40334">%null%</text>
+<text id="40335">%null%</text>
+<text id="40336">%null%</text>
+<text id="40337">%null%</text>
+<text id="40338">%null%</text>
+<text id="40339">%null%</text>
+<text id="40340">Realizar emparelhamento</text>
+<text id="40341">Não emparelhamento</text>
+<text id="40342">%null%</text>
+<text id="40343">%null%</text>
+<text id="40344">%null%</text>
+<text id="40345">%null%</text>
+<text id="40346">%null%</text>
+<text id="40347">%null%</text>
+<text id="40348">%null%</text>
+<text id="40349">%null%</text>
+<text id="40350">Sem senha</text>
+<text id="40351">%null%</text>
+<text id="40352">%null%</text>
+<text id="40353">%null%</text>
+<text id="40354">%null%</text>
+<text id="40355">%null%</text>
+<text id="40356">%null%</text>
+<text id="40357">%null%</text>
+<text id="40358">%null%</text>
+<text id="40359">%null%</text>
+<text id="40360">Jogar online</text>
+<text id="40361">Jogar offline</text>
+<text id="40362">%null%</text>
+<text id="40363">%null%</text>
+<text id="40364">%null%</text>
+<text id="40365">%null%</text>
+<text id="40366">%null%</text>
+<text id="40367">%null%</text>
+<text id="40368">%null%</text>
+<text id="40369">%null%</text>
+<text id="40370">Desativar</text>
+<text id="40371">Ativar</text>
+<text id="40372">%null%</text>
+<text id="40373">%null%</text>
+<text id="40374">%null%</text>
+<text id="40375">Concordar</text>
+<text id="40376">Recusar</text>
+<text id="40377">Priorizar qualidade</text>
+<text id="40378">Priorizar taxa de quadros</text>
+<text id="40379">%null%</text>
+<text id="40380">Controle</text>
+<text id="40381">Mouse e teclado</text>
+<text id="40400">Tela cheia</text>
+<text id="40401">Modo janela</text>
+<text id="40402">Modo janela sem bordas</text>
+<text id="40403">%null%</text>
+<text id="40404">%null%</text>
+<text id="40405">%null%</text>
+<text id="40406">%null%</text>
+<text id="40407">%null%</text>
+<text id="40408">%null%</text>
+<text id="40409">%null%</text>
+<text id="40410">x</text>
+<text id="40411">%null%</text>
+<text id="40412">%null%</text>
+<text id="40413">%null%</text>
+<text id="40414">%null%</text>
+<text id="40415">%null%</text>
+<text id="40416">%null%</text>
+<text id="40417">%null%</text>
+<text id="40418">%null%</text>
+<text id="40419">%null%</text>
+<text id="40420">Personalizado</text>
+<text id="40421">Baixo</text>
+<text id="40422">Médio</text>
+<text id="40423">Alto</text>
+<text id="40424">Máximo</text>
+<text id="40440">Ligado</text>
+<text id="40441">Desligado</text>
+<text id="40500">Ferramentas</text>
+<text id="40501">Armas corpo a corpo</text>
+<text id="40502">%null%</text>
+<text id="40503">%null%</text>
+<text id="40504">Escudos</text>
+<text id="40505">Cabeça</text>
+<text id="40506">Torso</text>
+<text id="40507">Braços</text>
+<text id="40508">Pernas</text>
+<text id="40509">Talismãs</text>
+<text id="40510">Feitiços/Encantamentos</text>
+<text id="40511">Flechas/Setas</text>
+<text id="40512">Materiais de fortificação</text>
+<text id="40513">Itens importantes</text>
+<text id="40514">%null%</text>
+<text id="40515">%null%</text>
+<text id="40516">Materiais de produção</text>
+<text id="40517">Informações</text>
+<text id="40518">Lágrimas de Cristal</text>
+<text id="40519">Armas de longo alcance/catalisadores</text>
+<text id="40520">Cinzas</text>
+<text id="40521">Feitiços</text>
+<text id="40522">Encantamentos</text>
+<text id="40523">Cinzas da Guerra</text>
+<text id="40524">%null%</text>
+<text id="40525">%null%</text>
+<text id="40526">%null%</text>
+<text id="40527">%null%</text>
+<text id="40528">%null%</text>
+<text id="40529">%null%</text>
+<text id="40530">Armas equipadas</text>
+<text id="40531">Cinzas equipadas</text>
+<text id="40532">Armas equipadas</text>
+<text id="40550">Armas</text>
+<text id="40551">Armadura</text>
+<text id="40552">%null%</text>
+<text id="40553">%null%</text>
+<text id="40554">%null%</text>
+<text id="40555">%null%</text>
+<text id="40556">%null%</text>
+<text id="40557">%null%</text>
+<text id="40558">%null%</text>
+<text id="40559">%null%</text>
+<text id="40560">Todos os itens</text>
+<text id="40561">%null%</text>
+<text id="40562">Consumíveis</text>
+<text id="40563">%null%</text>
+<text id="40564">%null%</text>
+<text id="40565">%null%</text>
+<text id="40566">%null%</text>
+<text id="40567">%null%</text>
+<text id="40568">%null%</text>
+<text id="40569">%null%</text>
+<text id="40570">%null%</text>
+<text id="40571">Potes de Arremesso</text>
+<text id="40572">Artes de Perfume</text>
+<text id="40573">%null%</text>
+<text id="40574">%null%</text>
+<text id="40575">%null%</text>
+<text id="40576">%null%</text>
+<text id="40577">%null%</text>
+<text id="40578">%null%</text>
+<text id="40579">%null%</text>
+<text id="40580">Cinzas</text>
+<text id="40581">Cinzas especiais</text>
+<text id="40582">%null%</text>
+<text id="40583">%null%</text>
+<text id="40584">%null%</text>
+<text id="40585">%null%</text>
+<text id="40586">%null%</text>
+<text id="40587">%null%</text>
+<text id="40588">%null%</text>
+<text id="40589">%null%</text>
+<text id="40590">Feitiços/Encantamentos</text>
+<text id="40591">Feitiços de ataque</text>
+<text id="40592">Feitiços de suporte</text>
+<text id="40593">Encantamentos de ataque</text>
+<text id="40594">Encantamentos de suporte</text>
+<text id="40595">%null%</text>
+<text id="40596">%null%</text>
+<text id="40597">%null%</text>
+<text id="40598">%null%</text>
+<text id="40599">%null%</text>
+<text id="40600">%null%</text>
+<text id="40601">%null%</text>
+<text id="40602">Status do personagem</text>
+<text id="50000">Nenhuma</text>
+<text id="50001">%null%</text>
+<text id="50002">%null%</text>
+<text id="50003">%null%</text>
+<text id="50004">%null%</text>
+<text id="50005">Padrão</text>
+<text id="50050">Esmagador</text>
+<text id="50051">%null%</text>
+<text id="50052">%null%</text>
+<text id="50053">%null%</text>
+<text id="50054">%null%</text>
+<text id="50055">Padrão/Esmagador</text>
+<text id="50500">Cortante</text>
+<text id="50501">%null%</text>
+<text id="50502">%null%</text>
+<text id="50503">%null%</text>
+<text id="50504">%null%</text>
+<text id="50505">Padrão/Cortante</text>
+<text id="50550">Esmagador/Cortante</text>
+<text id="50551">%null%</text>
+<text id="50552">%null%</text>
+<text id="50553">%null%</text>
+<text id="50554">%null%</text>
+<text id="50555">Padrão/Esmagador/Cortante</text>
+<text id="55000">Perfurante</text>
+<text id="55001">%null%</text>
+<text id="55002">%null%</text>
+<text id="55003">%null%</text>
+<text id="55004">%null%</text>
+<text id="55005">Padrão/Perfurante</text>
+<text id="55050">Esmagador/Perfurante</text>
+<text id="55051">%null%</text>
+<text id="55052">%null%</text>
+<text id="55053">%null%</text>
+<text id="55054">%null%</text>
+<text id="55055">Padrão/Esmagador/Perfurante</text>
+<text id="55500">Cortante/Perfurante</text>
+<text id="55501">%null%</text>
+<text id="55502">%null%</text>
+<text id="55503">%null%</text>
+<text id="55504">%null%</text>
+<text id="55505">Padrão/Cortante/Perfurante</text>
+<text id="55550">Esmagador/Cortante/Perfurante</text>
+<text id="55551">%null%</text>
+<text id="55552">%null%</text>
+<text id="55553">%null%</text>
+<text id="55554">%null%</text>
+<text id="55555">Padrão/Esmagador/Cortante/Perfurante</text>
+<text id="60000">Todas as armas</text>
+<text id="60001">,</text>
+<text id="60002">%null%</text>
+<text id="60003">%null%</text>
+<text id="60004">%null%</text>
+<text id="60005">%null%</text>
+<text id="60006">%null%</text>
+<text id="60007">%null%</text>
+<text id="60008">%null%</text>
+<text id="60009">%null%</text>
+<text id="60010">Adaga</text>
+<text id="60011">%null%</text>
+<text id="60012">%null%</text>
+<text id="60013">%null%</text>
+<text id="60014">%null%</text>
+<text id="60015">Espada Reta</text>
+<text id="60016">%null%</text>
+<text id="60017">%null%</text>
+<text id="60018">%null%</text>
+<text id="60019">%null%</text>
+<text id="60020">Espada Grande</text>
+<text id="60021">%null%</text>
+<text id="60022">%null%</text>
+<text id="60023">%null%</text>
+<text id="60024">%null%</text>
+<text id="60025">Espada Colossal</text>
+<text id="60026">%null%</text>
+<text id="60027">%null%</text>
+<text id="60028">%null%</text>
+<text id="60029">%null%</text>
+<text id="60030">Espada Curva</text>
+<text id="60031">%null%</text>
+<text id="60032">%null%</text>
+<text id="60033">%null%</text>
+<text id="60034">%null%</text>
+<text id="60035">Espada Grande Curva</text>
+<text id="60036">%null%</text>
+<text id="60037">%null%</text>
+<text id="60038">%null%</text>
+<text id="60039">%null%</text>
+<text id="60040">Katana</text>
+<text id="60041">%null%</text>
+<text id="60042">%null%</text>
+<text id="60043">Lâminas-gêmeas</text>
+<text id="60044">%null%</text>
+<text id="60045">Espada de Fincada</text>
+<text id="60046">Espada Pesada de Fincada</text>
+<text id="60047">%null%</text>
+<text id="60048">%null%</text>
+<text id="60049">%null%</text>
+<text id="60050">Machado</text>
+<text id="60051">%null%</text>
+<text id="60052">%null%</text>
+<text id="60053">%null%</text>
+<text id="60054">%null%</text>
+<text id="60055">Grande Machado</text>
+<text id="60056">%null%</text>
+<text id="60057">%null%</text>
+<text id="60058">%null%</text>
+<text id="60059">%null%</text>
+<text id="60060">Martelo</text>
+<text id="60061">%null%</text>
+<text id="60062">%null%</text>
+<text id="60063">%null%</text>
+<text id="60064">%null%</text>
+<text id="60065">Grande Martelo</text>
+<text id="60066">%null%</text>
+<text id="60067">Mangual</text>
+<text id="60068">%null%</text>
+<text id="60069">%null%</text>
+<text id="60070">Lança</text>
+<text id="60071">%null%</text>
+<text id="60072">%null%</text>
+<text id="60073">%null%</text>
+<text id="60074">%null%</text>
+<text id="60075">%null%</text>
+<text id="60076">%null%</text>
+<text id="60077">Lança Grande</text>
+<text id="60078">%null%</text>
+<text id="60079">%null%</text>
+<text id="60080">Alabarda</text>
+<text id="60081">%null%</text>
+<text id="60082">%null%</text>
+<text id="60083">%null%</text>
+<text id="60084">%null%</text>
+<text id="60085">Ceifador</text>
+<text id="60086">%null%</text>
+<text id="60087">%null%</text>
+<text id="60088">%null%</text>
+<text id="60089">%null%</text>
+<text id="60090">Punho</text>
+<text id="60091">%null%</text>
+<text id="60092">%null%</text>
+<text id="60093">%null%</text>
+<text id="60094">%null%</text>
+<text id="60095">%null%</text>
+<text id="60096">%null%</text>
+<text id="60097">%null%</text>
+<text id="60098">%null%</text>
+<text id="60099">%null%</text>
+<text id="60100">Garra</text>
+<text id="60101">%null%</text>
+<text id="60102">Arma Colossal</text>
+<text id="60103">%null%</text>
+<text id="60104">Arco Leve</text>
+<text id="60105">Arco</text>
+<text id="60106">%null%</text>
+<text id="60107">%null%</text>
+<text id="60108">%null%</text>
+<text id="60109">%null%</text>
+<text id="60110">Arco Grande</text>
+<text id="60111">%null%</text>
+<text id="60112">%null%</text>
+<text id="60113">%null%</text>
+<text id="60114">%null%</text>
+<text id="60115">Besta</text>
+<text id="60116">%null%</text>
+<text id="60117">Balista</text>
+<text id="60118">%null%</text>
+<text id="60119">%null%</text>
+<text id="60120">Cajado Pedrilhante</text>
+<text id="60121">%null%</text>
+<text id="60122">%null%</text>
+<text id="60123">%null%</text>
+<text id="60124">%null%</text>
+<text id="60125">%null%</text>
+<text id="60126">%null%</text>
+<text id="60127">%null%</text>
+<text id="60128">%null%</text>
+<text id="60129">%null%</text>
+<text id="60130">Selo Sagrado</text>
+<text id="60131">%null%</text>
+<text id="60132">%null%</text>
+<text id="60133">%null%</text>
+<text id="60134">%null%</text>
+<text id="60135">%null%</text>
+<text id="60136">%null%</text>
+<text id="60137">%null%</text>
+<text id="60138">%null%</text>
+<text id="60139">%null%</text>
+<text id="60140">Escudo Pequeno</text>
+<text id="60141">%null%</text>
+<text id="60142">%null%</text>
+<text id="60143">%null%</text>
+<text id="60144">%null%</text>
+<text id="60145">Escudo médio</text>
+<text id="60146">%null%</text>
+<text id="60147">%null%</text>
+<text id="60148">%null%</text>
+<text id="60149">%null%</text>
+<text id="60150">Escudo Grande</text>
+<text id="60151">%null%</text>
+<text id="60152">%null%</text>
+<text id="60153">%null%</text>
+<text id="60154">%null%</text>
+<text id="60155">Chicote</text>
+<text id="60156">%null%</text>
+<text id="60157">%null%</text>
+<text id="60158">%null%</text>
+<text id="60159">%null%</text>
+<text id="60160">Flecha</text>
+<text id="60161">%null%</text>
+<text id="60162">%null%</text>
+<text id="60163">%null%</text>
+<text id="60164">%null%</text>
+<text id="60165">Flecha Grande</text>
+<text id="60166">%null%</text>
+<text id="60167">%null%</text>
+<text id="60168">%null%</text>
+<text id="60169">%null%</text>
+<text id="60170">Seta</text>
+<text id="60171">Grande Seta</text>
+<text id="60172">%null%</text>
+<text id="60173">%null%</text>
+<text id="60174">%null%</text>
+<text id="60175">Tocha</text>
+<text id="61000">Feitiçaria</text>
+<text id="61001">%null%</text>
+<text id="61002">Encantamento</text>
+<text id="62000">Padrão</text>
+<text id="62001">Pesado</text>
+<text id="62002">Aguçado</text>
+<text id="62003">Qualidade</text>
+<text id="62004">Fogo</text>
+<text id="62005">Arte da Chama</text>
+<text id="62006">Relâmpago</text>
+<text id="62007">Sagrado</text>
+<text id="62008">Mágico</text>
+<text id="62009">Oculto</text>
+<text id="62010">do Frio</text>
+<text id="62011">Veneno</text>
+<text id="62012">Sangue</text>
+<text id="63000">Utilizável em espadas, machados e
+martelos (exceto armas pequenas
+e espadas perfurantes)</text>
+<text id="63001">Utilizável em armas perfurantes médias e grandes</text>
+<text id="63002">Utilizável em espadas, machados e armas de haste (exceto armas colossais)</text>
+<text id="63003">Utilizável em espadas, machados e
+martelos (exceto espadas pequenas
+e médias)</text>
+<text id="63004">Utilizável em armas perfurantes (exceto armas colossais)</text>
+<text id="63005">Utilizável em machados e martelos,
+bem como espadas curvas,
+espadas grandes e ceifadores
+(exceto armas colossais)</text>
+<text id="63006">Utilizável em espadas e armas de haste capazes de realizar ataques cortantes (exceto armas colossais)</text>
+<text id="63007">Utilizável em machados e martelos,
+grandes e colossais</text>
+<text id="63008">Utilizável em katanas</text>
+<text id="63009">Utilizável em espadas retas</text>
+<text id="63010">Utilizável em armas grandes e colossais perfurantes, além de lanças e lâminas-gêmeas</text>
+<text id="63011">Utilizável em espadas pequenas e médias (exceto lâminas-gêmeas)</text>
+<text id="63012">Utilizável em espadas pequenas e médias, martelos, machados e armas de haste
+(exceto lanças grandes)</text>
+<text id="63013">Utilizável em armas de haste perfurantes, espadas de perfuração pesadas e lâminas-gêmeas</text>
+<text id="63014">Utilizável em espadas de corte, martelos, machados e armas de haste (exceto armas colossais e pequenas)</text>
+<text id="63015">Utilizável em espadas, machados e armas de haste capazes de realizar ataques cortantes (exceto armas colossais e lanças grandes)</text>
+<text id="63016">Utilizável em armas de haste perfurantes e lâminas-duplas</text>
+<text id="63017">Utilizável em punhos e garras</text>
+<text id="63018">Utilizável em machados e martelos</text>
+<text id="63019">Utilizável em armas de corpo a corpo
+(exceto armas pequenas e chicotes)</text>
+<text id="63020">Utilizável em espadas (exceto armas colossais e lâminas-duplas)</text>
+<text id="63021">Utilizável em espadas, machados e martelos</text>
+<text id="63022">Utilizável em espadas
+(exceto armas colossais)</text>
+<text id="63023">Utilizável em espadas e machados
+(exceto machados pequenos e colossais)</text>
+<text id="63024">Utilizável em armas de haste e lâminas-duplas</text>
+<text id="63025">Utilizável em armas de haste
+(exceto lanças grandes)</text>
+<text id="63026">Utilizável em espadas pequenas e médias</text>
+<text id="63027">Utilizável em armas de haste e lâminas gêmeas
+(exceto lanças grandes)</text>
+<text id="63028">Utilizável em armas de haste
+(exceto ceifadores)</text>
+<text id="63029">Utilizável em armas para corpo a
+corpo pequenas e espadas curvas</text>
+<text id="63030">Utilizável em escudos pequenos e médios</text>
+<text id="63031">Utilizável em escudos e tochas</text>
+<text id="63032">Utilizável em arcos grandes</text>
+<text id="63033">Utilizável em arcos leves e arcos longos</text>
+<text id="63034">Utilizável em todos os arcos</text>
+<text id="63035">Utilizável em machados grandes, grande martelos e armas colossais</text>
+<text id="63036">Utilizável em espadas retas pequenas
+e médias e espadas de perfuração</text>
+<text id="63037">Utilizável em espadas, assim como em armas de haste capazes de realizar ataques cortantes (exceto armas colossais)</text>
+<text id="63038">Utilizável em armas corpo a corpo
+(exceto chicotes)</text>
+<text id="63039">Utilizável em machados, martelos e
+espadas grandes e colossais</text>
+<text id="63040">Utilizável em armas corpo a corpo
+(exceto adagas, espadas de
+perfuração e chicotes)</text>
+<text id="63041">Utilizável em todos os escudos</text>
+<text id="63042">Utilizável em todas as armas corpo a corpo</text>
+<text id="63043">Utilizável em machados e martelos, bem como espadas curvas 
+e espadas grandes (exceto armas colossais)</text>
+<text id="63044">Utilizável em armas corpo a corpo 
+(exceto chicotes, punhos e garras)</text>
+<text id="63045">Utilizável em armas corpo a corpo (exceto armas colossais e chicotes)</text>
+<text id="63046">Utilizável em espadas, assim como em armas de haste capazes de realizar ataques cortantes (exceto armas pequenas e colossais)</text>
+<text id="63047">Utilizável em adagas, espadas curvas,
+espadas de fincada, punhos, garras e
+escudos pequenos e médios</text>
+<text id="63048">Utilizável em arcos leves</text>
+<text id="63049">Utilizável em espadas e machados (exceto machados colossais)</text>
+<text id="63050">Utilizável em machados grandes, martelos grandes, lanças grandes e armas colossais</text>
+<text id="63900">Utilizável em armas perfurantes grandes</text>
+<text id="63901">Utilizável em todas as armas perfurantes</text>
+<text id="63902">Castelo Tempesvéu</text>
+<text id="63903">Utilizável em todas as armas corpo a corpo</text>
+<text id="63904">Utilizável em as armas corpo a corpo grandes</text>
+<text id="63905">Locais</text>
+<text id="63906">estrada principal</text>
+<text id="80000">Pote Rachado</text>
+<text id="80001">Frasco de Perfume</text>
+<text id="80002">%null%</text>
+<text id="80003">%null%</text>
+<text id="80004">%null%</text>
+<text id="80005">%null%</text>
+<text id="80006">%null%</text>
+<text id="80007">%null%</text>
+<text id="80008">%null%</text>
+<text id="80009">%null%</text>
+<text id="80010">Pote Cerimonial</text>
+<text id="90000">Manhã</text>
+<text id="90001">Dia - Cedo</text>
+<text id="90002">Dia - Tarde</text>
+<text id="90003">Entardecer</text>
+<text id="90004">Noite</text>
+<text id="90005">Noite - Tarde</text>
+<text id="101000">Equipamento</text>
+<text id="101001">Inventário</text>
+<text id="101002">Status</text>
+<text id="101003">Sistema</text>
+<text id="101004">Mensagens</text>
+<text id="101005">Bolsa</text>
+<text id="101006">%null%</text>
+<text id="101007">Gestos</text>
+<text id="101008">Multijogador</text>
+<text id="101009">Produção de itens</text>
+<text id="103000">Arma da mão direita 1</text>
+<text id="103001">Arma da mão direita 2</text>
+<text id="103002">Arma da mão direita 3</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">%null%</text>
+<text id="103006">%null%</text>
+<text id="103007">%null%</text>
+<text id="103008">%null%</text>
+<text id="103009">%null%</text>
+<text id="103010">%null%</text>
+<text id="103011">Arma da mão esquerda 1</text>
+<text id="103012">Arma da mão esquerda 2</text>
+<text id="103013">Arma da mão esquerda 3</text>
+<text id="103014">%null%</text>
+<text id="103015">%null%</text>
+<text id="103016">%null%</text>
+<text id="103017">%null%</text>
+<text id="103018">%null%</text>
+<text id="103019">%null%</text>
+<text id="103020">Flechas 1</text>
+<text id="103021">Flechas 2</text>
+<text id="103022">%null%</text>
+<text id="103023">%null%</text>
+<text id="103024">%null%</text>
+<text id="103025">%null%</text>
+<text id="103026">%null%</text>
+<text id="103027">%null%</text>
+<text id="103028">%null%</text>
+<text id="103029">%null%</text>
+<text id="103030">Setas 1</text>
+<text id="103031">Setas 2</text>
+<text id="103032">%null%</text>
+<text id="103033">%null%</text>
+<text id="103034">%null%</text>
+<text id="103035">%null%</text>
+<text id="103036">%null%</text>
+<text id="103037">%null%</text>
+<text id="103038">%null%</text>
+<text id="103039">%null%</text>
+<text id="103040">Item rápido 1</text>
+<text id="103041">Item rápido 2</text>
+<text id="103042">Item rápido 3</text>
+<text id="103043">Item rápido 4</text>
+<text id="103044">Item rápido 5</text>
+<text id="103045">Item rápido 6</text>
+<text id="103046">Item rápido 7</text>
+<text id="103047">Item rápido 8</text>
+<text id="103048">Item rápido 9</text>
+<text id="103049">Item rápido 10</text>
+<text id="103050">Talismã 1</text>
+<text id="103051">Talismã 2</text>
+<text id="103052">Talismã 3</text>
+<text id="103053">Talismã 4</text>
+<text id="103054">%null%</text>
+<text id="103055">%null%</text>
+<text id="103056">%null%</text>
+<text id="103057">%null%</text>
+<text id="103058">%null%</text>
+<text id="103059">%null%</text>
+<text id="103060">Bolsa 1</text>
+<text id="103061">Bolsa 2</text>
+<text id="103062">Bolsa 3</text>
+<text id="103063">Bolsa 4</text>
+<text id="103064">Bolsa 5</text>
+<text id="103065">Bolsa 6</text>
+<text id="103066">%null%</text>
+<text id="103067">%null%</text>
+<text id="103068">%null%</text>
+<text id="103069">%null%</text>
+<text id="103070">Gesto 1</text>
+<text id="103071">Gesto 2</text>
+<text id="103072">Gesto 3</text>
+<text id="103073">Gesto 4</text>
+<text id="103074">Gesto 5</text>
+<text id="103075">Gesto 6</text>
+<text id="110000">Opções de jogo</text>
+<text id="110001">Opções de câmera</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">Eixo Y da câmera</text>
+<text id="110011">Eixo X da câmera</text>
+<text id="110012">Redefinir eixo Y da câmera</text>
+<text id="110013">Velocidade da câmera</text>
+<text id="110014">Alternar trava automática</text>
+<text id="110015">Seleção automática de alvo</text>
+<text id="110016">Recup. automática da câmera na parede</text>
+<text id="110017">%null%</text>
+<text id="110018">Controles de pulo</text>
+<text id="110019">Mira de ataque manual</text>
+<text id="110020">Configurações de performance</text>
+<text id="110100">Som e tela</text>
+<text id="110101">%null%</text>
+<text id="110102">%null%</text>
+<text id="110103">%null%</text>
+<text id="110104">%null%</text>
+<text id="110105">%null%</text>
+<text id="110106">%null%</text>
+<text id="110107">%null%</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">Mostrar sangue</text>
+<text id="110111">Legendas</text>
+<text id="110112">Interface</text>
+<text id="110113">Efeitos cinemáticos</text>
+<text id="110114">Música</text>
+<text id="110115">Efeitos sonoros</text>
+<text id="110116">Voz</text>
+<text id="110117">Volume principal</text>
+<text id="110118">Rotação automática da câmera</text>
+<text id="110200">Brilho</text>
+<text id="110201">Ajuste o brilho até que a imagem da direita esteja quase invisível</text>
+<text id="110202">Ajuste o brilho para o valor que desejar</text>
+<text id="110203">Ajuste o brilho da TV para o valor mais alto</text>
+<text id="110204">Ajuste a saturação para o valor que desejar</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">HDR</text>
+<text id="110210">Ajustar brilho</text>
+<text id="110211">Ajustar qualidade da imagem</text>
+<text id="110212">Brilho máximo</text>
+<text id="110213">Ajustar saturação</text>
+<text id="110214">Ajustar brilho</text>
+<text id="110300">Rede</text>
+<text id="110301">%null%</text>
+<text id="110302">%null%</text>
+<text id="110303">%null%</text>
+<text id="110304">%null%</text>
+<text id="110305">%null%</text>
+<text id="110306">%null%</text>
+<text id="110307">%null%</text>
+<text id="110308">%null%</text>
+<text id="110309">%null%</text>
+<text id="110310">Chat de voz</text>
+<text id="110311">Jogar com outras regiões</text>
+<text id="110312">%null%</text>
+<text id="110313">Mostrar nomes de jogadores</text>
+<text id="110314">Configuração de inicialização</text>
+<text id="110315">Enviar sinal de invocação</text>
+<text id="110316">Acordo de uso de dados</text>
+<text id="110500">Sair do jogo</text>
+<text id="110501">%null%</text>
+<text id="110502">Nível</text>
+<text id="110503">%null%</text>
+<text id="110504">%null%</text>
+<text id="110505">%null%</text>
+<text id="110506">%null%</text>
+<text id="110507">%null%</text>
+<text id="110508">%null%</text>
+<text id="110509">%null%</text>
+<text id="110510">Sair do jogo</text>
+<text id="110511">Voltar à área de trabalho</text>
+<text id="111001">Controles</text>
+<text id="111002">%null%</text>
+<text id="111003">%null%</text>
+<text id="111004">%null%</text>
+<text id="111005">Configurações de teclado/mouse</text>
+<text id="111006">Controles</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">Dispositivo para comandos na tela</text>
+<text id="111011">Mostrar tutoriais</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">Sensibilidade do mouse</text>
+<text id="111021">%null%</text>
+<text id="111022">Eixo X do mouse</text>
+<text id="111023">Eixo Y do mouse</text>
+<text id="111024">%null%</text>
+<text id="111025">%null%</text>
+<text id="111026">%null%</text>
+<text id="111027">%null%</text>
+<text id="111028">%null%</text>
+<text id="111029">%null%</text>
+<text id="111030">%null%</text>
+<text id="111031">Definição das teclas</text>
+<text id="111100">Gráficos</text>
+<text id="111101">%null%</text>
+<text id="111102">%null%</text>
+<text id="111103">%null%</text>
+<text id="111104">%null%</text>
+<text id="111105">Mudanças aplicadas do menu principal</text>
+<text id="111106">%null%</text>
+<text id="111107">%null%</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">Modo da tela</text>
+<text id="111111">Resolução</text>
+<text id="111112">Autodetectar melhores configurações de renderização</text>
+<text id="111113">Configurações de qualidade</text>
+<text id="111114">Configurações avançadas</text>
+<text id="111210">Qualidade de texturas</text>
+<text id="111211">Qualidade de antisserrilhamento</text>
+<text id="111212">SSAO</text>
+<text id="111213">Profundidade de campo</text>
+<text id="111214">Desfoque de movimento</text>
+<text id="111215">Qualidade das sombras</text>
+<text id="111216">Qualidade da iluminação</text>
+<text id="111217">Qualidade dos efeitos</text>
+<text id="111218">Qualidade da volumetria</text>
+<text id="111219">Qualidade dos reflexos</text>
+<text id="111220">Qualidade da superfície da água</text>
+<text id="111221">Qualidade de sombreamento</text>
+<text id="111222">Qualidade de ray tracing</text>
+<text id="111223">Qualidade de iluminação global</text>
+<text id="111224">Qualidade da grama</text>
+<text id="121000">Configuração de senha de multijogador</text>
+<text id="121001">Configuração de senha de grupo</text>
+<text id="121002">%null%</text>
+<text id="121003">%null%</text>
+<text id="121004">%null%</text>
+<text id="121005">%null%</text>
+<text id="121006">%null%</text>
+<text id="121007">%null%</text>
+<text id="121008">%null%</text>
+<text id="121009">%null%</text>
+<text id="121010">Se você definir uma senha de multijogador, na maioria das funções de multijogador, você só será combinado com outros jogadores com a mesma senha.
+
+Entretanto, senhas de multijogador não se aplicam ao multijogador de invasão ou suporte.</text>
+<text id="121011">Se você definir uma senha de grupo, será mais provável que você veja mensagens, sinais de invocação, manchas de sangue, fantasmas etc. de outros jogadores usando a mesma senha.
+
+Os elementos que recebem esta prioridade especial aparecerão de forma diferente dos outros.</text>
+<text id="121100">Com um Remédio de Dedo Invocador Enrolado, você pode ver sinais de invocação, que podem ser usados para invocar jogadores de outros mundos.
+(Remédios de Dedo são consumidos com o uso.)
+
+Há vários tipos de sinais de invocação.
+Sinais dourados invocam cooperadores de Dedo Enrolado.
+Sinais vermelhos invocam adversários duelistas.
+(Para cada tipo de multijogador, o jogador invocador se torna o Anfitrião de Dedos.)</text>
+<text id="121101">Com um Remédio de Dedo Invocador Enrolado, você pode ver sinais de invocação, que podem ser usados para invocar jogadores de outros mundos.
+(Remédios de Dedo são consumidos com o uso.)
+
+Há vários tipos de sinais de invocação.
+Sinais dourados invocam cooperadores de Dedo Enrolado.
+Sinais vermelhos invocam adversários duelistas.
+(Para cada tipo de multijogador, o jogador invocador se torna o Anfitrião de Dedos.)</text>
+<text id="121102">Você pode deixar um sinal de invocação dourado para jogar em multijogador cooperativo.
+
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem como um Dedo Enrolado para o multijogador cooperativo.
+O multijogador começará uma vez que você for invocado.
+(Seu objetivo é ajudar o jogador anfitrião a derrotar o chefe da área.)
+
+Se você deixar um segundo sinal de invocação, o mais antigo desaparecerá.</text>
+<text id="121103">Você pode deixar um sinal de invocação dourado para jogar em multijogador cooperativo.
+
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem como um Dedo Enrolado para o multijogador cooperativo.
+O multijogador começará uma vez que você for invocado.
+(Seu objetivo é ajudar o jogador anfitrião a derrotar o chefe da área.)
+
+Se você deixar um segundo sinal de invocação, o mais antigo desaparecerá.</text>
+<text id="121104">Você pode deixar um sinal de invocação vermelho para jogar em multijogador competitivo.
+
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem como um adversário duelista para o multijogador competitivo.
+O multijogador começará uma vez que você for invocado.
+(Seu objetivo é derrotar o jogador Anfitrião de Dedos.)
+
+Se você deixar um segundo sinal de invocação, o mais antigo desaparecerá.</text>
+<text id="121105">Você pode deixar um sinal de invocação vermelho para jogar em multijogador competitivo.
+
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem como um adversário duelista para o multijogador competitivo.
+O multijogador começará uma vez que você for invocado.
+(Seu objetivo é derrotar o jogador Anfitrião de Dedos.)
+
+Se você deixar um segundo sinal de invocação, o mais antigo desaparecerá.</text>
+<text id="121106">Tente invadir o mundo de outro jogador como um Dedo Sangrento.
+
+Se invadir com sucesso, o multijogador de invasão começará.
+(Seu objetivo é derrotar o jogador Anfitrião de Dedos.)
+
+Você pode tentar reinvadir o mundo
+que invadiu anteriormente usando um item de Fantasma de Dedo.
+(Estes itens são consumidos com o uso.)</text>
+<text id="121107">Cancelar invasão de outro mundo</text>
+<text id="121108">Escolha um jogador invocado para
+mandar de volta ao próprio mundo.
+
+Esse jogador será removido
+da sessão de multijogador.</text>
+<text id="121109">Removido da sessão de multijogador.
+Retornando ao seu mundo.</text>
+<text id="121110">Atrai invasores.
+
+Isso permite que seu mundo seja invadido sem nenhum cooperador Dedo Enrolado presente, além de diminuir o intervalo entre as oportunidades de invasão.
+
+Isso também possibilita a chegada de um segundo invasor quando um cooperador estiver presente. (Com dois invasores, o número máximo de cooperadores passa a ser um.)</text>
+<text id="121111">Parar de chamar invasores para o seu mundo</text>
+<text id="121112">Coloca você em um estado de prontidão para responder,
+caso alguém em outro mundo chame por resgate.
+Você será invocado para o mundo dele como caçador.
+
+O multijogador começará uma vez que você for invocado.
+(Seu objetivo é derrotar invasores.)</text>
+<text id="121113">Parar de aceitar pedidos de invocação</text>
+<text id="121114">Permite que você solicite automaticamente que um caçador de outro mundo o resgate quando o seu mundo for invadido.
+
+Você também pode usar isso após ser invadido para invocar um caçador para ajudar.
+(Invocar salvadores pode nem sempre ser possível.)</text>
+<text id="121115">Cancelar pedido de invocação</text>
+<text id="121116">Envia um sinal de invocação cooperativo a várias pedras de invocação próximas (apenas pedras ativadas).
+
+Se você for invocado, será transportado ao local da pedra de invocação no mundo do jogador anfitrião e o multijogador começará.
+(Seu objetivo é ajudar o jogador anfitrião a derrotar o chefe da área.)</text>
+<text id="121117">Remover sinal de invocação cooperativo da pedra de invocação</text>
+<text id="121118">Envia um sinal de invocação competitivo a várias pedras de invocação próximas (apenas pedras ativadas).
+
+Se você for invocado, será transportado ao local da pedra de invocação no mundo do jogador anfitrião e o multijogador começará.
+(Seu objetivo é derrotar o Anfitrião de Dedos.)</text>
+<text id="121119">Remover sinal de invocação hostil da pedra de invocação</text>
+<text id="121120">Tente invadir o mundo de outro jogador como um Dedo Sangrento.
+
+Se invadir com sucesso, seu Dedo Sangrento Fétido
+será gasto e o multijogador de invasão começará.
+(Seu objetivo é derrotar o jogador
+Anfitrião de Dedos.)
+
+Você pode tentar reinvadir o mundo
+que invadiu anteriormente usando um item de Fantasma de Dedo.
+(Estes itens são consumidos com o uso.)</text>
+<text id="121121">Parar de invadir outro mundo</text>
+<text id="121122">Você pode tentar invadir o mundo de outro jogador
+como um não conformista.
+
+Se invadir com sucesso, o multijogador de invasão
+começará. (Seu objetivo é derrotar o jogador
+Anfitrião de Dedos.)
+
+Durante o multijogador de invasão, Fantasmas de Dedo podem ser usados como itens para uma nova tentativa de invadir o mundo que invadiu anteriormente.
+(Fantasmas de Dedo são consumidos com o uso.)</text>
+<text id="121123">Parar de invadir outro mundo</text>
+<text id="122010">Rank de Dedo Enrolado</text>
+<text id="122011">1.0</text>
+<text id="122012">2.0</text>
+<text id="122013">3.0</text>
+<text id="122014">%null%</text>
+<text id="122015">%null%</text>
+<text id="122016">%null%</text>
+<text id="122017">%null%</text>
+<text id="122018">%null%</text>
+<text id="122019">%null%</text>
+<text id="122020">Rank de Duelista</text>
+<text id="122021">1.0</text>
+<text id="122022">2.0</text>
+<text id="122023">3.0</text>
+<text id="122024">%null%</text>
+<text id="122025">%null%</text>
+<text id="122026">%null%</text>
+<text id="122027">%null%</text>
+<text id="122028">%null%</text>
+<text id="122029">%null%</text>
+<text id="122030">Rank de Dedo Sangrento</text>
+<text id="122031">1.0</text>
+<text id="122032">2.0</text>
+<text id="122033">3.0</text>
+<text id="122034">%null%</text>
+<text id="122035">%null%</text>
+<text id="122036">%null%</text>
+<text id="122037">%null%</text>
+<text id="122038">%null%</text>
+<text id="122039">%null%</text>
+<text id="122040">Rank de Não Conformista</text>
+<text id="122041">1.0</text>
+<text id="122042">2.0</text>
+<text id="122043">3.0</text>
+<text id="122044">%null%</text>
+<text id="122045">%null%</text>
+<text id="122046">%null%</text>
+<text id="122047">%null%</text>
+<text id="122048">%null%</text>
+<text id="122049">%null%</text>
+<text id="122050">Rank de Caçador</text>
+<text id="122051">1.0</text>
+<text id="122052">2.0</text>
+<text id="122053">3.0</text>
+<text id="122110">Contribuição</text>
+<text id="123000">Senha de multijogador</text>
+<text id="123001">Senha de grupo</text>
+<text id="123002">%null%</text>
+<text id="123003">%null%</text>
+<text id="123004">%null%</text>
+<text id="123005">%null%</text>
+<text id="123006">%null%</text>
+<text id="123007">%null%</text>
+<text id="123008">%null%</text>
+<text id="123009">%null%</text>
+<text id="123010">Nenhuma definida</text>
+<text id="123011">Nenhuma definida</text>
+<text id="123012">%null%</text>
+<text id="123013">%null%</text>
+<text id="123014">%null%</text>
+<text id="123015">%null%</text>
+<text id="123016">%null%</text>
+<text id="123017">%null%</text>
+<text id="123018">%null%</text>
+<text id="123019">%null%</text>
+<text id="123020">Defina uma senha de multijogador</text>
+<text id="123021">Defina uma senha de grupo</text>
+<text id="123022">%null%</text>
+<text id="123023">%null%</text>
+<text id="123024">%null%</text>
+<text id="123025">%null%</text>
+<text id="123026">%null%</text>
+<text id="123027">%null%</text>
+<text id="123028">%null%</text>
+<text id="123029">%null%</text>
+<text id="123030">Senha</text>
+<text id="212000">Subir de nível</text>
+<text id="212750">Renascimento</text>
+<text id="213000">Ferreiro</text>
+<text id="213001">Itens necessários</text>
+<text id="213002">%null%</text>
+<text id="213003">%null%</text>
+<text id="213004">%null%</text>
+<text id="213005">%null%</text>
+<text id="213006">%null%</text>
+<text id="213007">%null%</text>
+<text id="213008">%null%</text>
+<text id="213009">%null%</text>
+<text id="213010">Mesa de forja</text>
+<text id="214000">Cinzas da Guerra</text>
+<text id="214020">Para melhorar</text>
+<text id="214021">%null%</text>
+<text id="214022">%null%</text>
+<text id="214023">%null%</text>
+<text id="214024">%null%</text>
+<text id="214025">%null%</text>
+<text id="214026">%null%</text>
+<text id="214027">%null%</text>
+<text id="214028">%null%</text>
+<text id="214029">%null%</text>
+<text id="214030">Afinidade atribuída</text>
+<text id="214110">Desfazer aprimoramento</text>
+<text id="215000">Grandes Runas</text>
+<text id="216000">Canalização de Espíritos</text>
+<text id="216001">Itens necessários</text>
+<text id="225000">Comunhão do Dragão</text>
+<text id="225001">%null%</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">Oferendas</text>
+<text id="225011">%null%</text>
+<text id="225012">%null%</text>
+<text id="225013">%null%</text>
+<text id="225014">%null%</text>
+<text id="225015">%null%</text>
+<text id="225016">%null%</text>
+<text id="225017">%null%</text>
+<text id="225018">%null%</text>
+<text id="225019">%null%</text>
+<text id="225020">Qt. necessária (Qt. possuída)</text>
+<text id="226000">Marionete</text>
+<text id="226001">%null%</text>
+<text id="226002">%null%</text>
+<text id="226003">%null%</text>
+<text id="226004">%null%</text>
+<text id="226005">%null%</text>
+<text id="226006">%null%</text>
+<text id="226007">%null%</text>
+<text id="226008">%null%</text>
+<text id="226009">%null%</text>
+<text id="226010">Troca</text>
+<text id="227000">Duplicação de Cinza da Guerra</text>
+<text id="227001">%null%</text>
+<text id="227002">%null%</text>
+<text id="227003">%null%</text>
+<text id="227004">%null%</text>
+<text id="227005">%null%</text>
+<text id="227006">%null%</text>
+<text id="227007">%null%</text>
+<text id="227008">%null%</text>
+<text id="227009">%null%</text>
+<text id="227010">Material consumível</text>
+<text id="230000">Marionete</text>
+<text id="230100">Duplicação de Lembrança</text>
+<text id="231000">Comprar item</text>
+<text id="231001">Runas necessárias</text>
+<text id="231002">%null%</text>
+<text id="231003">Limite</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">Instrução de feitiçaria</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">Instrução de encantamento</text>
+<text id="231021">%null%</text>
+<text id="231022">%null%</text>
+<text id="231023">%null%</text>
+<text id="231024">%null%</text>
+<text id="231025">%null%</text>
+<text id="231026">%null%</text>
+<text id="231027">%null%</text>
+<text id="231028">%null%</text>
+<text id="231029">%null%</text>
+<text id="231030">Instrução de Habilidade</text>
+<text id="231500">Equipamento de Campeões</text>
+<text id="232000">Vender item</text>
+<text id="232001">Runas oferecidas</text>
+<text id="233000">Memorizar feitiços</text>
+<text id="233101">Espaços de memória</text>
+<text id="233102">Espaços vazios</text>
+<text id="233103">PF</text>
+<text id="234020">----</text>
+<text id="235000">Distribua as cargas dos frascos</text>
+<text id="236000">Produção de itens</text>
+<text id="236001">Itens necessários</text>
+<text id="236002">Qt. necessária (Qt. possuída)</text>
+<text id="236003">Itens criados</text>
+<text id="236200">Poder de Lembrança</text>
+<text id="236201">%null%</text>
+<text id="236202">%null%</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">Lembranças utilizáveis</text>
+<text id="236211">Poder recebido</text>
+<text id="236400">Alterar vestes</text>
+<text id="236401">%null%</text>
+<text id="236402">%null%</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">Antes das alterações</text>
+<text id="236411">Depois das alterações</text>
+<text id="238000">Mistura de Elixir Magnífico</text>
+<text id="241000">Mapa</text>
+<text id="241100">Marcadores</text>
+<text id="241101">%null%</text>
+<text id="241102">%null%</text>
+<text id="241103">%null%</text>
+<text id="241104">%null%</text>
+<text id="241105">%null%</text>
+<text id="241106">%null%</text>
+<text id="241107">%null%</text>
+<text id="241108">%null%</text>
+<text id="241109">%null%</text>
+<text id="241110">Remover todos os marcadores</text>
+<text id="241200">Locais da graça</text>
+<text id="241201">%null%</text>
+<text id="241202">%null%</text>
+<text id="241203">%null%</text>
+<text id="241204">%null%</text>
+<text id="241205">%null%</text>
+<text id="241206">%null%</text>
+<text id="241207">%null%</text>
+<text id="241208">%null%</text>
+<text id="241209">%null%</text>
+<text id="241210">Locais da graça marcados</text>
+<text id="241300">Castelo Tempesvéu</text>
+<text id="241301">Capela da Antecipação</text>
+<text id="241302">Leyndell, Capital Real</text>
+<text id="241303">Leyndell, Capital Cinzenta</text>
+<text id="241304">Mesa-Redonda</text>
+<text id="241305">Rio Ainsel, Principal</text>
+<text id="241306">Lago da Podridão</text>
+<text id="241307">Rio Ainsel</text>
+<text id="241308">Nokron, Cidade Eterna</text>
+<text id="241309">Rio Siofra</text>
+<text id="241310">Abismos da Raiz Profunda</text>
+<text id="241311">Palácio de Mohgwyn</text>
+<text id="241312">Ruína de Farum Azula</text>
+<text id="241313">Academia de Raya Lucaria</text>
+<text id="241314">Árvore Sacra de Miquella</text>
+<text id="241315">Elphael, Suporte da Árvore Sacra</text>
+<text id="241316">Mansão Vulcânica</text>
+<text id="241317">Cemitério à Deriva</text>
+<text id="241318">Plataforma de Pedra</text>
+<text id="241319">Campos Subterrâneos de Reclusão</text>
+<text id="241320">Precipício Pontilhado de Ruínas</text>
+<text id="241321">Limgrave</text>
+<text id="241322">Colina da Tormenta</text>
+<text id="241323">Península das Lágrimas</text>
+<text id="241324">Liurnia dos Lagos</text>
+<text id="241325">Estrada Bellum</text>
+<text id="241326">Altar do Luar</text>
+<text id="241327">Platô Altus</text>
+<text id="241328">Monte Gelmir</text>
+<text id="241329">Arredores da Capital</text>
+<text id="241330">Terras Proibidas</text>
+<text id="241331">Caelid</text>
+<text id="241332">Fenda da Dragoa Greyoll</text>
+<text id="241333">Montanha dos Gigantes</text>
+<text id="241334">Pico da Chama</text>
+<text id="241335">Campo de Neve Consagrado</text>
+<text id="241336">Pântano de Aeonia</text>
+<text id="241400">Mesa-Redonda</text>
+<text id="241401">Castelo Tempesvéu</text>
+<text id="241402">Leyndell, Capital Real</text>
+<text id="241403">Ruína de Farum Azula</text>
+<text id="241404">Academia de Raya Lucaria</text>
+<text id="241405">Árvore Sacra de Miquella</text>
+<text id="241406">Mansão Vulcânica</text>
+<text id="241407">Rio Ainsel</text>
+<text id="241408">Rio Siofra</text>
+<text id="241409">Abismos da Raiz Profunda</text>
+<text id="241410">Limgrave</text>
+<text id="241411">Liurnia dos Lagos</text>
+<text id="241412">Platô Altus</text>
+<text id="241413">Caelid</text>
+<text id="241414">Montanha dos Gigantes</text>
+<text id="241415">Pico dos Gigantes</text>
+<text id="241416">Campo de Neve Consagrado</text>
+<text id="251000">Ordenar baú</text>
+<text id="251001">Inventário</text>
+<text id="251002">Baú</text>
+<text id="280001">Definição das teclas</text>
+<text id="280002">%null%</text>
+<text id="280003">%null%</text>
+<text id="280004">%null%</text>
+<text id="280005">Teclado</text>
+<text id="280006">Mouse</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">Mover</text>
+<text id="280011">%null%</text>
+<text id="280012">%null%</text>
+<text id="280013">%null%</text>
+<text id="280014">%null%</text>
+<text id="280015">%null%</text>
+<text id="280016">%null%</text>
+<text id="280017">%null%</text>
+<text id="280018">%null%</text>
+<text id="280019">%null%</text>
+<text id="280020">Controles da câmera</text>
+<text id="280021">%null%</text>
+<text id="280022">%null%</text>
+<text id="280023">%null%</text>
+<text id="280024">%null%</text>
+<text id="280025">%null%</text>
+<text id="280026">%null%</text>
+<text id="280027">%null%</text>
+<text id="280028">%null%</text>
+<text id="280029">%null%</text>
+<text id="280030">Trocar arma</text>
+<text id="280031">%null%</text>
+<text id="280032">%null%</text>
+<text id="280033">%null%</text>
+<text id="280034">%null%</text>
+<text id="280035">%null%</text>
+<text id="280036">%null%</text>
+<text id="280037">%null%</text>
+<text id="280038">%null%</text>
+<text id="280039">%null%</text>
+<text id="280040">Atacar</text>
+<text id="280099">Sem tecla definida</text>
+<text id="280100">Controle do movimento</text>
+<text id="280101">Andar para a frente</text>
+<text id="280102">Mover para trás</text>
+<text id="280103">Mover para a esquerda</text>
+<text id="280104">Mover para a direita</text>
+<text id="280105">Retroceder, rolar, arremeter</text>
+<text id="280106">Pular</text>
+<text id="280107">Agachar/Levantar</text>
+<text id="280108">%null%</text>
+<text id="280109">%null%</text>
+<text id="280110">Movimento</text>
+<text id="280199">Mover câmera / Mudar alvo</text>
+<text id="280200">Mover câmera/Mudar alvo (cima)</text>
+<text id="280201">Mover câmera/Mudar alvo (baixo)</text>
+<text id="280202">Mover câmera/Mudar alvo (esquerda)</text>
+<text id="280203">Mover câmera/Mudar alvo (direita)</text>
+<text id="280204">Redefinir câmera, travar/remover alvo</text>
+<text id="280300">Trocar item</text>
+<text id="280301">Mudar arma da mão direita</text>
+<text id="280302">Mudar arma da mão esquerda</text>
+<text id="280303">Alternar feitiçaria/encantamento</text>
+<text id="280400">Ataque (mão direita e duas mãos)</text>
+<text id="280401">Ataque forte (mão direita e duas mãos)</text>
+<text id="280402">Bloquear (mão esquerda)</text>
+<text id="280403">Habilidade</text>
+<text id="280404">Ação de evento (examinar, abrir, etc.)</text>
+<text id="280405">Usar item</text>
+<text id="280406">Usar as duas mãos na arma atual</text>
+<text id="280500">Menu principal</text>
+<text id="280501">Mapa</text>
+<text id="288000">Seleção de personagem</text>
+<text id="288001">Selecione base de personagem</text>
+<text id="288050">Cavaleiro</text>
+<text id="288051">Cavaleiro Encantado</text>
+<text id="288052">Profeta</text>
+<text id="288053">Campeão</text>
+<text id="288054">Lobo Sangrento</text>
+<text id="288055">%null%</text>
+<text id="288056">%null%</text>
+<text id="288057">%null%</text>
+<text id="288058">%null%</text>
+<text id="288059">%null%</text>
+<text id="288060">Cavaleiro</text>
+<text id="288061">Cavaleiro Encantado</text>
+<text id="288062">Profeta</text>
+<text id="288063">Campeão</text>
+<text id="288064">Lobo Sangrento</text>
+<text id="288100">Andarilho</text>
+<text id="288101">Guerreiro</text>
+<text id="288102">Herói</text>
+<text id="288103">Bandido</text>
+<text id="288104">Astrólogo</text>
+<text id="288105">Profeta</text>
+<text id="288106">Confessor</text>
+<text id="288107">Samurai</text>
+<text id="288108">Prisioneiro</text>
+<text id="288109">Miserável</text>
+<text id="288500">Selecione um tipo de corpo</text>
+<text id="288501">Tipo A</text>
+<text id="288502">Tipo B</text>
+<text id="290000">Criar personagem</text>
+<text id="290001">Cosméticos</text>
+<text id="290002">Cosméticos</text>
+<text id="290003">%null%</text>
+<text id="290004">%null%</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010"> &gt; </text>
+<text id="290900">_</text>
+<text id="290990">Inserir nome</text>
+<text id="290991">%null%</text>
+<text id="290992">%null%</text>
+<text id="290993">%null%</text>
+<text id="290994">%null%</text>
+<text id="290995">%null%</text>
+<text id="290996">%null%</text>
+<text id="290997">%null%</text>
+<text id="290998">%null%</text>
+<text id="290999">%null%</text>
+<text id="291000">Nome</text>
+<text id="291001">Tipo físico</text>
+<text id="291002">Idade</text>
+<text id="291003">Voz</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">Origem</text>
+<text id="291011">Recordação</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">Escolher modelo base</text>
+<text id="291021">Alterar rosto e cabelo</text>
+<text id="291022">Alterar corpo</text>
+<text id="291023">Alterar cor de pele</text>
+<text id="291024">%null%</text>
+<text id="291025">Aparência detalhada</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">Salvar em favoritos</text>
+<text id="291031">Carregar favorito</text>
+<text id="291050">Terminar</text>
+<text id="291051">Terminar cosméticos</text>
+<text id="291052">Terminar cosméticos</text>
+<text id="292000">Ajustar modelo da face</text>
+<text id="292001">Estrutura da face</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">Cabelo</text>
+<text id="292011">Sobrancelhas</text>
+<text id="292012">Pelo facial</text>
+<text id="292013">Cílios</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">Olhos</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">Características da pele</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">Cosméticos</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">Tatuagem/Marca/Tapa-olho</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">Rosto semelhante</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">Cabeça</text>
+<text id="292061">Torso</text>
+<text id="292062">Abdômen</text>
+<text id="292063">Braços</text>
+<text id="292064">Pernas</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">Pelos corporais</text>
+<text id="292071">Cor dos pelos corporais</text>
+<text id="292072">Musculatura</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">Marcas de queimadura</text>
+<text id="293000">Estrutura óssea</text>
+<text id="293001">Ênfase na forma</text>
+<text id="293002">Idade aparente</text>
+<text id="293003">Estética facial</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">Equilíbrio facial</text>
+<text id="293011">Testa/Glabela</text>
+<text id="293012">Arcada supraciliar</text>
+<text id="293013">Olhos</text>
+<text id="293014">Ponte nasal</text>
+<text id="293015">Narinas</text>
+<text id="293016">Bochechas</text>
+<text id="293017">Lábios</text>
+<text id="293018">Boca</text>
+<text id="293019">Queixo</text>
+<text id="293020">Mandíbula</text>
+<text id="293100">Cabelo</text>
+<text id="293101">Cor do cabelo</text>
+<text id="293102">Brilho</text>
+<text id="293103">Tonalidade das raízes</text>
+<text id="293104">Fios grisalhos</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">Sobrancelha</text>
+<text id="293111">Cor da sobrancelha</text>
+<text id="293112">Brilho</text>
+<text id="293113">Tonalidade das raízes</text>
+<text id="293114">Fios grisalhos</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">Barba</text>
+<text id="293121">Cor da barba</text>
+<text id="293122">Brilho</text>
+<text id="293123">Tonalidade das raízes</text>
+<text id="293124">Fios grisalhos</text>
+<text id="293125">Barba por Fazer</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">Cílios</text>
+<text id="293131">Cor dos cílios</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">Tamanho da íris direita</text>
+<text id="293141">Cor da íris direita</text>
+<text id="293142">Nebulosidade do olho D</text>
+<text id="293143">Cor da nebulosidade D</text>
+<text id="293144">Cor da esclera do olho D</text>
+<text id="293145">Posição do olho D</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">Tamanho da íris esquerda</text>
+<text id="293151">Cor da íris esquerda</text>
+<text id="293152">Nebulosidade do olho E</text>
+<text id="293153">Cor da nebulosidade E</text>
+<text id="293154">Cor da esclera do olho E</text>
+<text id="293155">Posição do olho E</text>
+<text id="293156">Alterações oculares</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">Poros</text>
+<text id="293161">Brilho da pele</text>
+<text id="293162">Olheiras</text>
+<text id="293163">Cor das olheiras</text>
+<text id="293164">Bochechas</text>
+<text id="293165">Cor da bochecha</text>
+<text id="293166">Delineador</text>
+<text id="293167">Cor do delineador</text>
+<text id="293168">Sombra (superior)</text>
+<text id="293169">Cor da sombra (superior)</text>
+<text id="293170">Sombra (inferior)</text>
+<text id="293171">Cor da sombra (inferior)</text>
+<text id="293172">Batom</text>
+<text id="293173">Cor do batom</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">Tatuagem/Marca</text>
+<text id="293181">Cor da tatuagem/marca</text>
+<text id="293182">Ajustar tatuagem/marca</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">Tapa-olho</text>
+<text id="293191">Cor do tapa-olho</text>
+<text id="294050">Tamanho do nariz</text>
+<text id="294051">Proporção nariz/testa</text>
+<text id="294052">Protrusão facial</text>
+<text id="294053">Proporção facial vert.</text>
+<text id="294054">Ângulo das feições faciais</text>
+<text id="294055">Proporção facial horiz.</text>
+<text id="294056">%null%</text>
+<text id="294057">%null%</text>
+<text id="294058">%null%</text>
+<text id="294059">%null%</text>
+<text id="294060">Profundidade da testa</text>
+<text id="294061">Protrusão da testa</text>
+<text id="294062">Altura da ponte nasal</text>
+<text id="294063">Protrusão da ponte nasal 1</text>
+<text id="294064">Protrusão da ponte nasal 2</text>
+<text id="294065">Largura da ponte nasal</text>
+<text id="294066">%null%</text>
+<text id="294067">%null%</text>
+<text id="294068">%null%</text>
+<text id="294069">%null%</text>
+<text id="294070">Altura da arcada supraciliar</text>
+<text id="294071">Arcada supraciliar interna</text>
+<text id="294072">Arcada supraciliar externa</text>
+<text id="294073">%null%</text>
+<text id="294074">%null%</text>
+<text id="294075">%null%</text>
+<text id="294076">%null%</text>
+<text id="294077">%null%</text>
+<text id="294078">%null%</text>
+<text id="294079">%null%</text>
+<text id="294080">Posição dos olhos</text>
+<text id="294081">Tamanho dos olhos</text>
+<text id="294082">Ângulo dos olhos</text>
+<text id="294083">Espaçamento dos olhos</text>
+<text id="294084">%null%</text>
+<text id="294085">%null%</text>
+<text id="294086">%null%</text>
+<text id="294087">%null%</text>
+<text id="294088">%null%</text>
+<text id="294089">%null%</text>
+<text id="294090">Profundidade da ponte nasal</text>
+<text id="294091">Comprimento da ponte nasal</text>
+<text id="294092">Posição do nariz</text>
+<text id="294093">Altura da ponta do nariz</text>
+<text id="294094">Protrusão do nariz</text>
+<text id="294095">Altura do nariz</text>
+<text id="294096">Ângulo do nariz</text>
+<text id="294097">%null%</text>
+<text id="294098">%null%</text>
+<text id="294099">%null%</text>
+<text id="294100">Ângulo das narinas</text>
+<text id="294101">Tamanho das narinas</text>
+<text id="294102">Largura das narinas</text>
+<text id="294103">%null%</text>
+<text id="294104">%null%</text>
+<text id="294105">%null%</text>
+<text id="294106">%null%</text>
+<text id="294107">%null%</text>
+<text id="294108">%null%</text>
+<text id="294109">%null%</text>
+<text id="294110">Altura das maçãs do rosto</text>
+<text id="294111">Profundidade das maçãs do rosto</text>
+<text id="294112">Largura das maçãs do rosto</text>
+<text id="294113">Protrusão das maçãs do rosto</text>
+<text id="294114">Bochechas</text>
+<text id="294115">%null%</text>
+<text id="294116">%null%</text>
+<text id="294117">%null%</text>
+<text id="294118">%null%</text>
+<text id="294119">%null%</text>
+<text id="294120">Formato do lábio</text>
+<text id="294121">Expressão da boca</text>
+<text id="294122">Preenchimento do lábio</text>
+<text id="294123">Tamanho do lábio</text>
+<text id="294124">Protrusão do lábio</text>
+<text id="294125">Grossura do lábio</text>
+<text id="294126">%null%</text>
+<text id="294127">%null%</text>
+<text id="294128">%null%</text>
+<text id="294129">%null%</text>
+<text id="294130">Protrusão da boca</text>
+<text id="294131">Ângulo da boca</text>
+<text id="294132">Oclusão</text>
+<text id="294133">Posição da boca</text>
+<text id="294134">Largura da boca</text>
+<text id="294135">Distância entre boca e queixo</text>
+<text id="294136">%null%</text>
+<text id="294137">%null%</text>
+<text id="294138">%null%</text>
+<text id="294139">%null%</text>
+<text id="294140">Posição da ponta do queixo</text>
+<text id="294141">Comprimento do queixo</text>
+<text id="294142">Protrusão do queixo</text>
+<text id="294143">Profundidade do queixo</text>
+<text id="294144">Tamanho do queixo</text>
+<text id="294145">Altura do queixo</text>
+<text id="294146">Largura do queixo</text>
+<text id="294147">%null%</text>
+<text id="294148">%null%</text>
+<text id="294149">%null%</text>
+<text id="294150">Protrusão da mandíbula</text>
+<text id="294151">Largura da mandíbula</text>
+<text id="294152">Mandíbula inferior</text>
+<text id="294153">Contorno da mandíbula</text>
+<text id="294154">%null%</text>
+<text id="294155">%null%</text>
+<text id="294156">%null%</text>
+<text id="294157">%null%</text>
+<text id="294158">%null%</text>
+<text id="294159">%null%</text>
+<text id="294160">Posição (vert.)</text>
+<text id="294161">Posição (horiz.)</text>
+<text id="294162">Ângulo</text>
+<text id="294163">Tamanho</text>
+<text id="294164">Inverter</text>
+<text id="296009">Alterar valor</text>
+<text id="296010">Combinar olho direito</text>
+<text id="296011">Combinar com olho esquerdo</text>
+<text id="296100">Pequena</text>
+<text id="296101">Grande</text>
+<text id="296102">Pequeno</text>
+<text id="296103">Grande</text>
+<text id="296104">Pequeno</text>
+<text id="296105">Grande</text>
+<text id="296106">Pequeno</text>
+<text id="296107">Grande</text>
+<text id="296108">Pequena</text>
+<text id="296109">Grande</text>
+<text id="296110">Esparsos</text>
+<text id="296111">Abundantes</text>
+<text id="296112">Fraco</text>
+<text id="296113">Forte</text>
+<text id="296114">Jovem</text>
+<text id="296115">Idoso</text>
+<text id="296116">Masculina</text>
+<text id="296117">Feminina</text>
+<text id="296118">Suave</text>
+<text id="296119">Forte</text>
+<text id="296120">Clara</text>
+<text id="296121">Escura</text>
+<text id="296122">Esparsos</text>
+<text id="296123">Abundantes</text>
+<text id="296124">Suave</text>
+<text id="296125">Forte</text>
+<text id="296126">Clara</text>
+<text id="296127">Escura</text>
+<text id="296128">Esparsos</text>
+<text id="296129">Abundantes</text>
+<text id="296130">Suave</text>
+<text id="296131">Forte</text>
+<text id="296132">Clara</text>
+<text id="296133">Escura</text>
+<text id="296134">Esparsos</text>
+<text id="296135">Abundantes</text>
+<text id="296136">Fina</text>
+<text id="296137">Grossa</text>
+<text id="296138">Pequeno</text>
+<text id="296139">Grande</text>
+<text id="296140">Limpo</text>
+<text id="296141">Opaco</text>
+<text id="296142">Perto</text>
+<text id="296143">Longe</text>
+<text id="296144">Pequeno</text>
+<text id="296145">Grande</text>
+<text id="296146">Limpo</text>
+<text id="296147">Opaco</text>
+<text id="296148">Perto</text>
+<text id="296149">Longe</text>
+<text id="296150">Fechados</text>
+<text id="296151">Abertos</text>
+<text id="296152">Simples</text>
+<text id="296153">Lustrosa</text>
+<text id="296154">Claras</text>
+<text id="296155">Escuras</text>
+<text id="296156">Claro</text>
+<text id="296157">Escuro</text>
+<text id="296158">Claro</text>
+<text id="296159">Escuro</text>
+<text id="296160">Clara</text>
+<text id="296161">Escura</text>
+<text id="296162">Clara</text>
+<text id="296163">Escura</text>
+<text id="296164">Sutil</text>
+<text id="296165">Vibrante</text>
+<text id="296166">Estreito</text>
+<text id="296167">Largo</text>
+<text id="296168">Nariz</text>
+<text id="296169">Testa</text>
+<text id="296170">Côncavo</text>
+<text id="296171">Convexo</text>
+<text id="296172">Estreito</text>
+<text id="296173">Largo</text>
+<text id="296174">Para baixo</text>
+<text id="296175">Para cima</text>
+<text id="296176">Estreito</text>
+<text id="296177">Largo</text>
+<text id="296178">Proeminente</text>
+<text id="296179">Funda</text>
+<text id="296180">Côncava</text>
+<text id="296181">Convexa</text>
+<text id="296182">Baixa</text>
+<text id="296183">Alta</text>
+<text id="296184">Côncava</text>
+<text id="296185">Convexa</text>
+<text id="296186">Côncava</text>
+<text id="296187">Convexa</text>
+<text id="296188">Estreita</text>
+<text id="296189">Larga</text>
+<text id="296190">Baixa</text>
+<text id="296191">Alta</text>
+<text id="296192">Baixa</text>
+<text id="296193">Alta</text>
+<text id="296194">Baixa</text>
+<text id="296195">Alta</text>
+<text id="296196">Para baixo</text>
+<text id="296197">Para cima</text>
+<text id="296198">Pequeno</text>
+<text id="296199">Grande</text>
+<text id="296200">Para dentro</text>
+<text id="296201">Para fora</text>
+<text id="296202">Estreito</text>
+<text id="296203">Largo</text>
+<text id="296204">Proeminente</text>
+<text id="296205">Funda</text>
+<text id="296206">Curto</text>
+<text id="296207">Longo</text>
+<text id="296208">Para baixo</text>
+<text id="296209">Para cima</text>
+<text id="296210">Baixo</text>
+<text id="296211">Alto</text>
+<text id="296212">Côncavo</text>
+<text id="296213">Convexo</text>
+<text id="296214">Baixo</text>
+<text id="296215">Alto</text>
+<text id="296216">Para baixo</text>
+<text id="296217">Para cima</text>
+<text id="296218">Para baixo</text>
+<text id="296219">Para cima</text>
+<text id="296220">Pequenas</text>
+<text id="296221">Grandes</text>
+<text id="296222">Estreitas</text>
+<text id="296223">Largas</text>
+<text id="296224">Pequeno</text>
+<text id="296225">Grande</text>
+<text id="296226">Baixa</text>
+<text id="296227">Alta</text>
+<text id="296228">Proeminente</text>
+<text id="296229">Funda</text>
+<text id="296230">Estreita</text>
+<text id="296231">Larga</text>
+<text id="296232">Côncava</text>
+<text id="296233">Convexa</text>
+<text id="296234">Finas</text>
+<text id="296235">Grossas</text>
+<text id="296236">Franzido</text>
+<text id="296237">Aberto</text>
+<text id="296238">Triste</text>
+<text id="296239">Feliz</text>
+<text id="296240">Pequeno</text>
+<text id="296241">Grande</text>
+<text id="296242">Pequeno</text>
+<text id="296243">Grande</text>
+<text id="296244">Côncavo</text>
+<text id="296245">Convexo</text>
+<text id="296246">Fino</text>
+<text id="296247">Grosso</text>
+<text id="296248">Côncava</text>
+<text id="296249">Convexa</text>
+<text id="296250">Para baixo</text>
+<text id="296251">Para cima</text>
+<text id="296252">Para baixo</text>
+<text id="296253">Para cima</text>
+<text id="296254">Para baixo</text>
+<text id="296255">Para cima</text>
+<text id="296256">Estreita</text>
+<text id="296257">Larga</text>
+<text id="296258">Curta</text>
+<text id="296259">Longa</text>
+<text id="296260">Frente</text>
+<text id="296261">Atrás</text>
+<text id="296262">Curto</text>
+<text id="296263">Longo</text>
+<text id="296264">Pequeno</text>
+<text id="296265">Grande</text>
+<text id="296266">Proeminente</text>
+<text id="296267">Fundo</text>
+<text id="296268">Pequeno</text>
+<text id="296269">Grande</text>
+<text id="296270">Baixo</text>
+<text id="296271">Alto</text>
+<text id="296272">Estreito</text>
+<text id="296273">Largo</text>
+<text id="296274">Pequena</text>
+<text id="296275">Grande</text>
+<text id="296276">Estreita</text>
+<text id="296277">Larga</text>
+<text id="296278">Baixa</text>
+<text id="296279">Alta</text>
+<text id="296280">Fina</text>
+<text id="296281">Grossa</text>
+<text id="296282">Para baixo</text>
+<text id="296283">Para cima</text>
+<text id="296284">Esquerda</text>
+<text id="296285">Direita</text>
+<text id="296286">Girar para esquerda</text>
+<text id="296287">Girar para direita</text>
+<text id="296288">Pequena</text>
+<text id="296289">Grande</text>
+<text id="297100">Tipo A</text>
+<text id="297101">Tipo B</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">Jovem</text>
+<text id="297111">Maduro</text>
+<text id="297112">Idoso</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">Voz jovem 1</text>
+<text id="297121">Voz madura 1</text>
+<text id="297122">Voz idosa 1</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">Voz jovem 2</text>
+<text id="297126">Voz madura 2</text>
+<text id="297127">Voz idosa 2</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">Andarilho</text>
+<text id="297131">Guerreiro</text>
+<text id="297132">Herói</text>
+<text id="297133">Bandido</text>
+<text id="297134">Astrólogo</text>
+<text id="297135">Profeta</text>
+<text id="297136">Samurai</text>
+<text id="297137">Prisioneiro</text>
+<text id="297138">Confessor</text>
+<text id="297139">Miserável</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">Nenhuma</text>
+<text id="297151">Medalhão de Âmbar Carmesim</text>
+<text id="297152">Runa das Terras Intermédias</text>
+<text id="297153">Semente Dourada</text>
+<text id="297154">Cinzas de Demônio com Presas</text>
+<text id="297155">%null%</text>
+<text id="297156">Pote Rachado</text>
+<text id="297157">Chave de Espada de Pedra</text>
+<text id="297158">Ramo Encantador</text>
+<text id="297159">Camarão Cozido</text>
+<text id="297160">Pesar de Shabriri</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">Padrão</text>
+<text id="297171">Musculoso</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">Ligado</text>
+<text id="297181">Desligado</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">Ligado</text>
+<text id="297186">Desligado</text>
+<text id="297187">Ligado</text>
+<text id="297188">Desligado</text>
+<text id="297200">Guerreiro</text>
+<text id="297201">Investigador da Verdade</text>
+<text id="297202">Aristocrata</text>
+<text id="297203">Solitário</text>
+<text id="297204">Nortista</text>
+<text id="297205">Marinheiro</text>
+<text id="297206">Junqueiro</text>
+<text id="297207">Draconiano</text>
+<text id="297208">Povo da Noite</text>
+<text id="297209">Numen</text>
+<text id="297220">Guerreiro</text>
+<text id="297221">Investigador da Verdade</text>
+<text id="297222">Aristocrata</text>
+<text id="297223">Solitário</text>
+<text id="297224">Nortista</text>
+<text id="297225">Marinheiro</text>
+<text id="297226">Junqueiro</text>
+<text id="297227">Draconiano</text>
+<text id="297228">Povo da Noite</text>
+<text id="297229">Numen</text>
+<text id="299005">Cores temporárias</text>
+<text id="299006">Cores atuais</text>
+<text id="299007">%null%</text>
+<text id="299008">%null%</text>
+<text id="299009">Alterar cor</text>
+<text id="299010">Combinar olho direito</text>
+<text id="299011">Combinar olho esquerdo</text>
+<text id="299012">%null%</text>
+<text id="299013">%null%</text>
+<text id="299014">%null%</text>
+<text id="299015">%null%</text>
+<text id="299016">%null%</text>
+<text id="299017">%null%</text>
+<text id="299018">%null%</text>
+<text id="299019">%null%</text>
+<text id="299020">Combinar cabelo</text>
+<text id="299050">Ajuste de cor</text>
+<text id="299051">%null%</text>
+<text id="299052">%null%</text>
+<text id="299053">%null%</text>
+<text id="299054">%null%</text>
+<text id="299055">%null%</text>
+<text id="299056">%null%</text>
+<text id="299057">%null%</text>
+<text id="299058">%null%</text>
+<text id="299059">%null%</text>
+<text id="299060">R</text>
+<text id="299061">G</text>
+<text id="299062">B</text>
+<text id="301000">Gestos</text>
+<text id="303000">NOVO</text>
+<text id="303001">%null%</text>
+<text id="303002">%null%</text>
+<text id="303003">%null%</text>
+<text id="303004">%null%</text>
+<text id="303005">%null%</text>
+<text id="303006">%null%</text>
+<text id="303007">%null%</text>
+<text id="303008">%null%</text>
+<text id="303009">%null%</text>
+<text id="303010">%null%</text>
+<text id="303011">%null%</text>
+<text id="303012">%null%</text>
+<text id="303013">%null%</text>
+<text id="303014">%null%</text>
+<text id="303015">%null%</text>
+<text id="303016">%null%</text>
+<text id="303017">%null%</text>
+<text id="303018">%null%</text>
+<text id="303019">%null%</text>
+<text id="303020">%null%</text>
+<text id="303021">%null%</text>
+<text id="303022">%null%</text>
+<text id="303023">%null%</text>
+<text id="303024">%null%</text>
+<text id="303025">%null%</text>
+<text id="303026">%null%</text>
+<text id="303027">%null%</text>
+<text id="303028">%null%</text>
+<text id="303029">%null%</text>
+<text id="303030">%null%</text>
+<text id="303031">%null%</text>
+<text id="303032">%null%</text>
+<text id="303033">%null%</text>
+<text id="303034">%null%</text>
+<text id="303035">%null%</text>
+<text id="303036">%null%</text>
+<text id="303037">%null%</text>
+<text id="303038">%null%</text>
+<text id="303039">%null%</text>
+<text id="303040">%null%</text>
+<text id="303041">%null%</text>
+<text id="303042">%null%</text>
+<text id="303043">%null%</text>
+<text id="303044">%null%</text>
+<text id="303045">%null%</text>
+<text id="303046">%null%</text>
+<text id="303047">%null%</text>
+<text id="303048">%null%</text>
+<text id="303049">%null%</text>
+<text id="303050">%null%</text>
+<text id="303051">%null%</text>
+<text id="303052">%null%</text>
+<text id="303053">%null%</text>
+<text id="303054">%null%</text>
+<text id="303055">%null%</text>
+<text id="303056">%null%</text>
+<text id="303057">%null%</text>
+<text id="303058">%null%</text>
+<text id="303059">%null%</text>
+<text id="303060">%null%</text>
+<text id="310000">Escrever mensagem</text>
+<text id="310001">Mensagens escritas</text>
+<text id="310002">Mensagens descobertas</text>
+<text id="311000">Avaliações</text>
+<text id="311001">Bom</text>
+<text id="311002">Ruim</text>
+<text id="311003">%null%</text>
+<text id="311004">%null%</text>
+<text id="311005">%null%</text>
+<text id="311006">%null%</text>
+<text id="311007">%null%</text>
+<text id="311008">%null%</text>
+<text id="311009">%null%</text>
+<text id="311010">%null%</text>
+<text id="311011">Classificação: Bom</text>
+<text id="311012">Classificação: Ruim</text>
+<text id="321000">Modelos</text>
+<text id="321001">Palavras</text>
+<text id="321002">Conjunções</text>
+<text id="321003">Modelos (2ª linha)</text>
+<text id="321004">Palavras (2ª linha)</text>
+<text id="321005">Gestos</text>
+<text id="321006">Terminar</text>
+<text id="322001">Bom</text>
+<text id="322002">Ruim</text>
+<text id="324001">Avaliações</text>
+<text id="331100">Anfitrião de Dedos</text>
+<text id="331101">Dedo Enrolado</text>
+<text id="331102">Dedo Sangrento</text>
+<text id="331103">Duelista</text>
+<text id="331104">Não Conformista</text>
+<text id="331105">%null%</text>
+<text id="331106">%null%</text>
+<text id="331107">%null%</text>
+<text id="331108">%null%</text>
+<text id="331109">%null%</text>
+<text id="331110">%null%</text>
+<text id="331111">Caçador</text>
+<text id="331122">Dedo Enrolado</text>
+<text id="331123">Dedo Enrolado</text>
+<text id="331124">%null%</text>
+<text id="331125">%null%</text>
+<text id="331126">%null%</text>
+<text id="331127">%null%</text>
+<text id="331128">%null%</text>
+<text id="331129">%null%</text>
+<text id="331130">%null%</text>
+<text id="331131">%null%</text>
+<text id="331132">Duelista</text>
+<text id="331133">Duelista</text>
+<text id="331134">%null%</text>
+<text id="331135">%null%</text>
+<text id="331136">%null%</text>
+<text id="331137">%null%</text>
+<text id="331138">%null%</text>
+<text id="331139">%null%</text>
+<text id="331140">%null%</text>
+<text id="331141">%null%</text>
+<text id="331142">Dedo Sangrento</text>
+<text id="331143">Dedo Sangrento</text>
+<text id="331144">%null%</text>
+<text id="331145">%null%</text>
+<text id="331146">%null%</text>
+<text id="331147">%null%</text>
+<text id="331148">%null%</text>
+<text id="331149">%null%</text>
+<text id="331150">%null%</text>
+<text id="331151">%null%</text>
+<text id="331152">Não Conformista</text>
+<text id="331153">Não Conformista</text>
+<text id="331154">%null%</text>
+<text id="331155">%null%</text>
+<text id="331156">%null%</text>
+<text id="331157">%null%</text>
+<text id="331158">%null%</text>
+<text id="331159">%null%</text>
+<text id="331160">%null%</text>
+<text id="331161">%null%</text>
+<text id="331162">Caçador</text>
+<text id="331163">Caçador</text>
+<text id="331200">CONGELAMENTO</text>
+<text id="331201">PERDA DE SANGUE</text>
+<text id="331202">VENENO</text>
+<text id="331203">PODRIDÃO ESCARLATE</text>
+<text id="331204">SONO</text>
+<text id="331205">LOUCURA</text>
+<text id="331206">%null%</text>
+<text id="331207">MORTE ARRUINADA</text>
+<text id="331208">! ARMA QUEBRADA !</text>
+<text id="331209">! ARMADURA EM RISCO !</text>
+<text id="331210">! ARMADURA QUEBRADA !</text>
+<text id="331301">SEMIDEUS VENCIDO</text>
+<text id="331302">LENDA DERRUBADA</text>
+<text id="331303">GRANDE INIMIGO DERRUBADO</text>
+<text id="331304">INIMIGO DERRUBADO</text>
+<text id="331305">VOCÊ MORREU</text>
+<text id="331306">%null%</text>
+<text id="331307">ANFITRIÃO DERROTADO</text>
+<text id="331308">DEDO SANGRENTO DERROTADO</text>
+<text id="331309">DEVER CUMPRIDO</text>
+<text id="331310">%null%</text>
+<text id="331311">GRAÇA PERDIDA DESCOBERTA</text>
+<text id="331312">%null%</text>
+<text id="331313">%null%</text>
+<text id="331314">%null%</text>
+<text id="331315">%null%</text>
+<text id="331316">%null%</text>
+<text id="331317">MAPA ENCONTRADO</text>
+<text id="331318">REDENTOR MORREU</text>
+<text id="331319">%null%</text>
+<text id="331320">%null%</text>
+<text id="331321">GRANDE RUNA RESTAURADA</text>
+<text id="331322">DEUS MORTO</text>
+<text id="331323">DUELISTA DERROTADO</text>
+<text id="331324">NÃO CONFORMISTA DERROTADO</text>
+<text id="331325">INVASOR DERROTADO</text>
+<text id="331326">%null%</text>
+<text id="331327">%null%</text>
+<text id="331328">%null%</text>
+<text id="331329">%null%</text>
+<text id="331330">RANK DE DEDO ENROLADO AVANÇADO</text>
+<text id="331331">RANK DE DEDO ENROLADO AVANÇADO</text>
+<text id="331332">RANK DE DUELISTA AVANÇADO</text>
+<text id="331333">RANK DE DUELISTA AVANÇADO</text>
+<text id="331334">RANK DE DEDO SANGRENTO AVANÇADO</text>
+<text id="331335">RANK DE DEDO SANGRENTO AVANÇADO</text>
+<text id="331336">RANK DE NÃO CONFORMISTA AVANÇADO</text>
+<text id="331337">RANK DE NÃO CONFORMISTA AVANÇADO</text>
+<text id="331338">RANK DE CAÇADOR AVANÇADO</text>
+<text id="331339">RANK DE CAÇADOR AVANÇADO</text>
+<text id="400000">DARK SOULS™ Ⅲ NETWORK STRESS TEST VER. usa Havok™
+©Copyright 1999-2015. Havok.com Inc. (ou seus licenciadores). Todos os direitos reservados. Ver www.havok.com para mais detalhes.</text>
+<text id="401001">©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc.</text>
+<text id="401002">ELDEN RING™ &amp; ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc.</text>
+<text id="401100">™</text>
+<text id="401301">CONTINUAR</text>
+<text id="401302">CARREGAR JOGO</text>
+<text id="401303">NOVO JOGO</text>
+<text id="401304">SISTEMA</text>
+<text id="401305">INFORMAÇÕES</text>
+<text id="401306">ENTRAR</text>
+<text id="401307">TROCAR DE PERFIL</text>
+<text id="401308">%null%</text>
+<text id="401309">SAIR DO JOGO</text>
+<text id="401310">ONLINE</text>
+<text id="401311">OFFLINE</text>
+<text id="401312">PRÉ-VENDA</text>
+<text id="401313">CONVERTER DADOS DE SALVAMENTO</text>
+<text id="401314">%null%</text>
+<text id="401315">%null%</text>
+<text id="401316">%null%</text>
+<text id="401317">%null%</text>
+<text id="401318">%null%</text>
+<text id="401319">%null%</text>
+<text id="401320">Ver. do aplicativo</text>
+<text id="401321">Ver. do servidor</text>
+<text id="401322">Ver. das calibrações</text>
+<text id="401400">INFORMAÇÕES</text>
+<text id="401401">Não há novas informações</text>
+<text id="401500">TERMS OF SERVICE FOR ONLINE SERVICES FOR ELDEN RING</text>
+<text id="401501">%null%</text>
+<text id="401502">%null%</text>
+<text id="401503">%null%</text>
+<text id="401504">%null%</text>
+<text id="401505">%null%</text>
+<text id="401506">%null%</text>
+<text id="401507">%null%</text>
+<text id="401508">%null%</text>
+<text id="401509">%null%</text>
+<text id="401510">Aceitar</text>
+<text id="401511">Recusar</text>
+<text id="401900">Teste de Rede</text>
+<text id="401901">Este jogo ainda está em desenvolvimento</text>
+<text id="401902">%null%</text>
+<text id="401903">%null%</text>
+<text id="401904">Uma conexão com a Internet é necessária para jogar o Teste de Rede</text>
+<text id="406000">CARREGAR JOGO</text>
+<text id="406001">NOVO JOGO</text>
+<text id="502000">Enviar o jogador selecionado de volta para casa</text>
+</entries>
+</fmg>

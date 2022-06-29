@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Agacharse</text>
+<text id="2">Bloquear</text>
+<text id="3">Contraguardias</text>
+<text id="4">Armas a dos manos</text>
+<text id="5">Ataques cargados y con salto</text>
+<text id="6">Habilidades</text>
+<text id="7">Elusiones</text>
+<text id="8">Fijar un objetivo</text>
+<text id="9">Precisión al apuntar</text>
+<text id="10">Equipar armas</text>
+<text id="11">Usar objetos</text>
+<text id="12">Usar antorchas</text>
+<text id="13">Golpes críticos</text>
+<text id="14">Gestos</text>
+<text id="15">Mapa</text>
+<text id="16">Saltos en resortes espirituales</text>
+<text id="17">Atajos de objetos</text>
+<text id="50">Morir y perder runas</text>
+<text id="51">%null%</text>
+<text id="52">Invocar espíritus</text>
+<text id="53">Descansar en lugares de Gracia</text>
+<text id="54">Encontrar lugares de Gracia</text>
+<text id="55">La guía de la Gracia</text>
+<text id="56">Viales sagrados</text>
+<text id="57">Viajar rápido a lugares de Gracia</text>
+<text id="58">Ataques a caballo</text>
+<text id="59">Zonas sin caballo</text>
+<text id="60">Crear objetos</text>
+<text id="61">Objetos hechos con recipientes</text>
+<text id="62">Personalización del armamento</text>
+<text id="63">%null%</text>
+<text id="64">Revivir después de la muerte</text>
+<text id="65">Carga de equipamiento</text>
+<text id="66">En combate</text>
+<text id="67">Fortalecer espíritus</text>
+<text id="68">Subir de nivel</text>
+<text id="69">%null%</text>
+<text id="70">Estado: Veneno</text>
+<text id="71">Estado: Putrefacción roja</text>
+<text id="72">Estado: Hemorragia</text>
+<text id="73">Estado: Congelación</text>
+<text id="74">Estado: Sueño</text>
+<text id="75">Estado: Locura</text>
+<text id="76">Estado: Muerte</text>
+<text id="77">Aplomo</text>
+<text id="100">Objetivos del aliado (Dedo Doblado)</text>
+<text id="101">Objetivos del adversario (Duelista)</text>
+<text id="102">Límites del multijugador</text>
+<text id="103">Ver símbolos de invocación</text>
+<text id="104">Dejar símbolos cooperativos</text>
+<text id="105">Dejar símbolos hostiles</text>
+<text id="106">Invasión</text>
+<text id="107">Solicitar apoyo</text>
+<text id="108">Apoyo</text>
+<text id="109">Altares de invocación</text>
+<text id="110">Contraseñas de grupo</text>
+<text id="111">Contraseñas de multijugador</text>
+<text id="112">Mensajes</text>
+<text id="113">Áreas limitadas en multijugador</text>
+<text id="114">Espectros</text>
+<text id="115">Manchas de sangre</text>
+<text id="116">Objetivos del apoyo (Cazador)</text>
+<text id="117">Símbolos de invocación</text>
+<text id="118">Mensajes avanzados</text>
+<text id="119">Objetivos del invasor</text>
+<text id="150">Límites de la guardia</text>
+<text id="151">Romper la posición</text>
+<text id="152">Derribar a enemigos a caballo</text>
+<text id="153">Enemigos reforzados</text>
+<text id="154">%null%</text>
+<text id="200">Escarabeos de lágrima</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

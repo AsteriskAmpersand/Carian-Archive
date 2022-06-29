@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Блок не спасает от некоторых типов урона</text>
+<text id="1001">Восстанавливает ОЗ при убийстве врагов</text>
+<text id="1002">Восстанавливает ОК при убийстве врагов</text>
+<text id="1003">Успешные атаки восстанавливают ОЗ</text>
+<text id="1004">Успешные атаки восстанавливают ОК</text>
+<text id="1005">Медленно восстанавливает ОЗ</text>
+<text id="1006">Медленно восстанавливает ОК</text>
+<text id="1007">Повышает скорость восстановления выносливости</text>
+<text id="1008">Во время атаки сила увеличивается</text>
+<text id="1009">Наносит урон себе</text>
+<text id="1010">Устраняет желание сражаться у зверей</text>
+<text id="1011">%null%</text>
+<text id="1012">Увеличивает мощь физических заклинаний</text>
+<text id="1013">%null%</text>
+<text id="1014">Увеличивает мощь заклинаний духов</text>
+<text id="1015">Увеличивает мощь заклинаний молнии</text>
+<text id="1016">Увеличивает мощь священных заклинаний</text>
+<text id="1017">Увеличивает область действия усилений и заклинаний лечения</text>
+<text id="1018">Справляется с любым заклинанием или молитвой</text>
+<text id="1019">Используется для сотворения чар блестящих камней</text>
+<text id="1020">Используется в качестве печати для молитв</text>
+<text id="1021">Серии ударов восстанавливают ОЗ</text>
+<text id="1022">Серии ударов восстанавливают ОК</text>
+<text id="1100">Усиливает кристальные чары</text>
+<text id="1101">Усиливает чары гравитации</text>
+<text id="1102">Усиливает чары шипов</text>
+<text id="1103">Усиливает чары смерти</text>
+<text id="1104">Усиливает чары полной луны</text>
+<text id="1105">Усиливает чары землекопа</text>
+<text id="1106">Усиливает чары блестящих клинков</text>
+<text id="1107">Усиливает чары карианского меча</text>
+<text id="1108">Усиливает чары чародея Азура</text>
+<text id="1109">Усиливает чары чародея Лусата</text>
+<text id="1110">Усиливает чары невидимости</text>
+<text id="1111">Усиливает молитвы Великанского пламени</text>
+<text id="1112">Усиливает молитвы фундаменталистов</text>
+<text id="1113">Усиливает звериные молитвы</text>
+<text id="1114">Усиливает молитвы культа драконов</text>
+<text id="1115">Усиливает молитвы Драконьего причастия</text>
+<text id="1116">Усиливает молитвы Яростного Пламени</text>
+<text id="1117">Усиливает чары лавы</text>
+<text id="1118">Усиливает молитвы Убийцы богов</text>
+<text id="6400">Слегка накапливает яд (&lt;?poisonATKpwr?&gt; ед.)</text>
+<text id="6401">Накапливает яд (&lt;?poisonATKpwr?&gt; ед.)</text>
+<text id="6402">Сильно накапливает яд (&lt;?poisonATKpwr?&gt; ед.)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Вызывает быстрое накопление яда (&lt;?poisonATKpwr?&gt; ед.)</text>
+<text id="6450">Слегка накапливает красную гниль (&lt;?diseaseATKpwr?&gt; ед.)</text>
+<text id="6451">Накапливает красную гниль (&lt;?diseaseATKpwr?&gt; ед.)</text>
+<text id="6452">Сильно накапливает красную гниль (&lt;?diseaseATKpwr?&gt; ед.)</text>
+<text id="6500">Слегка накапливает кровотечение (&lt;?bleedATKpwr?&gt; ед.)</text>
+<text id="6501">Накапливает кровотечение (&lt;?bleedATKpwr?&gt; ед.)</text>
+<text id="6502">Сильно накапливает кровотечение (&lt;?bleedATKpwr?&gt; ед.)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Вызывает быстрое накопление кровотечения (&lt;?bleedATKpwr?&gt; ед.)</text>
+<text id="6550">Слегка накапливает смерть (&lt;?curseATKpwr?&gt; ед.)</text>
+<text id="6551">Накапливает смерть (&lt;?curseATKpwr?&gt; ед.)</text>
+<text id="6552">Сильно накапливает смерть (&lt;?curseATKpwr?&gt; ед.)</text>
+<text id="6600">Слегка накапливает обморожение (&lt;?freezeATKpwr?&gt; ед.)</text>
+<text id="6601">Накапливает обморожение (&lt;?freezeATKpwr?&gt; ед.)</text>
+<text id="6602">Сильно накапливает обморожение (&lt;?freezeATKpwr?&gt; ед.)</text>
+<text id="6650">Слегка накапливает сон (&lt;?sleepATKpwr?&gt; ед.)</text>
+<text id="6651">Накапливает сон (&lt;?sleepATKpwr?&gt; ед.)</text>
+<text id="6652">Сильно накапливает сон (&lt;?sleepATKpwr?&gt; ед.)</text>
+<text id="6700">Слегка накапливает безумие (&lt;?madnessATKpwr?&gt; ед.)</text>
+<text id="6701">Накапливает безумие (&lt;?madnessATKpwr?&gt; ед.)</text>
+<text id="6702">Сильно накапливает безумие (&lt;?madnessATKpwr?&gt; ед.)</text>
+</entries>
+</fmg>

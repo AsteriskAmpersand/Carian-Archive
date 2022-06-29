@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Nessuna abilità
+
+Questo armamento non possiede abilità.
+Se l'armamento che impugni nell'altra mano ne possiede una, sarà usata quella.</text>
+<text id="100">Abilità: Artiglio leonino
+
+Abilità dei Mantorosso che combatterono al fianco del generale Radahn.
+Esegue una capriola in avanti e colpisce i nemici con l'armamento.</text>
+<text id="101">Abilità: Impalamento
+
+Abilità elaborata per superare gli scudi con gli armamenti perforanti. Chiamate a raccolta le energie, esegue un attacco che si incunea nella difesa nemica.</text>
+<text id="102">Abilità: Zanna perforante
+
+Abilità di Yura, cacciatore di Dita sanguinanti.
+Partendo con la lama in posizione orizzontale, sferra un potente affondo impossibile da bloccare.</text>
+<text id="103">Abilità: Taglio rotante
+
+Abilità prediletta dai guerrieri più abili.
+Fa roteare il corpo, infliggendo fendenti al nemico. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="104">%null%</text>
+<text id="105">Abilità: Carica avanti
+
+Carica velocemente in avanti con l'arma all'altezza del fianco, concludendo lo slancio con un affondo.
+Tieni premuto per coprire una distanza maggiore.</text>
+<text id="106">Abilità: Impronta (montante)
+
+Stringe l'armamento e abbassa il baricentro per meglio attutire l'impatto dei colpi.
+Se seguito da un attacco potente, permette di sferrare un fendente verso l'alto.</text>
+<text id="107">Abilità: Impronta (spazzata)
+
+Stringe l'armamento e abbassa il baricentro per meglio attutire l'impatto dei colpi.
+Se seguito da un attacco potente, permette di sferrare un fendente.</text>
+<text id="108">Abilità: Tributo di sangue
+
+Abilità del Voto di sangue conferita dal Signore del sangue.
+Esegui una torsione per prendere slancio, poi libera una raffica di affondi che sottraggono al bersaglio sangue e PV.</text>
+<text id="109">Abilità: Affondo ripetuto
+
+Esegue una torsione per prendere slancio, quindi libera una raffica di affondi.</text>
+<text id="110">Abilità: Furia di colpi
+
+Agita l'armamento con feroce trasporto.
+Tieni premuto per continuare a colpire. Può essere seguita da un attacco normale o potente.</text>
+<text id="111">Abilità: Colpi rotanti
+
+Abilità che permette di eseguire una serie di attacchi in rotazione con un'arma ad asta. Tieni premuto per continuare a colpire. Può essere seguita da un attacco normale o potente. Durante la rotazione, arresta i proiettili, incluse le frecce.</text>
+<text id="112">Abilità: Doppio taglio
+
+Abilità padroneggiata dagli spadaccini esperti.
+Abbassa il baricentro e sferra un fendente incrociato.
+Premi di nuovo per eseguire fino a due attacchi supplementari.</text>
+<text id="113">Abilità: Carica del prelato
+
+Percuoti il terreno con l'armamento, scatenando una fiammata, poi parti alla carica.
+Tieni premuto per continuare a caricare.</text>
+<text id="114">Abilità: Sfoderamento
+
+Abilità impiegata dagli spadaccini della terra dei giunchi.
+Rinfodera l'arma, tenendola sul fianco con compostezza.
+Seguita da un attacco normale o potente, permette di sferrare un rapido fendente.</text>
+<text id="115">Abilità: Posizionamento
+
+Abilità che ha inizio con la spada in posizione orizzontale.
+Con un attacco normale ti incunei nella difesa nemica colpendo dal basso, con un attacco potente corri e ti lanci in affondo.</text>
+<text id="116">Abilità: Caccia gigante
+
+Abilità sviluppata per contrastare avversari colossali.
+Abbassa il baricentro e scatta in avanti, sfruttando lo slancio per sferrare un fendente verso l'alto.</text>
+<text id="117">Abilità: Colpo di torcia
+
+Agita la torcia in avanti per dare fuoco ai nemici.
+Abilità particolarmente efficace contro i bersagli vulnerabili al fuoco.</text>
+<text id="118">Abilità: Fendente di Loretta
+
+Abilità di Loretta la guardia reale.
+Balza in avanti, infondendo nell'arma il potere della scintipietra, quindi accelera sferrando un fendente discendente.</text>
+<text id="119">Abilità: Volo venefico
+
+Colpisce con una lama intrisa di veleno.
+Se l'attacco successivo infierisce su un nemico avvelenato, infligge danni notevoli.</text>
+<text id="120">Abilità: Arma rotante
+
+Tecnica difensiva impiegata dalle principesse cariane.
+Solleva l'armamento a mezz'aria per farlo roteare vorticosamente, infliggendo ai bersagli colpi ripetuti.</text>
+<text id="121">%null%</text>
+<text id="122">Abilità: Assalto tempestoso
+
+Abilità che canalizza l'essenza di Grantempesta.
+Ammantati di un turbine di vento e spicca un balzo, percuotendo il terreno con l'armamento. L'attacco genera una nuova bufera nel punto d'impatto.</text>
+<text id="123">Abilità: Echi di tempesta
+
+Abilità che canalizza l'essenza di Grantempesta. Fai roteare l'armamento, circondandoti di venti di procella. Premi di nuovo per eseguire fino a due attacchi supplementari.</text>
+<text id="124">Abilità: Danza della spada
+
+Avventati sul bersaglio sferrando una serie di fendenti vorticanti verso l'alto.
+Premi di nuovo per chiudere con un colpo discendente.</text>
+<text id="125">Abilità: Catena vorticosa
+
+Attacca facendo roteare vorticosamente la testa di un flagello.
+Esegui un attacco normale o potente per sfruttarne lo slancio nel colpo successivo.</text>
+<text id="200">Abilità: Falange di scintilama
+
+Abilità usata dai cavalieri incantati di Caria. Genera un arco di piccole scintispade ad attacco automatico. Con un secondo attacco, colpisce in affondo.</text>
+<text id="201">Abilità: Lama sacra
+
+L'armamento può sferrare attacchi sacri e proiettare una lama dorata.
+L'armamento conserva l'essenza sacra per un periodo.</text>
+<text id="202">Abilità: Lancia di ghiaccio
+
+Abilità dei guerrieri al servizio di Ranni, la principessa lunare.
+Fai roteare l'armamento per risvegliarne la gelida magia, poi convogliala in una lancia di ghiaccio perforante.</text>
+<text id="203">Abilità: Ciottolo di scintipietra
+
+Abilità che imita la stregoneria scintipietra dello stesso nome.
+Seguita da un attacco potente, sfrutta il potere della scintipietra per colpire con un affondo perforante.</text>
+<text id="204">Abilità: Fendente sanguinario
+
+Abilità del Voto di sangue conferita dal Signore del sangue.
+Abbassa il baricentro e cospargi la lama con il tuo sangue, per sferrare un ampio fendente lacerante.</text>
+<text id="205">Abilità: Pugno assorbivita
+
+Abilità che testimonia una totale padronanza delle energie vitali.
+Un pugno lento e calibrato, infuso di energia, che tramortisce le vittime e sottrae loro PV. Efficace soltanto contro i nemici umanoidi.</text>
+<text id="206">%null%</text>
+<text id="207">Abilità: Eruzione
+
+Abilità usata dai cavalieri di Villa Vulcano.
+Pianta al suolo l'armamento per generare lava ribollente, poi sollevalo per scatenare un devastante getto eruttivo.</text>
+<text id="208">Abilità: Attacco devoto
+
+Solleva l'armamento in preghiera, poi abbattilo al suolo.
+Se colpisce un nemico, ripristina i tuoi PV e quelli degli alleati vicini.</text>
+<text id="209">Abilità: Gravitas
+
+Abilità dei campioni di alabastro dalla pelle di pietra.
+Conficca l'armamento nel terreno per creare un pozzo gravitazionale.
+Oltre a infliggere danni, attira i nemici verso l'esecutore.</text>
+<text id="210">Abilità: Lama Tempesta
+
+Abilità perduta di Grantempesta.
+L'armamento viene avvolto da venti tempestosi che possono essere scagliati in rapida successione.</text>
+<text id="211">%null%</text>
+<text id="212">Abilità: Battiterra
+
+Pianta al suolo l'armamento e convoglia la tua forza in un'onda d'urto di portata sismica.
+Se seguita da un attacco potente, permette di eseguire un colpo in spazzata.</text>
+<text id="213">Abilità: Terra aurea
+
+Pianta al suolo l'armamento e convoglia la tua forza in un'emanazione di energia sacra sotto forma di dardi dorati. Se seguita da un attacco potente, permette di eseguire un colpo in spazzata.</text>
+<text id="214">Abilità: Attacco fiammante
+
+Proietta in avanti un ampio ventaglio di fiamme.
+Seguita da un attacco potente, permette di portare un colpo in affondo ad ampio raggio.
+Ammanta di fuoco l'armamento.</text>
+<text id="215">%null%</text>
+<text id="216">Abilità: Folgore
+
+Abilità degli adepti del drago antico della capitale.
+Solleva l'armamento per evocare un fulmine.
+Consente di lanciare saette in rapida successione.</text>
+<text id="217">Abilità: Fendente del fulmine
+
+Invoca il potere del fulmine nell'armamento, poi sferra un colpo discendente per scatenare un'esplosione folgorante.
+L'armamento conserva il potere del fulmine per un periodo.</text>
+<text id="218">Abilità: Fasti cariani
+
+Abilità che incarna il prestigio dei reali di Caria.
+Trasforma l'arma in uno spadone magico e sferra un fendente discendente.
+È possibile caricare l'abilità fino a due volte, aumentandone l'efficacia.</text>
+<text id="219">Abilità: Spadone cariano
+
+Abilità che incarna il prestigio dei reali di Caria.
+Trasforma l'arma in uno spadone magico e sferra un fendente discendente.
+È possibile caricare l'abilità, aumentandone l'efficacia.</text>
+<text id="220">Abilità: Squarcio dell'oblio
+
+Abilità perduta appartenuta a eroi di tempi antichi.
+Solleva l'armamento per ammantarlo di un vuoto dilaniante, poi scaglialo in avanti come un affilato proiettile.</text>
+<text id="221">Abilità: Tornado di nera fiamma
+
+Fai vorticare l'armamento sopra la testa, poi conficcalo al suolo per scatenare un furioso vortice di fiamme nere.
+Tieni premuto per generare un tornado di fiamme mentre fai roteare l'armamento.</text>
+<text id="222">Abilità: Sacro anello di luce
+
+Abilità usata dai comandanti dei cavalieri marcescenti. Convoglia un sacro anello di luce nell'armamento, da scagliare come un proiettile.
+Può essere lanciata in rapida sequenza.</text>
+<text id="223">Abilità: Respiro di fuoco
+
+Soffia sulla fiamma della torcia, creando un ampio fronte di fuoco davanti all'esecutore. Le fiamme sul terreno continueranno a bruciare per un periodo.</text>
+<text id="224">Abilità: Lama di sangue
+
+Ferisciti per cospargere l'armamento di sangue e scaglia una lama che causa sanguinamento.
+È possibile lanciare raffiche in rapida successione.</text>
+<text id="225">Abilità: Fendente fantasma
+
+Abilità ispirata ai ricordi dei cavalieri notturni. Materializza un'apparizione del loro istruttore, che accompagna l'esecuzione di un affondo ascendente. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="226">Abilità: Lancia spettrale
+
+Abilità usata dai cavalieri acefali del mausoleo.
+Scaglia una lancia incorporea all'indirizzo dei nemici.</text>
+<text id="227">Abilità: Foschia glaciale
+
+Ammanta di ghiaccio l'armamento e sprigiona una gelida foschia con un fendente.
+L'armamento conserva il potere del gelo per un periodo.</text>
+<text id="228">Abilità: Foschia velenosa
+
+Cospargi di veleno l'armamento e sprigiona una foschia tossica con un fendente.
+L'armamento conserva il potere del veleno per un periodo.</text>
+<text id="300">Abilità: Colpo di scudo
+
+Impugna saldamente lo scudo, per poi lanciarti di peso contro il nemico senza abbassare la guardia.
+Respinge i bersagli deboli e può indurre al vacillamento.</text>
+<text id="301">Abilità: Scudo barricata
+
+Abilità resa celebre da ser Neidhardt.
+Concentra nello scudo tutta la propria energia, rendendolo più resistente ai colpi per un periodo.</text>
+<text id="302">Abilità: Parata
+
+Eseguita con il giusto tempismo, respinge l'attacco in mischia del nemico e lo sbilancia, fornendo l'opportunità di infierire con un colpo critico.</text>
+<text id="303">Abilità: Parata di brocchiero
+
+Usa questa abilità mentre un nemico ti attacca per deviare il suo colpo e sbilanciarlo.
+Questa parata è più veloce di quella normale.</text>
+<text id="304">Abilità: Parata
+
+Eseguita con il giusto tempismo, respinge l'attacco in mischia del nemico e lo sbilancia, fornendo l'opportunità di infierire con un colpo critico.</text>
+<text id="305">Abilità: Rappresaglia cariana
+
+Agita lo scudo per dissolvere le stregonerie e gli incantesimi in arrivo, rispedendoli al mittente sotto forma di scintilame.
+Può essere usata anche come una normale parata.</text>
+<text id="306">Abilità: Muro tempestoso
+
+Agita lo scudo per generare un fronte di vento che respinge frecce e altri proiettili fisici.
+Può essere usata anche come una normale parata.</text>
+<text id="307">Abilità: Parata aurea
+
+Invoca la magia dell'Albero Madre, poi usa lo scudo per respingere gli attacchi dei nemici e sbilanciarli.
+Efficace anche a una certa distanza.</text>
+<text id="308">Abilità: Schianto di scudo
+
+Impugna lo scudo a due mani e scatta in avanti mantenendo alta la guardia. I nemici più deboli vengono respinti all'indietro e possono vacillare.
+Tieni premuto per prolungare la durata della carica.</text>
+<text id="309">Abilità: Barriera di Thops
+
+Agita lo scudo per innalzare un campo di forza magico in grado di respingere stregonerie e incantesimi.
+Può essere usata anche come una normale parata.</text>
+<text id="400">Abilità: Fino in fondo
+
+Potente tecnica che sfrutta un'impugnatura di traverso dell'arco pesante.
+Posiziona l'arco, poi torcine la corda per scagliare una freccia pesante in grado di trapassare i nemici.</text>
+<text id="401">Abilità: Sbarramento
+
+Tecnica d'arco con impugnatura orizzontale.
+Prepara l'arco, poi scaglia una raffica di frecce alla velocità del pensiero.</text>
+<text id="402">Abilità: Colpo poderoso
+
+Tecnica d'arco con impugnatura obliqua.
+Prepara l'arco, poi tendine la corda fino al punto di rottura per potenziare l'attacco e trapassare la difesa nemica.</text>
+<text id="403">%null%</text>
+<text id="404">Abilità: Colpo incantato
+
+Tecnica d'arco che permea la freccia di essenza spirituale.
+Gli strali risultanti acquisiscono maggiore velocità e possono cambiare traiettoria per braccare il bersaglio.</text>
+<text id="405">Abilità: Colpo celeste
+
+Tecnica d'arco con impugnatura bassa.
+Prepara l'arco e scaglia una freccia verso il cielo perché colpisca il nemico nella sua parabola discendente.</text>
+<text id="406">Abilità: Pioggia di strali
+
+Tecnica d'arco con impugnatura bassa.
+Prepara l'arco e scaglia una salva di frecce verso il cielo perché ricadano come pioggia sul nemico.</text>
+<text id="407">%null%</text>
+<text id="501">Abilità: Pestone brinoso
+
+Sferra un violento pestone a terra, diffondendo una scia di gelida foschia che infligge assideramento.</text>
+<text id="502">Abilità: Pestone Tempesta
+
+Abilità che canalizza l'essenza di Grantempesta.
+Sferra un violento pestone a terra, scatenando una breve tempesta.</text>
+<text id="503">Abilità: Calcio
+
+Spingi via il nemico con un calcio alto.
+Utile contro gli avversari chiusi in difesa, poiché permette di sbilanciarli.
+Gli strumenti più semplici possono rivelarsi i più efficaci.</text>
+<text id="504">Abilità: Ariete folgorante
+
+Abilità ispirata ai ruzzoloni degli arieti.
+Innalza al cielo un terrificante belato, poi ammantati di fulmine e rotola in avanti, anche ripetutamente.</text>
+<text id="505">Abilità: Fiamma del Mantorosso
+
+Abilità dei Mantorosso che combatterono al fianco del generale Radahn.
+Proietta una potente fiammata che si espande in un ampio arco.</text>
+<text id="506">Abilità: Schianto a terra
+
+Spicca un balzo e schiantati al suolo con violenza.
+L'impatto produce possenti onde d'urto che si propagano in ogni direzione.</text>
+<text id="507">Abilità: Schianto aureo
+
+Abilità usata dagli avatar che proteggono gli Alberi Madre minori.
+Spicca un balzo e schiantati al suolo con violenza.
+L'impatto produce onde d'urto auree che si propagano in ogni direzione.</text>
+<text id="508">Abilità: Onde di tenebra
+
+Conficca l'armamento al suolo per sprigionare tre ondate di oscurità.
+Se seguita da un attacco potente, permette di sferrare un fendente in spazzata.</text>
+<text id="509">Abilità: Colpo di Hoarah Loux
+
+Percuoti il terreno con entrambe le mani, scatenando un'onda sismica.
+Premi di nuovo per percuotere il terreno una seconda volta.</text>
+<text id="600">Abilità: Determinazione
+
+Abilità da autentici cavalieri.
+Avvicina l'armamento al volto e riafferma la tua convinzione, potenziando l'attacco successivo.</text>
+<text id="601">Abilità: Coraggio del cavaliere
+
+Abilità usata dai cavalieri al servizio del Lord ancestrale.
+Avvicina l'armamento di piatto al volto e riafferma la tua convinzione, potenziando notevolmente l'attacco successivo.</text>
+<text id="602">Abilità: Mossa del sicario
+
+Al costo di una ferita autoinflitta, questa abilità permette di occultare la propria presenza.
+Rende praticamente invisibili e copre il rumore dei passi.</text>
+<text id="603">Abilità: Voto aureo
+
+Abilità tramandata sin dall'antichità tra i cavalieri della capitale.
+Solleva l'armamento e giura di onorare l'Albero Madre in battaglia. Conferisce all'esecutore e agli alleati un incremento della potenza d'attacco e della difesa.</text>
+<text id="604">Abilità: Sacro ordine
+
+Abilità dei cavalieri fondamentalisti dell'Ordine aureo.
+Esegue un saluto e conferisce un'essenza sacra all'armamento.
+Altamente efficace contro coloro che vivono nella morte.</text>
+<text id="605">Abilità: Ordine condiviso
+
+Abilità dei cavalieri fondamentalisti dell'Ordine aureo.
+Conferisce agli armamenti dell'esecutore e degli alleati vicini un'essenza sacra.
+Altamente efficace contro coloro che vivono nella morte.</text>
+<text id="606">Abilità: Seppuku
+
+Tecnica proibita degli assassini della terra dei giunchi.
+Squarciati il ventre con la lama per cospargerla di sangue. Incrementa la potenza d'attacco e rende più efficaci gli effetti che causano sanguinamento.</text>
+<text id="607">Abilità: Lama rocciosa
+
+Questa abilità può manipolare la gravità.
+Conficca l'armamento al suolo, rinforzandolo con le rocce estratte dalla terra. Incrementa la potenza d'attacco e permette di sbilanciare i nemici più agevolmente.</text>
+<text id="650">Abilità: Ruggito barbarico
+
+Ruggisci come una belva feroce per infonderti coraggio e incrementare la potenza d'attacco.
+Finché è attiva, gli attacchi potenti scatenano una letale combinazione di colpi.</text>
+<text id="651">Abilità: Grido di guerra
+
+Galvanizzati con un grido bellicoso, incrementando la potenza d'attacco.
+Finché è attiva, gli attacchi potenti diventano attacchi in carica.</text>
+<text id="652">Abilità: Ruggito della bestia
+
+Emette un ruggito bestiale che lacera l'aria in forma di proiettile frontale.</text>
+<text id="653">Abilità: Ruggito del troll
+
+Fissa l'orizzonte e ruggisci intensamente, travolgendo i nemici con devastanti onde d'urto.
+Se seguita da un attacco potente, esegue uno schianto discendente.</text>
+<text id="654">Abilità: Ruggito dello spaccone
+
+Annuncia la tua presenza con un fiero ruggito.
+Incrementa potenza d'attacco, difesa e velocità di recupero del vigore.</text>
+<text id="700">Abilità: Tenacia
+
+Ancorati al suolo e preparati all'impatto, incrementando temporaneamente la stabilità.
+Riduce i danni subiti per la durata dell'esecuzione.</text>
+<text id="701">Abilità: Voto dell'indomito
+
+Abilità degli antichi guerrieri dell'Albero Madre.
+Solleva lo scudo per ammantarti di aureo potere e acquisire una temporanea invincibilità.</text>
+<text id="702">Abilità: Terra Santa
+
+Innalza lo scudo per consacrare la terra all'Albero Madre, ripristinando PV nel tempo e incrementando la difesa per l'esecutore e gli alleati nell'area d'effetto.</text>
+<text id="800">Abilità: Passo veloce
+
+Abilità per guerrieri agili e scaltri.
+Esegue un veloce scatto consentendo di girare intorno ai bersagli agganciati.</text>
+<text id="801">Abilità: Passo del limiere
+
+Abilità che permette di schivare con estrema rapidità, rendendosi temporaneamente invisibili. Più scattante di un normale passo veloce, copre una maggiore distanza.
+Consente di girare intorno ai bersagli agganciati.</text>
+<text id="802">Abilità: Rapace delle nebbie
+
+Rannicchiati, occultando temporaneamente la tua presenza.
+Un paio d'ali ti trarranno al volo in salvo se un attacco dovesse colpirti.</text>
+<text id="850">Abilità: Pallida esca
+
+Reggi l'armamento in silenziosa preghiera per evocare una pallida ombra al tuo cospetto.
+L'apparizione attirerà l'attenzione, e l'ostilità, dei nemici umanoidi che non siano in combattimento. Efficace sui semiumani, anche se già impegnati in battaglia.</text>
+<text id="1000">Abilità unica: Vampa di fede
+
+Le fiamme della fede di Birac divampano all'interno del contenitore cranico, generando una pioggia di palle di fuoco in tutte le direzioni quando viene innalzato.
+Premi ripetutamente per tenerlo sollevato, proseguendo l'attacco.</text>
+<text id="1001">Abilità unica: Fiotto rovente
+
+Preparato lo scudo, lancia dalla canna una palla di fuoco che esplode all'impatto.</text>
+<text id="1002">Abilità unica: Lingue di fuoco
+
+Preparato lo scudo, lancia violenti getti di fuoco dalle lingue nelle sue fauci.
+Tieni premuto per continuare a emettere fiamme. Può essere usato in movimento.</text>
+<text id="1003">Abilità unica: Bolla dell'oracolo
+
+Soffia nel corno per generare una bolla magica che si dirige verso il bersaglio fluttuando dolcemente.</text>
+<text id="1004">Abilità unica: Pioggia di bolle
+
+Soffia nel corno per generare una spuma di bolle magiche che fluttuano dolcemente prima di rovesciarsi sul bersaglio.</text>
+<text id="1005">Abilità unica: Bolla dell'oracolo maggiore
+
+Soffia nel corno per generare una colossale bolla magica che si dirige verso il bersaglio fluttuando dolcemente.</text>
+<text id="1006">Abilità unica: Mare di magma
+
+Rotea sulla testa una frusta incandescente, coprendo di lava l'area attorno all'esecutore per un periodo.
+Tieni premuto per continuare a mulinarla.</text>
+<text id="1007">Abilità unica: Morso di vipera
+
+Scuoti velocemente lo scudo per infondere vita nella serpe bronzea, incitandola ad avventarsi sul nemico per morderlo.</text>
+<text id="1008">Abilità unica: Spadone della luna
+
+Solleva la spada per attingere al bagliore della luna nera.
+Potenzia gli attacchi magici per un periodo e infonde la lama di gelo.
+I colpi caricati generano esplosioni di luce lunare.</text>
+<text id="1009">Abilità unica: Dolore di Siluria
+
+Esegue un affondo a spirale con l'arma, ammantandola di un vortice di vento.
+Gli attacchi caricati scaraventano via i nemici e possono scagliare il tornado in avanti.</text>
+<text id="1010">Abilità unica: Chiamata alle armi
+
+Solleva uno stendardo da guerra, ordinando l'adunata.
+Incrementa la potenza d'attacco dell'esecutore e degli alleati vicini.</text>
+<text id="1011">Abilità unica: Siate miei testimoni!
+
+Dona alla testa del drago un fuggevole afflato vitale, tenendola alta per sputare fiamme nell'area davanti all'esecutore.</text>
+<text id="1012">Abilità unica: Lama danzante di Eochaid
+
+Infonde la spada di energia, poi la lancia contro i nemici per un attacco perforante che infligge danni nel tempo per la sua durata.
+Caricare l'abilità incrementa il raggio e la durata dell'attacco.</text>
+<text id="1013">Abilità unica: Eclissi di sole
+
+Solleva le ali di grancorno per evocare una nube di gas tossici.
+Riduce per un periodo le difese di chi vi entra in contatto.</text>
+<text id="1014">Abilità unica: Fiamme del ghermitore
+
+Solleva la spada sacra per ammantarla di fiamme blasfeme, quindi abbassala per scagliare un colpo.
+Assorbe PV dai nemici che entrano in contatto con le fiamme.</text>
+<text id="1015">Abilità unica: Grido di Milos
+
+Emette un orrido urlo maledetto che limita tutte le riduzioni dei danni e le resistenze di stato dei nemici vicini.
+Finché è attiva, gli attacchi potenti diventano combinazioni di colpi.</text>
+<text id="1016">Abilità unica: Lama di sangue Reduvia
+
+Attacca con il pugnale maledetto, trasformando il sangue che gronda eternamente dalla lama in proiettili taglienti che causano sanguinamento.
+È possibile lanciare raffiche in rapida successione.</text>
+<text id="1017">Abilità unica: Dardo di scintipietra
+
+Abilità che imita la stregoneria Ciottolo di scintipietra.
+Carica l'attacco per trasformarlo in Dardo di scintipietra.
+Se seguita da un attacco potente, esegue un affondo perforante.</text>
+<text id="1018">Abilità unica: Forma fluente
+
+L'armamento assume forma liquida per un periodo.
+Utilizzandolo come una frusta, è possibile attaccare con colpi ad ampio raggio.</text>
+<text id="1019">Abilità unica: Postura notte e fiamma
+
+Tieni la spada in posizione orizzontale e preparati a lanciare una stregoneria.
+L'attacco normale lancia la stregoneria Cometa notturna, quello potente genera un'esplosione di fiamme davanti all'esecutore.</text>
+<text id="1020">Abilità unica: Onda dorata
+
+Carica la spada di un antico potere aureo per poi scagliarlo contro i nemici.
+L'onda dorata si propaga frontalmente, falciando tutti gli avversari sul suo cammino.</text>
+<text id="1021">Abilità unica: Furia della fiamma spettrale
+
+Agita la spada per infondervi la fiamma spettrale, aggiungendo danni magici agli attacchi e rendendo gelida la lama.</text>
+<text id="1022">Abilità unica: Ritorno all'ordine
+
+Solleva l'armamento in segno di saluto, generando un'esplosione dorata.
+Premi ripetutamente per lanciare onde di luce dorata.</text>
+<text id="1023">Abilità unica: Foschie del sonno
+
+Rilascia davanti all'esecutore un'impercettibile foschia violacea.
+La nube induce al sonno chiunque la attraversi.</text>
+<text id="1024">Abilità unica: Rituale della lancia
+
+Scaglia verso l'alto la lancia per levare al cielo le tue preghiere, evocando un diluvio di lance spettrali.</text>
+<text id="1025">Abilità unica: Assalto del lupo
+
+Dopo aver infuso il potere del ghiaccio nello spadone, spicca un salto e conficca la lama nel terreno, infine estraila per causare una gelida esplosione.</text>
+<text id="1026">Abilità unica: Forma della nube
+
+Trasforma l'esecutore in una nube temporalesca scarlatta per un periodo, consentendogli di volare sui nemici e avventarsi su di loro con una lama ammantata di fulmini.
+Tieni premuto per prolungare la durata della trasformazione in nube.</text>
+<text id="1027">Abilità unica: Taglio maledetto
+
+Raccogli le forze e scatta in avanti per infliggere un fendente diagonale.
+La scia di sangue della lama è seguita da un'esplosione infuocata.
+Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="1028">Abilità unica: Danza dell'acqua
+
+Avvicinati al nemico con la leggerezza di un uccello d'acqua e infliggi una serie di fendenti rapidi e aggraziati.
+Premi ripetutamente per eseguire un massimo di due attacchi supplementari.</text>
+<text id="1029">Abilità unica: Sfondamento dorato
+
+Dopo aver spiccato un salto, l'esecutore infonde di luce il frammento di runa, quindi lo schianta a terra con violenza.
+La tecnica più nota dell'eroico Radagon.</text>
+<text id="1030">Abilità unica: In ginocchio, è un ordine!
+
+Percuote il terreno con l'ascia di Godrick, producendo due devastanti onde d'urto.
+Premi di nuovo per lanciare un'onda d'urto supplementare.</text>
+<text id="1031">Abilità unica: Ruggito regale
+
+Lancia un possente grido di guerra che incrementa l'attacco, scagliando al contempo un'onda d'urto che non può essere parata abbassando il baricentro. Finché è attivo l'effetto, gli attacchi potenti diventano in affondo.</text>
+<text id="1032">Abilità unica: Grido astrale
+
+Levate al cielo le spade con un ruggito, l'esecutore attira a sé i nemici con un'onda gravitazionale.
+Premi di nuovo per schiantare al suolo le spade cariche di gravità.</text>
+<text id="1033">Abilità unica: Ondata distruttiva
+
+Solleva in alto la spada per poi percuotere il terreno, lanciando un'ondata di forza di gravità.</text>
+<text id="1034">Abilità unica: Manna del sangue
+
+Alza al cielo la lancia sacra per trafiggere la madre amorfa. Colpisci un massimo di tre volte, creando esplosioni di sangue a ogni ferita.
+Ricopre l'armamento di fiamma sanguinaria per un periodo.</text>
+<text id="1035">Abilità unica: Forma fluente
+
+L'armamento assume forma liquida per un periodo. Utilizzandolo come una frusta, è possibile attaccare con colpi ad ampio raggio prima di calare sul nemico come una goccia mortale.</text>
+<text id="1036">Abilità unica: Lama della morte
+
+Scatena il potere della runa della morte per lanciare proiettili affilati. Oltre alle ferite iniziali, le lame riducono i PV massimi dell'avversario e continuano a infliggere danni per un periodo.</text>
+<text id="1037">Abilità unica: Lama dorata
+
+Spiccato un salto, l'esecutore infonde di fiamme dorate l'armamento, scagliando contro il nemico un singolo, affilato proiettile.
+Infligge danni sacri.</text>
+<text id="1038">Abilità unica: Morte fatidica
+
+Scatena i resti della morte fatidica, conficcando lo spadone nel terreno per evocare una miriade di fendenti. Oltre alle ferite iniziali, questa tecnica riduce i PV massimi del nemico e infligge danni per un periodo.</text>
+<text id="1039">Abilità unica: Ruota vorticosa
+
+Scaglia al suolo la ruota per farla mulinare alla massima velocità. Tieni premuto per prolungare la rotazione. Può essere utilizzata in movimento, consentendo di spingere l'armamento contro i nemici.</text>
+<text id="1040">Abilità unica: Presa del campione d'alabastro
+
+Conficca l'armamento nel terreno per creare un pozzo gravitazionale. Oltre a infliggere danni, attira i nemici verso l'esecutore.
+L'area d'effetto è più estesa rispetto a Gravitas.</text>
+<text id="1041">Abilità unica: Repulsione del campione di onice
+
+Conficca l'armamento nel terreno per creare un pozzo gravitazionale. Oltre a infliggere danni, scaraventa i nemici lontano dall'esecutore.</text>
+<text id="1042">Abilità unica: Voto di vendetta
+
+Giura sul tuo spadone di vendicare l'intero clan, incrementando tutti gli attributi per un periodo. Accresce anche la stabilità per la durata del giuramento.</text>
+<text id="1043">Abilità unica: Grandine di lame
+
+Evoca una gelida folgore e la infonde nella lama, usandola per colpire il nemico.
+L'effetto dura per un periodo.</text>
+<text id="1044">Abilità unica: Artiglio della bestia regale
+
+Percuote il terreno con il martello, devastandolo con i suoi cinque artigli ferini.</text>
+<text id="1045">Abilità unica: Danza della fiamma
+
+Infondi la fiamma dei giganti nella treccia rossa e falla schioccare ad ampio raggio con una serie di agili colpi.</text>
+<text id="1046">Abilità unica: Colpo d'artiglio
+
+Gonfiandosi, il dito si flette all'indietro per accumulare potenza, rilasciandola contro i nemici con un colpo devastante.</text>
+<text id="1047">Abilità unica: Nube di stelle
+
+Infonde di magia le stelle della progenie per eseguire un'ampia spazzata.
+L'attacco genera una nube di stelle oscure che esplode dopo un breve periodo.</text>
+<text id="1048">Abilità unica: Fiamma spettrale
+
+Esegue un affondo con la punta della clava avvolta di fiamme spettrali.
+Seguita da un attacco normale, incendia il terreno di fronte all'utilizzatore.
+L'attacco potente genera una devastante esplosione.</text>
+<text id="1049">Abilità unica: Antica lancia folgorante
+
+Infondi l'armamento con il fulmine scarlatto dei draghi antichi e scaglialo come una lancia.
+Caricare l'abilità ne incrementa la potenza.</text>
+<text id="1050">Abilità unica: Affondo frenetico
+
+L'esecutore compie un balzo e pianta a terra la lancia avvolta dalla Fiamma della frenesia, generando una sconvolgente esplosione.
+Infligge follia sia ai nemici che all'esecutore.</text>
+<text id="1051">Abilità unica: Anello luminoso di Miquella
+
+Evoca un anello di luce per poi scagliarlo frontalmente.
+Può essere lanciata in rapida sequenza.</text>
+<text id="1052">Abilità unica: Tempra aurea
+
+Incrocia le spade per infondere essenza sacra nei loro attacchi.
+Finché è attiva, gli attacchi potenti scateneranno combinazioni di colpi a due mani.</text>
+<text id="1053">Abilità unica: Ultimi rituali
+
+Solleva l'epitaffio per infondere l'effetto del Sacro ordine all'esecutore e agli alleati vicini.
+Particolarmente efficace per donare l'eterno riposo a coloro che vivono nella morte.</text>
+<text id="1054">Abilità unica: Lama ineluttabile
+
+Infonde la lama cifrata di luce, incrementandone la lunghezza, per poi eseguire un ampio e rapido fendente.
+Questo attacco è impossibile da bloccare.</text>
+<text id="1055">Abilità unica: Lama danzante di Eochaid
+
+Infonde la spada di energia poi la lancia contro i nemici in un attacco roteante. La spada infligge danni mentre rotea con forza.
+Carica l'attaco per incrementare il raggio e la durata della rotazione.</text>
+<text id="1167">Abilità unica: Lama di adipocera
+
+Abilità perduta di antichi eroi.
+Punta la spada al cielo per liberare il potere dell'adipocera, per poi scagliarla in avanti come un proiettile affilato.</text>
+<text id="1168">Abilità unica: Tormenta di Zamor
+
+Conficca la spada curva a terra, accumulando potere prima di innescare una tormenta di ghiaccio che sferza l'area circostante.</text>
+<text id="1169">Abilità unica: Pioggia di Radahn
+
+Tecnica da arciere eseguita in postura bassa.
+Prepara l'arco e lancia verso l'alto una raffica di frecce che si abbatte come pioggia sui nemici.</text>
+<text id="1170">Abilità unica: Nera fiamma della regina
+
+Ricopre la lama della nera fiamma deicida e sferra un colpo ad ampio raggio. Premi di nuovo per eseguire un attacco supplementare. Le fiamme nere continuano a infliggere danni per un periodo.</text>
+<text id="1171">Abilità unica: Destrezza dinastica
+
+Schiva agilmente un attacco distanziandoti dal nemico. Seguita da un attacco potente, sferra un rapido affondo. Un ulteriore attacco potente permette di eseguire un colpo ad ampio raggio.</text>
+<text id="1172">Abilità unica: Pioggia magmatica
+
+Sferra un colpo rotante coprendo di lava l'area attorno all'esecutore.
+Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="1173">Abilità unica: Nube di stelle
+
+Infonde di magia le ali della progenie per emettere una nube di stelle oscure che esplode dopo un breve periodo.</text>
+<text id="1174">Abilità unica: Vampa mortale
+
+Incendia il sole spento con le fiamme del Principe della morte, infliggendo ai nemici l'alterazione di stato morbo mortale.
+Premi di nuovo per abbassare l'armamento, generando un'esplosione.</text>
+<text id="1175">Abilità unica: Destrezza del limiere
+
+Colpisce verso l'alto con la Zanna del limiere, sfruttando lo slancio per eseguire una capriola all'indietro e allontanarsi dal nemico. Seguita da un attacco potente, attiva l'abilità Passo del limiere.</text>
+<text id="1176">Abilità unica: Ghigliottina di magma
+
+Impugna la scaglialama con entrambe le mani, in una posizione che ricorda le fauci di un drago. Spiccato un salto, percuoti il terreno causando un'esplosione di magma. Premi di nuovo per eseguire un attacco dall'alto.</text>
+<text id="1177">Abilità unica: Incisione sanguinaria
+
+Coagula una lama di sangue maledetto e sferra attacchi incrociati ripetuti. Premi di nuovo per eseguire ulteriori attacchi consecutivi. </text>
+<text id="1178">Abilità unica: Chiaro di luna fugace
+
+Rinfodera l'arma, tenendola sul fianco con compostezza.
+Seguita da un attacco normale o potente, estrae la spada e sferra un fendente fulmineo. Entrambi gli attacchi generano un'onda di luce.</text>
+<text id="1179">Abilità unica: Danza sanguinaria
+
+Spicca un balzo verso il nemico e tempesta di colpi il nemico.
+Premi di nuovo per eseguire un attacco supplementare che si conclude con una manovra evasiva.</text>
+<text id="1180">%null%</text>
+<text id="1181">Abilità: Lama occulta di Miquella
+
+Evoca una lama benedetta dalla protezione di Miquella ed esegue un attacco che infligge danni elevati a coloro che vivono nella morte.</text>
+<text id="1182">Abilità unica: Dominio del sapere
+
+Solleva lo scettro per manifestare il reame dell'Onnisciente. Riduce la resistenza ai danni magici e sacri di coloro all'interno dell'area, esecutore incluso.</text>
+<text id="1183">Abilità unica: Divoratore di mondi
+
+Carica lo scettro di magia e percuoti il terreno per assorbire i PV dei nemici vicini.</text>
+<text id="1184">Abilità unica: Rancore familiare
+
+Scuoti delicatamente le teste di bronzo per evocare spiriti rancorosi che inseguono i nemici.
+L'angoscia di una sposa e dei suoi figli alimenta un'ira maledetta.</text>
+<text id="1185">Abilità unica: Evocazioni di Rosus
+
+Solleva l'ascia per evocare coloro che si sono smarriti nella morte.
+Tre scheletri emergono a distanza dall'esecutore per assistere in battaglia prima di svanire.</text>
+<text id="1186">Abilità unica: Tuoni e fulmini
+
+Infondi il potere del fulmine nelle taglienti ali dell'armamento e agitalo per ammantarti di una violenta tempesta. Premi di nuovo per eseguire fino a due attacchi rotanti supplementari.
+L'armamento resterà intriso del potere del fulmine per un periodo.</text>
+<text id="1187">Abilità unica: Falange sacra
+
+Scatena il potere di un incantesimo occulto per generare una schiera di lance dorate davanti all'esecutore.</text>
+<text id="1188">Abilità unica: Caccia al serpente
+
+Sferra un affondo rabbioso, poi premi di nuovo per proseguire con un fendente verso l'alto. Affrontando un grande serpente, il vero potere dell'armamento si manifesta con la comparsa di una lunga lama di luce.</text>
+<text id="1189">Abilità unica: Ali angeliche
+
+Infondi il potere della luce nelle taglienti ali dell'armamento e balza sul nemico, colpendolo con un fendente.
+Le ali bianche impediscono per un periodo di curarsi usando un'ampolla di lacrime.</text>
+<text id="1190">Abilità unica: Calcio tempestoso
+
+Conficca la lama della gamba protesica nel terreno, generando una tempesta.
+Seguita da un attacco potente, salta per sferrare un fendente intriso di fulmini.</text>
+<text id="1191">Abilità unica: Lama ineluttabile
+
+Infonde la lama cifrata di luce, per poi eseguire un repentino affondo.
+Questo attacco è impossibile da bloccare.</text>
+<text id="1192">Abilità unica: Pastorale stregato
+
+Concentra la magia nella scintipietra per risvegliare un'antica stregoneria, generando proiettili fluttuanti in grado di seguire autonomamente il nemico.</text>
+<text id="1193">Abilità unica: Schianto dell'Albero Madre
+
+Spicca un balzo e schiantati al suolo con violenza. L'impatto produce onde d'urto auree che si propagano in ogni direzione.
+Si tratta della più potente tra le abilità basate sullo schianto.</text>
+<text id="1194">Abilità unica: Dardo gravitazionale
+
+Infonde di fulmini gravitazionali la fauce della belva meteoritica, richiamando dal cielo una saetta nelle vicinanze dell'esecutore.
+Consente di lanciare strali in rapida successione.</text>
+<text id="1195">Abilità unica: Fiamme del sonno
+
+Soffia sulla fiamma della candela, generando una lingua di fuoco violaceo che serpeggia sul terreno.
+Le fiamme hanno effetti soporiferi sui nemici.</text>
+<text id="1196">Abilità unica: Contrappasso aureo
+
+Prepara lo scudo per attivare le sue difese magiche.
+Blocca stregonerie e incantesimi, replicando con il potere aureo.</text>
+<text id="1197">Abilità unica: Furia contagiosa
+
+Provoca l'ira della medusa e lascia che scorra nelle tue membra.
+Incrementa la potenza d'attacco per un periodo.</text>
+<text id="1198">Abilità unica: Vortice di Ordovis
+
+Attingi al potere del Crogiolo per consentire alla spada di mulinare a mezz'aria, percuotendo alla fine il terreno.
+Accumula potenza se caricata.</text>
+<text id="1199">Abilità unica: Arma rotante
+
+Concentra la magia nella scintipietra per consentire allo scettro di roteare vorticosamente a mezz'aria.
+Infligge attacchi magici a chiunque venga toccato.</text>
+</entries>
+</fmg>

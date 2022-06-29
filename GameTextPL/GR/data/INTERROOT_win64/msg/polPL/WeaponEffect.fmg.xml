@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Zasłona nie neguje części obrażeń</text>
+<text id="1001">Przywraca PŻ z pokonanych wrogów</text>
+<text id="1002">Przywraca PS z pokonanych wrogów</text>
+<text id="1003">Udane ataki przywracają PŻ</text>
+<text id="1004">Udane ataki przywracają PS</text>
+<text id="1005">Powoli przywraca PŻ</text>
+<text id="1006">Powoli przywraca PS</text>
+<text id="1007">Zwiększa tempo odzyskiwania energii</text>
+<text id="1008">Podczas trwania ataku zwiększa się jego siła</text>
+<text id="1009">Przyjmij zadane przez siebie obrażenia</text>
+<text id="1010">Odstrasza bestie</text>
+<text id="1011">%null%</text>
+<text id="1012">Zwiększa moc zaklęć fizycznych</text>
+<text id="1013">%null%</text>
+<text id="1014">Zwiększa moc zaklęć duchowych</text>
+<text id="1015">Zwiększa moc zaklęć błyskawic</text>
+<text id="1016">Zwiększa moc świętych zaklęć</text>
+<text id="1017">Zwiększa obszar działania wzmocnień i zaklęć leczących</text>
+<text id="1018">Rzuca wybrany czar lub inkantację</text>
+<text id="1019">Użyj jako katalizatora do magii błyskamieni</text>
+<text id="1020">Użyj jako pieczęć do inkantacji</text>
+<text id="1021">Kolejne ataki przywracają PŻ</text>
+<text id="1022">Kolejne ataki przywracają PS</text>
+<text id="1100">Wzmacnia czary kryształów</text>
+<text id="1101">Wzmacnia czary gravitas</text>
+<text id="1102">Wzmacnia czary cierni</text>
+<text id="1103">Wzmacnia czary śmierci</text>
+<text id="1104">Wzmacnia czary pełni księżyca</text>
+<text id="1105">Wzmacnia górnicze czary</text>
+<text id="1106">Wzmacnia czary błyskostrzy</text>
+<text id="1107">Wzmacnia czary karyjskiego błyskomiecza</text>
+<text id="1108">Wzmacnia pierwotną magię Azura</text>
+<text id="1109">Wzmacnia pierwotną magię Lusata</text>
+<text id="1110">Wzmacnia czary niewidzialności</text>
+<text id="1111">Wzmacnia ogniste inkantacje olbrzymów</text>
+<text id="1112">Wzmacnia inkantacje fundamentalistów</text>
+<text id="1113">Wzmacnia inkantacje bestii</text>
+<text id="1114">Wzmacnia inkantacje kultu smoków</text>
+<text id="1115">Wzmacnia inkantacje smoczej komunii</text>
+<text id="1116">Wzmacnia inkantacje oszalałego płomienia</text>
+<text id="1117">Wzmacnia magmowe czary</text>
+<text id="1118">Wzmacnia inkantacje zabójcy bogów</text>
+<text id="6400">Powoduje małe nagromadzenie trucizny (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Powoduje nagromadzenie trucizny (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">Powoduje duże nagromadzenie trucizny (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Powoduje potężne nagromadzenie trucizny (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Powoduje małe nagromadzenie szkarłatnej zgnilizny (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">Powoduje nagromadzenie szkarłatnej zgnilizny (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">Powoduje duże nagromadzenie szkarłatnej zgnilizny (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">Powoduje małe nagromadzenie krwawienia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">Powoduje nagromadzenie krwawienia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">Powoduje duże nagromadzenie krwawienia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Powoduje potężne nagromadzenie krwawienia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">Powoduje małe nagromadzenie śmierci (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">Powoduje nagromadzenie śmierci (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">Powoduje duże nagromadzenie śmierci (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Powoduje małe nagromadzenie mrozu (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">Powoduje nagromadzenie mrozu (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">Powoduje duże nagromadzenie mrozu (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">Powoduje małe nagromadzenie snu (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">Powoduje nagromadzenie snu (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">Powoduje duże nagromadzenie snu (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">Powoduje małe nagromadzenie szaleństwa (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">Powoduje nagromadzenie szaleństwa (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">Powoduje duże nagromadzenie szaleństwa (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

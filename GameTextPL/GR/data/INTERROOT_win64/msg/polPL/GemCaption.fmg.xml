@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="84">%null%</text>
+<text id="85">%null%</text>
+<text id="86">%null%</text>
+<text id="87">%null%</text>
+<text id="88">%null%</text>
+<text id="89">%null%</text>
+<text id="90">%null%</text>
+<text id="91">%null%</text>
+<text id="92">%null%</text>
+<text id="93">%null%</text>
+<text id="94">%null%</text>
+<text id="95">%null%</text>
+<text id="96">%null%</text>
+<text id="97">%null%</text>
+<text id="98">%null%</text>
+<text id="99">%null%</text>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="102">%null%</text>
+<text id="103">%null%</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">%null%</text>
+<text id="107">%null%</text>
+<text id="108">%null%</text>
+<text id="109">%null%</text>
+<text id="110">%null%</text>
+<text id="111">%null%</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">%null%</text>
+<text id="121">%null%</text>
+<text id="122">%null%</text>
+<text id="123">%null%</text>
+<text id="124">%null%</text>
+<text id="125">%null%</text>
+<text id="126">%null%</text>
+<text id="127">%null%</text>
+<text id="128">%null%</text>
+<text id="129">%null%</text>
+<text id="130">%null%</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">%null%</text>
+<text id="134">%null%</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">%null%</text>
+<text id="138">%null%</text>
+<text id="139">%null%</text>
+<text id="140">%null%</text>
+<text id="141">%null%</text>
+<text id="142">%null%</text>
+<text id="143">%null%</text>
+<text id="144">%null%</text>
+<text id="145">%null%</text>
+<text id="146">%null%</text>
+<text id="147">%null%</text>
+<text id="148">%null%</text>
+<text id="149">%null%</text>
+<text id="150">%null%</text>
+<text id="151">%null%</text>
+<text id="152">%null%</text>
+<text id="153">%null%</text>
+<text id="154">%null%</text>
+<text id="155">%null%</text>
+<text id="156">%null%</text>
+<text id="157">%null%</text>
+<text id="158">%null%</text>
+<text id="159">%null%</text>
+<text id="160">%null%</text>
+<text id="161">%null%</text>
+<text id="162">%null%</text>
+<text id="163">%null%</text>
+<text id="164">%null%</text>
+<text id="165">%null%</text>
+<text id="166">%null%</text>
+<text id="167">%null%</text>
+<text id="168">%null%</text>
+<text id="169">%null%</text>
+<text id="170">%null%</text>
+<text id="171">%null%</text>
+<text id="172">%null%</text>
+<text id="173">%null%</text>
+<text id="174">%null%</text>
+<text id="175">%null%</text>
+<text id="176">%null%</text>
+<text id="177">%null%</text>
+<text id="178">%null%</text>
+<text id="179">%null%</text>
+<text id="180">%null%</text>
+<text id="181">%null%</text>
+<text id="182">%null%</text>
+<text id="183">%null%</text>
+<text id="184">%null%</text>
+<text id="185">%null%</text>
+<text id="186">%null%</text>
+<text id="187">%null%</text>
+<text id="188">%null%</text>
+<text id="189">%null%</text>
+<text id="190">%null%</text>
+<text id="191">%null%</text>
+<text id="192">%null%</text>
+<text id="193">%null%</text>
+<text id="194">%null%</text>
+<text id="1000">%null%</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="10000">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Lwi pazur: umiejętność Lwich Grzyw, które walczyły u boku generała Radahna. Umożliwia przewrót w przód, by uderzyć przeciwnika bronią”.
+
+Można użyć na mieczach, toporach i młotach (z wyjątkiem małego oręża i mieczy kolnych).</text>
+<text id="10100">Ten popiół wojny nadaje orężowi właściwość „wymyślny”
+i następującą umiejętność:
+
+„Nadziewające pchnięcie: umiejętność broni kolnej pozwalająca
+pokonać tarczę. Zbierz siłę i zrób wypad, by wykonać potężne pchnięcie, które przebije się przez gardę przeciwnika”.
+
+Do użytku na broni kolnej (z wyjątkiem olbrzymiej broni).</text>
+<text id="10200">Ten popiół wojny nadaje orężowi właściwość „wymyślny” i następującą umiejętność:
+
+„Przebijający kieł: umiejętność Yury, Łowcy krwawych palców. Trzymając ostrze poziomo, wykonaj potężne pchnięcie, którego nie można zablokować”.
+
+Do użytku na średniej i dużej broni kolnej.</text>
+<text id="10300">Ten popiół wojny nadaje orężowi właściwość „wymyślny”
+i następującą umiejętność:
+
+„Cięcie z obrotu: ulubiona technika walki zwinnych wojowników. Tnij wrogów, obracając się. Wielokrotne naciśnięcie umożliwia wykonanie dodatkowego ataku”.
+
+Do użytku na mieczach, toporach i broni drzewcowej 
+(z wyjątkiem olbrzymiej broni).</text>
+<text id="10500">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości”
+i następującą umiejętność:
+
+„Szarża naprzód: szybka szarża z bronią na wysokości biodra.
+Siła impetu pozwala wykonać pchnięcie. Przytrzymaj przycisk,
+aby pokonać większy dystans”.
+
+Do użytku na broni drzewcowej przystosowanej do pchnięć, ciężkich mieczach kolnych oraz podwójnych ostrzach.</text>
+<text id="10600">Ten popiół wojny nadaje orężowi właściwość „ciężki”
+i następującą umiejętność:
+
+„Tupnięcie (cięcie w górę): mocno chwyć oręż i zejdź nisko, co pozwoli przyjąć większość ataków przeciwnika bez odepchnięcia.
+Połącz z silnym atakiem, aby wykonać cios w górę”.
+
+Można użyć na mieczach, toporach i młotach (z wyjątkiem małych i średnich mieczy).</text>
+<text id="10700">Ten popiół wojny nadaje orężowi właściwość „ciężki”
+i następującą umiejętność:
+
+„Tupnięcie (zamaszyste): mocno chwyć oręż i zejdź nisko, co pozwoli przyjąć większość ataków przeciwnika bez odepchnięcia.
+Połącz z silnym atakiem, aby wykonać zamaszysty cios”.
+
+Można użyć na mieczach, toporach i młotach (z wyjątkiem małych i średnich mieczy).</text>
+<text id="10800">Ten popiół wojny nadaje orężowi właściwość „krwawy”
+i następującą umiejętność:
+
+„Krwawy podatek: umiejętność przekazywana ważnym wasalom Pana Krwi. Obróć, by zgromadzić moc, następnie zadaj grad pchnięć, które pozbawią cel krwi i PŻ”.
+
+Do użytku na orężu kolnym (z wyjątkiem olbrzymiej broni).</text>
+<text id="10900">Ten popiół wojny nadaje orężowi właściwość „wymyślny” i następującą umiejętność:
+
+„Napierające pchnięcie: obróć się, by nabrać impetu, następnie wykonaj serię pchnięć”.
+
+Do użytku na średniej i dużej broni kolnej (z wyjątkiem olbrzymiej broni).</text>
+<text id="11000">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Szał: wykonuj szalone cięcia bronią. Przytrzymaj, by nie przerywać uderzeń. Można połączyć z normalnym lub silnym atakiem”.
+
+Można użyć na toporach i młotach, a także na zakrzywionych 
+i wielkich mieczach (z wyjątkiem olbrzymiej broni).</text>
+<text id="11100">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” i następującą umiejętność:
+
+„Uderzenia z obrotu: umiejętność wykonywania ataków obrotowych bronią drzewcową. Przytrzymaj, by nie przerywać ataku. Można połączyć z normalnym lub silnym atakiem. W czasie obrotów odbijane są pociski, na przykład strzały”.
+
+Można użyć na broni drzewcowej (z wyjątkiem wielkich włóczni).</text>
+<text id="11200">Ten popiół wojny nadaje orężowi właściwość „wymyślny” i następującą umiejętność:
+
+„Podwójne cięcie: umiejętność najlepszych szermierzy. Wykonaj cięcie krzyżowe z niskiej postawy. Wielokrotne naciskanie pozwala wykonać dwa kolejne ataki.
+
+Można użyć na mieczach i broni drzewcowej zdolnej do cięć (z wyjątkiem olbrzymiej broni).</text>
+<text id="11300">Ten popiół wojny nadaje orężowi właściwość „sztuka płomienia” 
+i następującą umiejętność:
+
+„Szarża prałata: uderz orężem w ziemię, by wystrzeliły z niej płomienie, a następnie zaszarżuj. Przytrzymaj przycisk, by nie przerywać szarży”.
+
+Można użyć na dużych i olbrzymich toporach oraz młotach.</text>
+<text id="11400">Ten popiół wojny nadaje orężowi właściwość „wymyślny”
+i następującą umiejętność:
+
+„Dobycie: umiejętność zabójców z Krainy Trzcin. Schowaj
+broń i trzymaj ją przy biodrze w wyważonej postawie. Potem wyprowadź zwykły lub silny atak, by wykonać szybkie cięcie”.
+
+Do użytku na katanach.</text>
+<text id="11500">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Konfrontacja: umiejętność zaczyna się z bronią trzymaną poziomo. Następnie wykonaj zwykły atak, by ciąć w górę przez zasłonę wroga, albo silny atak, aby pchnąć w biegu”.
+
+Do użytku na prostych mieczach.</text>
+<text id="11600">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” i następującą umiejętność:
+
+„Polowanie na olbrzymy: umiejętność stworzona do walki z olbrzymimi wrogami. Rusz naprzód z niskiej postawy i przenieś impet w niespodziewane pchnięcie w górę”.
+
+Do użytku na dużej i olbrzymiej broni kolnej, włóczniach oraz podwójnych ostrzach.</text>
+<text id="11700">Ten popiół wojny nadaje orężowi umiejętność: Atak pochodnią.</text>
+<text id="11800">Ten popiół wojny nadaje orężowi właściwość „magiczny”
+i następującą umiejętność:
+
+„Cięcie Loretty: umiejętność Loretty, królewskiego rycerza.
+Skocz naprzód, napełniając klingę błyskamieniem, a potem,
+spadając, wykonaj szybkie cięcie”.
+
+Do użytku na broni drzewcowej i podwójnych ostrzach.</text>
+<text id="11900">Ten popiół wojny nadaje orężowi właściwość „zatruty” i następującą umiejętność:
+
+„Lot trującej ćmy: wykonaj cięcie zatrutym ostrzem. Jeśli kolejny cios trafi otrutego wroga, otrzyma on dużo większe obrażenia”.
+
+Do użytku na małych i średnich mieczach (z wyjątkiem podwójnych ostrzy).</text>
+<text id="12000">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Wirujący oręż: umiejętność obronna używana przez karyjskie księżniczki. Podnosi uzbrojenie w powietrze, a następnie wprawia je w gwałtowne wirowanie. Osoby, których dotknie dostają kolejne ataki”.
+
+Do użytku na małych i średnich mieczach, młotach, toporach i broni drzewcowej (z wyjątkiem wielkich włóczni).</text>
+<text id="12100">%null%</text>
+<text id="12200">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Burzowe natarcie: jedna z umiejętności, które przywołują nawałnice Burzowego Całunu. Skocz przed siebie w otaczającą cię burzę i pchij orężem w dół. Atak wywoła kolejne wichry w miejscu uderzenia.”
+
+Do użytku na broni drzewcowej przystosowanej do pchnięć, ciężkich mieczach kolnych oraz podwójnych ostrzach.</text>
+<text id="12300">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Władca Burz: jedna z umiejętności, które nadają kierunek nawałnicom Burzowego Całunu. Wpraw oręż w wirowanie, wywołując dookoła siebie burzę. Kolejne naciśnięcia pozwalają wyprowadzić następne dwa ataki”.
+
+Do użytku na mieczach przystosowanych do cięć, młotach, toporach i broni drzewcowej (z wyjątkiem małej i olbrzymiej broni).</text>
+<text id="12400">Ten popiół wojny nadaje orężowi właściwość „wymyślny”
+i następującą umiejętność:
+
+„Taniec miecza: zbliż się szybko, aby wykonać serię cięć
+z obrotu w górę. Następnie wykonaj silny atak, aby zakończyć zamachem w dół”.
+
+Do użytku na mieczach, toporach i broni drzewcowej zdolnej do cięć (z wyjątkiem olbrzymiej broni i wielkich włóczni).</text>
+<text id="12500">Ten popiół wojny nadaje orężowi umiejętność: Miazga.</text>
+<text id="20000">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Falanga błyskostrza: umiejętność stosowana przez
+zaklętych rycerzy służących karyjskiej rodzinie królewskiej. Utwórz nad sobą łuk magicznych błyskamiennych ostrzy, które będą automatycznie atakować wrogów. Następnie wykonaj silny atak, by przejść do wypadu z pchnięciem”.
+
+Do użytku na mieczach i broni drzewcowej przystosowanej do pchnięć (z wyjątkiem olbrzymiej broni).</text>
+<text id="20100">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Święte ostrze: nadaje atakom esencję świętości i wystrzeliwuje złoty pocisk. Oręż na pewien czas zachowuje esencję świętości."
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem małego oręża i biczów).</text>
+<text id="20200">Ten popiół wojny nadaje orężowi właściwość „zimny” 
+i następującą umiejętność:
+
+„Lodowa włócznia: umiejętność wojowników, którzy służyli Królowej Księżyca Ranni. Wykonaj młynek bronią, by użyć mocy zimna, a następnie utwórz z niej przebijającą lodową włócznię.
+
+Do użytku na broni drzewcowej przystosowanej do pchnięć i podwójnych ostrzach.</text>
+<text id="20300">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Błyskamienny pocisk: umiejętność korzystająca
+z magii błyskamieni o tej samej nazwie. Wykonaj silny atak po użyciu, by wyprowadzić ostateczne pchnięcie wykonywane, gdy oręż nadal posiada moc błyskamieni”.
+
+Do użytku na mieczach i broni drzewcowej przystosowanej do pchnięć (z wyjątkiem olbrzymiej broni).</text>
+<text id="20400">Ten popiół wojny nadaje orężowi właściwość „krwawy” 
+i następującą umiejętność:
+
+„Krwawe cięcie: umiejętność przysięgi krwi używana
+przez obdarzonych mocą Pana Krwi. Z niskiej postawy zanurz ostrze we własnej krwi, by wykonać szerokie, rozdzierające krwawe cięcie”.
+
+Do użytku na mieczach (z wyjątkiem olbrzymiej broni).</text>
+<text id="20500">Ten popiół wojny nadaje orężowi właściwość „okultystyczny” 
+i następującą umiejętność:
+
+„Pięść kradzieży życia: umiejętność pokazująca mistrzostwo sztuki kontrolowania energii życiowej. Powolny, kontrolowany cios pięścią naładowaną energią, który pozbawia wrogów przytomności i odbiera im PŻ. Działa tylko na humanoidalnych przeciwników”.
+
+Do użytku na pięściach i szponach.</text>
+<text id="20700">Ten popiół wojny nadaje orężowi właściwość „ognisty” 
+i następującą umiejętność:
+
+„Erupcja: umiejętność rycerzy służących w Wulkanicznym Dworze. Uderz bronią w ziemię, by stworzyć źródło lawy, która wystrzeli niczym gejzer”.
+
+Do użytku na dużych i olbrzymich mieczach, toporach oraz młotach.</text>
+<text id="20800">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Modlitewne uderzenie: unieś oręż podczas modlitwy, następnie uderz nim w ziemię. Jeśli ten natchniony cios trafi wroga, ty i twoi pobliscy sojusznicy odzyskacie PŻ”.
+
+Do użytku na toporach i młotach.</text>
+<text id="20900">Ten popiół wojny nadaje orężowi właściwość "magiczny" 
+i następującą umiejętność:
+
+„Gravitas: umiejętność alabastrowych władców o kamiennej skórze. Uderz bronią w ziemię i zrań przeciwników, wywołując nagły wzrost siły grawitacji, która ich przyciągnie”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem małego oręża i biczów).</text>
+<text id="21000">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” i następującą umiejętność:
+
+„Burzowe ostrze: zapomniana umiejętność z Burzowego
+Całunu. Spowij broń potężnymi wichrami burzowymi,
+które możesz wystrzelić przed siebie. Możesz wystrzelić
+kilka pocisków w krótkim czasie”.
+
+Do użytku na mieczach (z wyjątkiem olbrzymiej broni i podwójnych ostrzy).</text>
+<text id="21200">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Trzęsienie ziemi: wbij oręż w ziemię, następnie zbierz siłę, by wywołać potężną falę uderzeniową. Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie”.
+
+Do użytku na wielkich toporach, wielkich młotach, wielkich włóczniach i olbrzymiej broni.</text>
+<text id="21300">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Złota kraina: wbij oręż w ziemię, a potem zbierz siłę, by wywołać wybuch świętej energii, która przemienia się w złote strzałki. Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie”.
+
+Do użytku na wielkich toporach, wielkich młotach, wielkich włóczniach i olbrzymiej broni.</text>
+<text id="21400">Ten popiół wojny nadaje orężowi właściwość „ognisty” 
+i następującą umiejętność:
+
+„Płonące uderzenie: umiejętność tworząca na wprost ognisty łuk. Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie. Ponadto oręż zostanie spowity ogniem”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem olbrzymiej broni i biczy).</text>
+<text id="21600">Ten popiół wojny nadaje orężowi właściwość „burzowy” 
+i następującą umiejętność:
+
+„Grom: umiejętność kultu starożytnych smoków
+ze stolicy. Unieś oręż, by przyzywać błyskawicę. Możesz szybko przyzwać wiele błyskawic jedna za drugą”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="21700">Ten popiół wojny nadaje orężowi właściwość „burzowy” 
+i następującą umiejętność:
+
+„Cięcie błyskawicy: przyzwij błyskawicę do swojej broni, następnie tnij w dół, by wywołać falę uderzeniową. Oręż na krótki czas zachowa moc błyskawic”.
+
+Do użytku na mieczach, toporach i młotach.</text>
+<text id="21800">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Karyjski majestat: karyjski majestat królewski przekuty 
+w umiejętność. Zamień ostrze w magiczny wielki miecz i uderz nim w dół. Tę umiejętność można naładować, co zwiększy jej siłę maksymalnie o dwa poziomy”.
+
+Do użytku na mieczach (z wyjątkiem olbrzymiej broni).</text>
+<text id="21900">Ten popiół wojny nadaje orężowi właściwość „magiczny”
+i następującą umiejętność:
+
+„Karyjski wielki miecz: karyjski majestat królewski przekuty
+w umiejętność. Zamień ostrze w magiczny wielki miecz i
+uderz nim w dół. Tę umiejętność można naładować, by zwiększyć jej siłę”.
+
+Do użytku na mieczach (z wyjątkiem olbrzymiej broni).</text>
+<text id="22000">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Cięcie próżni: utracona umiejętność dawnych bohaterów. Unieś oręż, by otoczyła go próżnia, a następnie uderz nim w przód, ciskając pociskiem w kształcie ostrza”.
+
+Do użytku na mieczach i toporach (z wyjątkiem olbrzymich toporów).</text>
+<text id="22100">Ten popiół wojny nadaje orężowi właściwość „sztuka płomienia” i następującą umiejętność:
+
+„Tornado czarnego płomienia: zakręć orężem nad głową, następnie uderz nim w ziemię, by wywołać potężny wir czarnych płomieni. Przytrzymaj przycisk, by stworzyć niewielkie tornado podczas wirowania oręża”.
+
+Do użytku na broni drzewcowej i podwójnych ostrzach.</text>
+<text id="22200">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Święty pierścień światła: umiejętność dowódców rycerzy czystej zgnilizny. Gromadź święty pierścień światła w twoim orężu, następnie wystrzel go przed siebie. Możesz wystrzelić wiele pierścieni światła jeden po drugim”.
+
+Do użytku na broni drzewcowej (z wyjątkiem wielkich włóczni).</text>
+<text id="22300">Ten popiół wojny nadaje orężowi umiejętność: Ognisty oddech.</text>
+<text id="22400">Ten popiół wojny nadaje orężowi właściwość „krwawy” 
+i następującą umiejętność:
+
+„Krwawe ostrze: zrań siebie, by pokryć oręż krwią, następnie wypuść latające krwawe ostrze, które wywołuje krwawienia. Możesz wystrzelić wiele krwawych ostrzy, jedno po drugim”.
+
+Do użytku na małych i średnich mieczach.</text>
+<text id="22500">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Widmowe cięcie: umiejętność stworzona na cześć Nocnej Kawalerii. Tworzy zjawę dawnego instruktora rycerzy. Atakuj 
+u boku tej zjawy, wykonując wypad z cięciem w górę”.
+
+Do użytku na broni drzewcowej i podwójnych ostrzach (z wyjątkiem wielkich włóczni).</text>
+<text id="22600">Ten popiół wojny nadaje orężowi właściwość „okultystyczny” 
+i następującą umiejętność:
+
+„Widmowa lanca: umiejętność bezgłowych rycerzy mauzoleum. Rzuć we wrogów niematerialną włócznię”.
+
+Do użytku na broni drzewcowej (z wyjątkiem kos).</text>
+<text id="22700">Ten popiół wojny nadaje orężowi właściwość „zimny” 
+i następującą umiejętność:
+
+„Chłodna mgła: pokryj oręż szronem, następnie wykonaj cięcie, by stworzyć przed sobą lodowatą mgłę. Oręż na krótko zachowa moc zimna”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem małego oręża i biczów).</text>
+<text id="22800">Ten popiół wojny nadaje orężowi właściwość „zatruty” 
+i następującą umiejętność:
+
+„Trująca mgła: pokryj oręż trucizną, następnie wykonaj cięcie, by stworzyć przed sobą trującą mgłę. Oręż na krótko zachowa moc trucizny”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem małego oręża i biczów).</text>
+<text id="30000">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Cios tarczą: weź tarczę w dwie ręce, następnie wykorzystaj masę twojego ciała, by taranować wrogów, nadal trzymając gardę. Słabsi wrogowie zostaną odepchnięci w tył, mogą nawet stracić równowagę”.
+
+Do użytku na każdej tarczy.</text>
+<text id="30100">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Barykada z tarczy: umiejętność rozsławiona przez
+sir Neidhardta. Skup energię w tarczy, tymczasowo
+wzmacniając ją, by odeprzeć potężniejsze ciosy”.
+
+Do użytku na każdej tarczy.</text>
+<text id="30200">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Odbicie: użyj tej umiejętności w chwili ataku wręcz wroga, 
+aby go odbić i przełamać postawę przeciwnika. Da ci to okazję do zadania trafienia krytycznego”.
+
+Do użytku na sztyletach, zakrzywionych mieczach, mieczach kolnych, pięściach, szponach oraz małych i średnich tarczach.</text>
+<text id="30300">Ten popiół wojny nadaje orężowi umiejętność: Odbicie puklerzem.</text>
+<text id="30400">Ten popiół wojny nadaje orężowi umiejętność: Odbicie.</text>
+<text id="30500">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Karyjski odwet: machnij tarczą, by rozproszyć nadchodzące zaklęcia i inkantacje, przekształcając magię w odwetowe błyskostrza. Można jej także użyć do zwykłego odbicia ataku”.
+
+Do użytku na małych i średnich tarczach.</text>
+<text id="30600">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Burzowa ściana: machnij tarczą, by stworzyć przed sobą ścianę burzy, odbijając strzały i inne fizyczne pociski. Można jej także użyć do zwykłego odbicia ataku”.
+
+Do użytku na małych i średnich tarczach.</text>
+<text id="30700">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Złote parowanie: wykonaj inkantację Złotego Drzewa, następnie machnij tarczą, aby odbić ataki wroga i przełamać jego postawę”.
+
+Do użytku na małych i średnich tarczach.</text>
+<text id="30800">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Szarża z tarczą: weź tarczę w dwie ręce i zaszarżuj naprzód, cały czas się osłaniając. Słabsi wrogowie zostaną odepchnięci do tyłu, a nawet mogą się zachwiać. Przytrzymaj przycisk, aby wydłużyć czas trwania szarży naprzód”.
+
+Do użytku na każdej tarczy.</text>
+<text id="30900">Ten popiół wojny nie posiada żadnej właściwości
+i zastępuje obecną umiejętność następującą:
+
+„Brak umiejętności: ten oręż nie ma umiejętności. 
+Jeśli oręż w drugiej ręce ją ma, zostanie ona użyta”.
+
+Do użytku na tarczach i pochodniach.</text>
+<text id="31000">Ten popiół wojny nadaje orężowi właściwość "magiczny" 
+i następującą umiejętność:
+
+„Bariera Thopsa: stwórz magiczne pole siłowe, wymachując tarczą, by odbić zaklęcia i inkantacje. Można jej także użyć do zwykłego odbicia ataku”.
+
+Do użytku na małych i średnich tarczach.</text>
+<text id="40000">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Na wylot: potężna umiejętność łucznicza, wykorzystująca wielki łuk trzymany w pozycji pochylonej. Przygotuj wielki łuk, 
+a następnie skręć cięciwę, by wystrzelić potężną strzałę, która może przebić się przez wrogów”.
+
+Do użytku na wielkich łukach.</text>
+<text id="40100">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Grad: umiejętność łucznicza, wykorzystująca łuk trzymany poziomo. Przygotuj łuk, a następnie wystrzel serię strzałów tak szybkich, że oko nie będzie w stanie ich dostrzec”.
+
+Do użytku na lekkich łukach.</text>
+<text id="40200">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Potężny strzał: umiejętność łucznicza wykonywana z postawy pochylonej. Przygotuj łuk, a następnie naciągnij cięciwę do oporu, aby zwiększyć siłę strzału, przebijając wrogą zasłonę”.
+
+Do użytku na lekkich i długich łukach.</text>
+<text id="40400">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Zaklęty strzał: umiejętność łucznicza, która ożywia strzałę duchową esencją. W rezultacie strzała poleci szybciej niż zwykłe
+i zmieni trajektorię lotu, aby podążać za celem”.
+
+Do użytku na lekkich i długich łukach.</text>
+<text id="40500">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Strzał w niebo: umiejętność łucznicza wykonywana
+z niskiej postawy. Przygotuj łuk, a następnie wystrzel strzałę wysoko w powietrze tak, by zatoczyła łuk, dzięki czemu wracając uderzy we wroga”.
+
+Do użytku tylko na lekkich i długich łukach.</text>
+<text id="40600">Ten popiół wojny nie posiada żadnej właściwości,
+ale nadaje orężowi następującą umiejętność:
+
+„Deszcz strzał: umiejętność łucznicza wykonywana z postawy niskiej. Przygotuj łuk, następnie wypuść w niebo serię strzał, by zasypać wroga pociskami”.
+
+Do użytku na każdym łuku.</text>
+<text id="40700">%null%</text>
+<text id="50100">Ten popiół wojny nadaje orężowi właściwość „zimny” 
+i następującą umiejętność:
+
+„Szronowe stąpnięcie: tupnij z całej siły, by po ziemi przetoczyła się fala mroźnej mgły. Wywołuje ona efekt zimna”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50200">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Burzowe stąpnięcie: jedna z umiejętności, które nadają kierunek nawałnicom Burzowego Całunu. Tupnij z całej siły, by wywołać krótkotrwałą burzę”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50300">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Kopnięcie: odepchnij wroga wysokim kopnięciem. Skuteczne przeciwko zasłaniającym się wrogom, może przełamać postawę wroga. Czasami najprostsze narzędzie jest najskuteczniejsze”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50400">Ten popiół wojny nadaje orężowi właściwość „burzowy” 
+i następującą umiejętność:
+
+„Taran błyskawicy: umiejętność inspirowana trykaniem baranów. Wydaj z siebie przerażające beczenie, by spowiły cię błyskawice, gdy ruszysz do przodu. Uderzenia można wykonywać jedno po drugim”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50500">Ten popiół wojny nadaje orężowi właściwość „ognisty” 
+i następującą umiejętność:
+
+„Płomień Lwiej Grzywy: umiejętność Lwich Grzyw, które walczyły u boku generała Radahna. Wywołaj ognisty wybuch, przetoczy się on szerokim łukiem na wprost ciebie”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50600">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Rzucenie na ziemię: skocz wysoko w powietrze i z impetem spadnij na ziemię. Ta spektakularna wywrotka wysyła we wszystkie strony potężną falę uderzeniową”.
+
+Do użytku na każdym orężu do walki w zarciu.</text>
+<text id="50700">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Złoty rzut: umiejętność awatarów broniących pomniejszych Złotych drzew. Skocz wysoko w powietrze i z impetem spadnij na ziemię. Ta spektakularna wywrotka wysyła we wszystkie strony złote fale uderzeniowe”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="50800">Ten popiół wojny nadaje orężowi właściwość „magiczny” 
+i następującą umiejętność:
+
+„Fale ciemności: wbij oręż w ziemię, by wywołać trzy fale ciemności. Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie”.
+
+Do użytku na wielkich toporach, wielkich młotach, wielkich włóczniach i olbrzymiej broni.</text>
+<text id="50900">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Tąpnięcie Hoarah Louxa: uderz obiema rękami w ziemię, by wywołać wstrząs i falę uderzeniową. Naciśnij przycisk ponownie, by uderzyć w ziemię po raz drugi”.
+
+Do użytku na każdym orężu do walki w zarciu.</text>
+<text id="60000">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Gorliwość: rycerska umiejętność. Przytrzymaj oręż przed twarzą
+i złóż przysięgę, co wzmocni twój następny atak”.
+
+Do użytku na każdym oręzu do walki w zwarciu.</text>
+<text id="60100">Ten popiół wojny nadaje orężowi właściwość „wysokiej jakości” 
+i następującą umiejętność:
+
+„Rycerski hart: umiejętność rycerzy, którzy niegdyś służyli Eldeńskiemu Władcy. Przytrzymaj oręż przed twarzą i złóż przysięgę, co znacznie wzmocni twój następny atak”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="60200">Ten popiół wojny nadaje orężowi właściwość „okultystyczny” 
+i następującą umiejętność:
+
+„Gambit zabójcy: umiejętność maskująca obecność użytkownika kosztem zadania mu rany. Staje się on prawie niewidzialny 
+i stąpa bezszelestnie”.
+
+Do użytku na małych i średnich mieczach prostych oraz mieczach kolnych.</text>
+<text id="60300">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Złota przysięga: umiejętność przekazywana w złotym rodzie. Unieś oręż i przysięgnij oddanie w boju czci Złotemu Drzewu, by dać sobie i pobliskim sojusznikom większą siłę ataku 
+i obrony”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="60400">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Święty Porządek: umiejętność fundamentalistycznych rycerzy Złotego Porządku. Wykonaj salut i nasyć swój oręż esencją świętości. To umiejętność bardzo skuteczna przeciwko tym, którzy żyją w śmierci”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="60500">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Wspólny Porządek: umiejętność fundamentalistycznych rycerzy Złotego Porządku. Poświęć oręż swój i pobliskich sojuszników, by ataki zyskały esencję świętości. To umiejętność bardzo skuteczna przeciwko tym, którzy żyją w śmierci”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="60600">Ten popiół wojny nadaje orężowi właściwość „krwawy” 
+i następującą umiejętność:
+
+„Seppuku: zabroniona technika zabójców z Krainy Trzcin. Wbij ostrze w swój brzuch, aby splamić je krwią. Zwiększa siłę ataku oraz skuteczność efektów krwawienia”.
+
+Do użytku na broni drzewcowej przystosowanej do pchnięć, ciężkich mieczach kolnych oraz podwójnych ostrzach.</text>
+<text id="60700">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Wyszczerbione ostrze: umiejętność manipulowania grawitacją. Zakop broń w ziemi, wyciągając z niej kamienie dla wzmocnienia oręża. Zwiększa siłę ataku i ułatwia przełamanie postawy wroga”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem biczów).</text>
+<text id="65000">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Barbarzyński ryk: wydaj z siebie zwierzęcy ryk, aby zebrać się na duchu i zwiększyć siłę ataku. Kiedy jest on aktywny, silne ataki zmieniają się w dzikie serie”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem sztyletów, mieczy do pchnięć i biczów).</text>
+<text id="65100">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Okrzyk bojowy: podnieś się na duchu okrzykiem bojowym, zwiększając siłę ataku. Kiedy jest on aktywny, silne ataki zmieniają się w szarżę”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem sztyletów, mieczy do pchnięć i biczów).</text>
+<text id="65200">Ten popiół wojny nadaje orężowi właściwość „wymyślny” 
+i następującą umiejętność:
+
+„Ryk bestii: wydaj z siebie ryk bestii, który zamieni powietrze w gnający pocisk”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="65300">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Ryk trolla: spójrz w dal i wydaj intensywny ryk, generując potężne fale uderzeniowe, które odrzucają otaczających cię wrogów. Następnie wykonaj silny atak, aby uderzyć orężem”.
+
+Do użytku na dużych i olbrzymich mieczach, toporach oraz młotach.</text>
+<text id="65400">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Ryk samochwały: ogłoś swoją obecność chełpliwym rykiem. Zwiększa siłę ataku, obronę i szybkość regeneracji energii”.
+
+Do użytku na orężu do walki w zwarciu (z wyjątkiem sztyletów, mieczy do pchnięć i biczów).</text>
+<text id="70000">Ten popiół wojny nadaje orężowi właściwość „ciężki” 
+i następującą umiejętność:
+
+„Wytrwałość: umocnij swoją postawę i przygotuj się na nadchodzące ataki, na krótko zwiększając równowagę. Użycie obniża otrzymywane obrażenia”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="70100">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Przysięga niezłomnych: umiejętność starożytnych wojowników Złotego Drzewa. Unieś tarczę, aby nasycić się złotą mocą, zapewniając sobie chwilową niezwyciężoność”.
+
+Do użytku na każdej tarczy.</text>
+<text id="70200">Ten popiół wojny nadaje orężowi właściwość „święty” 
+i następującą umiejętność:
+
+„Uświęcona ziemia: podnieś tarczę, by stworzyć świętą ziemię Złotego Drzewa, która nieprzerwanie przywraca PŻ i zwiększa obronę tobie i sojusznikom znajdującym się na jej obszarze”.
+
+Do użytku na każdej tarczy.</text>
+<text id="80000">Ten popiół wojny nadaje orężowi właściwość „wymyślny” 
+i następującą umiejętność:
+
+„Szybki odskok: umiejętność ceniona przez szybkonogich szachrajów. Uskocz szybko w lewo lub prawo. Pozwoli ci to krążyć
+wokół wybranych celów”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="80100">Ten popiół wojny nadaje orężowi właściwość „wymyślny” 
+i następującą umiejętność:
+
+„Krok wasalnego rycerza: umiejętność, która pozwala użytkownikowi stać się chwilowo niewidzialnym podczas wykonywania uników z dużą prędkością. Kroki są szybsze i mają większy zasięg niż zwykły szybki odskok. Umiejętność ta może być używana do okrążania namierzonych celów”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="80200">Ten popiół wojny nadaje orężowi właściwość „wymyślny” 
+i następującą umiejętność:
+
+„Drapieżnik z mgieł: przyjmij niską pozycję, na chwilę maskując swoją obecność. Jeśli wrogi atak trafi, ptasie skrzydła pozwolą ci szybko wzbić się w powietrze”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+<text id="85000">Ten popiół wojny nadaje orężowi właściwość „okultystyczny” 
+i następującą umiejętność:
+
+„Przynęta białego cienia: przytrzymaj broń do krótkiej, cichej modlitwy, aby stworzyć przed sobą biały cień. Zjawa wabi humanoidalnych wrogów, którzy nie biorą udziału w walce, skupiając na sobie ich agresję. Skuteczna na półludzi, nawet jeśli są już w stanie walki”.
+
+Do użytku na każdym orężu do walki w zwarciu.</text>
+</entries>
+</fmg>

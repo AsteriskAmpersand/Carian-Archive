@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="101000">&lt;?keyControlCamera?&gt;：&lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;：&lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;：&lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;：&lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;：&lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">&lt;?keyMove?&gt;＋按住&lt;?keyicon@7?&gt;：衝刺</text>
+<text id="101110">鎖定目標時&lt;?keyControlCamera?&gt;：切換目標</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">按下&lt;?keyicon@24?&gt;：防禦</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">材料道具會在製作道具時使用</text>
+<text id="101150">靠近敵人背後，按下&lt;?keyicon@22?&gt;：致命一擊</text>
+<text id="101170">按下&lt;?keyicon@27?&gt;：顯示各類量表</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">騎馬跳躍時再按下&lt;?keyicon@8?&gt;：二段跳躍</text>
+<text id="201010">&lt;?keyicon@26?&gt;：&lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;：&lt;?keyActName@18?&gt;</text>
+<text id="201070">%null%</text>
+<text id="201100">左手與右手各能裝備３把武器，
+自由切換使用。
+
+此外，也能以雙手共持武器。
+雙手共持武器時，攻擊比較不會被盾牌彈開，
+力氣會以１.５倍計算。
+
+&lt;?keyicon@19?&gt;：&lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;：&lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;＋&lt;?keyicon@24?&gt;／&lt;?keyicon@22?&gt;：雙手共持武器</text>
+<text id="301020">在賜福休息能完全恢復ＨＰ、ＦＰ，
+治癒異常狀態等等，也能補充聖杯瓶。
+
+但是大部分的敵人也會隨之復活。
+
+能夠在光芒聚集的地方發現賜福。
+
+※此類說明會變成情報道具
+　留在置物包，方便隨時重溫。</text>
+<text id="301060">能在賜福記憶魔法、禱告。
+
+在裝備手杖、聖印記之後，
+能夠消耗ＦＰ使用先行記憶的魔法、禱告。
+
+&lt;?keyicon@0017?&gt;：&lt;?keyActName@17?&gt;</text>
+<text id="301130">能夠裝備弓，射出箭矢攻擊。
+總共能裝備２種箭，可以依照情況切換使用。
+
+雙手共持弓，按住&lt;?keyicon@24?&gt;能精密射擊。
+用&lt;?keyControlCamera?&gt;能移動準心。
+
+按下&lt;?keyicon@22?&gt;：射出「箭１」的箭
+按下&lt;?keyicon@23?&gt;：射出「箭２」的箭
+按住&lt;?keyicon@24?&gt;：精密射擊</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">蹲下後較不容易被敵人發現。
+在草叢蹲下，藏身效果更佳。
+
+在沒有被敵人發現的情況下攻擊，
+能夠比一般攻擊給予更多的傷害。
+
+&lt;?keyicon@9?&gt;：&lt;?keyActName@9?&gt;</text>
+<text id="301160">敵人會因為我方的攻擊而失去平衡，
+此時就有機會使出致命一擊。
+
+蓄力攻擊、跳躍攻擊
+特別容易讓敵人失去平衡。
+
+按住&lt;?keyicon@23?&gt;：蓄力攻擊
+跳躍時按下&lt;?keyicon@23?&gt;：跳躍攻擊</text>
+<text id="301500">透過地圖能確認自己的所在位置、
+地形以及建築物等等資訊。
+
+座落路邊的石碑放有「地圖碎片」，
+取得後能更新地圖。
+
+另外，也能在地圖上放置光柱，
+作為探索時的標記。
+
+&lt;?keyicon@29?&gt;：&lt;?keyActName@29?&gt;</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">賜福原本是引導褪色者前進，
+替褪色者指路的存在。
+
+如今仍有部分賜福留有指引的力量，
+會以金黃色的光芒軌跡，
+指出褪色者該前進的方向。</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">使用「靈馬哨笛」能召喚出靈馬，
+騎馬行動。
+
+靈馬死亡後能再一次召喚，
+但必須消耗１瓶「紅露滴聖杯瓶」。
+
+騎馬時再次使用靈馬哨笛，
+或是按下&lt;?keyicon@0009?&gt;能夠下馬。</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">死亡之後，會在最後停留的賜福復活。
+
+持有盧恩會留在死亡地點。
+在拿回盧恩之前再次死亡，盧恩將會消失。
+
+留在死亡地點的盧恩，
+所在方向會顯示在畫面上方的方位條。</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">死亡之後，會在最後停留的賜福復活。
+
+如果死亡地點附近有「瑪莉卡楔石」，
+也能選擇在那裡復活。</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">擁有「召魂鈴」之後，
+能透過骨灰道具召喚各種靈魂。
+召喚時基本上需要消耗ＦＰ。
+
+在同一時間內，只能召喚１種靈魂。
+多人連線遊玩時無法召喚靈魂。</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">交界地各處生長的果實、花朵、菇類，
+或是蝴蝶等等生物，皆能作為材料道具。
+
+材料道具會在製作道具時使用。</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">擁有「工具皮袋」之後，
+能用材料道具製作各種道具。
+
+從主選單的「製作道具」選單能製作道具。
+
+取得「製作筆記」之後，
+能製作的道具種類也會隨之增加。
+
+&lt;?keyicon@28?&gt;：&lt;?keyActName@28?&gt;</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">在能夠製作的道具之中，
+部分道具需要有特定的容器
+（例如龜裂壺等等）才能製作。
+
+製作的數量無法超過容器道具的數量。
+
+製作道具會消耗容器道具，
+但容器本身不會不見。</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">在交界地各處，
+例如小黃金樹的樹腳等等地方，
+會找到名為結晶露滴的道具。
+
+將２塊結晶露滴加入「靈藥聖杯瓶」調配，
+靈藥會產生各式各樣的效用。
+
+能在賜福進行調配。</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">擁有「砥石小刀」之後，
+能在賜福使用「戰灰」，賦予武器戰技。
+
+每一把武器只能有一個戰技，
+賦予戰技之後，會移除舊有的戰技。
+
+能賦予的戰技會依照武器類別有所限制。
+部分特殊武器（例如具備固有戰技的武器），
+無法賦予戰技。</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">使用散置各地的「鳥瞰鏡」，
+能以鳥類的視野觀察前方道路。
+
+&lt;?keyicon@17?&gt;：放大影像
+&lt;?keyicon@18?&gt;：縮小影像</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">騎馬時靠近有「靈魂氣流」的地方跳躍，
+能夠順著氣流往上大幅跳躍。
+
+騎馬狀態下順著「靈魂氣流」落地時，
+即使是從高處墜落，也不會受到損傷。
+
+騎馬時靠近靈魂氣流，
+按下&lt;?keyicon@8?&gt;：靈魂氣流跳躍</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">打敗敵對團體之後，
+能恢復聖杯瓶的使用次數。
+
+恢復的聖杯瓶種類、次數，
+會依照敵對團體而不同。
+
+如果恢復前使用次數已達上限，
+則不能累加。</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">露滴糞金龜有紅色、藍色之分，
+打敗牠之後能恢復與顏色對應的聖杯瓶。
+
+如果恢復前使用次數已達上限，則不能累加。</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">使用「喚勾指藥」
+能看見其他世界玩家的召喚記號。
+
+召喚記號有下列種類：
+金色記號能召喚協助者；
+紅色記號能召喚敵對者。
+
+召喚後，會開始多人連線遊玩。
+多人連線遊玩時，您將成為「勾指主人」。</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">使用「褪色者勾指」
+能寫下金色召喚記號。
+
+當其他世界的玩家透過記號召喚您，
+會開始協力多人連線遊玩。
+
+您將成為協助者（勾指），
+目標是打敗區域頭目。
+
+召喚主方（勾指主人）的所在方向
+會顯示在畫面上方的方位條。</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">使用「鬥士勾指」
+能寫下紅色召喚記號。
+
+當其他世界的玩家透過記號召喚您，
+會開始敵對多人連線遊玩。
+
+您將成為敵對者（鬥士），
+目標是打敗召喚您的「勾指主人」。</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">使用「潰爛血指」等等道具，
+能入侵其他玩家的世界。
+
+入侵成功後，會開始入侵多人連線遊玩。
+
+您將成為入侵者（血指），
+目標是打敗入侵世界的主人「勾指主人」。
+
+當勾指主人位在遠方，
+所在方向會顯示在畫面上方的方位條。</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">散布各地的殉教者雕像，
+是記號的聚集處。
+
+使用小雕像寫下的協力記號、
+敵對記號會匯集在記號聚集處，
+方便召喚其他玩家。</text>
+<text id="302000">擁有「砥石小刀」之後，
+能在賜福使用「戰灰」，賦予武器屬性。
+
+根據賦予的屬性，
+武器的攻擊屬性、能力加成
+會隨之產生變化。
+
+能賦予的屬性會依照武器類別有所限制。
+部分特殊武器（例如具備固有戰技的武器），
+無法賦予屬性。</text>
+<text id="302380">使用「藍祕文戒指」，
+在收到其他世界召喚獵人的請求時，
+能回應要求，接受召喚。
+
+作為獵人受召喚之後，
+將開始獵人多人連線遊玩。
+目標是打敗入侵者。
+
+召喚主方（勾指主人）的所在方向
+會顯示在畫面上方的方位條。</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">透過骨灰道具進行的靈魂召喚，
+只能在還魂碑附近進行。
+
+當身在還魂碑附近，
+或是在能召喚靈魂的地方時，
+畫面左側會出現碑文圖案。</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">防住敵人攻擊的當下，能立刻使出防禦反擊。
+防禦反擊容易讓敵人失去平衡。
+
+防住敵人攻擊後
+立刻按下&lt;?keyicon@23?&gt;：防禦反擊</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">能用左手武器，
+或是以雙手共持的武器防禦敵人攻擊。
+
+用盾牌防禦的效果尤佳。
+
+防禦攻擊時會消耗精力，
+精力耗盡後會失去平衡。
+
+按下&lt;?keyicon@24?&gt;：防禦</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">使用「白祕文戒指」，
+在被入侵者入侵時，能自動發出請求，
+召喚其他世界的獵人。
+（也能在被入侵後再使用。）
+
+成功後能召喚獵人，
+獵人的目標是打敗入侵者。</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">戰技是武器具備的特殊招式。
+
+戰技的種類繁多，從使出強大攻擊，
+到產生短暫特殊效果皆有。
+使用時會消耗ＦＰ。
+
+&lt;?keyicon@25?&gt;：&lt;?keyActName@25?&gt;</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">能夠從地圖點選已知的賜福，瞬間移動過去。
+
+但是部分區域（例如地下迷宮等等），
+無法進行瞬間移動。</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">在鍛造台消耗「鍛造石」與花費盧恩，
+能夠強化武器。
+
+如果在交界地之中找到鐵匠，
+武器就能得到更進一步的強化。</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">圓桌廳堂是受賜福引導的褪色者聚集的地方。
+基於非戰的約定，不得於此械鬥。
+（圓桌廳堂的圖案代表著非戰的約定。）
+
+圓桌廳堂不存在於現世，
+只能透過賜福往來，但也能透過地圖傳送。
+
+&lt;?keyicon@29?&gt;：&lt;?keyActName@29?&gt;</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">%null%</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">在主選單的「隨身包包」能設定６項道具，
+直接從主選單使用。
+
+此外，隨身包包中設定於前４項的道具，
+能不打開主選單直接使用。
+
+&lt;?keyicon@27?&gt;＋&lt;?keyicon@17?&gt;：使用「隨身包包１」的道具
+&lt;?keyicon@27?&gt;＋&lt;?keyicon@19?&gt;：使用「隨身包包２」的道具
+&lt;?keyicon@27?&gt;＋&lt;?keyicon@20?&gt;：使用「隨身包包３」的道具
+&lt;?keyicon@27?&gt;＋&lt;?keyicon@18?&gt;：使用「隨身包包４」的道具</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">利用翻滾或是後躍，能閃避敵人的攻擊。
+只是做出這兩種行動都需要消耗精力。
+
+&lt;?keyMove?&gt;＋&lt;?keyicon@7?&gt;：翻滾
+&lt;?keyicon@7?&gt;：後躍</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">打敗碎片君王獲得的大盧恩
+失去了恩惠的力量。
+到各處的神授塔，能讓它再次獲得力量。
+
+相對應的神授塔，
+寫在各個大盧恩的道具說明內。</text>
+<text id="302501">%null%</text>
+<text id="302502">%null%</text>
+<text id="302503">%null%</text>
+<text id="302504">%null%</text>
+<text id="302505">%null%</text>
+<text id="302506">%null%</text>
+<text id="302507">%null%</text>
+<text id="302508">%null%</text>
+<text id="302509">%null%</text>
+<text id="302510">跳下前方的地洞之後，就是「求學洞窟」。
+
+在求學洞窟能學習各類基本行動與操作，
+也能獲得在交界地冒險時的實用知識。</text>
+<text id="309000">要進行協力、入侵、敵對多人連線遊玩，
+必須先取得各自所需的道具。
+
+多人連線遊玩的相關道具，
+能在主選單的「多人連線遊玩」選單確認，
+也能從選單直接使用。
+
+&lt;?keyicon@28?&gt;：&lt;?keyActName@28?&gt;</text>
+<text id="402000">在裝備選單，能選擇想裝備的
+武器、箭、弩箭、防具、護符，以及道具。
+
+左手與右手各能裝備３把武器。
+武器裝備在不同手，動作各有不同。</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">在製作道具選單，
+能用材料道具製作各種道具。
+
+取得「製作筆記」之後，
+能製作的道具種類也會隨之增加。</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">在置物包選單，能確認持有的物品，
+選擇將物品放置原地，或是丟棄。
+
+也能從置物包選單使用道具。
+
+&lt;?keyicon@31?&gt;：顯示大圖片與說明文
+&lt;?keyicon@30?&gt;：切換顯示角色資料</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">在狀態選單，能確認自己的等級、能力值，
+以及基本能力等等資訊。
+
+攻擊力、防禦力、抵抗力等等，
+會根據裝備的武器、防具的數值變化。</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">在訊息選單，能夠當場寫下訊息，
+傳布到其他世界。
+
+切換訊息的格式，就能留下更為複雜的訊息。
+此外，也能替訊息搭配肢體動作。
+
+能對其他玩家留下的訊息給予評價，
+當自己的訊息收到好評，能夠恢復ＨＰ。</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">在多人連線遊玩選單，
+能使用各種多人連線遊玩所需的道具。
+
+另外，設定群組暗號之後，
+會優先顯示使用同一組暗號玩家的下列狀態：
+訊息、召喚記號、血跡、幻影等等。
+
+設定多人連線遊玩的暗號之後，
+會和設定同一組暗號的玩家進行連線配對。
+但在入侵多人連線遊玩中，不適用暗號功能。</text>
+<text id="402100">在地圖選單，能確認自己的所在位置、
+地形以及建築物等等資訊。
+
+能在地圖上放置光柱，作為探索時的標記。
+
+另外，也能從地圖點選已知的賜福，瞬間移動過去。
+但是部分區域（例如地下迷宮等等），無法進行瞬間移動。</text>
+<text id="402200">在升級選單，能花費盧恩提升能力值。
+
+提升能力值１點，等級也會提升１等。
+當等級越來越高，提升能力值所需的盧恩也會越來越多。</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">%null%</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">%null%</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">在這個選單，能分配聖杯瓶的使用次數。
+
+能將２種聖杯瓶合計的使用次數，
+依照需求分配給恢復ＨＰ的紅露滴聖杯瓶，
+以及恢復ＦＰ的藍露滴聖杯瓶。</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">在記憶選單，能夠記憶魔法、禱告。
+
+在裝備手杖、聖印記之後，
+能夠消耗ＦＰ使用先行記憶的魔法、禱告。
+
+記憶空格的數量，代表能記憶的魔法、禱告數量上限。
+利用「記憶石」能增加記憶空格的數量。</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">在這個選單，能將持有道具收進木箱，
+或是從木箱拿出道具。
+
+當獲得的道具超過可持有數量的上限，
+會被自動收進木箱。</text>
+<text id="402300">在交易選單，能花費盧恩購買道具。
+另外，賣出道具能獲得盧恩。
+
+每一位商人販賣的道具會不太一樣。</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">%null%</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">在戰灰選單，能使用「戰灰」，
+賦予武器戰技、屬性。
+
+每一把武器只能有一個戰技，
+賦予戰技之後，會移除舊有的戰技。
+
+根據賦予的屬性，武器的攻擊屬性、能力加成
+會隨之產生變化。
+
+能賦予的戰技、屬性會依照武器類別有所限制。
+部分特殊武器（例如具備固有戰技的武器），
+無法用戰灰賦予戰技、屬性。</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">在調靈選單，
+能花費盧恩與消耗「墓地鈴蘭」，
+強化透過骨灰召喚的靈魂。
+
+但如果是有名字的靈魂，
+必須使用「靈依墓地鈴蘭」才能強化。</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">%null%</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">在大盧恩選單，
+能裝備再次獲得力量的大盧恩。
+
+使用「盧恩彎弧」，
+能讓所裝備的大盧恩帶來強大的恩惠。</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">在這個選單，能將２塊結晶露滴
+加入靈藥聖杯瓶進行調配。
+
+經過調配，靈藥會產生各式各樣的效用。</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">在重新誕生選單，能消耗「淚滴幼體」
+重置自己升級時所提升的能力值。
+
+重置後，等級必須提升至原有等級，
+能力值也不能低於出身固有的數值。</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">在追憶力量選單，能透過追憶
+獲得追憶之主擁有的力量。
+
+一個追憶能獲得的力量只限一個。
+在獲得力量之後，追憶會消失。</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">在鍛造台選單，
+能消耗「鍛造石」與花費盧恩強化武器。
+
+使用鍛造台的強化上限為「＋３」。
+
+如果在交界地之中找到鐵匠，
+武器就能得到更進一步的強化。</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">在複製追憶選單，
+能複製過去曾經獲得的追憶。
+（已經用在獲得追憶之主力量的追憶，也能進行複製。）
+
+一座靈廟能進行的複製，只限一次。</text>
+</entries>
+</fmg>

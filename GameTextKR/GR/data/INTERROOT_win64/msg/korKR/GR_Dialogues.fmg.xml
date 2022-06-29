@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="15">재시도</text>
+<text id="16">계속하기</text>
+<text id="17">타이틀 화면으로 돌아가기</text>
+<text id="40200">필요한 룬이 부족합니다.</text>
+<text id="40201">필요한 아이템이 부족합니다.</text>
+<text id="40202">필요한 룬, 아이템이 부족합니다.</text>
+<text id="40300">설정을 초기 상태로 되돌립니다.
+계속하시겠습니까?</text>
+<text id="40500">모든 설정을 초기 상태로 되돌립니다.
+계속하시겠습니까?</text>
+<text id="102000">&lt;?itemName?&gt;을(를) 내려놓으시겠습니까?</text>
+<text id="102001">&lt;?itemName?&gt;을(를) 파기하시겠습니까?</text>
+<text id="102002">선택 중인 아이템을 전부 내려놓으시겠습니까?</text>
+<text id="102003">선택 중인 아이템을 전부 파기하시겠습니까?</text>
+<text id="102004">놓이는 아이템이 8개를 넘기므로,
+먼저 놓은 아이템부터 사라집니다.
+정말 내려놓으시겠습니까?</text>
+<text id="102005">&lt;?itemName?&gt;에는 전회가 사용되었습니다.
+놓인 아이템이 사라지면 전회도 함께 사라집니다.
+정말 내려놓으시겠습니까?</text>
+<text id="102006">&lt;?itemName?&gt;에는 전회가 사용되었습니다.
+아이템을 파기하면 전회도 함께 사라집니다.
+정말 파기하시겠습니까?</text>
+<text id="102007">선택한 아이템에 전회가 사용된 아이템이 포함되었습니다.
+놓인 아이템이 사라지면 전회도 함께 사라집니다.
+정말 내려놓으시겠습니까?</text>
+<text id="102008">선택한 아이템에 전회가 사용된 아이템이 포함되었습니다.
+아이템을 파기하면 전회도 함께 사라집니다.
+정말 파기하시겠습니까?</text>
+<text id="102009">%null%</text>
+<text id="102010">룬 소지 상한을 초과하게 됩니다.
+상한을 넘긴 룬은 소실됩니다만, 그래도 사용하시겠습니까?</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">소지 상한을 초과하게 되므로,
+이 전회를 제거할 수 없습니다</text>
+<text id="102021">소지 상한을 초과하게 되므로,
+사용 중인 전회를 제거할 수 없습니다</text>
+<text id="103000">필요 능력치가 부족합니다.
+본래 성능을 발휘할 수 없습니다.</text>
+<text id="103001">필요 능력치가 부족합니다.
+양손 잡기 시에만 본래 성능을 발휘합니다.</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">이 영체를 소환하기에는 레벨이 부족합니다.</text>
+<text id="103110">장비 중인 다른 탈리스만과 간섭되므로
+이 탈리스만을 장비할 수 없습니다.</text>
+<text id="103130">현재 장비를 변경할 수 없습니다.</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">기억 슬롯이 감소하므로
+슬롯 수를 초과하는 마술/기도를 기억에서 제거합니다.
+계속하시겠습니까?</text>
+<text id="103141">슬롯 수를 초과하는 마술/기도를 기억에서 제거했습니다.</text>
+<text id="104000">멀티 플레이 암호 이력</text>
+<text id="104001">설정하려는 암호를 선택해주십시오.</text>
+<text id="104002">그룹 암호 이력</text>
+<text id="104003">설정하려는 암호를 선택해주십시오.</text>
+<text id="104004">멀티 플레이 암호 이력이 존재하지 않습니다.</text>
+<text id="104005">그룹 암호 이력이 존재하지 않습니다.</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">손가락약을 사용하면 소환된 영체는 귀환합니다.
+계속하시겠습니까?</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">손가락약을 사용하면 소환 사인은 취소됩니다.
+계속하시겠습니까?</text>
+<text id="110000">게임을 저장하고 타이틀 화면으로 돌아갑니다.
+계속하시겠습니까?</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">게임을 저장하고 바탕화면으로 나갑니다.
+계속하시겠습니까?</text>
+<text id="110316">언어를 변경하시려면
+타이틀 화면에 돌아가서 설정하시기 바랍니다.</text>
+<text id="111100">설정을 변경했습니다.
+&lt;?remainingSec?&gt;초 후에 원래 설정으로 돌아갑니다.
+현재 설정을 반영하시겠습니까?</text>
+<text id="111101">현재 설정을 반영하시겠습니까?</text>
+<text id="111102">일부 설정은 타이틀 화면으로 돌아가기 전까지 반영되지 않습니다.</text>
+<text id="111103">이 항목은 타이틀 재시작 후에 반영됩니다.</text>
+<text id="111104">설정을 변경했습니다.
+&lt;?remainingSec?&gt;초 후에 기존 설정으로 되돌아갑니다.
+현재 설정을 반영하시겠습니까?
+</text>
+<text id="111105">일부 설정은 타이틀 화면으로 돌아가기 전까지 반영되지 않습니다.</text>
+<text id="111106">HDR을 OFF로 변경했습니다.</text>
+<text id="111107">HDR을 ON으로 변경했습니다.</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">변경이 반영되지 않은 설정이 있습니다.
+변경을 반영하시려면 타이틀 화면으로 돌아가 주십시오.</text>
+<text id="211001">&lt;?placeName?&gt;에 이동합니다.
+계속하시겠습니까?</text>
+<text id="211002">이 장소에서는 축복으로 이동할 수 없습니다.</text>
+<text id="211003">멀티 플레이 중에는 축복으로 이동할 수 없습니다.</text>
+<text id="211004">축복으로 이동할 수 없습니다.</text>
+<text id="211005">함정에 빠졌습니다.
+축복에서 한 번 쉴 때까지 축복으로 이동할 수 없습니다.</text>
+<text id="211006">지금은 축복으로 이동할 수 없습니다.</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">지금은 축복으로 이동할 수 없습니다.</text>
+<text id="211100">정말 배치한 마커를 전부 삭제하시겠습니까?</text>
+<text id="211101">마커 배치 상한을 초과하기 때문에
+이 이상 마커를 배치할 수 없습니다.</text>
+<text id="211200">현재 지역에 포커스할 수 없습니다.</text>
+<text id="211300">마크 상한을 초과했기 때문에
+이 이상 축복을 마크할 수 없습니다.</text>
+<text id="211400">정말 이 축복의 마크를 해제하시겠습니까?</text>
+<text id="212000">&lt;?demandSoul?&gt;룬으로 레벨 업 하시겠습니까?</text>
+<text id="212001">정말 레벨 업을 중지하시겠습니까?</text>
+<text id="212002">성장시킬 능력치를 하나 이상 선택해주십시오.</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">레벨 상한입니다. 이 이상 레벨 업 할 수 없습니다.</text>
+<text id="212750">다시 태어나기를 실행하시겠습니까?</text>
+<text id="212751">다시 태어나기를 중지합니다.</text>
+<text id="212752">원래 레벨에 도달할 때까지 레벨 업해 주십시오.</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">슬롯 수를 초과하는 마술/기도를 기억에서 제거합니다.
+다시 태어나기를 실행하시겠습니까?</text>
+<text id="212761">슬롯 수를 초과하는 마술/기도를 기억에서 제거했습니다.</text>
+<text id="214000">이 전회를
+&lt;?itemNameBeforeForge?&gt;에서 제거하고
+&lt;?itemNameAfterForge?&gt;에 사용하시겠습니까?</text>
+<text id="215000">품을 거대한 룬을 변경하면
+발동 중인 거대한 룬의 효과가 해제됩니다.
+정말 변경하시겠습니까?</text>
+<text id="216000">&lt;?itemNameBeforeForge?&gt;을(를)
+&lt;?itemNameAfterForge?&gt;(으)로 강화하시겠습니까?</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">강화 후의 &lt;?itemNameAfterForge?&gt;을(를)
+이미 소지하고 있어 강화하실 수 없습니다.</text>
+<text id="221000">&lt;?itemNameBeforeForge?&gt;을(를)
+&lt;?itemNameAfterForge?&gt;(으)로 강화하시겠습니까?</text>
+<text id="221011">작업대에서 강화 가능한 상한에 도달했습니다.
+이 무기를 더 강화할 수 없습니다.</text>
+<text id="225000">용의 심장 &lt;?demandSoul?&gt;개를 공물로 바쳐
+&lt;?itemName?&gt;을(를) 자신의 것으로 삼습니다.</text>
+<text id="225020">소지 및 보관 상한을 초과하기 때문에
+자신의 것으로 삼을 수 없습니다.</text>
+<text id="225100">이 힘은 이미 자신의 것으로 삼았습니다.</text>
+<text id="226000">별빛 조각 &lt;?demandSoul?&gt;개를 주고
+&lt;?itemName?&gt;를 입수합니다.</text>
+<text id="226020">소지 및 보관 상한을 초과하기 때문에 입수할 수 없습니다.</text>
+<text id="226100">이 꼭두각시는 이미 입수했습니다.</text>
+<text id="227000">&lt;?itemName?&gt;을(를) 복제합니다.</text>
+<text id="227020">소지 및 보관 상한을 초과하기 때문에 복제할 수 없습니다.</text>
+<text id="227100">이 전회는 더 복제할 수 없습니다.</text>
+<text id="230000">&lt;?itemName?&gt;을(를) 입수합니다.</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">소지 상한을 초과한 아이템은 나무상자에 보관했습니다.</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">소지 및 보관 상한을 초과하기 때문에 입수할 수 없습니다.</text>
+<text id="230100">&lt;?itemName?&gt;을(를) 복제합니다.</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">소지 상한을 초과한 아이템은 나무상자에 보관했습니다.</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">소지 및 보관 상한을 초과하기 때문에 복제할 수 없습니다.</text>
+<text id="230150">이 추억은 더 복제할 수 없습니다.</text>
+<text id="231000">&lt;?itemName?&gt;을(를)
+&lt;?demandSoul?&gt;룬에 구매합니다.</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">소지 상한을 초과한 아이템은 나무상자에 보관했습니다.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">소지 및 보관 상한을 초과하기 때문에 구매할 수 없습니다.</text>
+<text id="231100">한정 수 이상은 구매할 수 없습니다.</text>
+<text id="231500">&lt;?itemName?&gt;을(를)
+&lt;?demandSoul?&gt;룬에 입수합니다.</text>
+<text id="231501">%null%</text>
+<text id="231502">%null%</text>
+<text id="231503">%null%</text>
+<text id="231504">%null%</text>
+<text id="231505">%null%</text>
+<text id="231506">%null%</text>
+<text id="231507">%null%</text>
+<text id="231508">%null%</text>
+<text id="231509">%null%</text>
+<text id="231510">소지 상한을 초과한 아이템은 나무상자에 보관했습니다.</text>
+<text id="231511">%null%</text>
+<text id="231512">%null%</text>
+<text id="231513">%null%</text>
+<text id="231514">%null%</text>
+<text id="231515">%null%</text>
+<text id="231516">%null%</text>
+<text id="231517">%null%</text>
+<text id="231518">%null%</text>
+<text id="231519">%null%</text>
+<text id="231520">소지 및 보관 상한을 초과하기 때문에 입수할 수 없습니다.</text>
+<text id="231550">영웅의 방어구는 여러 개 얻을 수 없습니다.</text>
+<text id="232000">&lt;?itemName?&gt;을(를)
+&lt;?sellSouls?&gt;룬에 매각합니다.</text>
+<text id="232001">%null%</text>
+<text id="232002">장비 중인 아이템은 매각할 수 없습니다.</text>
+<text id="232003">이 아이템은 매각할 수 없습니다.</text>
+<text id="232004">&lt;?itemName?&gt;에는 전회가 사용되었습니다.
+매각하면 사용된 전회는 사라집니다.
+정말 매각하시겠습니까?</text>
+<text id="235000">분배하시겠습니까?</text>
+<text id="235001">정말 분배를 중지하시겠습니까?</text>
+<text id="236001">&lt;?itemName?&gt;을(를) 제작합니다.</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">소지 상한을 초과하기 때문에
+제작한 아이템은 나무상자에 보관했습니다.</text>
+<text id="236011">소지 및 보관 상한을 초과하기 때문에
+아이템을 제작할 수 없습니다.</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">금 간 항아리의 소지 수를 초과하기 때문에
+아이템을 제작할 수 없습니다.</text>
+<text id="236021">조향병의 소지 수를 초과하기 때문에
+아이템을 제작할 수 없습니다.</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">의식 항아리의 소지 수를 초과하기 때문에
+아이템을 제작할 수 없습니다.</text>
+<text id="236050">금 간 항아리를 소지하고 있지 않아
+아이템을 제작할 수 없습니다.</text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">의식 항아리를 소지하고 있지 않아
+아이템을 제작할 수 없습니다.</text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">조향병을 소지하고 있지 않아
+아이템을 제작할 수 없습니다.</text>
+<text id="236201">추억과 &lt;?demandSoul?&gt;룬을 소비하여
+&lt;?itemName?&gt;을(를) 획득합니다.</text>
+<text id="236202">추억과 교환하여 &lt;?itemName?&gt;을(를) 얻습니다</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">소지 상한을 초과한 아이템은 나무상자에 보관했습니다.</text>
+<text id="236211">소지 및 보관 상한을 초과하기 때문에
+힘을 얻을 수 없습니다.</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">상한을 초과하기 때문에
+이 이상 추억에서 힘을 얻을 수 없습니다.</text>
+<text id="236401">&lt;?itemName?&gt;(으)로 조정합니다</text>
+<text id="236402">&lt;?demandSoul?&gt;룬을 소비하여
+&lt;?itemName?&gt;(으)로 조정합니다</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">소지 상한을 초과하기 때문에
+조정한 아이템은 나무상자에 보관했습니다.</text>
+<text id="236411">소지 및 보관 상한을 초과하기 때문에
+아이템을 조정할 수 없습니다.</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">상한을 초과했기 때문에 조정할 수 없습니다</text>
+<text id="237000">붉은 물방울의 성배병</text>
+<text id="237001">푸른 물방울의 성배병</text>
+<text id="241000">지도 조각을 입수했습니다.
+(림그레이브 서부)</text>
+<text id="241001">지도 조각을 입수했습니다.
+(흐느낌의 반도)</text>
+<text id="241002">지도 조각을 입수했습니다.
+(림그레이브 동부)</text>
+<text id="241003">지도 조각을 입수했습니다.
+(리에니에 동부)</text>
+<text id="241004">지도 조각을 입수했습니다.
+(리에니에 북부)</text>
+<text id="241005">지도 조각을 입수했습니다.
+(리에니에 서부)</text>
+<text id="241006">지도 조각을 입수했습니다.
+(알터 고원)</text>
+<text id="241007">지도 조각을 입수했습니다.
+(도읍 로데일)</text>
+<text id="241008">지도 조각을 입수했습니다.
+(겔미어 화산)</text>
+<text id="241009">지도 조각을 입수했습니다.
+(케일리드)</text>
+<text id="241010">지도 조각을 입수했습니다.
+(용총)</text>
+<text id="241011">지도 조각을 입수했습니다.
+(거인 산령 서부)</text>
+<text id="241012">지도 조각을 입수했습니다.
+(거인 산령 동부)</text>
+<text id="241013">지도 조각을 입수했습니다.
+(구별된 설원)</text>
+<text id="241014">새로운 지도가 추가되었습니다.</text>
+<text id="241100">지도 조각을 입수했습니다.
+(에인세르 강)</text>
+<text id="241101">지도 조각을 입수했습니다.
+(부패한 호수)</text>
+<text id="241102">지도 조각을 입수했습니다.
+(모그윈 왕조)</text>
+<text id="241103">지도 조각을 입수했습니다.
+(시프라 강)</text>
+<text id="241104">지도 조각을 입수했습니다.
+(깊은 뿌리 밑바닥)</text>
+<text id="241105">새로운 지도가 추가되었습니다.</text>
+<text id="251020">장비 중인 아이템은 보관할 수 없습니다.</text>
+<text id="251021">이 아이템은 보관할 수 없습니다.</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">보관 상한을 초과하기 때문에 보관할 수 없습니다.</text>
+<text id="251031">소지 상한을 초과하기 때문에 꺼낼 수 없습니다.</text>
+<text id="261000">기억 슬롯이 없습니다.</text>
+<text id="261001">빈 슬롯이 부족합니다.</text>
+<text id="261002">기억 슬롯이 없습니다.</text>
+<text id="261003">같은 마술/기도는 동시에 기억할 수 없습니다.</text>
+<text id="261004">이 마술/기도를 사용하기 위한 필요 능력치가 부족합니다.</text>
+<text id="280001">모든 설정을 초기 상태로 되돌립니다.
+계속하시겠습니까?</text>
+<text id="281000">중복되게 설정할 수는 없습니다.</text>
+<text id="290001">작성 중인 캐릭터를 파기하고
+캐릭터 베이스 선택으로 돌아가시겠습니까?</text>
+<text id="290002">이 캐릭터로 게임을 시작합니다.
+계속하시겠습니까?</text>
+<text id="290003">이름이 입력되지 않았습니다.
+
+캐릭터 작성을 완료하시려면
+이름을 입력해주십시오.</text>
+<text id="290004">캐릭터 정보 저장에 실패했습니다.</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">편집 중인 내용을 정말 파기하시겠습니까?</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">입력된 이름은 부적절한 문자열이 포함되었기 때문에
+캐릭터 이름으로 이용할 수 없습니다.
+
+다른 이름을 입력해주십시오.</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">성별을 변경하면
+일부 편집 정보가 사라집니다.
+
+계속하시겠습니까?</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">외모를 변경하면
+저장하지 않은 외모는 파기됩니다.
+
+계속하시겠습니까?</text>
+<text id="290101">편집 중인 내용을 파기하고 화장을 종료하시겠습니까?</text>
+<text id="290102">화장을 완료하고 이 캐릭터가 됩니다.
+계속하시겠습니까?</text>
+<text id="290103">이름이 입력되지 않았습니다.
+화장을 완료하시려면 이름을 입력해주십시오.</text>
+<text id="290121">편집 중인 내용을 파기하고 화장을 종료하시겠습니까?</text>
+<text id="290122">화장을 완료하고 이 캐릭터가 됩니다.
+계속하시겠습니까?</text>
+<text id="290123">이름이 입력되지 않았습니다.
+화장을 완료하시려면 이름을 입력해주십시오.</text>
+<text id="290200">현재 외모를 저장하시겠습니까?</text>
+<text id="290201">현재 외모를 덮어써서 저장하시겠습니까?</text>
+<text id="290202">편집 중인 내용을 파기하고
+외모를 불러오시겠습니까?</text>
+<text id="290203">체형이 다른 외모는 불러올 수 없습니다.</text>
+<text id="290204">선택한 외모를 제거합니다.
+계속하시겠습니까?</text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">외모가 저장되어 있지 않습니다.</text>
+<text id="290300">현재 편집할 수 없습니다.
+편집할 경우 「눈의 변화」를 OFF로 설정해주십시오.</text>
+<text id="311000">정말 이 메시지를 삭제하시겠습니까?</text>
+<text id="311001">이 메시지를 호평하시겠습니까?</text>
+<text id="311002">이 메시지를 악평하시겠습니까?</text>
+<text id="321000">이 내용으로 메시지를 작성합니다.</text>
+<text id="321001">정말 작성 중인 메시지를 파기하시겠습니까?</text>
+<text id="322000">정말 이 메시지를 이력에서 삭제하시겠습니까?</text>
+<text id="334510">소지 및 보관 상한을 초과하기 때문에
+&lt;?itemName?&gt;
+을(를) 입수할 수 없었습니다.</text>
+<text id="334511">소지 및 보관 상한을 초과하기 때문에
+&lt;?itemName?&gt;
+의 일부를 입수할 수 없었습니다.</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">소지 및 보관 상한을 초과하기 때문에
+입수하지 못한 아이템이 있습니다.</text>
+<text id="401172">ELDEN RING Network Test Ver. 은
+온라인으로만 플레이 가능합니다.
+타이틀 화면으로 돌아갑니다.</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404010">설정 내용을 파기하고 이전 화면으로 돌아갑니다.
+계속하시겠습니까?</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">HDR 설정이 ON일 경우
+게임 내 메인 메뉴의 시스템 메뉴에서만
+화질을 조정하실 수 있습니다.</text>
+<text id="406011">선택한 프로필로 시작합니다.</text>
+<text id="406012">선택한 프로필을 삭제하고
+새롭게 게임을 시작하시겠습니까?</text>
+<text id="406013">선택한 프로필을 삭제합니다.
+계속하시겠습니까?</text>
+<text id="450000">이대로 &lt;?nextLoopCount?&gt;주차 세계를 시작하시겠습니까?
+지금 시작하지 않으실 경우, 추후에 원탁의 대축복에서
+&lt;?nextLoopCount?&gt;주차 세계를 시작하실 수 있습니다.</text>
+<text id="450001">&lt;?nextLoopCount?&gt;주차 세계를 시작하면
+현재인 &lt;?loopCount?&gt;주차 세계로 돌아오실 수 없습니다.
+정말 &lt;?nextLoopCount?&gt;주차 세계를 시작하시겠습니까?</text>
+<text id="502000">선택한 대상을 원래 세계로 송환하시겠습니까?</text>
+<text id="502001">송환 가능한 대상이 없습니다.</text>
+<text id="550000">멀티 플레이의 부정 종료가 반복되었기 때문에
+일정 시간이 경과할 때까지 멀티 플레이가 불가능해집니다.</text>
+<text id="550100">일정 시간 조작이 이루어지지 않았기 때문에
+원래 세계로 돌아왔습니다.</text>
+<text id="550200">이름이 기입되지 않았기 때문에
+「_」을 이름으로 설정했습니다.</text>
+<text id="620001">타이틀 화면으로 돌아가시겠습니까?</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">조작 설명을 종료하고 게임을 개시하시겠습니까?</text>
+<text id="620100">본 제품은 개발 중이므로, 기능의 일부
+(Xbox 네트워크를 이용한 네트워크 기능 포함)가
+적절히 동작하지 않거나 강제 종료될 가능성이 있습니다.</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">본 제품은 제품판과는 아래 동작이 다릅니다.
+· 네트워크 환경이 없을 경우 플레이할 수 없습니다.</text>
+</entries>
+</fmg>

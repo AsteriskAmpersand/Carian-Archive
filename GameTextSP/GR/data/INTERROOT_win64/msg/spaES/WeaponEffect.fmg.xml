@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Una parte del daño no se anula al estar en guardia.</text>
+<text id="1001">Recupera PS de los enemigos derrotados.</text>
+<text id="1002">Recupera PC de los enemigos derrotados.</text>
+<text id="1003">Los ataques recuperan PS.</text>
+<text id="1004">Los ataques recuperan PC.</text>
+<text id="1005">Recupera PS lentamente.</text>
+<text id="1006">Recupera PC lentamente.</text>
+<text id="1007">Potencia la velocidad de recuperación de resistencia.</text>
+<text id="1008">La potencia de at. aumenta con los at. sucesivos.</text>
+<text id="1009">Recibe daño infligido a uno mismo.</text>
+<text id="1010">Asusta a las bestias.</text>
+<text id="1011">%null%</text>
+<text id="1012">Aumenta la pot. de los hechizos físicos.</text>
+<text id="1013">%null%</text>
+<text id="1014">Aumenta la pot. de los hechizos espirit.</text>
+<text id="1015">Aumenta la pot. de los hechizos fulgur.</text>
+<text id="1016">Aumenta la pot. de los hechizos sagrados.</text>
+<text id="1017">Pot. el área de mejoras y hechizos curat.</text>
+<text id="1018">Maneja cualquier hechicería o encant.</text>
+<text id="1019">Se usa como cat. para hech. de p. refulg.</text>
+<text id="1020">Se usa como sello para encantamientos.</text>
+<text id="1021">Los ataques sucesivos recuperan PS.</text>
+<text id="1022">Los ataques sucesivos recuperan PC.</text>
+<text id="1100">Potencia los hechizos con cristales.</text>
+<text id="1101">Potencia los hechizos de tipo Gravitas.</text>
+<text id="1102">Potencia los hechizos con espinas.</text>
+<text id="1103">Potencia los hechizos de muerte.</text>
+<text id="1104">Potencia la hechicería de la luna llena.</text>
+<text id="1105">Potencia los hechizos telúricos.</text>
+<text id="1106">Potencia los hechizos de hojas ref.</text>
+<text id="1107">Potencia los hechizos de espada ref. cariana.</text>
+<text id="1108">Potencia hechizos primigenios de Azur.</text>
+<text id="1109">Potencia hechizos primigenios de Lusat.</text>
+<text id="1110">Potencia los hechizos de invisibilidad.</text>
+<text id="1111">Potencia los hechizos de la llama de los gigantes.</text>
+<text id="1112">Potencia los hechizos de fundamentalista.</text>
+<text id="1113">Potencia los hechizos bestiales.</text>
+<text id="1114">Potencia encantamientos de culto dracónico.</text>
+<text id="1115">Potencia los hechizos de la Comunión Dragontina.</text>
+<text id="1116">Potencia los hechizos de la llama frenética.</text>
+<text id="1117">Potencia los hechizos magmáticos.</text>
+<text id="1118">Potencia los hechizos de exterminador de dioses.</text>
+<text id="6400">Provoca ligera acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6401">Provoca acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6402">Provoca gran acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Intensa acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6450">Provoca una ligera acumulación de putrefacción (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6451">Provoca acumulación de putrefacción (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6452">Provoca gran acumulación de putrefacción (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6500">Provoca una ligera acumulación de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6501">Provoca la acumulación de hemorragias (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6502">Provoca gran acumulación de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Provoca intensa acumulación de pérdida de sangre (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6550">Provoca ligera acumulación de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6551">Provoca acumulación de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6552">Provoca gran acumulación de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6600">Provoca una ligera acumulación de congelación (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6601">Provoca la acumulación de congelación (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6602">Provoca gran acumulación de congelación (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6650">Provoca ligera acumulación de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6651">Provoca acumulación de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6652">Provoca gran acumulación de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6700">Provoca ligera acumulación de locura (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6701">Provoca acumulación de locura (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6702">Provoca gran acumulación de locura (&lt;?madnessATKpwr?&gt;).</text>
+</entries>
+</fmg>

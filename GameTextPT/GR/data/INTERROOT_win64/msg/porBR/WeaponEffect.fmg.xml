@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Nem todo dano é negado quando defendido</text>
+<text id="1001">Recupera PV ao derrotar inimigos.</text>
+<text id="1002">Recupera PF ao derrotar inimigos.</text>
+<text id="1003">Ataques bem-sucedidos recuperam PV.</text>
+<text id="1004">Ataques bem-sucedidos recuperam PF.</text>
+<text id="1005">Recupera PV lentamente.</text>
+<text id="1006">Recupera PF lentamente.</text>
+<text id="1007">Aumenta a velocidade de recuperação de vigor.</text>
+<text id="1008">Poder de ataque aumenta com ataques contínuos.</text>
+<text id="1009">Causa dano em si mesmo.</text>
+<text id="1010">Tira a vontade de lutar das feras.</text>
+<text id="1011">%null%</text>
+<text id="1012">Aumenta a potência de feitiços físicos.</text>
+<text id="1013">%null%</text>
+<text id="1014">Aumenta a potência de feitiços espirituais.</text>
+<text id="1015">Aumenta a potência de feitiços elétricos.</text>
+<text id="1016">Aumenta a potência de feitiços sagrados.</text>
+<text id="1017">Aumenta a área de feitiços de reforço e de cura.</text>
+<text id="1018">Lida com qualquer feitiçaria ou encantamento.</text>
+<text id="1019">Usa como catalisador para feitiçaria pedrilhante.</text>
+<text id="1020">Usa como um sele para encantamentos.</text>
+<text id="1021">Ataques sucessivos recuperam PV.</text>
+<text id="1022">Ataques sucessivos recuperam PF.</text>
+<text id="1100">Fortalece a feitiçaria cristaliana.</text>
+<text id="1101">Fortalece a feitiçaria de gravidade.</text>
+<text id="1102">Fortalece a feitiçaria de espinhos.</text>
+<text id="1103">Fortalece a feitiçaria de morte.</text>
+<text id="1104">Fortalece a feitiçaria da lua cheia</text>
+<text id="1105">Fortalece a feitiçaria de Escavador de Pedras.</text>
+<text id="1106">Fortalece a feitiçaria de Laminante</text>
+<text id="1107">Fortalece a feitiçaria de espada cariana.</text>
+<text id="1108">Fortalece a feitiçaria primeva de Azur.</text>
+<text id="1109">Fortalece a feitiçaria primeva de Lusat.</text>
+<text id="1110">Fortalece a feitiçaria de invisibilidade.</text>
+<text id="1111">Fortalece feitiços de Chama dos Gigantes</text>
+<text id="1112">Fortalece encantamentos da Ordem Áurea.</text>
+<text id="1113">Fortalece encantamentos bestiais.</text>
+<text id="1114">Fortalece encantamentos do Culto do Dragão</text>
+<text id="1115">Fortalece encantamentos da Comunhão do Dragão.</text>
+<text id="1116">Fortalece encantamentos da Chama Frenética.</text>
+<text id="1117">Fortalece feitiçaria de lava.</text>
+<text id="1118">Fortalece encantamentos do matador de deuses.</text>
+<text id="6400">Causa leve acúmulo de veneno (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Causa acúmulo de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6402">Causa grande acúmulo de veneno (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Causa acúmulo intenso de veneno (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Causa leve acúmulo de podridão escarlate (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">Causa acúmulo de podridão escarlate (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6452">Causa grande acúmulo de podridão escarlate (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">Causa leve acúmulo de hemorragia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">Causa acúmulo de hemorragia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">Causa grande acúmulo de hemorragia (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Causa acúmulo intenso de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6550">Causa leve acúmulo de morte (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">Causa acúmulo de morte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6552">Causa grande acúmulo de morte (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Causa leve acúmulo de gelo (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">Causa acúmulo de gelo (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">Causa grande acúmulo de gelo (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">Causa leve acúmulo de sono (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6651">Causa acúmulo de sono (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6652">Causa grande acúmulo de sono (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">Causa leve acúmulo de loucura (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">Causa acúmulo de loucura (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6702">Causa grande acúmulo de loucura (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

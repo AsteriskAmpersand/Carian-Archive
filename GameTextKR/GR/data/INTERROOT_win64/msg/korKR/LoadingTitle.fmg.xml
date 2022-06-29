@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">웅크리기</text>
+<text id="2">가드</text>
+<text id="3">가드 카운터</text>
+<text id="4">양손 잡기</text>
+<text id="5">차지 공격, 점프 공격</text>
+<text id="6">전투 기술</text>
+<text id="7">패리</text>
+<text id="8">타깃 고정</text>
+<text id="9">정밀사격</text>
+<text id="10">무기 장비</text>
+<text id="11">아이템 사용</text>
+<text id="12">횃불</text>
+<text id="13">치명적인 일격</text>
+<text id="14">제스처</text>
+<text id="15">지도</text>
+<text id="16">영기류 점프</text>
+<text id="17">사용 아이템의 빠른 선택</text>
+<text id="50">사망과 소지 룬</text>
+<text id="51">%null%</text>
+<text id="52">영체 소환</text>
+<text id="53">축복에서 쉬기</text>
+<text id="54">축복의 발견</text>
+<text id="55">축복의 인도</text>
+<text id="56">성배병</text>
+<text id="57">축복으로 이동</text>
+<text id="58">승마 시 공격</text>
+<text id="59">승마 금지 구역</text>
+<text id="60">아이템 제작</text>
+<text id="61">그릇 아이템</text>
+<text id="62">무기 커스터마이즈</text>
+<text id="63">%null%</text>
+<text id="64">사망 후 부활</text>
+<text id="65">장비 중량</text>
+<text id="66">교전 상태</text>
+<text id="67">영체의 강화</text>
+<text id="68">레벨 업</text>
+<text id="69">%null%</text>
+<text id="70">상태 이상: 독</text>
+<text id="71">상태 이상: 붉은 부패</text>
+<text id="72">상태 이상: 출혈</text>
+<text id="73">상태 이상: 동상</text>
+<text id="74">상태 이상: 수면</text>
+<text id="75">상태 이상: 발광</text>
+<text id="76">상태 이상: 죽음</text>
+<text id="77">강인도</text>
+<text id="100">협력자(갈고리 손가락)의 목적</text>
+<text id="101">적대자(투사)의 목적</text>
+<text id="102">멀티 플레이 최대 인원</text>
+<text id="103">소환 사인 가시화</text>
+<text id="104">협력 사인 작성</text>
+<text id="105">적대 사인 작성</text>
+<text id="106">침입</text>
+<text id="107">구원 요청</text>
+<text id="108">구원</text>
+<text id="109">사인 대기소</text>
+<text id="110">그룹 암호</text>
+<text id="111">멀티 플레이 암호</text>
+<text id="112">메시지</text>
+<text id="113">멀티 플레이의 이동 제한</text>
+<text id="114">환영</text>
+<text id="115">혈흔</text>
+<text id="116">구원자(사냥꾼)의 목적</text>
+<text id="117">소환 사인</text>
+<text id="118">메시지 확장</text>
+<text id="119">침입자의 목적</text>
+<text id="150">가드의 약점</text>
+<text id="151">자세 무너뜨리기</text>
+<text id="152">낙마</text>
+<text id="153">단단한 적</text>
+<text id="154">%null%</text>
+<text id="200">물방울 스카라베</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

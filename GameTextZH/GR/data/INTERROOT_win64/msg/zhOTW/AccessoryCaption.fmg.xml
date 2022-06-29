@@ -1,0 +1,1467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="100">連線遊玩專用道具。
+向解指女巫們請求，獲得的證明。
+
+受崩指入侵時，
+能從其他世界召喚崩指獵人。
+
+解指女巫輕喃，訴說崩指令人不齒的背叛，
+以及不入流的入侵行為帶來的危險性。</text>
+<text id="101">連線遊玩專用道具。
+與解指女巫們訂下契約的證明。
+
+當其他玩家受崩指入侵時，
+能夠接受召喚，前往該名玩家的世界。
+
+崩指是解指中的叛徒，
+也是侵害褪色者連結彼此的惡瘤──
+因此必須切除，以及根絕。</text>
+<text id="1000">鑲有紅色琥珀的鍊墜。
+能提升ＨＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1001">鑲有紅色琥珀的鍊墜。
+能大幅提升ＨＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1002">鑲有紅色琥珀的鍊墜。
+能更大幅提升ＨＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">鑲有藍色琥珀的鍊墜。
+能提升ＦＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1011">鑲有藍色琥珀的鍊墜。
+能大幅提升ＦＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1012">鑲有藍色琥珀的鍊墜。
+能更大幅提升ＦＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">鑲有綠色琥珀的鍊墜。
+能提升精力的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1021">鑲有綠色琥珀的鍊墜。
+能大幅提升精力的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1022">鑲有綠色琥珀的鍊墜。
+能更大幅提升精力的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+生命的原始力量蘊藏其中。</text>
+<text id="1023">%null%</text>
+<text id="1024">%null%</text>
+<text id="1025">%null%</text>
+<text id="1026">%null%</text>
+<text id="1027">%null%</text>
+<text id="1028">%null%</text>
+<text id="1029">%null%</text>
+<text id="1030">眾多武器聚集成塊的鐵製護符。
+能提升裝備重量的上限。
+
+從復仇英雄的知名武器──
+異形大劍發想、製成的護符。</text>
+<text id="1031">眾多武器聚集成塊的鐵製護符。
+能大幅提升裝備重量的上限。
+
+從復仇英雄的知名武器──
+異形大劍發想、製成的護符。</text>
+<text id="1032">眾多武器湧出大壺的護符。
+能更大幅提升裝備重量的上限。
+
+大壺將此護符贈予自己的戰士們。
+
+　拿多一些，好好長大喔。</text>
+<text id="1033">%null%</text>
+<text id="1034">%null%</text>
+<text id="1035">%null%</text>
+<text id="1036">%null%</text>
+<text id="1037">%null%</text>
+<text id="1038">%null%</text>
+<text id="1039">%null%</text>
+<text id="1040">黃金樹特殊恩惠的象徵。
+能些微提升ＨＰ、精力，以及裝備重量的上限。
+
+據說在黃金樹時代之始，
+瑪莉卡女王親自賜予此護符。</text>
+<text id="1041">黃金樹特殊恩惠的象徵。
+能提升ＨＰ、精力，以及裝備重量的上限。
+
+據說在黃金樹時代之始，
+瑪莉卡女王親自賜予此護符。</text>
+<text id="1042">黃金樹特殊恩惠的象徵。
+「傳說中的護符」之一。
+
+能大幅提升ＨＰ、精力，以及裝備重量的上限。
+
+據說在黃金樹時代之始，
+瑪莉卡女王親自賜予此護符。</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">受艾爾登盧恩雕琢的眼珠。
+據說是王夫拉達岡的烙印。
+
+能提升生命力、耐力、力氣、靈巧，
+但增加受到的損傷。
+
+烙印是被神祇找上的人物
+受賜生涯使命的證明。</text>
+<text id="1051">受艾爾登盧恩雕琢的眼珠。
+「傳說中的護符」之一。
+據說是王夫拉達岡的烙印。
+
+能大幅提升生命力、耐力、力氣、靈巧，
+但大幅增加受到的損傷。
+
+沉重的使命會侵蝕肩負者，
+猶如無法逃離的詛咒。</text>
+<text id="1052">%null%</text>
+<text id="1053">%null%</text>
+<text id="1054">%null%</text>
+<text id="1055">%null%</text>
+<text id="1056">%null%</text>
+<text id="1057">%null%</text>
+<text id="1058">%null%</text>
+<text id="1059">%null%</text>
+<text id="1060">雕製關於英雄傳說的護符。
+能提升力氣。
+
+被譽為最強半神的英雄，
+獨自挑戰、粉碎墜落的星星。
+據說從那之後，星星的命運就受到封印。</text>
+<text id="1061">%null%</text>
+<text id="1062">%null%</text>
+<text id="1063">%null%</text>
+<text id="1064">%null%</text>
+<text id="1065">%null%</text>
+<text id="1066">%null%</text>
+<text id="1067">%null%</text>
+<text id="1068">%null%</text>
+<text id="1069">%null%</text>
+<text id="1070">雕製關於英雄傳說的護符。
+能提升靈巧。
+
+生來就受到宿疾侵蝕的少女，
+邂逅了老師，以及他的流水劍。
+據說她因此獲得了無敵的飛翼。</text>
+<text id="1071">%null%</text>
+<text id="1072">%null%</text>
+<text id="1073">%null%</text>
+<text id="1074">%null%</text>
+<text id="1075">%null%</text>
+<text id="1076">%null%</text>
+<text id="1077">%null%</text>
+<text id="1078">%null%</text>
+<text id="1079">%null%</text>
+<text id="1080">雕製關於女王傳說的護符。
+能提升智力。
+
+觀星少女仰望夜空步行，
+度過一段不停追趕星星的旅行。
+隨後她遇見了滿月，成為女王。</text>
+<text id="1081">%null%</text>
+<text id="1082">%null%</text>
+<text id="1083">%null%</text>
+<text id="1084">%null%</text>
+<text id="1085">%null%</text>
+<text id="1086">%null%</text>
+<text id="1087">%null%</text>
+<text id="1088">%null%</text>
+<text id="1089">%null%</text>
+<text id="1090">雕製關於雙指傳說的護符。
+能提升信仰。
+
+指頭無法發聲，卻能言善道；
+指頭固執蠕動，空中布滿奧祕──
+隨後我們得到了話語，那信仰的話語。</text>
+<text id="1091">%null%</text>
+<text id="1092">%null%</text>
+<text id="1093">%null%</text>
+<text id="1094">%null%</text>
+<text id="1095">%null%</text>
+<text id="1096">%null%</text>
+<text id="1097">%null%</text>
+<text id="1098">%null%</text>
+<text id="1099">%null%</text>
+<text id="1100">各種寶藏、貴重物品的搬運工──
+以糞金龜的形象製成的護符。
+
+銀色的護符能提升觀察力。</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">各種寶藏、貴重物品的搬運工──
+以糞金龜的形象製成的護符。
+
+金色的護符在打倒敵人時，
+能增加獲得的盧恩。</text>
+<text id="1140">「永恆之城」諾克史黛拉的祕密寶藏。
+「傳說中的護符」之一。
+
+能增加記憶空格。
+
+此為參考他們失去的黑色月亮製成。
+無數的星星跟隨著諾克史黛拉的月亮。</text>
+<text id="1141">%null%</text>
+<text id="1142">%null%</text>
+<text id="1143">%null%</text>
+<text id="1144">%null%</text>
+<text id="1145">%null%</text>
+<text id="1146">%null%</text>
+<text id="1147">%null%</text>
+<text id="1148">%null%</text>
+<text id="1149">%null%</text>
+<text id="1150">參考綠烏龜的模樣製成的護符。
+能提升精力的恢復速度。
+
+烏龜是著名的營養食材，為精力無窮的象徵。
+
+據說稱呼烏龜為睿智獸物的人們，
+認為那是野蠻的習俗。</text>
+<text id="1151">%null%</text>
+<text id="1152">%null%</text>
+<text id="1153">%null%</text>
+<text id="1154">%null%</text>
+<text id="1155">%null%</text>
+<text id="1156">%null%</text>
+<text id="1157">%null%</text>
+<text id="1158">%null%</text>
+<text id="1159">%null%</text>
+<text id="1160">祖靈之民的裝飾品。
+能提升健壯度。
+（健壯度是對出血、凍傷的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1161">祖靈之民的裝飾品。
+能大幅提升健壯度。
+（健壯度是對出血、凍傷的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1162">%null%</text>
+<text id="1163">%null%</text>
+<text id="1164">%null%</text>
+<text id="1165">%null%</text>
+<text id="1166">%null%</text>
+<text id="1167">%null%</text>
+<text id="1168">%null%</text>
+<text id="1169">%null%</text>
+<text id="1170">祖靈之民的裝飾品。
+能提升免疫力。
+（免疫力是對中毒、腐敗的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1171">祖靈之民的裝飾品。
+能大幅提升免疫力。
+（免疫力是對中毒、腐敗的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1172">%null%</text>
+<text id="1173">%null%</text>
+<text id="1174">%null%</text>
+<text id="1175">%null%</text>
+<text id="1176">%null%</text>
+<text id="1177">%null%</text>
+<text id="1178">%null%</text>
+<text id="1179">%null%</text>
+<text id="1180">祖靈之民的裝飾品。
+能提升理智度。
+（理智度是對催眠、發狂的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1181">祖靈之民的裝飾品。
+能大幅提升理智度。
+（理智度是對催眠、發狂的抵抗力。）
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1182">%null%</text>
+<text id="1183">%null%</text>
+<text id="1184">%null%</text>
+<text id="1185">%null%</text>
+<text id="1186">%null%</text>
+<text id="1187">%null%</text>
+<text id="1188">%null%</text>
+<text id="1189">%null%</text>
+<text id="1190">腥臭化膿的人面膿瘡。
+能提升抗死度。
+
+據說那是死王子的臉──
+過去他被稱作葛德文，是半神之中的初始死者，
+後來被埋葬在王城地底深處，那黃金樹的根部。</text>
+<text id="1191">腥臭化膿的惡性人面膿瘡。
+能大幅提升抗死度。
+
+據說那是死王子的臉──
+半神之中的初始死者、黃金之子，
+那心有罣礙，受盡玷汙的遺容。</text>
+<text id="1192">%null%</text>
+<text id="1193">%null%</text>
+<text id="1194">%null%</text>
+<text id="1195">%null%</text>
+<text id="1196">%null%</text>
+<text id="1197">%null%</text>
+<text id="1198">%null%</text>
+<text id="1199">%null%</text>
+<text id="1200">祖靈之民的裝飾品。
+其中以多種色彩點綴的貴重物品。
+
+能提升免疫力、健壯度、理智度。
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1201">祖靈之民的裝飾品。
+其中以多種色彩點綴的貴重物品。
+
+能大幅提升免疫力、健壯度、理智度。
+
+據說此為即將萌發的角。
+長命野獸的角會長出新芽，
+在不停萌發新芽之後，野獸會成為祖靈。</text>
+<text id="1202">%null%</text>
+<text id="1203">%null%</text>
+<text id="1204">%null%</text>
+<text id="1205">%null%</text>
+<text id="1206">%null%</text>
+<text id="1207">%null%</text>
+<text id="1208">%null%</text>
+<text id="1209">%null%</text>
+<text id="1210">參考大山羊的角製成的護符。
+能提升強韌度。
+
+大山羊因為某位騎士而聞名──
+粗壯、強大、絕不畏縮的忒拉格斯。
+據說他是戰鬥者的沉默戰友。</text>
+<text id="1211">%null%</text>
+<text id="1212">%null%</text>
+<text id="1213">%null%</text>
+<text id="1214">%null%</text>
+<text id="1215">%null%</text>
+<text id="1216">%null%</text>
+<text id="1217">%null%</text>
+<text id="1218">%null%</text>
+<text id="1219">%null%</text>
+<text id="1220">受艾爾登盧恩雕琢的眼珠。
+據說是瑪莉卡女王的烙印。
+
+能提升集中力、智力、信仰、感應，
+但增加受到的損傷。
+
+烙印是被神祇找上的人物
+受賜生涯使命的證明。</text>
+<text id="1221">受艾爾登盧恩雕琢的眼珠。
+「傳說中的護符」之一。
+據說是瑪莉卡女王的烙印。
+
+能大幅提升集中力、智力、信仰、感應，
+但大幅增加受到的損傷。
+
+沉重的使命會侵蝕肩負者，
+猶如無法逃離的詛咒。</text>
+<text id="1222">%null%</text>
+<text id="1223">%null%</text>
+<text id="1224">%null%</text>
+<text id="1225">%null%</text>
+<text id="1226">%null%</text>
+<text id="1227">%null%</text>
+<text id="1228">%null%</text>
+<text id="1229">%null%</text>
+<text id="1230">破裂死亡的戰士壺碎片。
+
+能提升戰技的攻擊力。
+
+碎片上緊黏著軟化的屍塊，
+其中還能看到飾品的殘骸。
+有可能是從前王室戰士的遺物。</text>
+<text id="1231">破裂死亡的「戰士壺」亞歷山大的碎片。
+
+能大幅提升戰技的攻擊力。
+
+碎片上緊黏著軟化的屍塊，
+其中還能看到飾品的殘骸。
+好像是紅髮英雄的遺物。</text>
+<text id="1232">%null%</text>
+<text id="1233">%null%</text>
+<text id="1234">%null%</text>
+<text id="1235">%null%</text>
+<text id="1236">%null%</text>
+<text id="1237">%null%</text>
+<text id="1238">%null%</text>
+<text id="1239">%null%</text>
+<text id="1240">%null%</text>
+<text id="1241">%null%</text>
+<text id="1242">%null%</text>
+<text id="1243">%null%</text>
+<text id="1244">%null%</text>
+<text id="1245">%null%</text>
+<text id="1246">%null%</text>
+<text id="1247">%null%</text>
+<text id="1248">%null%</text>
+<text id="1249">%null%</text>
+<text id="1250">米莉森使用的黃金義手的一部分。
+手掌動作固定在高舉劍的姿勢。
+
+能提升靈巧、
+攻擊越是連續，越能提升攻擊力。
+
+透過美妙背叛所產生的絕望，
+身為花蕾的她綻放成嬌豔的花朵。
+總有一天，她將會重生──
+化為猩紅女武神。</text>
+<text id="2000">採取奇特手段偷襲的刺客們擁有的護符。
+參考剛蛻皮的蠍子製成，
+蠍螯夾著魔力色的心臟。
+
+能提升魔力屬性攻擊力，但降低減傷率。</text>
+<text id="2001">%null%</text>
+<text id="2002">%null%</text>
+<text id="2003">%null%</text>
+<text id="2004">%null%</text>
+<text id="2005">%null%</text>
+<text id="2006">%null%</text>
+<text id="2007">%null%</text>
+<text id="2008">%null%</text>
+<text id="2009">%null%</text>
+<text id="2010">採取奇特手段偷襲的刺客們擁有的護符。
+參考剛蛻皮的蠍子製成，
+蠍螯夾著雷色的心臟。
+
+能提升雷屬性攻擊力，但降低減傷率。</text>
+<text id="2011">%null%</text>
+<text id="2012">%null%</text>
+<text id="2013">%null%</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">採取奇特手段偷襲的刺客們擁有的護符。
+參考剛蛻皮的蠍子製成，
+蠍螯夾著火色的心臟。
+
+能提升火屬性攻擊力，但降低減傷率。</text>
+<text id="2021">%null%</text>
+<text id="2022">%null%</text>
+<text id="2023">%null%</text>
+<text id="2024">%null%</text>
+<text id="2025">%null%</text>
+<text id="2026">%null%</text>
+<text id="2027">%null%</text>
+<text id="2028">%null%</text>
+<text id="2029">%null%</text>
+<text id="2030">採取奇特手段偷襲的刺客們擁有的護符。
+參考剛蛻皮的蠍子製成，
+蠍螯夾著聖色的心臟。
+
+能提升聖屬性攻擊力，但降低減傷率。</text>
+<text id="2031">%null%</text>
+<text id="2032">%null%</text>
+<text id="2033">%null%</text>
+<text id="2034">%null%</text>
+<text id="2035">%null%</text>
+<text id="2036">%null%</text>
+<text id="2037">%null%</text>
+<text id="2038">%null%</text>
+<text id="2039">%null%</text>
+<text id="2040">源自古代死亡儀式的護符。
+紅色羽毛的護符，在ＨＰ偏低時，
+能提升攻擊力。
+
+與死亡比鄰時，情緒會為之高昂──
+那拚命求生的模樣，
+會讓隨後到來的死亡更加耀眼。</text>
+<text id="2041">%null%</text>
+<text id="2042">%null%</text>
+<text id="2043">%null%</text>
+<text id="2044">%null%</text>
+<text id="2045">%null%</text>
+<text id="2046">%null%</text>
+<text id="2047">%null%</text>
+<text id="2048">%null%</text>
+<text id="2049">%null%</text>
+<text id="2050">過去獻給黃金樹的戰鬥儀式──
+參考用於儀式中的劍製成的護符。
+
+ＨＰ全滿時，能提升攻擊力。
+
+戰鬥儀式在王夫拉達岡的時代受到廢除，
+散布各處的競技場是遺留下來的產物。</text>
+<text id="2051">%null%</text>
+<text id="2052">%null%</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">%null%</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">以矛與士兵的形象製成的護符。
+能強化突刺攻擊特有的反擊攻擊。
+
+在交界地之中，常見士兵用矛。
+遇上強敵時，有時能給予有效反擊。</text>
+<text id="2061">%null%</text>
+<text id="2062">%null%</text>
+<text id="2063">%null%</text>
+<text id="2064">%null%</text>
+<text id="2065">%null%</text>
+<text id="2066">%null%</text>
+<text id="2067">%null%</text>
+<text id="2068">%null%</text>
+<text id="2069">%null%</text>
+<text id="2070">以大槌與騎士的形象製成的護符。
+當敵人防禦，攻擊時能增加對方消耗的精力。
+
+槌在對上持盾敵人時相當有效，
+為狩獵騎士時的知名武器。</text>
+<text id="2071">%null%</text>
+<text id="2072">%null%</text>
+<text id="2073">%null%</text>
+<text id="2074">%null%</text>
+<text id="2075">%null%</text>
+<text id="2076">%null%</text>
+<text id="2077">%null%</text>
+<text id="2078">%null%</text>
+<text id="2079">%null%</text>
+<text id="2080">參考高舉的義手刀製成的護符。
+與殘身瑪蓮妮亞並肩作戰的
+騎士們擁有的徽章。
+
+攻擊越是連續，越能提升攻擊力。
+
+飛翼象徵著瑪蓮妮亞，以及戰無不勝。
+生來的宿疾讓她不知何謂安祥，
+因此她的劍維持美麗，也帶有壯烈的特質。</text>
+<text id="2081">參考高舉的義手刀製成的護符。
+侍奉腐敗女神的女武神們擁有的徽章。
+
+攻擊越是連續，越能大幅提升攻擊力。
+
+四位姊妹誕生自艾奧尼亞沼澤，
+透過格威的幫助，到達了聖樹──
+然而她們是不完全的花蕾。</text>
+<text id="2082">%null%</text>
+<text id="2083">%null%</text>
+<text id="2084">%null%</text>
+<text id="2085">%null%</text>
+<text id="2086">%null%</text>
+<text id="2087">%null%</text>
+<text id="2088">%null%</text>
+<text id="2089">%null%</text>
+<text id="2090">以短劍與醫師的形象製成的護符。
+能強化致命一擊。
+
+白衣的戰場醫師看見一息尚存的人，
+不論敵我，皆會給予最後一擊──
+正因為慈悲為懷，才會痛下殺手。</text>
+<text id="2091">%null%</text>
+<text id="2092">%null%</text>
+<text id="2093">%null%</text>
+<text id="2094">%null%</text>
+<text id="2095">%null%</text>
+<text id="2096">%null%</text>
+<text id="2097">%null%</text>
+<text id="2098">%null%</text>
+<text id="2099">%null%</text>
+<text id="2100">以三支羽毛箭的形象製成的護符。
+狩獵野獸的獵人們擁有的物品。
+
+能提升弓的射程距離。</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">以藍衣舞孃的形象製成的布質人偶。
+非常古老，傳承而來的物品。
+
+裝備重量越輕，攻擊力會越高。
+
+據說藍衣舞孃是妖精。
+妖精將流水劍賜予盲眼劍士，
+劍士因此得以封印古老神祇──封印腐敗。</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">以雙頭劍與密使的形象製成的護符。
+能強化連續攻擊的最後一記攻擊。
+
+密使們繼承而來的雙頭劍劍術
+貫徹攻擊招招不致命，
+但最後一記攻擊最為強力的作法。</text>
+<text id="2121">%null%</text>
+<text id="2122">%null%</text>
+<text id="2123">%null%</text>
+<text id="2124">%null%</text>
+<text id="2125">%null%</text>
+<text id="2126">%null%</text>
+<text id="2127">%null%</text>
+<text id="2128">%null%</text>
+<text id="2129">%null%</text>
+<text id="2130">以斧與戰士的形象製成的護符。
+能強化蓄力攻擊。
+
+斧是長征戰王的武器，
+眾戰士推崇王之餘，也使用相同武器。
+他們擅長使出蓄滿力量的攻擊。</text>
+<text id="2131">%null%</text>
+<text id="2132">%null%</text>
+<text id="2133">%null%</text>
+<text id="2134">%null%</text>
+<text id="2135">%null%</text>
+<text id="2136">%null%</text>
+<text id="2137">%null%</text>
+<text id="2138">%null%</text>
+<text id="2139">%null%</text>
+<text id="2140">以騎槍與騎士的形象製成的護符。
+能提升騎馬時的攻擊力。
+
+騎在馬上的騎士十分可畏──
+身在高處，視野更加全面，
+可說是如虎添翼。</text>
+<text id="2141">%null%</text>
+<text id="2142">%null%</text>
+<text id="2143">%null%</text>
+<text id="2144">%null%</text>
+<text id="2145">%null%</text>
+<text id="2146">%null%</text>
+<text id="2147">%null%</text>
+<text id="2148">%null%</text>
+<text id="2149">%null%</text>
+<text id="2150">以三支鐵箭的形象製成的護符。
+古老士兵們的物品。
+
+能提升射出箭、弩箭時的攻擊力。</text>
+<text id="2151">%null%</text>
+<text id="2152">%null%</text>
+<text id="2153">%null%</text>
+<text id="2154">%null%</text>
+<text id="2155">%null%</text>
+<text id="2156">%null%</text>
+<text id="2157">%null%</text>
+<text id="2158">%null%</text>
+<text id="2159">%null%</text>
+<text id="2160">以鮮血君王的歡欣模樣製成的護符。
+
+當周圍人物陷入異常狀態出血時，
+能提升攻擊力。
+
+　向鮮血君王獻上鮮血吧──
+　讓大人伴侶的房內，讓繭內填滿鮮血。
+　年幼的伴侶覺醒之時，我們的王朝隨之開創。</text>
+<text id="2161">%null%</text>
+<text id="2162">%null%</text>
+<text id="2163">%null%</text>
+<text id="2164">%null%</text>
+<text id="2165">%null%</text>
+<text id="2166">%null%</text>
+<text id="2167">%null%</text>
+<text id="2168">%null%</text>
+<text id="2169">%null%</text>
+<text id="2170">以蟲群的歡欣模樣製成的護符。
+
+當周圍人物陷入異常狀態中毒、腐敗時，
+能提升攻擊力。
+
+　向猩紅女神獻上腐敗吧──
+　在遙遠他方怒放猩紅花朵，
+　回到我們這群棄子的身旁吧。</text>
+<text id="2171">%null%</text>
+<text id="2172">%null%</text>
+<text id="2173">%null%</text>
+<text id="2174">%null%</text>
+<text id="2175">%null%</text>
+<text id="2176">%null%</text>
+<text id="2177">%null%</text>
+<text id="2178">%null%</text>
+<text id="2179">%null%</text>
+<text id="2180">以鉤爪與殺手的形象製成的護符。
+能強化跳躍攻擊。
+
+鴉山的殺手以暗殺為業，
+他們會模仿死之猛禽，攻擊盯上的獵物。</text>
+<text id="2181">%null%</text>
+<text id="2182">%null%</text>
+<text id="2183">%null%</text>
+<text id="2184">%null%</text>
+<text id="2185">%null%</text>
+<text id="2186">%null%</text>
+<text id="2187">%null%</text>
+<text id="2188">%null%</text>
+<text id="2189">%null%</text>
+<text id="2190">以嘶吼巨人的形象製成的青銅鍊墜。
+能強化咆哮與吐息。
+
+在遠古時代，巨人是黃金樹的宿敵。
+據說巨人轟然的咆哮能破壞自然──
+譬如引發雪崩，或召來火焰暴風雨。</text>
+<text id="2191">%null%</text>
+<text id="2192">%null%</text>
+<text id="2193">%null%</text>
+<text id="2194">%null%</text>
+<text id="2195">%null%</text>
+<text id="2196">%null%</text>
+<text id="2197">%null%</text>
+<text id="2198">%null%</text>
+<text id="2199">%null%</text>
+<text id="2200">以曲劍與劍士的形象製成的護符。
+能強化防禦反擊。
+
+那體現險中求勝的傑出劍術，
+據說是在過去，盲眼劍士領悟的技術。</text>
+<text id="2201">%null%</text>
+<text id="2202">%null%</text>
+<text id="2203">%null%</text>
+<text id="2204">%null%</text>
+<text id="2205">%null%</text>
+<text id="2206">%null%</text>
+<text id="2207">%null%</text>
+<text id="2208">%null%</text>
+<text id="2209">%null%</text>
+<text id="2210">壺群送給朋友的護符。
+能提升投擲壺類道具的威力。
+
+壺群以人類血肉作為生命泉源，
+但本性卻十分地善良。
+也可能那份善良，就是他們誕生的理由。</text>
+<text id="2211">%null%</text>
+<text id="2212">%null%</text>
+<text id="2213">%null%</text>
+<text id="2214">%null%</text>
+<text id="2215">%null%</text>
+<text id="2216">%null%</text>
+<text id="2217">%null%</text>
+<text id="2218">%null%</text>
+<text id="2219">%null%</text>
+<text id="2220">參考調香瓶的模樣製成的護符。
+能提升調香類道具的威力。
+
+調香師有著只有他們才知道的花園。
+可能位在高原的邊緣，或是隱藏的洞窟內，
+那裡百花齊放，只為芬芳。</text>
+<text id="3000">學院的惡夢──人稱魔法師球，
+以其形象製成的護符。
+
+能提升魔法的威力。
+
+在輝石魔法之中，有個名為「起源」的禁忌。
+將魔法師聚集成球，化成星星種子──
+對起源派的人而言，這是一種探索的手段。</text>
+<text id="3001">學院的惡夢──人稱魔法師球，
+以其中最先出現的魔法師球形象製成的護符。
+
+能大幅提升魔法的威力。
+
+在輝石魔法之中，有個名為「起源」的禁忌。
+將魔法師聚集成球，化成星星種子──
+對起源派的人而言，這是一種探索的手段。</text>
+<text id="3040">描繪面具人像的布條。
+能提升禱告的威力。
+
+人像是參考信徒繪製而成，
+堅信無形的事物，並獻上祈禱──
+那副模樣，連孤獨的創教者也能受到鼓舞。
+
+所謂的信仰，可能就等於肯定。</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">描繪大量面具人像的布條。
+能大幅提升禱告的威力。
+
+人像是參考信徒繪製而成，
+堅信無形的事物，並獻上祈禱──
+那副模樣，連孤獨的創教者也能受到鼓舞。
+
+所謂的信仰，可能就等於肯定。</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">參考古王的形象製成的護符。
+據說古王坐鎮時空夾縫、風暴中心。
+「傳說中的護符」之一。
+
+能延長魔法、禱告的有效時間。
+
+據說古王的城──法姆‧亞茲拉，
+在許久以前就逐漸步入崩毀。</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">以「艾爾登之王」拉達岡的形象製成的護符。
+「傳說中的護符」之一。
+
+能縮短魔法、禱告的詠唱時間。
+
+據說「紅髮」拉達岡
+身為卡利亞的蕾娜菈的丈夫時，學習魔法；
+身為瑪莉卡女王的丈夫時，學習禱告──
+英雄的目標，是成為完美存在。</text>
+<text id="3071">%null%</text>
+<text id="3072">%null%</text>
+<text id="3073">%null%</text>
+<text id="3074">%null%</text>
+<text id="3075">%null%</text>
+<text id="3076">%null%</text>
+<text id="3077">%null%</text>
+<text id="3078">%null%</text>
+<text id="3079">%null%</text>
+<text id="3080">染血的古老輝石刀。
+
+能減少使用魔法、禱告消耗的ＦＰ，
+但減少ＨＰ上限。
+
+古老的魔法師為了將源輝石化成自己的靈魂，
+會用這把刀劃開心臟，接著步入死亡。</text>
+<text id="3081">%null%</text>
+<text id="3082">%null%</text>
+<text id="3083">%null%</text>
+<text id="3084">%null%</text>
+<text id="3085">%null%</text>
+<text id="3086">%null%</text>
+<text id="3087">%null%</text>
+<text id="3088">%null%</text>
+<text id="3089">%null%</text>
+<text id="3090">以「艾爾登之王」葛孚雷的形象製成的護符。
+「傳說中的護符」之一。
+
+能強化魔法、禱告、戰技的蓄力使用。
+
+葛孚雷是勇猛的戰士──
+然而在他立誓為王的那一刻起，
+為了抑制心中沸騰不止的戰意，
+他揹起了「宰相野獸」瑟洛修。</text>
+<text id="4000">有著古龍浮雕的熟鐵製護符。
+能提升物理減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4001">有著兩隻古龍浮雕的熟鐵製護符。
+能大幅提升物理減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4002">有著三隻古龍浮雕的熟鐵製護符。
+能更大幅提升物理減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4003">有著巨大古龍浮雕的熟鐵製護符。
+「傳說中的護符」之一。
+
+能極大幅提升物理減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">繪有藍色古龍圖案的護符。
+能提升魔力屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4011">繪有兩隻藍色古龍圖案的護符。
+能大幅提升魔力屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4012">繪有三隻藍色古龍圖案的護符。
+能更大幅提升魔力屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">繪有紅色古龍圖案的護符。
+能提升火屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4021">繪有兩隻紅色古龍圖案的護符。
+能大幅提升火屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4022">繪有三隻紅色古龍圖案的護符。
+能更大幅提升火屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">繪有黃色古龍圖案的護符。
+能提升雷屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4031">繪有兩隻黃色古龍圖案的護符。
+能大幅提升雷屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4032">繪有三隻黃色古龍圖案的護符。
+能更大幅提升雷屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">繪有黃金古龍圖案的護符。
+能提升聖屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4041">繪有兩隻黃金古龍圖案的護符。
+能大幅提升聖屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4042">繪有三隻黃金古龍圖案的護符。
+能更大幅提升聖屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">繪有珍珠色古龍圖案的護符。
+能提升物理以外的減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4051">繪有兩隻珍珠色古龍圖案的護符。
+能大幅提升物理以外的減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4052">繪有三隻珍珠色古龍圖案的護符。
+能更大幅提升物理以外的減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">在遠古時代，據說會長在人體上，
+揉合生物百相的鱗片所製成的護符。
+
+能減少致命一擊造成的損傷。
+
+此為生命之始的熔爐殘存的痕跡，
+也是局部性的隔代遺傳，在古代具有神聖意義。
+然而在文明發展後，被視為玷汙的象徵。</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">在遠古時代，據說會長在人體上，
+揉合生物百相的羽毛所製成的護符。
+
+能強化翻滾的閃避能力，
+但會增加受到的損傷。
+
+此為生命之始的熔爐殘存的痕跡，
+也是局部性的隔代遺傳，在古代具有神聖意義。
+然而在文明發展後，被視為玷汙的象徵。</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">源自古代死亡儀式的護符。
+藍色羽毛的護符，在ＨＰ偏低時，
+能提升防禦力。
+
+與死亡比鄰時，情緒會為之高昂──
+那拚命求生的模樣，
+會加深死亡的奉獻價值。</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">過去獻給黃金樹的戰鬥儀式──
+參考用於儀式中的盾製成的護符。
+
+ＨＰ全滿時，能提升防禦力。
+
+戰鬥儀式在王夫拉達岡的時代受到廢除，
+散布各處的競技場是遺留下來的產物。</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">以大盾與騎士的形象製成的護符。
+能提升防禦強度。
+
+在過去，王城羅德爾的騎士們
+將大樹守衛的準則奉為圭臬：
+要善盡守護職責，
+該先舉起的不是劍，是盾。</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">在遠古時代，據說會長在人體上，
+揉合生物百相的瘤所製成的護符。
+
+能減少頭部射擊造成的損傷與衝擊。
+
+此為生命之始的熔爐殘存的痕跡，
+也是局部性的隔代遺傳，在古代具有神聖意義。
+然而在文明發展後，被視為玷汙的象徵。</text>
+<text id="5000">參考黃金樹種子的模樣製成的紅色護符。
+能提升紅露滴聖杯瓶的恢復量。
+
+過去的黃金樹曾是永恆與完美，
+也因此，種子不曾出現。</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">參考黃金樹種子的模樣製成的藍色護符。
+能提升藍露滴聖杯瓶的恢復量。
+
+過去的黃金樹曾是永恆與完美，
+也因此，種子不曾出現。</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">承接黃金樹的恩惠──
+參考承接露滴的模樣製成的護符。
+
+能緩慢恢復ＨＰ。
+
+據說在過去，恩惠露滴源源不絕──
+那是轉眼即逝的豐饒時代，
+黃金樹因此成為了信仰。</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">火山官邸之主，拉卡德司法官──
+雕著他面容嚴肅的肖像護符。
+
+打倒敵人時，能恢復ＨＰ。
+
+當拉卡德發誓犯下叛律的褻瀆之舉，
+所有的掠奪行為都受到肯定──
+與神祇的作法如出一轍。</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">以平滑的皮膚拼製縫成的
+神皮使徒們的聖布。
+
+連續攻擊時，能恢復ＨＰ。
+
+剛誕生的使徒會用此物包裹，
+再交給有著宵色眼眸的女王擁抱──
+讓使徒們長成神祇的死亡。</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">形狀蜿蜒，染上紅色的凶刀。
+使出致命一擊能恢復ＨＰ。
+
+帶來半神初始死亡的黑刀，
+在陰謀之夜舞動，反射陣陣光芒──
+據說此為參考黑刀的形象製成。</text>
+<text id="5051">%null%</text>
+<text id="5052">%null%</text>
+<text id="5053">%null%</text>
+<text id="5054">%null%</text>
+<text id="5055">%null%</text>
+<text id="5056">%null%</text>
+<text id="5057">%null%</text>
+<text id="5058">%null%</text>
+<text id="5059">%null%</text>
+<text id="5060">形狀蜿蜒，染上藍色的凶刀。
+使出致命一擊能恢復ＦＰ。
+
+帶來半神初始死亡的黑刀，
+在陰謀之夜舞動，反射陣陣光芒──
+據說此為參考黑刀的形象製成。</text>
+<text id="6000">封著暗霧的神祕小瓶子。
+
+能完全去除自己發出的聲響。
+
+據說是圓桌廳堂的刺客使用的詛咒器具。
+在過去，背離引導的褪色者，
+在一片寂靜的時刻最為心慌。</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">表面具有光澤的暗色布捲成的護符。
+
+遠離敵人後，蹲下能完全隱藏自己的身影。
+
+此為過去的黑刀刺客們，
+在陰謀之夜時用於隱藏身影的部分面紗。</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">在盾面有著王室徽章的護符。
+
+能減少使用戰技消耗的ＦＰ。
+
+據說在過去的卡利亞騎士之中，
+只有直接侍奉公主的人會受賜此徽章。
+目前的公主只有一位──
+蕾娜菈的女兒，菈妮。</text>
+<text id="6040">以長尾貓拉桂瑪的形象製成的別針。
+
+從高處落下時，能完全不受到損傷。
+但是無法避免過高落下時，造成的死亡。
+
+據說那是雷亞盧卡利亞的童話故事中
+出現的妖精貓，會在大鐘樓上玩耍。</text>
+<text id="6041">%null%</text>
+<text id="6042">%null%</text>
+<text id="6043">%null%</text>
+<text id="6044">%null%</text>
+<text id="6045">%null%</text>
+<text id="6046">%null%</text>
+<text id="6047">%null%</text>
+<text id="6048">%null%</text>
+<text id="6049">%null%</text>
+<text id="6050">雙眼被壓碎的瘋狂肖像。
+肖像若有似無的微笑帶有一絲諂媚。
+
+將變得容易受敵人攻擊。
+
+名為夏玻利利的男人，因為進讒言，
+蒙受被眾人壓碎雙眼的懲罰。
+據說後來，他的眼窩寄宿了癲火病。</text>
+<text id="6051">%null%</text>
+<text id="6052">%null%</text>
+<text id="6053">%null%</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">皮膚剝落的瘋狂肖像。
+肖像若有似無的微笑帶有一絲慈愛。
+
+將增加受到的損傷。
+
+名為狄蒂卡的女人，
+做出諸多道德瑕疵之舉。
+據說因此產下了無數異形之子。</text>
+<text id="6061">%null%</text>
+<text id="6062">%null%</text>
+<text id="6063">%null%</text>
+<text id="6064">%null%</text>
+<text id="6065">%null%</text>
+<text id="6066">%null%</text>
+<text id="6067">%null%</text>
+<text id="6068">%null%</text>
+<text id="6069">%null%</text>
+<text id="6070">細到彷彿一折即斷的枯枝護符。
+
+死亡時不會掉落盧恩，
+但作為代價，此護符會消失。
+
+據說是黃金樹的一部份，
+在遠古時代修剪時留下的樹枝。</text>
+<text id="6071">%null%</text>
+<text id="6072">%null%</text>
+<text id="6073">%null%</text>
+<text id="6074">%null%</text>
+<text id="6075">%null%</text>
+<text id="6076">%null%</text>
+<text id="6077">%null%</text>
+<text id="6078">%null%</text>
+<text id="6079">%null%</text>
+<text id="6080">映照出金色模糊人影的小鏡子。
+
+能變得像是勾指主人。
+
+為了欺騙入侵者所製作的
+其中一種褪色者的詛咒器具。</text>
+<text id="6081">%null%</text>
+<text id="6082">%null%</text>
+<text id="6083">%null%</text>
+<text id="6084">%null%</text>
+<text id="6085">%null%</text>
+<text id="6086">%null%</text>
+<text id="6087">%null%</text>
+<text id="6088">%null%</text>
+<text id="6089">%null%</text>
+<text id="6090">映照出肉身模糊人影的小鏡子。
+
+能變得像是受召喚而來的協助者。
+
+為了欺騙入侵者所製作的
+其中一種褪色者的詛咒器具。</text>
+<text id="6091">%null%</text>
+<text id="6092">%null%</text>
+<text id="6093">%null%</text>
+<text id="6094">%null%</text>
+<text id="6095">%null%</text>
+<text id="6096">%null%</text>
+<text id="6097">%null%</text>
+<text id="6098">%null%</text>
+<text id="6099">%null%</text>
+<text id="6100">歪扭成奇怪模樣的神祕圓環。
+自己的舉止會產生變化。</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">%null%</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">切下祖靈之王的角而成的物品。
+
+打倒敵人時，能恢復ＦＰ。
+
+祖靈之王倒下，幾株嫩芽
+以牠的角為溫床，盛開發光──
+此為從死亡萌發生命，
+也是從死亡獲得力量。</text>
+</entries>
+</fmg>

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Agache para dificultar a detecção pelos inimigos.
+Especialmente eficaz na grama alta.
+Atacar um inimigo que não te detectou causa mais dano do que de costume.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Use uma arma na mão esquerda ou em ambas para se defender de ataques.
+Escudos são particularmente eficazes para defesa.
+Defender consome vigor.
+Se o seu vigor acabar, sua postura será quebrada.
+
+&lt;?keyicon@24?&gt;: Defender</text>
+<text id="3">Você pode realizar um contra-ataque imediatamente após bloquear um ataque inimigo.
+Contra-ataques defensivos tornam mais fácil a quebra da postura do inimigo.
+
+&lt;?keyicon@23?&gt; imediatamente após bloquear um ataque: Contra-ataque defensivo</text>
+<text id="4">Empunhar uma arma com as duas mãos aumentará sua força com ela em 50%.
+Isso suaviza os requisitos de atributos e armas baseadas em força causarão mais dano.
+Além disso, ataques com essa arma são mais difíceis de repelir com escudos.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Empunhar com duas mãos</text>
+<text id="5">Ataques carregados e ataques com salto são poderosos.
+Usá-los torna mais fácil a quebra da postura do inimigo.
+Eles também têm mais chances de derrubar inimigos montados.
+
+Segure &lt;?keyicon@23?&gt;: Ataque carregado
+&lt;?keyicon@23?&gt; enquanto salta: Ataque com salto</text>
+<text id="6">As armas têm habilidades especiais.
+As habilidades são muito variadas, de ataques poderosos a efeitos temporários.
+Usá-las consome PF.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">Escudos permitem que você use a habilidade "Aparar" para desviar ataques de curta distância dos inimigos.
+Uma aparagem bem feita quebrará a postura do atacante, te dando uma chance de realizar um acerto crítico.
+
+&lt;?keyicon@25?&gt; em sincronia com um ataque inimigo: Aparagem</text>
+<text id="8">Trave a mira em um inimigo para mantê-lo como seu alvo, o que torna mais fácil focar nele enquanto você luta.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; enquanto estiver com a mira travada em um alvo: Mudar o alvo</text>
+<text id="9">Ao usar um arco com as duas mãos, você pode segurar &lt;?keyicon@24?&gt; para ter mais precisão na mira.
+Isso te permite mirar melhor com &lt;?keyControlCamera?&gt;.
+Você pode causar danos mais altos a inimigos humanos ou semelhantes ao mirar em suas cabeças.
+
+&lt;?keyicon@24?&gt; enquanto usa um arco com as duas mãos: Mira de precisão</text>
+<text id="10">Você pode equipar até três armas em cada mão.
+
+Algumas armas, como escudos, têm diferentes ações dependendo de qual mão as equipa.</text>
+<text id="11">Você pode equipar até dez itens de uma vez.
+Itens equipados podem ser usados sem a necessidade de acessar o menu de itens.
+Você também pode colocar itens na sua bolsa para usá-los diretamente no menu principal.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Levante a sua tocha para ver mais longe em locais escuros.
+
+&lt;?keyicon@24?&gt; com a tocha equipada na mão esquerda: Levantar tocha</text>
+<text id="13">Se estiver atrás de um inimigo, você terá a chance de realizar um acerto crítico.
+Você também pode realizar um acerto crítico depois de quebrar a postura de um inimigo.
+Acertos críticos após quebras de postura causam mais dano do que acertos críticos pelas costas.
+
+&lt;?keyicon@22?&gt; ao estar perto de um inimigo de costas: Acerto crítico
+&lt;?keyicon@22?&gt; ao estar perto de um inimigo com a postura quebrada: Acerto crítico</text>
+<text id="14">No menu principal, use "Gestos" para realizar uma variedade de poses básicas.</text>
+<text id="15">Use seu mapa para verificar sua posição atual, assim como o terreno e as estruturas ao seu redor.
+Você pode atualizar o seu mapa com novas informações encontrando fragmentos de mapa em pedras com inscrições pela estrada.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Ao cavalgar, pule enquanto estiver próximo de uma fonte espiritual para ir para o alto com a sua corrente.
+Você não recebe dano ao saltar em uma fonte espiritual enquanto estiver a cavalo, mesmo que seja de uma grande altura.
+
+&lt;?keyicon@8?&gt; em uma fonte espiritual enquanto estiver a cavalo: Salto de fonte espiritual</text>
+<text id="17">Quando tiver múltiplos itens equipados, você pode segurar &lt;?keyicon@18?&gt; para selecionar rapidamente o item no primeiro espaço.
+
+Segure &lt;?keyicon@18?&gt;: Selecionar primeiro item equipado</text>
+<text id="50">Ao morrer, você deixará as runas que possuir no local.
+Você pode recuperar essas runas voltando ao mesmo lugar.
+Entretanto, se você morrer outra vez antes de recuperar as runas derrubadas, elas serão perdidas para sempre.</text>
+<text id="51">%null%</text>
+<text id="52">Quando o ícone de monumento for mostrado no lado esquerdo da sua tela, você poderá invocar espíritos a partir de cinzas.
+Há vários tipos diferentes de espíritos que podem ser invocados.
+Invocar espíritos normalmente consome PF.</text>
+<text id="53">Descansar em um local da graça restaurará seus PV, PF e purificará quaisquer mazelas.
+Além disso, os Frascos Sagrados serão preenchidos novamente.
+
+No entanto, a maioria dos inimigos que você tiver derrotado serão revividos.</text>
+<text id="54">Locais da graça que você ainda não descobriu iluminam seus arredores.
+Se você vir uma luz enquanto explora, vá até ela: você pode encontrar um local da graça.</text>
+<text id="55">A graça existe para orientar os Maculados e guiá-los pelo caminho correto.
+Mesmo nos dias de hoje, alguns locais da graça retêm esse poder.
+Seus raios dourados vão te guiar pelo seu caminho.</text>
+<text id="56">O Frasco de Lágrimas Carmesins reabastece seus PV.
+O Frasco de Lágrimas Cerúleas reabastece seus PF.
+
+Em locais da graça, você pode distribuir porções de doses a cada frasco.
+Você também pode usar certos itens para fazer melhorias em seus frascos em locais da graça.</text>
+<text id="57">Usando o mapa, você pode viajar instantaneamente para qualquer local da graça que você tiver descoberto.
+Entretanto, há algumas masmorras e outras áreas em que isso não pode ser feito.</text>
+<text id="58">Enquanto estiver a cavalo, você pode atacar com armas equipadas na sua mão direita ou em ambas as mãos.
+Se receber uma certa quantidade de dano enquanto estiver montado, você será derrubado.
+Isso te deixará muito vulnerável.</text>
+<text id="59">Você não pode entrar em construções grandes, cavernas, catacumbas ou espaços similares enquanto estiver a cavalo.
+Você também não pode invocar seu cavalo quando estiver dentro desses locais.</text>
+<text id="60">Se você tiver um conjunto de produção, poderá fazer vários itens usando os materiais que encontrar.
+Para isso, selecione "Produção de Itens" no menu principal.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Você vai precisar de potes rachados ou outros recipientes para produzir certos itens.
+Itens em recipientes serão consumidos com a produção, mas os recipientes em si continuarão disponíveis.</text>
+<text id="62">Sombras da Guerra são memórias de afinidades e habilidades infundidas em armas usadas há muito tempo.
+Com uma Faca de Amolação, você pode usar as Cinzas da Guerra para personalizar seus equipamentos em locais da graça.</text>
+<text id="63">%null%</text>
+<text id="64">Ao morrer, você voltará à vida no último local da graça que tiver visitado.
+
+No entanto, se tiver uma Estaca de Marika perto de onde tiver morrido, você poderá escolher voltar para lá.</text>
+<text id="65">Quando você estiver carregando mais de 70% da sua carga máxima de equipamento, seu rolamento ficará mais lento e desajeitado.
+Se você exceder a sua carga máxima de equipamento, você não conseguirá fazer rolamentos.</text>
+<text id="66">Enquanto estiver em combate, você não poderá criar itens ou abrir o seu mapa.</text>
+<text id="67">Os espíritos que você tiver invocado das cinzas poderão ser fortalecidos por uma canalizadora de espíritos.
+Você vai precisar de lírio-do-vale para fazer melhorias em espíritos.</text>
+<text id="68">Ao subir de nível, você pode gastar as runas para melhorar os seus atributos.
+Conforme seus atributos melhoram, seu nível sobe, assim como o número de runas necessárias para a sua próxima melhoria de atributos.</text>
+<text id="69">%null%</text>
+<text id="70">Quando o medidor de veneno estiver cheio, você será envenenado e sofrerá um dano contínuo.
+Quanto mais alta for a sua imunidade, mais tempo será necessário para o medidor encher.</text>
+<text id="71">Quando o medidor de podridão escarlate estiver cheio, você ficará doente e sofrerá um dano contínuo.
+A podridão escarlate é uma condição muito perigosa, mas quanto mais alta for a sua imunidade, mais tempo será necessário para o medidor encher.</text>
+<text id="72">Quando o medidor de perda de sangue estiver cheio, você sofrerá uma hemorragia.
+Isso causará um dano alto, que é relacionado ao seu PV máximo.
+Quanto mais alta for a sua robustez, mais tempo será necessário para o medidor encher.</text>
+<text id="73">Quando o medidor de gelo estiver cheio, você sofrerá dano e será congelado por um tempo.
+Enquanto estiver com esse efeito, você sofrerá mais dano de outras fontes.
+Quanto mais alta for a sua robustez, mais tempo será necessário para o medidor encher.</text>
+<text id="74">Quando o medidor de sono estiver cheio, você ficará sonolento.
+Personagens mais fracos cairão no sono completamente.
+Quanto mais alto for o seu foco, mais tempo será necessário para o medidor encher.</text>
+<text id="75">Quando o medidor de loucura estiver cheio, você ficará louco e perderá uma boa parte dos seus PV e PF.
+Apenas humanos podem ser afetados pela loucura.
+Quanto mais alto for o seu foco, mais tempo será necessário para o medidor encher.</text>
+<text id="76">Quando o seu medidor de morte estiver cheio, você sofrerá uma morte instantânea.
+Essa é uma mazela muito perigosa, mas quanto maior for a sua resistência à morte,
+mais tempo será necessário para o medidor encher.</text>
+<text id="77">Armaduras pesadas te dão mais equilíbrio, fazendo com que seja menos provável que você se mova ao sofrer ataques.
+Empunhar uma arma com as duas mãos também pode criar um efeito similar.</text>
+<text id="100">Durante o multijogador cooperativo, o objetivo do Dedo Enrolado é ajudar o Anfitrião de Dedos a derrotar o chefe da área.
+Um Dedo Enrolado retorna ao seu próprio mundo quando morre ou quando o chefe é derrotado, o que acontecer primeiro.</text>
+<text id="101">Durante o multijogador competitivo, o objetivo do duelista é derrotar o Anfitrião de Dedos.
+O duelista retorna ao seu próprio mundo quando morre ou quando o Anfitrião de Dedos é derrotado, o que acontecer primeiro.</text>
+<text id="102">Em um multijogador típico, é possível haver até dois cooperadores e um invasor ou adversário presentes ao mesmo tempo.
+
+O jogador anfitrião pode usar uma Língua do Provocador para aumentar o número máximo de invasores ou adversários.</text>
+<text id="103">Com um Remédio de Dedo Invocador Enrolado, você pode ver sinais de invocação deixados por jogadores em outros mundos.
+
+Se você invocar outro jogador através do sinal dele, o multijogador será iniciado, com você como Anfitrião de Dedos.</text>
+<text id="104">Com um Dedo Enrolado de Maculado, você pode deixar um sinal de invocação dourado.
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem
+como um Dedo Enrolado para o multijogador cooperativo.</text>
+<text id="105">Com um Dedo Enrolado de Duelista, você pode deixar um sinal de invocação vermelho.
+Esse sinal aparecerá nos mundos de outros jogadores e permitirá que eles te invoquem
+como um adversário duelista para o multijogador competitivo.</text>
+<text id="106">Com um Dedo Sangrento Fétido, você pode entrar no mundo de outro jogador como um Dedo Sangrento invasor.
+Há outros itens que também permitem que você invada outros mundos.</text>
+<text id="107">Se você usar um Anel de Cifra Branco, você automaticamente solicitará
+que um caçador de outro mundo o resgate quando o seu mundo for invadido.
+(A invocação nem sempre pode ser realizada.)</text>
+<text id="108">Se você usar o Anel de Cifra Azul, você se disponibilizará para invocações para resgate em outros mundos.
+Você será invocado ao mundo de outro jogador como um caçador.</text>
+<text id="109">Em cada área, você pode encontrar efígies de mártires.
+Essas efígies são pedras de invocação.
+
+Sinais de invocação feitos com pequenas efígies são reunidos nessas pedras de invocação.
+Será mais fácil invocar outros jogadores nesses locais.</text>
+<text id="110">Se você definir uma senha de grupo, será mais provável que você veja mensagens, sinais de invocação,
+manchas de sangue e fantasmas de outros jogadores usando a mesma senha.</text>
+<text id="111">Se você definir uma senha de multijogador, para a maioria das funções de multijogador,
+você só será combinado com outros jogadores usando a mesma senha.
+
+Entretanto, senhas de multijogador não se aplicam ao modo de invasão de multijogador.</text>
+<text id="112">Você pode usar o menu de Mensagens para deixar mensagens para outros jogadores.
+
+Sua mensagem aparecerá nos mundos de outros jogadores no local onde você estava quando escreveu.</text>
+<text id="113">Durante o multijogador, você só pode explorar uma área limitada.
+Áreas fora dos limites são bloqueadas por uma parede de luz.
+Elas ficarão acessíveis novamente após o fim do multijogador.</text>
+<text id="114">Você pode ocasionalmente ver fantasmas brancos e translúcidos.
+Eles são traços de jogadores em outros mundos e das ações que realizaram recentemente.</text>
+<text id="115">Manchas de sangue são deixadas em locais onde jogadores de outros mundos morreram.
+Você pode examiná-las para ver como eles morreram.</text>
+<text id="116">Durante o multijogador de suporte, o objetivo do caçador é derrotar um invasor.
+O caçador retorna ao seu próprio mundo quando morre ou quando o invasor é derrotado, o que acontecer primeiro.</text>
+<text id="117">Há dois tipos de sinais de invocação deixados por jogadores em outros mundos.
+
+Sinais dourados invocam Dedos Enrolados cooperadores.
+Sinais vermelhos invocam adversários duelistas.</text>
+<text id="118">Você pode mudar o formato da mensagem para deixar mensagens mais complexas.
+Você também pode anexar gestos às mensagens.
+
+&lt;?keyicon@30?&gt;: Mudar formato da mensagem.</text>
+<text id="119">Durante o multijogador de invasão, o objetivo do invasor é derrotar o Anfitrião de Dedos.
+O invasor retorna ao seu próprio mundo quando morre ou quando o Anfitrião de Dedos é derrotado, o que acontecer primeiro.</text>
+<text id="150">Ataques com certas afinidades, tais como fogo ou elétrica, podem tornar a defesa menos eficaz
+do que contra ataques físicos normais.
+
+Defesa não funciona contra muitos dos ataques restritivos.</text>
+<text id="151">Alguns ataques podem quebrar a postura do inimigo, dando a você a chance de realizar um acerto crítico.
+Ataques carregados e ataques com salto tornam mais fácil a quebra da postura do inimigo.</text>
+<text id="152">Ataque repetidamente um inimigo montado para derrubá-lo de sua montaria e quebrar a sua postura.
+Isso dará a você a chance de realizar um acerto crítico.
+Ataques carregados e ataques com salto têm mais chances de derrubar inimigos montados.</text>
+<text id="153">Os ataques cortantes de armas afiadas são geralmente ineficazes contra armaduras e escamas reforçadas.
+Ataques esmagadores têm mais chance de acertar o alvo.</text>
+<text id="154">%null%</text>
+<text id="200">Há Escaravelhos de Lágrimas Carmesim e Cerúlea.
+Derrote-os para reabastecer os frascos de seus respectivos tipos.
+No entanto, você não pode reabastecer mais frascos do que o máximo permitido.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

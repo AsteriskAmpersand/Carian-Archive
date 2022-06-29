@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Użyj wybranego przedmiotu</text>
+<text id="4101">Zostaw tu wybrany przedmiot</text>
+<text id="4102">Usuń wybrany przedmiot</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Użyj wybranych przedmiotów</text>
+<text id="4111">Zostaw tu wybrane przedmioty</text>
+<text id="4112">Usuń wybrane przedmioty </text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Wybierz przedmioty do wyrzucenia</text>
+<text id="4122">Wybierz przedmioty do usunięcia</text>
+<text id="5100">Użyj wybranej liczby przedmiotów</text>
+<text id="5101">Zostaw tu wybraną liczbę przedmiotów</text>
+<text id="5102">Usuń wybraną liczbę przedmiotów</text>
+<text id="5103">%null%</text>
+<text id="5104">Zakup wybraną liczbę przedmiotów</text>
+<text id="5105">Sprzedaj wybraną liczbę przedmiotów</text>
+<text id="5106">Zmagazynuj wybraną liczbę przedmiotów</text>
+<text id="5107">Wyciągnij wybraną liczbę przedmiotów</text>
+<text id="6000">Wybierz metodę sortowania</text>
+<text id="30000">Wybierz wpis do sprawdzenia</text>
+<text id="40331">Zatwierdź ustawienia i kontynuuj</text>
+<text id="40500">Przywróć ustawienia domyślne</text>
+<text id="102000">Wybierz przedmiot do interakcji</text>
+<text id="103000">Wybierz miejsce na ekwipunek</text>
+<text id="103500">Wybierz przedmiot do wyposażenia</text>
+<text id="105000">Sprawdź status postaci</text>
+<text id="106000">Wybierz wpis do realizacji</text>
+<text id="106001">Wybierz ustawienie do dostosowania</text>
+<text id="110001">Zmień sterowanie kamerą w górę/dół</text>
+<text id="110002">Zmień sterowanie kamerą w lewo/prawo</text>
+<text id="110003">Reset kamery zresetuje również oś Y</text>
+<text id="110004">Dostosowanie prędkości ruchu kamery</text>
+<text id="110005">Ustaw autonamierzanie nowego celu</text>
+<text id="110006">Automatyczne celowanie w przeciwnika w walce bez autonamierzania</text>
+<text id="110007">Automat. unikanie ścian przez kamerę</text>
+<text id="110008">%null%</text>
+<text id="110009">Dostosuj sterowanie skokami postaci</text>
+<text id="110010">Manualne cel. dużą bronią z namierzaniem</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">Zdecyduj, czy ważniejsza ma być jakość grafiki, czy liczba wyświetlanych klatek</text>
+<text id="110101">Wł./wył. widoku krwi lub ust. łagodne</text>
+<text id="110102">Wł./wył. napisów w grze</text>
+<text id="110103">Konfiguracja wyświetlania HUD</text>
+<text id="110104">Konfiguracja efektów przy atak. spec.</text>
+<text id="110105">Ustawienie głośności muzyki</text>
+<text id="110106">Ustawienie głośności efektów dźwięku</text>
+<text id="110107">Ustawienie głośności dialogów</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">Ustawienie całkowitej głośności dźwięku</text>
+<text id="110118">Wybierz automatyczne obracanie kamery podczas ruchu w lewo lub prawo</text>
+<text id="110201">Ustawienie jasności ekranu</text>
+<text id="110202">Dostosuj jakość obrazu przy włączonej opcji HDR</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">Włącz/Wyłącz HDR</text>
+<text id="110301">Dopuść/ogranicz czat głosowy</text>
+<text id="110302">Dopuść/ogranicz rozgrywkę międzyregionalną</text>
+<text id="110303">Edytuj i znajdź graczy o takim haśle</text>
+<text id="110304">Wł./wył. nazwy innych graczy</text>
+<text id="110305">Wybierz grę w trybie online lub offline</text>
+<text id="110306">Zablokuj swój znak przyzwania w światach z przeciwnikami</text>
+<text id="110307">Zobacz i zaktualizuj swoją zgodę w umowie o wykorzystaniu danych</text>
+<text id="110500">Zapisać grę i wrócić do menu głównego?</text>
+<text id="110501">Zapisz grę i wróć do pulpitu</text>
+<text id="110900">Pokaż sterowanie</text>
+<text id="111006">Przypisz klawisze do wybranych akcji</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">Wybierz urządzenie do wyświetlania podpowiedzi</text>
+<text id="111011">Określ, czy będą wyświetlane samouczki</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">Dostosuj czułość myszy podczas ruchu kamery</text>
+<text id="111021">%null%</text>
+<text id="111022">Dostosuj sterowanie kamerą w poziomie za pomocą myszy</text>
+<text id="111023">Dostosuj sterowanie kamerą w pionie za pomocą myszy</text>
+<text id="111110">Wybierz, czy uruchomić grę na pełnym ekranie, czy w oknie</text>
+<text id="111111">Wybierz rozdzielczość</text>
+<text id="111112">Wybierz, czy używać uproszczonego renderowania w przypadku obniżonej wydajności</text>
+<text id="111113">Określ jakość grafiki</text>
+<text id="111114">Określ zaawansowane opcje jakości grafiki</text>
+<text id="111210">Określ jakość tekstur</text>
+<text id="111211">Wybierz jakość antyaliasingu</text>
+<text id="111212">Określ jakość SSAO</text>
+<text id="111213">Określ jakość głębi ostrości</text>
+<text id="111214">Określ jakość rozmycia ruchu</text>
+<text id="111215">Wybierz jakość cieni</text>
+<text id="111216">Określ jakość światła</text>
+<text id="111217">Wybierz jakość efektów</text>
+<text id="111218">Wybierz jakość światła wolumetrycznego</text>
+<text id="111219">Określ jakość odbić</text>
+<text id="111220">Określ jakość powierzchni wody</text>
+<text id="111221">Określ jakość cieniowania</text>
+<text id="111222">Wybierz jakość ray tracingu</text>
+<text id="111223">Wybierz ogólną jakość oświetlenia</text>
+<text id="111224">Określ jakość trawy</text>
+<text id="212000">Wybierz cechę do rozwinięcia</text>
+<text id="212001">Wydawanie runów, żeby się rozwinąć</text>
+<text id="212750">Wybierz cechę do rozwinięcia</text>
+<text id="212751">Resetowanie cech przy odradzaniu</text>
+<text id="214000">Wybierz oręż, który zostanie ulepszony za pomocą popiołów wojny</text>
+<text id="214001">Wybierz popiół wojny, którego użyjesz</text>
+<text id="214002">Wybierz właściwość, którą otrzyma ten oręż</text>
+<text id="215000">Wybierz miejsce na wielki run</text>
+<text id="215001">Wybierz run, który chcesz umieścić</text>
+<text id="216000">Wybierz prochy, które chcesz wzmocnić</text>
+<text id="221000">Wybierz oręż, który chcesz wzmocnić</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">Wybierz oręż, który chcesz wzmocnić</text>
+<text id="222000">Wybierz miejsce w pamięci</text>
+<text id="222001">Wybierz czar/inkantację do zapamiętania</text>
+<text id="225000">Wybierz, którą smoczą zdolność chcesz zyskać</text>
+<text id="226000">Wybierz kukiełkę, którą chcesz otrzymać</text>
+<text id="227000">Wybierz popioły wojny, które chcesz powielić</text>
+<text id="230000">Wybierz kukiełkę, którą chcesz otrzymać</text>
+<text id="230100">Wybierz wizerunek, który chcesz powielić</text>
+<text id="231000">Wybierz przedmiot do zakupu</text>
+<text id="231500">Wybierz wyposażenie czempionów, które chcesz otrzymać</text>
+<text id="232000">Wybierz przedmiot na sprzedaż</text>
+<text id="236000">Wybierz przedmiot do stworzenia</text>
+<text id="236200">Wybierz wizerunek, z którego chcesz zaczerpnąć mocy</text>
+<text id="236201">Wybierz moc, którą ma dać ci wizerunek</text>
+<text id="236400">Wybierz odzienie, które chcesz zmodyfikować</text>
+<text id="236401">Wybierz odzienie po modyfikacjach</text>
+<text id="238000">Wybierz miejsce na miksturę</text>
+<text id="238001">Wybierz kryształową łzę do zmieszania</text>
+<text id="241000">Pokaż mapę</text>
+<text id="241100">Wybierz znacznik</text>
+<text id="241101">Usuń znacznik</text>
+<text id="241102">Usuń wszystkie znaczniki</text>
+<text id="241200">Wybierz miejsce łaski, do którego chcesz się udać</text>
+<text id="241300">Wybierz miejsce łaski, do którego chcesz się udać</text>
+<text id="251000">Wybierz przedmiot, który chcesz włożyć do skrzyni</text>
+<text id="251001">Wybierz przedmiot, który chcesz zabrać ze skrzyni</text>
+<text id="280005">Wybierz akcję, którą chcesz przydzielić</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">Naciśnij klawisz, który chcesz przydzielić do tej akcji</text>
+<text id="280100">Naciśnij podczas ruchu, by iść</text>
+<text id="280101">Ruch do przodu</text>
+<text id="280102">Ruch do tyłu</text>
+<text id="280103">Ruch w lewo</text>
+<text id="280104">Ruch w prawo</text>
+<text id="280105">Naciśnij, gdy stoisz, by zrobić krok w tył
+Naciśnij w czasie ruchu, by wykonać przewrót, albo przytrzymaj, by ruszyć sprintem</text>
+<text id="280106">Skok</text>
+<text id="280107">Przełączaj pomiędzy kucaniem lub wstawaniem</text>
+<text id="280200">Przesuń kamerę w górę
+Zmiana celu w górę podczas autonamierzania</text>
+<text id="280201">Przesuń kamerę w dół
+Zmiana celu w dół podczas autonamierzania</text>
+<text id="280202">Przesuń kamerę w lewo
+Zmiana celu w lewo podczas autonamierzania</text>
+<text id="280203">Przesuń kamerę w prawo
+Zmiana celu w prawo podczas autonamierzania</text>
+<text id="280204">Zresetuj pozycję kamery
+Włącz/wyłącz blokadę namierzania podczas autonamierzania</text>
+<text id="280300">Zmiana szybkiego przedmiotu</text>
+<text id="280301">Zmiana oręża w prawej ręce</text>
+<text id="280302">Zmiana oręża w lewej ręce</text>
+<text id="280303">Zmiana wybranego czaru lub inkantacji</text>
+<text id="280400">Normalny atak orężem w prawej ręce</text>
+<text id="280401">Silny atak orężem w prawej ręce
+Przytrzymaj, by naładować atak</text>
+<text id="280402">Zasłona orężem w lewej ręce</text>
+<text id="280403">Użyj umiejętności</text>
+<text id="280404">Wykonaj różne akcje</text>
+<text id="280405">Użyj przedmiotu</text>
+<text id="280406">Weź w obie ręce oręż trzymany w prawym ręku.
+Przytrzymaj, żeby wziąć w obie ręce oręż trzymany w lewym ręku.</text>
+<text id="288000">Wybierz postać, którą chcesz zagrać</text>
+<text id="288001">Wybierz podstawę tworzenia postaci</text>
+<text id="291000">Wprowadź imię</text>
+<text id="291001">Wybierz typ budowy ciała</text>
+<text id="291002">Wybierz przybliżony wiek</text>
+<text id="291003">Wybierz głos</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">Wybierz pochodzenie</text>
+<text id="291011">Wybierz pamiątkę</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">Wybierz szablon wyglądu</text>
+<text id="291021">Zmień rysy twarzy</text>
+<text id="291022">Zmień sylwetkę</text>
+<text id="291023">Zmień kolor skóry i szczegóły</text>
+<text id="291024">%null%</text>
+<text id="291025">Edytuj szczegóły wyglądu postaci</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">Zapisz obecne ustawienia jako ulubione</text>
+<text id="291031">Wczytaj zapisane ulubione</text>
+<text id="291050">Zakończ tworzenie postaci</text>
+<text id="291051">Zacznij od początku z nowym wyglądem</text>
+<text id="291052">Zacznij od początku z nowym wyglądem</text>
+<text id="292000">Edytuj elementy twarzy postaci</text>
+<text id="292001">Edytuj kształt twarzy postaci</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">Edytuj fryzurę postaci</text>
+<text id="292011">Edytuj brwi postaci</text>
+<text id="292012">Edytuj zarost postaci</text>
+<text id="292013">Edytuj rzęsy postaci</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">Edytuj oczy postaci</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">Edytuj wygląd skóry postaci</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">Edytuj makijaż postaci</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">Edytuj tatuaże/znamiona/opaskę na oko postaci</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">Wybierz twarz podobną do obecnej</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">Wybierz głowę postaci</text>
+<text id="292061">Wybierz pierś postaci</text>
+<text id="292062">Wybierz brzuch postaci</text>
+<text id="292063">Wybierz ramiona postaci</text>
+<text id="292064">Wybierz nogi postaci</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">Wybierz owłosienie postaci</text>
+<text id="292071">Wybierz kolor owłosienia postaci</text>
+<text id="292072">Wybierz muskulaturę</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">Ustaw wyświetlanie oparzeń</text>
+<text id="293000">Określ strukturę kości</text>
+<text id="293001">Dostosuj wyrazistość rysów twarzy</text>
+<text id="293002">Dostosuj wiek z wyglądu</text>
+<text id="293003">Wybierz wygląd twarzy</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">Edytuj proporcje twarzy</text>
+<text id="293011">Edytuj czoło i gładziznę</text>
+<text id="293012">Edytuj łuk brwiowy</text>
+<text id="293013">Edytuj oczy</text>
+<text id="293014">Edytuj grzbiet nosa</text>
+<text id="293015">Edytuj nozdrza</text>
+<text id="293016">Edytuj policzki</text>
+<text id="293017">Edytuj wargi</text>
+<text id="293018">Edytuj usta</text>
+<text id="293019">Edytuj podbródek</text>
+<text id="293020">Edytuj szczękę</text>
+<text id="293100">Wybierz fryzurę</text>
+<text id="293101">Edytuj kolor włosów</text>
+<text id="293102">Dostosuj połysk włosów</text>
+<text id="293103">Dostosuj odcień odrostu włosów</text>
+<text id="293104">Dostosuj liczbę siwych włosów</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">Wybierz kształt brwi</text>
+<text id="293111">Edytuj kolor brwi</text>
+<text id="293112">Dostosuj połysk brwi</text>
+<text id="293113">Dostosuj odcień odrostu brwi</text>
+<text id="293114">Dostosuj liczbę siwych włosów w brwiach</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">Wybierz rodzaj zarostu</text>
+<text id="293121">Edytuj kolor zarostu</text>
+<text id="293122">Dostosuj połysk zarostu</text>
+<text id="293123">Dostosuj odcień odrostu zarostu</text>
+<text id="293124">Dostosuj liczbę siwych włosów w zaroście</text>
+<text id="293125">Dostosuj gęstość kilkudniowego zarostu</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">Wybierz kształt rzęs</text>
+<text id="293131">Edytuj kolor rzęs</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">Dostosuj wielkość prawego oka</text>
+<text id="293141">Edytuj kolor prawej tęczówki</text>
+<text id="293142">Dostosuj poziom zmętnienia prawego oka</text>
+<text id="293143">Dostosuj kolor zmętnienia prawego oka</text>
+<text id="293144">Dostosuj kolor białka prawego oka</text>
+<text id="293145">Dostosuj odległość prawego oka od środka twarzy</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">Dostosuj wielkość lewego oka</text>
+<text id="293151">Edytuj kolor lewej tęczówki</text>
+<text id="293152">Dostosuj poziom zmętnienia lewego oka</text>
+<text id="293153">Dostosuj kolor zmętnienia lewego oka</text>
+<text id="293154">Dostosuj kolor białka lewego oka</text>
+<text id="293155">Dostosuj odległość lewego oka od środka twarzy</text>
+<text id="293156">Wprowadź zmiany oczu</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">Dostosuj widoczność porów</text>
+<text id="293161">Dostosuj połysk skóry</text>
+<text id="293162">Dostosuj odcień cieni pod oczami</text>
+<text id="293163">Dostosuj kolor cieni pod oczami</text>
+<text id="293164">Dostosuj wyrazistość makijażu policzków</text>
+<text id="293165">Dostosuj kolor policzków</text>
+<text id="293166">Dostosuj odcień kredki do oczu</text>
+<text id="293167">Dostosuj kolor kredki do oczu</text>
+<text id="293168">Dostosuj odcień cienia na górnej powiece</text>
+<text id="293169">Dostosuj kolor cienia na górnej powiece</text>
+<text id="293170">Dostosuj odcień cienia na dolnej powiece</text>
+<text id="293171">Dostosuj kolor cienia na dolnej powiece</text>
+<text id="293172">Dostosuj wyrazistość szminki</text>
+<text id="293173">Dostosuj kolor szminki</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">Wybierz wygląd tatuażu/znamienia</text>
+<text id="293181">Edytuj kolor tatuażu/znamienia</text>
+<text id="293182">Dostosuj pozycję tatuażu/znamienia</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">Wybierz przepaskę na oko</text>
+<text id="293191">Dostosuj kolor przepaski na oko</text>
+<text id="297100">Muskularne ciało
+Budowa ciała nie ma wpływu na umiejętności.</text>
+<text id="297101">Smukłe ciało
+Budowa ciała nie ma wpływu na umiejętności.</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">Młoda postać
+Wiek wpływa na wygląd,
+ale nie na zdolności.</text>
+<text id="297111">Dojrzała postać
+Wiek wpływa na wygląd,
+ale nie na zdolności.</text>
+<text id="297112">Stara postać
+Wiek wpływa na wygląd,
+ale nie na zdolności.</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">Młody głos, typ 1</text>
+<text id="297121">Dojrzały głos, typ 1</text>
+<text id="297122">Stary głos, typ 1</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">Młody głos, typ 2</text>
+<text id="297126">Dojrzały głos, typ 2</text>
+<text id="297127">Stary głos, typ 2</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">Rycerz wygnany z ojczyzny na tułaczkę.
+Odziany w solidną zbroję.</text>
+<text id="297131">Wojownik posługujący się dwiema broniami,
+pochodzący z nomadycznego plemienia.
+Używa wyjątkowej techniki.</text>
+<text id="297132">Niezłomny bohater używający topora wojennego,
+potomek wodza martwych ziem.</text>
+<text id="297133">Niebezpieczny bandyta, który uderza
+w słabe punkty. Doskonały łucznik.</text>
+<text id="297134">Uczony odczytujący los z gwiazd.
+Spadkobierca szkoły magii błyskamieni.</text>
+<text id="297135">Wieszcz wypędzony za niepomyślne
+proroctwa. Obeznany z inkantacjami
+leczącymi.</text>
+<text id="297136">Doświadczony wojownik z odległej Krainy Trzcin.
+Sprawnie posługuje się kataną i długimi łukami.</text>
+<text id="297137">Więzień w żelaznej masce.
+Przed osadzeniem należał do elity
+i uczył się magii błyskamieni.</text>
+<text id="297138">Szpieg kościelny prowadzący skryte operacje.
+Posługuje się mieczem oraz inkantacjami.</text>
+<text id="297139">Nieszczęśnik nagi jak w dniu narodzin.
+Porządna pałka to cały jego dobytek.</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">Żadnych pamiątek. Nie warto kurczowo
+trzymać się przeszłości.</text>
+<text id="297151">Medalion z bursztynem szkarłatnym.
+Zwiększa maksymalną liczbę PŻ.</text>
+<text id="297152">Złoto łaski świecące w oczach ludu
+z Ziem Pomiędzy.
+Użyj go, żeby zdobyć wiele runów.</text>
+<text id="297153">Złote nasiono wyrzucone na brzeg Ziem Pomiędzy.
+Podobno wzmacnia święte butelki.</text>
+<text id="297154">Prochy małych, drobnych golemów.
+Podobno drzemią w nich duchy.</text>
+<text id="297155">%null%</text>
+<text id="297156">Trzy dziwne, pęknięte garnki, które same
+się naprawiają. Pojemniki na niektóre
+przedmioty do rzucania.</text>
+<text id="297157">Dwa kamienne klucze w kształcie mieczy.
+Przebijają pieczęć na posągu chochlika, 
+ale zostają przy tym zniszczone.</text>
+<text id="297158">Pięć świętych gałęzi obdarzonych mocą uwodzenia.
+Podobno pochodzą od półboga
+Miquelli.</text>
+<text id="297159">Pięć sztuk gotowanego mięsa krewetki.
+Zwiększają negację obrażeń fizycznych.
+</text>
+<text id="297160">Podobizna szalonego szlachcica, 
+któremu wyłupiono oczy.
+Wabi przeciwników.</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">Przeciętna sylwetka</text>
+<text id="297171">Muskularna sylwetka</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">Stwórz odbicie tatuaży i znamion</text>
+<text id="297181">Nie twórz odbicia tatuaży i znamion</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">Wprowadź zmiany oczu</text>
+<text id="297186">Nie wprowadzaj zmian oczu</text>
+<text id="297187">Pokazuj oparzenia</text>
+<text id="297188">Nie pokazuj oparzeń</text>
+<text id="297200">Najczęściej występująca twarz zmatowieńców.
+W końcu wszyscy byli kiedyś wojownikami.</text>
+<text id="297201">Twarz prostego pielgrzyma.
+Do prawdy wiedzie wiele dróg.</text>
+<text id="297202">Królewska twarz tych, w żyłach których płynie
+szlachecka krew Ziem Pomiędzy.</text>
+<text id="297203">Twarz z dumnego i odosobnionego
+plemienia ludzi dobrze zorientowanych 
+w starożytnych legendach i herezjach.</text>
+<text id="297204">Twarz typowa dla wytrzymałych ludzi
+bezlitosnej północy. Mówi się,
+że to potomkowie olbrzymów.</text>
+<text id="297205">Twarz tego, który przemierza wody
+w poszukiwaniu swojego domu 
+na Ziemiach Pomiędzy.</text>
+<text id="297206">Twarz z odległej i odludnej Krainy Trzcin,
+gdzie krew jest znajomym widokiem.</text>
+<text id="297207">Kamienna twarz ludu starożytnych smoków,
+wśród których życie jest zwykle krótkie.</text>
+<text id="297208">Rysy tych znanych jako
+Nocny Lud. Choć nieliczni, podobno
+dawno temu krwawili srebrem.</text>
+<text id="297209">Oblicze numenów, rzekomych
+potomków z innego świata. 
+Długo żyją, ale nieczęsto się rodzą.</text>
+<text id="297220">Najczęściej występująca twarz zmatowieńców.
+W końcu wszyscy byli kiedyś wojownikami.</text>
+<text id="297221">Twarz prostego pielgrzyma.
+Do prawdy wiedzie wiele dróg.</text>
+<text id="297222">Królewska twarz tych, w żyłach których płynie
+szlachecka krew Ziem Pomiędzy.</text>
+<text id="297223">Twarz z dumnego i odosobnionego
+plemienia ludzi dobrze zorientowanych 
+w starożytnych legendach i herezjach.</text>
+<text id="297224">Twarz typowa dla wytrzymałych ludzi
+bezlitosnej północy. Mówi się,
+że to potomkowie olbrzymów.</text>
+<text id="297225">Twarz tej, która przemierza wody
+w poszukiwaniu swojego domu 
+na Ziemiach Pomiędzy.</text>
+<text id="297226">Twarz z odległej i odludnej Krainy Trzcin,
+gdzie krew jest znajomym widokiem.</text>
+<text id="297227">Kamienna twarz ludu starożytnych smoków,
+wśród których życie jest zwykle krótkie.</text>
+<text id="297228">Rysy tych znanych jako
+Nocny Lud. Choć nieliczni, podobno
+dawno temu krwawili srebrem.</text>
+<text id="297229">Oblicze numenów, rzekomych
+potomków z innego świata. 
+Długo żyją, ale nieczęsto się rodzą.</text>
+<text id="301000">Wybierz gest dla tego miejsca</text>
+<text id="301001">Wybierz gest, którego chcesz użyć</text>
+<text id="321000">Edytuj strukturę wiadomości</text>
+<text id="321001">Zmiana przypisanego gestu</text>
+<text id="321002">Dokończ pisanie wiadomości</text>
+<text id="321003">Wybór szablonu</text>
+<text id="321004">Zmiana przypisanego gestu</text>
+<text id="321005">Wybór kategorii słowa</text>
+<text id="321006">Wybór szablonu</text>
+<text id="321007">Wybór słowa</text>
+<text id="321008">Wybór połączenia</text>
+<text id="322000">Pokaż stworzone wiadomości</text>
+<text id="324000">Pokaż ostatnio oglądane wiadomości</text>
+<text id="406000">Wybierz profil do wczytania</text>
+<text id="406001">Wybierz profil do usunięcia</text>
+</entries>
+</fmg>

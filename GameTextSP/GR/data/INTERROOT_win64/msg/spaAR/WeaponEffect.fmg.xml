@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Al protegerse, una cantidad de daño no se neutraliza.</text>
+<text id="1001">Recupera PV a partir de los enemigos derrotados</text>
+<text id="1002">Recupera PC a partir de los enemigos derrotados</text>
+<text id="1003">Los ataques exitosos recuperan PV.</text>
+<text id="1004">Los ataques exitosos recuperan PC.</text>
+<text id="1005">Recupera PV lentamente</text>
+<text id="1006">Recupera PC lentamente</text>
+<text id="1007">Aumenta la velocidad de recuperación de vigor.</text>
+<text id="1008">El poder de ataque aumenta mientras continúen los ataques.</text>
+<text id="1009">Recibes daño autoinfligido</text>
+<text id="1010">Debilita la voluntad de pelear de las bestias.</text>
+<text id="1011">%null%</text>
+<text id="1012">Aumenta la potencia de los hechizos físicos</text>
+<text id="1013">%null%</text>
+<text id="1014">Aumenta la potencia de los hechizos espirituales</text>
+<text id="1015">Aumenta la potencia de los hechizos de rayo</text>
+<text id="1016">Aumenta la potencia de los hechizos sagrados</text>
+<text id="1017">Aumenta el área de los potenciadores y los hechizos de curación</text>
+<text id="1018">Maneja cualquier hechicería o encantamiento</text>
+<text id="1019">Usar como catalizador para la hechicería con destellita</text>
+<text id="1020">Usar como sello para encantamientos</text>
+<text id="1021">Los ataques sucesivos recuperan PV</text>
+<text id="1022">Los ataques sucesivos recuperan PC</text>
+<text id="1100">Aumenta la hechicería de los cristalinos.</text>
+<text id="1101">Aumenta la hechicería de gravedad.</text>
+<text id="1102">Aumenta la hechicería de espinas.</text>
+<text id="1103">Aumenta la hechicería de muerte.</text>
+<text id="1104">Aumenta la hechicería de luna llena.</text>
+<text id="1105">Aumenta la hechicería del cavarrocas.</text>
+<text id="1106">Aumenta la hechicería de destelloja.</text>
+<text id="1107">Aumenta la hechicería de espada de Caria.</text>
+<text id="1108">Aumenta la hechicería primigenia de Azur.</text>
+<text id="1109">Aumenta la hechicería primigenia de Lusat.</text>
+<text id="1110">Aumenta la hechicería de invisibilidad.</text>
+<text id="1111">Aumenta los encantamientos del Gigante de fuego.</text>
+<text id="1112">Aumenta los encantamientos de la Orden Dorada.</text>
+<text id="1113">Aumenta los encantamientos bestiales.</text>
+<text id="1114">Aumenta los encantamientos de dragón capital.</text>
+<text id="1115">Aumenta los encant. de la Comunión del Dragón.</text>
+<text id="1116">Aumenta los encantamientos de la llama frenética.</text>
+<text id="1117">Aumenta la hechicería de lava.</text>
+<text id="1118">Aumenta los encantamientos matadioses.</text>
+<text id="6400">Causa una acumulación leve de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6401">Causa acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6402">Causa una gran acumulación de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Causa una acumulación intensa de veneno (&lt;?poisonATKpwr?&gt;).</text>
+<text id="6450">Causa acumulación leve de podredumbre escarlata (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6451">Causa acumulación de podredumbre escarlata (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6452">Causa una gran acumulación de podredumbre escarlata (&lt;?diseaseATKpwr?&gt;).</text>
+<text id="6500">Causa acumulación leve de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6501">Causa acumulación de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6502">Causa una gran acumulación de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Causa una acumulación intensa de hemorragia (&lt;?bleedATKpwr?&gt;).</text>
+<text id="6550">Causa una acumulación leve de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6551">Causa una acumulación de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6552">Causa una gran acumulación de muerte (&lt;?curseATKpwr?&gt;).</text>
+<text id="6600">Causa una acumulación leve de frío (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6601">Causa acumulación de frío (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6602">Causa una gran acumulación de frío (&lt;?freezeATKpwr?&gt;).</text>
+<text id="6650">Causa una acumulación leve de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6651">Causa acumulación de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6652">Causa una gran acumulación de sueño (&lt;?sleepATKpwr?&gt;).</text>
+<text id="6700">Causa acumulación leve de locura (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6701">Causa acumulación de locura (&lt;?madnessATKpwr?&gt;).</text>
+<text id="6702">Causa una gran acumulación de locura (&lt;?madnessATKpwr?&gt;).</text>
+</entries>
+</fmg>

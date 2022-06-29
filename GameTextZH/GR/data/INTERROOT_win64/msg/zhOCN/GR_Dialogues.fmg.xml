@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">确定</text>
+<text id="2">取消</text>
+<text id="3">是</text>
+<text id="4">否</text>
+<text id="15">重试</text>
+<text id="16">继续</text>
+<text id="17">返回标题画面</text>
+<text id="40200">所需卢恩不足。</text>
+<text id="40201">所需道具不足。</text>
+<text id="40202">所需卢恩、道具不足。</text>
+<text id="40300">配置将恢复为默认，
+您确定吗？</text>
+<text id="40500">所有配置将恢复为默认，
+您确定吗？</text>
+<text id="102000">将放置&lt;?itemName?&gt;，
+您确定吗？</text>
+<text id="102001">将丢弃&lt;?itemName?&gt;，
+您确定吗？</text>
+<text id="102002">将放置所有选择的道具，
+您确定吗？</text>
+<text id="102003">将丢弃所有选择的道具，
+您确定吗？</text>
+<text id="102004">放置的道具已超过８个。
+从最先放置的道具开始，道具将依序消失。
+
+您确定吗？</text>
+<text id="102005">&lt;?itemName?&gt;已使用战灰。
+放置此道具，在它消失后也会失去战灰。
+
+您确定吗？</text>
+<text id="102006">&lt;?itemName?&gt;已使用战灰。
+丢弃此道具也会失去战灰。
+
+您确定吗？</text>
+<text id="102007">所选择的道具中包含已使用战灰的道具。
+放置道具，在它消失后也会失去战灰。
+
+您确定吗？</text>
+<text id="102008">所选择的道具中包含已使用战灰的道具。
+丢弃道具也会失去战灰。
+
+您确定吗？</text>
+<text id="102009">%null%</text>
+<text id="102010">将超过可持有卢恩的上限，
+使用后超过上限的卢恩将会消失。
+
+确定要使用吗？</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">已超过持有上限，无法移除战灰。</text>
+<text id="102021">已超过持有上限，无法移除使用中的战灰。</text>
+<text id="103000">必需能力值不足，
+无法发挥原有性能。</text>
+<text id="103001">必需能力值不足。
+以双手共持，才能发挥原有性能。</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">必需等级不足，无法召唤此灵魂。</text>
+<text id="103110">此护符与其他装备中的护符冲突，
+因此无法装备。</text>
+<text id="103130">目前不能更换装备。</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">因为记忆空格减少，
+超过可记忆上限的魔法、祷告将被移除。
+
+您确定吗？</text>
+<text id="103141">超过可记忆上限的魔法、祷告，已被移除。</text>
+<text id="104000">多人联机游玩的暗号记录</text>
+<text id="104001">请选择想要使用的暗号。</text>
+<text id="104002">群组暗号记录</text>
+<text id="104003">请选择想要使用的暗号。</text>
+<text id="104004">没有多人联机游玩的暗号记录。</text>
+<text id="104005">没有群组暗号的记录。</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">使用指药之后，会遣返召唤中的灵魂。
+
+您确定吗？</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">使用指药之后，会抹除召唤记号。
+
+您确定吗？</text>
+<text id="110000">将保存游戏进度，返回标题画面。
+
+您确定吗？</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">将保存游戏进度，返回桌面。
+
+您确定吗？</text>
+<text id="110316">如果想要改变显示语言，
+请返回标题画面进行配置。</text>
+<text id="111100">配置已变更，
+将在&lt;?remainingSec?&gt;秒后恢复原本的配置。
+
+要套用目前的配置吗？</text>
+<text id="111101">要套用目前的配置吗？</text>
+<text id="111102">部分配置必须在返回标题画面后才会套用。</text>
+<text id="111103">此项目将在重新启动游戏后套用。</text>
+<text id="111104">配置已变更，
+将在&lt;?remainingSec?&gt;秒后恢复原本的配置。
+
+要套用目前的配置吗？</text>
+<text id="111105">部分配置必须在返回标题画面后才会套用。</text>
+<text id="111106">高动态范围成像（ＨＤＲ）已变更为关闭。</text>
+<text id="111107">高动态范围成像（ＨＤＲ）已变更为开启。</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">有部分变更的配置尚未套用。
+请返回标题画面，以套用配置。</text>
+<text id="211001">将传送至&lt;?placeName?&gt;。
+您确定吗？</text>
+<text id="211002">无法传送至此区域的赐福。</text>
+<text id="211003">多人联机游玩时，无法使用赐福传送。</text>
+<text id="211004">无法使用赐福传送。</text>
+<text id="211005">中了设下的陷阱。
+在赐福休息过后，才能使用赐福传送。</text>
+<text id="211006">现在无法使用赐福传送。</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">现在无法使用赐福传送。</text>
+<text id="211100">将移除所有放置的标记。
+您确定吗？</text>
+<text id="211101">已超过可放置的标记数上限，
+无法再放置标记。</text>
+<text id="211200">无法执行“显示目前所在地”。</text>
+<text id="211300">已超过可标记的上限，无法再标记赐福。</text>
+<text id="211400">将移除这个赐福的标记。
+您确定吗？</text>
+<text id="212000">要花费&lt;?demandSoul?&gt;卢恩升级吗？</text>
+<text id="212001">将中止升级。
+您确定吗？</text>
+<text id="212002">请选择１个以上要成长的能力值。</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">已达等级上限，无法再升级。</text>
+<text id="212750">要重新诞生吗？</text>
+<text id="212751">停止重新诞生。</text>
+<text id="212752">请将能力值成长至原有等级。</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">因为记忆空格减少，
+超过可记忆上限的魔法、祷告将被移除。
+
+确定要重新诞生吗？</text>
+<text id="212761">超过可记忆上限的魔法、祷告，已被移除。</text>
+<text id="214000">要将战灰
+从&lt;?itemNameBeforeForge?&gt;上移除，
+改用在&lt;?itemNameAfterForge?&gt;上吗？</text>
+<text id="215000">变更寄宿身上的大卢恩，
+会解除大卢恩目前产生的效用。
+
+您确定吗？</text>
+<text id="216000">要将&lt;?itemNameBeforeForge?&gt;
+强化成&lt;?itemNameAfterForge?&gt;吗？</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">已经持有强化后的物品：
+&lt;?itemNameAfterForge?&gt;
+
+无法进行强化。</text>
+<text id="221000">要将&lt;?itemNameBeforeForge?&gt;
+强化成&lt;?itemNameAfterForge?&gt;吗？</text>
+<text id="221011">在锻造台能执行的强化已达上限。
+这把武器无法再继续强化。</text>
+<text id="225000">把&lt;?demandSoul?&gt;颗龙心脏当作供品，
+将&lt;?itemName?&gt;化为己有。</text>
+<text id="225020">已超过持有与收纳上限，
+无法将力量化为己有。</text>
+<text id="225100">已经将此力量化为己有。</text>
+<text id="226000">交出&lt;?demandSoul?&gt;片星光碎片，
+取得&lt;?itemName?&gt;。</text>
+<text id="226020">已超过持有与收纳上限，无法取得。</text>
+<text id="226100">已经拥有此傀儡。</text>
+<text id="227000">开始复制&lt;?itemName?&gt;。</text>
+<text id="227020">已超过持有与收纳上限，无法复制。</text>
+<text id="227100">无法再复制此战灰。</text>
+<text id="230000">取得&lt;?itemName?&gt;。</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">超过持有上限的道具已被收纳至木箱。</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">已超过持有与收纳上限，无法取得。</text>
+<text id="230100">开始复制&lt;?itemName?&gt;。</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">超过持有上限的道具已被收纳至木箱。</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">已超过持有与收纳上限，无法复制。</text>
+<text id="230150">无法再复制此追忆。</text>
+<text id="231000">将以&lt;?demandSoul?&gt;卢恩
+购买&lt;?itemName?&gt;。</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">超过持有上限的道具已被收纳至木箱。</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">已超过持有与收纳上限，无法购买。</text>
+<text id="231100">已超过限定数量上限，无法购买。</text>
+<text id="231500">将以&lt;?demandSoul?&gt;卢恩
+获得&lt;?itemName?&gt;。</text>
+<text id="231501">%null%</text>
+<text id="231502">%null%</text>
+<text id="231503">%null%</text>
+<text id="231504">%null%</text>
+<text id="231505">%null%</text>
+<text id="231506">%null%</text>
+<text id="231507">%null%</text>
+<text id="231508">%null%</text>
+<text id="231509">%null%</text>
+<text id="231510">超过持有上限的道具已被收纳至木箱。</text>
+<text id="231511">%null%</text>
+<text id="231512">%null%</text>
+<text id="231513">%null%</text>
+<text id="231514">%null%</text>
+<text id="231515">%null%</text>
+<text id="231516">%null%</text>
+<text id="231517">%null%</text>
+<text id="231518">%null%</text>
+<text id="231519">%null%</text>
+<text id="231520">已超过持有与收纳上限，无法取得。</text>
+<text id="231550">无法获得复数个英雄的防具。</text>
+<text id="232000">将以&lt;?sellSouls?&gt;卢恩
+卖出&lt;?itemName?&gt;。</text>
+<text id="232001">%null%</text>
+<text id="232002">装备中的道具无法卖出。</text>
+<text id="232003">无法卖出此道具。</text>
+<text id="232004">&lt;?itemName?&gt; 已使用战灰。
+卖出后也会失去战灰。
+
+您确定吗？</text>
+<text id="235000">要开始分配吗？</text>
+<text id="235001">将中止分配。
+您确定吗？</text>
+<text id="236001">开始制作&lt;?itemName?&gt;。</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">超过持有上限，
+制作的道具已收纳至木箱。</text>
+<text id="236011">超过持有与收纳上限，
+无法制作道具。</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">制作的数量超过持有的龟裂壶数量，
+无法制作道具。</text>
+<text id="236021">制作的数量超过持有的调香瓶数量，
+无法制作道具。</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">制作的数量超过持有的仪式壶数量，
+无法制作道具。</text>
+<text id="236050">您未持有龟裂壶，
+无法制作道具。</text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">您未持有仪式壶，
+无法制作道具。</text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">您未持有调香瓶，
+无法制作道具。</text>
+<text id="236201">将消耗&lt;?demandSoul?&gt;卢恩与追忆，
+获得&lt;?itemName?&gt;。</text>
+<text id="236202">将用追忆交换&lt;?itemName?&gt;。</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">超过持有上限的道具已被收纳至木箱。</text>
+<text id="236211">超过持有与收纳上限，
+无法获得力量。</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">超过数量上限，无法再从追忆获得力量。</text>
+<text id="236401">将修改成&lt;?itemName?&gt;。</text>
+<text id="236402">将花费&lt;?demandSoul?&gt;卢恩，
+修改成&lt;?itemName?&gt;。</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">已超过持有上限，
+修改后的道具已被收纳至木箱。</text>
+<text id="236411">已超过持有与收纳上限，
+无法修改。</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">已超过上限，无法修改。</text>
+<text id="237000">红露滴圣杯瓶</text>
+<text id="237001">蓝露滴圣杯瓶</text>
+<text id="241000">获得地图碎片：
+宁姆格福（西）</text>
+<text id="241001">获得地图碎片：
+啜泣半岛</text>
+<text id="241002">获得地图碎片：
+宁姆格福（东）</text>
+<text id="241003">获得地图碎片：
+利耶尼亚（东）</text>
+<text id="241004">获得地图碎片：
+利耶尼亚（北）</text>
+<text id="241005">获得地图碎片：
+利耶尼亚（西）</text>
+<text id="241006">获得地图碎片：
+亚坛高原</text>
+<text id="241007">获得地图碎片：
+王城罗德尔</text>
+<text id="241008">获得地图碎片：
+格密尔火山</text>
+<text id="241009">获得地图碎片：
+盖利德</text>
+<text id="241010">获得地图碎片：
+龙墓</text>
+<text id="241011">获得地图碎片：
+巨人山顶（西）</text>
+<text id="241012">获得地图碎片：
+巨人山顶（东）</text>
+<text id="241013">获得地图碎片：
+化圣雪原</text>
+<text id="241014">%null%</text>
+<text id="241100">获得地图碎片：
+安瑟尔河</text>
+<text id="241101">获得地图碎片：
+腐败湖</text>
+<text id="241102">获得地图碎片：
+蒙格温王朝</text>
+<text id="241103">获得地图碎片：
+希芙拉河</text>
+<text id="241104">获得地图碎片：
+深根底层</text>
+<text id="241105">%null%</text>
+<text id="251020">装备中的道具无法收纳。</text>
+<text id="251021">无法收纳此道具。</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">已超过收纳上限，无法收纳。</text>
+<text id="251031">已超过持有上限，无法取出。</text>
+<text id="261000">您没有记忆空格。</text>
+<text id="261001">可用空格不足。</text>
+<text id="261002">您没有记忆空格。</text>
+<text id="261003">无法重复记忆相同的魔法、祷告。</text>
+<text id="261004">必需能力值不足，无法使用此魔法、祷告。</text>
+<text id="280001">所有配置将恢复默认。
+您确定吗？</text>
+<text id="281000">无法选择相同材料。</text>
+<text id="290001">要放弃创建中的角色，
+返回选择角色雏形的画面吗？</text>
+<text id="290002">将以此角色开始游戏，
+您确定吗？</text>
+<text id="290003">您尚未输入名字，
+请输入名字以完成角色创建。</text>
+<text id="290004">角色数据保存失败。</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">将放弃所编辑的内容，
+您确定吗？</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">输入的名字包含不恰当的文字，
+无法作为角色名字使用。
+
+请输入其他名字。</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">变更性别后，
+会失去部分已编辑的内容。
+
+您确定吗？</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">改变外貌后，
+会失去没有保存到的外貌配置。
+
+您确定吗？</text>
+<text id="290101">要放弃所编辑的内容，结束化妆吗？</text>
+<text id="290102">化妆结束，将变成这个角色。
+
+您确定吗？</text>
+<text id="290103">您尚未输入名字，
+请输入名字以结束化妆。</text>
+<text id="290121">要放弃所编辑的内容，结束化妆吗？</text>
+<text id="290122">化妆结束，将变成这个角色。
+
+您确定吗？</text>
+<text id="290123">您尚未输入名字，
+请输入名字以结束化妆。</text>
+<text id="290200">要保存现在的外貌配置吗？</text>
+<text id="290201">要覆盖原有的外貌配置吗？</text>
+<text id="290202">要放弃编辑中的内容，
+读取外貌配置吗？</text>
+<text id="290203">不能读取不同体型的外貌。</text>
+<text id="290204">将删除选择的外貌，
+您确定吗？</text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">并无已保存的外貌配置。</text>
+<text id="290300">目前无法编辑。
+
+如果想要编辑，请先在“眼睛变化配置”选择“不套用”。</text>
+<text id="311000">将消除此讯息。
+您确定吗？</text>
+<text id="311001">要给予这则讯息好评吗？</text>
+<text id="311002">要给予这则讯息恶评吗？</text>
+<text id="321000">将以此内容写下讯息。</text>
+<text id="321001">将舍弃编辑中的讯息。
+您确定吗？</text>
+<text id="322000">将从记录中删除此讯息。
+您确定吗？</text>
+<text id="334510">已超过持有与收纳上限，
+无法取得&lt;?itemName?&gt;。</text>
+<text id="334511">已超过持有与收纳上限，
+无法全数取得&lt;?itemName?&gt;。</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">已超过持有与收纳上限，
+无法取得部分道具。</text>
+<text id="401172">《艾尔登法环》网络测试版仅能以联机进行游玩。
+
+将返回标题画面。</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404010">将放弃已配置的内容，回到前一个画面。
+
+您确定吗？</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">高动态范围成像（ＨＤＲ）配置为开启时，
+只能从游戏内主选单的系统选单调整画质。</text>
+<text id="406011">将以选择的角色档案开始游戏。</text>
+<text id="406012">要删除选择的角色档案，
+开始新游戏吗？</text>
+<text id="406013">将删除选择的角色档案。
+
+您确定吗？</text>
+<text id="450000">要直接开始第&lt;?nextLoopCount?&gt;次的世界吗？
+
+如果不打算马上进入下一次的世界，
+之后也能从圆桌厅堂的大赐福选择“开始第&lt;?nextLoopCount?&gt;次的世界”。</text>
+<text id="450001">进入第&lt;?nextLoopCount?&gt;次的世界之后，
+就不能回到目前第&lt;?loopCount?&gt;次的世界。
+
+确定要开始第&lt;?nextLoopCount?&gt;次的世界吗？</text>
+<text id="502000">要遣返所选的人物吗？</text>
+<text id="502001">没有可以遣返的人物。</text>
+<text id="550000">您在多人联机游玩时，多次以不当方式结束游戏，
+无法进行多人联机游玩。</text>
+<text id="550100">在一定时间内没有进行任何操作，
+已返回原本的世界。</text>
+<text id="550200">由于未输入名字，
+已用“_”配置成角色的名字。</text>
+<text id="620001">要返回标题画面吗？</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">将结束操作说明，开始游戏。
+您确定吗？</text>
+<text id="620100">本游戏尚在开发中，
+部分功能（包含使用Xbox 网络的网络功能）
+有可能无法正常运作，或出现强制结束游戏的情况。</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">网络测试版的下列配置与商品版相异：
+·必须连接网络才能游玩。</text>
+</entries>
+</fmg>

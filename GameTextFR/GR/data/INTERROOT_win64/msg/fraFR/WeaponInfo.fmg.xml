@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Flèches empennées taillées dans un fin os animal.</text>
+<text id="50110000">Flèches taillées dans un fin os d'animal.</text>
+<text id="50130000">Flèches en os d'animal empennées qui s'embrasent.</text>
+<text id="50140000">Flèches en os d'animal qui s'embrasent.</text>
+<text id="50150000">Flèches en os d'animal empennées à la pointe empoisonnée.</text>
+<text id="50160000">Flèches en os d'animal à la pointe empoisonnée.</text>
+<text id="50170000">Flèche en os empennée à la pointe soporifique.</text>
+<text id="50180000">Flèche en os d'animal à la pointe soporifique.</text>
+<text id="50190000">Flèches en os empennées avec des plumes de faucon des tempêtes.</text>
+<text id="50200000">Flèches en os d'animal empennées imprégnées de foudre.</text>
+<text id="50210000">Flèches en os d'animal imprégnées de foudre.</text>
+<text id="50220000">Flèches en os d'animal à la pointe constituée d'un éclat de pierre arc-en-ciel.</text>
+<text id="50230000">Flèches en os d'animal à la pointe constituée d'un éclat de cristal.</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Flèches en os empennées enduites d'une mixture incorporant
+des pierres d'éclat</text>
+<text id="50270000">Flèches en os d'animal enduites d'une mixture incorporant des 
+pierres d'éclat
+</text>
+<text id="50280000">Flèches en os empennées enduites d'une mixture dorée.</text>
+<text id="50290000">Flèches en os d'animal enduites d'une mixture dorée.</text>
+<text id="50300000">Flèches en os empennées à la pointe ensanglantée.</text>
+<text id="50310000">Flèches en os d'animal à la pointe ensanglantée.</text>
+<text id="50320000">Flèches en os empennées à la pointe givrée.</text>
+<text id="50330000">Flèches en os d'animal à la pointe givrée.</text>
+<text id="50340000">Flèches en os empennées à la pointe putréfiée.</text>
+<text id="50350000">Flèches en os d'animal à la pointe putréfiée.</text>
+<text id="51050000">Flèches empennées taillées dans un épais os animal.</text>
+<text id="51060000">Flèches en os d'animal taillé, aussi épaisses qu'une lance.</text>
+<text id="52090000">Carreaux taillés dans un fin os d'animal.</text>
+<text id="52100000">Carreaux en os d'animal qui s'embrasent.</text>
+<text id="52110000">Carreaux en os d'animal imprégnés de foudre.</text>
+<text id="52120000">Carreaux en os d'animal enduits d'une mixture incorporant des 
+pierres d'éclat.
+</text>
+<text id="52130000">Carreaux en os d'animal enduits d'une mixture dorée.</text>
+<text id="52140000">Carreaux en os d'animal imprégnés de poison.</text>
+<text id="52150000">Carreaux en os d'animal à la pointe ensanglantée.</text>
+<text id="52160000">Carreaux en os d'animal à la pointe givrée.</text>
+<text id="52170000">Carreaux en os d'animal à la pointe putréfiée.</text>
+<text id="52180000">Carreaux en os d'animal à la pointe soporifique.</text>
+<text id="53030000">Carreaux en os taillé, aussi épais qu'une lance.</text>
+</entries>
+</fmg>

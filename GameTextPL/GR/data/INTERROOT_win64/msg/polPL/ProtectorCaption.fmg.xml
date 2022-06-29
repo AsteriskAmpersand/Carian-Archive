@@ -1,0 +1,2310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200">%null%</text>
+<text id="1000">%null%</text>
+<text id="1100">%null%</text>
+<text id="1200">%null%</text>
+<text id="1300">%null%</text>
+<text id="1400">%null%</text>
+<text id="1500">%null%</text>
+<text id="1600">%null%</text>
+<text id="1700">%null%</text>
+<text id="1800">%null%</text>
+<text id="1900">%null%</text>
+<text id="2000">%null%</text>
+<text id="2100">%null%</text>
+<text id="2200">%null%</text>
+<text id="2300">%null%</text>
+<text id="2400">%null%</text>
+<text id="2500">%null%</text>
+<text id="2600">%null%</text>
+<text id="2700">%null%</text>
+<text id="2800">%null%</text>
+<text id="2900">%null%</text>
+<text id="3000">%null%</text>
+<text id="3100">%null%</text>
+<text id="3200">%null%</text>
+<text id="3300">%null%</text>
+<text id="3400">%null%</text>
+<text id="3500">%null%</text>
+<text id="3600">%null%</text>
+<text id="3700">%null%</text>
+<text id="3800">%null%</text>
+<text id="3900">%null%</text>
+<text id="4000">%null%</text>
+<text id="4100">%null%</text>
+<text id="4200">%null%</text>
+<text id="4300">%null%</text>
+<text id="4400">%null%</text>
+<text id="4500">%null%</text>
+<text id="4600">%null%</text>
+<text id="4700">%null%</text>
+<text id="4800">%null%</text>
+<text id="4900">%null%</text>
+<text id="5000">%null%</text>
+<text id="10000">Goła głowa bez założonej zbroi</text>
+<text id="10100">Nagi tors bez założonej zbroi.</text>
+<text id="10200">Nagie ramiona bez założonej zbroi.</text>
+<text id="10300">Gołe nogi bez założonej zbroi.</text>
+<text id="40000">Zwykły żelazny hełm rdzewiejący na krawędziach.
+
+Materiał zakrywający usta i szyję zapewnia niewielką
+odporność na truciznę i inne drażniące substancje.</text>
+<text id="40100">Zbroja wzmocniona małymi metalowymi łuskami.
+
+Peleryna okrywająca ramiona wykonana z wyprawionej skóry jaszczurki, która zapewnia dobrą ochronę przed ogniem.</text>
+<text id="40200">Zwykłe żelazne rękawice.</text>
+<text id="40300">Dobrze wykonane skórzane spodnie.
+
+Dolna część nogawek jest związana sznurkiem, by ułatwić ruchy.</text>
+<text id="50000">Hełm noszony przez kaideńskich najemników.
+
+Ci ogromni, nieustraszeni wojownicy, pochodzący ponoć z gór mroźnej północy, są mistrzami walki z końskich grzbietów.
+Kaiden to nazwa ich rodzimej osady.</text>
+<text id="50100">Zbroja noszona przez kaideńskich najemników.
+Wykonano ją ze skóry i futra śnieżnego wilka, dzięki czemu chroni przed zimnem.
+
+Ci ogromni, nieustraszeni wojownicy, pochodzący ponoć z gór mroźnej północy, są mistrzami walki z końskich grzbietów.
+Kaiden to nazwa ich rodzimej osady.</text>
+<text id="50200">Rękawice noszone przez kaideńskich najemników.
+
+Ci ogromni, nieustraszeni wojownicy, pochodzący ponoć z gór mroźnej północy, są mistrzami walki z końskich grzbietów.
+Kaiden to nazwa ich rodzimej osady.</text>
+<text id="50300">Spodnie noszone przez kaideńskich najemników.
+
+Ci ogromni, nieustraszeni wojownicy, pochodzący ponoć z gór mroźnej północy, są mistrzami walki z końskich grzbietów.
+Kaiden to nazwa ich rodzimej osady.</text>
+<text id="60000">Hełm z czarnego żelaza noszony przez smoczych rycerzy.
+Uwydatnia łupy ze smoczego połowu jako symbol dumy zarówno łowców smoków, jak i uczestników komunii.
+
+Od urodzenia smoczy rycerze nie odzywają się ani słowem, a swoje życie spędzają na pogoni za smoczą siłą, za jej wysublimowanym pięknem i inspirującą trwogą.</text>
+<text id="60100">Zbroja z czarnego żelaza noszona przez smoczych rycerzy.
+Wykonana z łupów ze smoczego połowu jako symbol dumy zarówno łowcy smoków, jak i uczestnika komunii.
+
+Peleryna została stworzona ze smoczego skrzydła.</text>
+<text id="60200">Rękawice z czarnego żelaza noszone przez smoczych rycerzy.
+Uwydatniają łupy ze smoczego połowu jako symbol dumy zarówno łowczyni smoków, jak i uczestniczki komunii.
+
+Od urodzenia smoczy rycerze nie odzywają się słowem. Swoje życie spędzają na pogoni za smoczą siłą, wysublimowanym pięknem i inspirującą trwogą.</text>
+<text id="60300">Nagolenniki z czarnego żelaza noszone przez smoczych rycerzy.
+Uwydatniają łupy ze smoczego połowu jako symbol dumy zarówno łowców smoków, jak i uczestników komunii.
+
+Od urodzenia smoczy rycerze nie odzywają się ani słowem, a swoje życie spędzają na pogoni za smoczą siłą, za jej wysublimowanym pięknem i inspirującą trwogą.</text>
+<text id="61000">Hełm z czarnego żelaza noszony przez smoczych rycerzy.
+Uwydatnia łupy ze smoczego połowu jako symbol dumy zarówno łowczyni smoków, jak i uczestniczki komunii.
+
+Od urodzenia smoczy rycerze nie odzywają się słowem. Swoje życie spędzają na pogoni za smoczą siłą, wysublimowanym pięknem i inspirującą trwogą.</text>
+<text id="61100">Zbroja z czarnego żelaza noszona przez smoczych rycerzy.
+Wykonana z łupów ze smoczego połowu jako symbol dumy zarówno łowcy smoków, jak i uczestnika komunii.
+
+Od urodzenia smoczy rycerze nie odzywają się ani słowem, a swoje życie spędzają na pogoni za smoczą siłą; jej wysublimowanym pięknem i inspirującą trwogą.</text>
+<text id="80000">Hełm noszony przez Pradawnego Rycerza Istvana.
+Skorodowany metal wzmocniono twardymi jak skała łuskami, przez co bardzo skutecznie broni przed niefizycznymi atakami.
+
+Istvan jest jednym z niewielu zmatowieńców-weteranów, którzy przetrwali do dziś.</text>
+<text id="80100">Zbroja noszona przez Pradawnego Rycerza Istvana.
+Skorodowany metal wzmocniono twardymi jak skała łuskami, przez co bardzo skutecznie broni przed niefizycznymi atakami.
+
+Istvan jest jednym z niewielu zmatowieńców-weteranów, którzy przetrwali do dziś.</text>
+<text id="80200">Rękawice noszone przez Pradawnego Rycerza Istvana.
+Skorodowany metal wzmocniono twardymi jak skała łuskami, przez co bardzo skutecznie bronią przed niefizycznymi atakami.
+
+Istvan jest jednym z niewielu zmatowieńców-weteranów, którzy przetrwali do dziś.</text>
+<text id="80300">Nagolenniki noszone przez Pradawnego Rycerza Istvana.
+Skorodowany metal wzmocniono twardymi jak skała łuskami, przez co bardzo skutecznie bronią przed niefizycznymi atakami.
+
+Istvan jest jednym z niewielu zmatowieńców-weteranów, którzy przetrwali do dziś.</text>
+<text id="81100">Zbroja noszona przez Pradawnego Rycerza Istvana.
+Skorodowany metal wzmocniono twardymi jak skała łuskami, przez co bardzo skutecznie broni przed niefizycznymi atakami.
+
+Istvan jest jednym z niewielu zmatowieńców-weteranów, którzy przetrwali do dziś.</text>
+<text id="90000">Kaptur perfumiarza ze stolicy Złotego Drzewa.
+
+W minionych czasach profesja ta była wielce szanowana, a w oczach wielu perfumiarze uchodzili za błogosławionych aptekarzy. Jednak po tym, jak zostali skierowani na front w wyniku Roztrzaskania, pełnili zgoła inną rolę, tworząc trucizny i materiały wybuchowe.</text>
+<text id="90100">Szata perfumiarza ze stolicy Złotego Drzewa.
+
+Gruby fartuch z wyhaftowanym wizerunkiem Złotego Drzewa jest dowodem mistrzostwa sztuki aptekarskiej, a jego ciężar symbolizuje brzemię zarówno dumy, jak i odpowiedzialności.</text>
+<text id="90200">Rękawice perfumiarza ze stolicy Złotego Drzewa.
+
+W minionych czasach profesja ta była wielce szanowana, a w oczach wielu perfumiarze uchodzili za błogosławionych aptekarzy. Jednak po tym, jak zostali skierowani na front w wyniku Roztrzaskania, pełnili zgoła inną rolę, tworząc trucizny i materiały wybuchowe.</text>
+<text id="90300">Sarong perfumiarza ze stolicy Złotego Drzewa.
+
+W minionych czasach profesja ta była wielce szanowana, a w oczach wielu perfumiarze uchodzili za błogosławionych aptekarzy. Jednak po tym, jak zostali skierowani na front w wyniku Roztrzaskania, pełnili zgoła inną rolę, tworząc trucizny i materiały wybuchowe.</text>
+<text id="91100">Szata perfumiarza ze stolicy Złotego Drzewa.
+
+Gruby fartuch z wyhaftowanym wizerunkiem Złotego Drzewa jest dowodem mistrzostwa sztuki aptekarskiej, a jego ciężar symbolizuje brzemię zarówno dumy, jak i odpowiedzialności.</text>
+<text id="100000">Kapelusz nieznanego podróżującego perfumiarza.
+
+Jako współpracownik uzdrowicieli rzekomo poszukuje nowych leczniczych zapachów i ogrodów kwiatowych w nadziei na wyleczenie aberracji, Omenów i wszystkich postrzeganych jako nieczyści.</text>
+<text id="100100">Ubiór nieznanego wędrownego perfumiarza.
+
+Gruby fartuch, symbol perfumiarza, zastąpiono prostszym, wykonanym z miękkiej skóry.</text>
+<text id="100200">Rękawice nieznanego wędrownego perfumiarza.
+
+Jako współpracownik uzdrowicieli rzekomo poszukuje nowych leczniczych zapachów i ogrodów kwiatowych w nadziei na wyleczenie aberracji, Omenów i wszystkich postrzeganych jako nieczyści.</text>
+<text id="100300">Łachmany nieznanego wędrownego perfumiarza.
+
+Jako współpracownik uzdrowicieli rzekomo poszukuje nowych leczniczych zapachów i ogrodów kwiatowych w nadziei na wyleczenie aberracji, Omenów i wszystkich postrzeganych jako nieczyści.</text>
+<text id="101100">Ubiór nieznanego wędrownego perfumiarza.
+
+Gruby fartuch, symbol perfumiarza, zastąpiono prostszym, wykonanym z miękkiej skóry.</text>
+<text id="120000">Spiczasta czapka Albericha Oszalałego Języka, symbol heretyka.
+
+Wysadzana czerwonymi błyskamieniami, podobno powstałymi z krwi ofiar. Wzmacnia magię cierni.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="120100">Szata Albericha Oszalałego Języka.
+
+Wysadzana czerwonymi błyskamieniami, podobno powstałymi z krwi ofiar. Wzmacnia magię cierni.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="120200">Karwasze Albericha Oszalałego Języka.
+
+Wysadzane czerwonymi błyskamieniami, podobno powstałymi
+z krwi ofiar. Wzmacniają magię cierni.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="120300">Spodnie Albericha Oszalałego Języka.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="121000">Spiczasta czapka Albericha Oszalałego Języka, symbol heretyka.
+
+Wysadzana czerwonymi błyskamieniami, podobno powstałymi z krwi ofiar. Wzmacnia magię cierni.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="121100">Szata Albericha Oszalałego Języka.
+
+Alberich był samotnym i udręczonym heretyckim czarodziejem. Do szaleństwa doprowadziły go ponoć kpiny, z którymi spotykał się, gdy dawno temu służył w Twierdzy Okrągłego Stołu.</text>
+<text id="130000">Spiczasty kapelusz błyskamiennego czarodzieja Rogiera, znak heretyka. Wzmacnia umiejętności magii błyskamiennej.
+
+Rogier przez całe życie zachowywał całkowity dystans względem innych. Nikt nie zauważył gniewu, rozpaczy, żalu czy strachu, które mu towarzyszyły.</text>
+<text id="130100">Strój podróżny błyskamiennego czarodzieja Rogiera, ozdobiony misterną, arystokratyczną dekoracją. Wzmacnia umiejętności magii błyskamieni.
+
+Rogier przez całe życie zachowywał całkowity dystans względem innych. Nikt nie zauważył gniewu, rozpaczy, żalu czy strachu, które mu towarzyszyły.</text>
+<text id="130200">Rękawice błyskamiennego czarodzieja Rogiera, ozdobione misterną, arystokratyczną dekoracją. Wzmacniają umiejętności magii błyskamieni.
+
+Rogier przez całe życie zachowywał całkowity dystans względem innych. Nikt nie zauważył gniewu, rozpaczy, żalu czy strachu, które mu towarzyszyły.</text>
+<text id="130300">Spodnie błyskamiennego czarodzieja Rogiera, ozdobione misterną, arystokratyczną dekoracją. Wzmacniają umiejętności magii błyskamiennej.
+
+Rogier przez całe życie zachowywał całkowity dystans względem innych. Nikt nie zauważył gniewu, rozpaczy, żalu czy strachu, które mu towarzyszyły.</text>
+<text id="131100">Strój podróżny błyskamiennego czarodzieja Rogiera, ozdobiony misterną, arystokratyczną dekoracją. Wzmacnia umiejętności magii błyskamieni.
+
+Rogier przez całe życie zachowywał całkowity dystans względem innych. Nikt nie zauważył gniewu, rozpaczy, żalu czy strachu, które mu towarzyszyły.</text>
+<text id="140000">Hełm Wielkiego Tragotha Rogatego, ozdobiony motywem złotego kozobyka. Znacząco zwiększa równowagę.
+
+Tragoth jest słynnym rycerzem wsparcia. Niezliczeni zmatowieńcy zmagający się z przeciwnościami losu na Ziemiach Pomiędzy przetrwali tylko dzięki pomocy Wielkiego Rogatego.</text>
+<text id="140100">Zbroja Wielkiego Tragotha Rogatego. Nakrywa używającego parą gigantycznych rogów, zapewniając mu niezłomną równowagę.
+
+Tragoth jest słynnym rycerzem wsparcia. Niezliczeni zmatowieńcy zmagający się z przeciwnościami losu na Ziemiach Pomiędzy przetrwali tylko dzięki pomocy Wielkiego Rogatego.</text>
+<text id="140200">Rękawice Wielkiego Tragotha Rogatego ozdobione motywem złotego kozobyka. Znacząco zwiększają równowagę.
+
+Tragoth jest słynnym rycerzem wsparcia. Niezliczeni zmatowieńcy zmagający się z przeciwnościami losu na Ziemiach Pomiędzy przetrwali tylko dzięki pomocy Wielkiego Rogatego.</text>
+<text id="140300">Nagolenniki Wielkiego Tragotha Rogatego ozdobione motywem złotego kozobyka. Znacząco zwiększają równowagę.
+
+Tragoth jest słynnym rycerzem wsparcia. Niezliczeni zmatowieńcy zmagający się z przeciwnościami losu na Ziemiach Pomiędzy przetrwali tylko dzięki pomocy Wielkiego Rogatego.</text>
+<text id="150000">Żelazna kasa człowieka, który sam siebie nazywa Shabririm.
+Stworzona, by imitować słomkowe kapelusze noszone w Krainie Trzcin.
+
+Ten mężczyzna, znany niegdyś jako Yura, skrywał wspomnienie o pewnej kobiecie w najgłębszych zakątkach swego serca.</text>
+<text id="150100">Zbroja człowieka, który sam siebie nazywa Shabriri.
+Wysoce funkcjonalna i mocno znoszona.
+
+Ten mężczyzna, znany niegdyś jako Yura, skrywał wspomnienie o pewnej kobiecie w najgłębszych zakątkach swego serca.</text>
+<text id="150200">Rękawice człowieka, który sam siebie nazywa Shabriri. 
+Wysoce funkcjonalne i mocno znoszone.
+
+Ten mężczyzna, znany niegdyś jako Yura, skrywał wspomnienie o pewnej kobiecie w najgłębszych zakątkach swego serca.</text>
+<text id="150300">Nagolenniki czlowieka, który sam siebie nazywa Shabriri.
+Wysoce funkcjonalne i mocno znoszone.
+
+Ten mężczyzna, znany niegdyś jako Yura, skrywał wspomnienie o pewnej kobiecie w najgłębszych zakątkach swego serca.</text>
+<text id="151100">Zbroja człowieka, który sam siebie nazywa Shabriri.
+Wysoce funkcjonalna i mocno znoszona.
+
+Ten mężczyzna, znany niegdyś jako Yura, skrywał wspomnienie o pewnej kobiecie w najgłębszych zakątkach swego serca.</text>
+<text id="160000">Zgrzebna peleryna z kapturem w kolorze oliwkowo-brązowym.
+
+Ubiór oskarżonych o drobne przestępstwa, na co wskazuje kołnierz z zaostrzonych gałęzi.</text>
+<text id="160100">Ubranie wykonane ze zgrzebnej tkaniny, powszechnie noszone na Ziemiach Pomiędzy.</text>
+<text id="160200">Owijki na ręce, ze zgrzebnej tkaniny. 
+Strój odrzuconych zmatowieńców wziętych w niewolę na Ziemiach Pomiędzy.</text>
+<text id="160300">Spodnie wykonane ze zgrzebnej tkaniny, powszechnie noszone na Ziemiach Pomiędzy.</text>
+<text id="170000">Maska wzorowana na głowie czarnego wilka.
+
+Relikt zabójcy, który przebrał się za wierny cień Wiedźmy Ranni. Podobieństwo jest uderzające.</text>
+<text id="170100">Znoszona czarna zbroja Blaidda, człowieka wilka.
+
+Skóra zwierzęca służy za pelerynę i chroni przed zimnem.
+Blaidd, od lat pchany w objęcia chłodu, wiernie służył Ranni jako jej ostrze.</text>
+<text id="170200">Znoszone czarne rękawice Blaidda, człowieka wilka.
+
+Blaidd, który służył jako cień Ranni, był lojalnym sojusznikiem, który przeciwstawiłby się samemu przeznaczeniu, gdyby zwrócił się przeciwko swojej pani.</text>
+<text id="170300">Znoszone czarne nagolenniki Blaidda, człowieka wilka.
+
+Blaidd, który służył jako cień Ranni, był lojalnym sojusznikiem, który prędzej przeciwstawiłby się samemu przeznaczeniu, niż gdyby miał zwrócić się przeciwko swojej pani.</text>
+<text id="171100">Znoszona czarna zbroja Blaidda, człowieka wilka.
+
+Blaidd, który służył jako cień Ranni, był lojalnym sojusznikiem, który prędzej przeciwstawiłby się samemu przeznaczeniu, niż zwrócił się przeciwko swojej pani.</text>
+<text id="180000">Kaptur używany przez Zabójczynie Czarnych Noży.
+
+Wszyscy zabójcy, przez których dokonała się Noc Czarnych Noży, to kobiety i podobno numenki blisko związane z samą Mariką.</text>
+<text id="180100">Zbroja łuskowa używana przez Zabójczynie Czarnych Noży, wykuta tak, by nie wydawała dźwięków.
+
+W okrywającym ją woalu wciąż tli się moc tłumiąca odgłosy kroków.
+
+Wszyscy zabójcy, przez których dokonała się Noc Czarnych Noży, to kobiety i podobno numenki blisko związane z samą Mariką.</text>
+<text id="180200">Rękawice używane przez Zabójczynie Czarnych Noży.
+Wykonane ze zbroi łuskowej, która nie wydaje dźwięku.
+
+Wszyscy zabójcy, przez których dokonała się Noc Czarnych Noży, to kobiety i podobno numenki blisko związane z samą Mariką.</text>
+<text id="180300">Nagolenniki używane przez Zabójczynie Czarnych Noży.
+Wykonane ze zbroi łuskowej, która nie wydaje żadnych dźwięków.
+
+Wszyscy zabójcy, przez których dokonała się Noc Czarnych Noży, to kobiety i podobno numenki blisko związane z samą Mariką.</text>
+<text id="181100">Zbroja używana przez Zabójczynie Czarnych Noży.
+Wykonana ze zbroi łuskowej, która nie wydaje żadnych dźwięków.
+
+Wszyscy zabójcy, przez których dokonała się Noc Czarnych Noży, to kobiety i podobno numenki blisko związane z samą Mariką.</text>
+<text id="190000">Kaptur w kolorze głębokiej czerwieni zakrywający całą głowę.
+
+Noszona przez żołnierzy wysłanych do kolonii karnych, którym nakazywano zakrywanie twarzy.</text>
+<text id="190100">Uszkodzona zbroja pokryta dużym kawałem ciemnoczerwonego materiału.
+
+Noszona przez żołnierzy wysłanych do kolonii karnych.</text>
+<text id="190200">Uszkodzone żelazne rękawice.
+Noszone przez żołnierzy wysłanych do kolonii karnych.</text>
+<text id="190300">Uszkodzone żelazne nagolenniki.
+
+Noszone przez żołnierzy wysłanych do kolonii karnych.</text>
+<text id="200000">Hełm będący częścią kompletu zbroi zakrywającej całe ciało.
+Noszony przez rycerzy, którzy z powodu nieszczęścia lub złego występku, byli zmuszeni do opuszczenia swoich domów.
+
+Być może krwistoczerwony szal służył jako osłona od wiatru, gdyż na obrzeżach wiatry kąsały z piekącą zaciekłością.</text>
+<text id="200100">Gruba, kompletna zbroja zakrywająca całe ciało.
+Ta zbroja była noszona przez rycerzy, którzy zrządzeniem losu lub w wyniku występku utracili swoje domy.
+
+Wszyscy ci zaciekli wojownicy dokonali sporych osiągnięć. Być może dlatego, mimo strat terytorialnych, nadal nazywano ich rycerzami.</text>
+<text id="200200">Gruba, kompletna zbroja zakrywająca całe ciało.
+Te rękawice były noszone przez rycerzy, którzy zrządzeniem losu lub w wyniku występku utracili swoje domy.
+
+Wszyscy ci zaciekli wojownicy dokonali sporych osiągnięć. Być może dlatego mimo strat terytorialnych nadal nazywano ich rycerzami.</text>
+<text id="200300">Gruba, kompletna zbroja zakrywająca całe ciało.
+Te nagolenniki były noszone przez rycerzy, którzy zrządzeniem losu lub w wyniku występku utracili swoje domy.
+
+Wszyscy ci zaciekli wojownicy dokonali sporych osiągnięć. Być może dlatego, mimo strat terytorialnych, nadal nazywano ich rycerzami.</text>
+<text id="201000">Hełm będący częścią kompletu zbroi zakrywającej całe ciało.
+Noszony przez rycerzy, którzy z powodu nieszczęścia lub złego występku, byli zmuszeni do opuszczenia swoich domów.
+
+Wszyscy ci zaciekli wojownicy dokonali sporych osiągnięć. Być może dlatego, mimo strat terytorialnych, nadal nazywano ich rycerzami.</text>
+<text id="201100">Gruba, kompletna zbroja zakrywająca całe ciało.
+Ta zbroja była noszona przez rycerzy, którzy zrządzeniem losu lub w wyniku występku utracili swoje domy.
+
+Wszyscy ci zaciekli wojownicy dokonali sporych osiągnięć. Być może dlatego, mimo strat terytorialnych, nadal nazywano ich rycerzami.</text>
+<text id="210000">Poobijany żelazny hełm z obcej krainy. 
+Noszony przez Elemera od Głogu.
+
+Poskręcane, zardzewiałe żelazne ciernie są symbolem winowajców i zazwyczaj oznaczają, że skazano ich na śmierć. Powodują także, że zbroja zadaje obrażenia podczas wykonywania przewrotu. 
+
+Elemer zamordował wielu instruktorów i kupców, nazywano go łowcą dzwonków kulistych.</text>
+<text id="210100">Poobijana żelazna zbroja z obcej krainy. 
+Noszona przez Elemera od Głogu.
+
+Poskręcane, zardzewiałe żelazne ciernie są symbolem winowajców i zazwyczaj oznaczają, że skazano ich na śmierć. Powodują także, że zbroja zadaje obrażenia podczas wykonywania przewrotu.
+
+Elemer zamordował wielu instruktorów i kupców, nazywano go łowcą dzwonków kulistych.</text>
+<text id="210200">Poobijane rękawice z obcej krainy. 
+Noszone przez Elemera od Głogu.
+
+Poskręcane, zardzewiałe żelazne ciernie są symbolem winowajców i zazwyczaj oznaczają, że skazano ich na śmierć. Powodują także, że zbroja zadaje obrażenia podczas wykonywania przewrotu.
+
+Elemer zamordował wielu instruktorów i kupców, nazywano go łowcą dzwonków kulistych.</text>
+<text id="210300">Poobijane nagolenniki z obcej krainy. 
+Noszone przez Elemera od Głogu.
+
+Poskręcane, zardzewiałe żelazne ciernie są symbolem winowajców i zazwyczaj oznaczają, że skazano ich na śmierć. Powodują także, że zbroja zadaje obrażenia podczas wykonywania przewrotu.
+
+Elemer zamordował wielu instruktorów i kupców, nazywano go łowcą dzwonków kulistych.</text>
+<text id="211100">Poobijana żelazna zbroja z obcej krainy. 
+Noszona przez Elemera od Głogu.
+
+Poskręcane, zardzewiałe żelazne ciernie są symbolem winowajców i zazwyczaj oznaczają, że skazano ich na śmierć. Powodują także, że zbroja zadaje obrażenia podczas wykonywania przewrotu.
+
+Elemer zamordował wielu instruktorów i kupców, nazywano go łowcą dzwonków kulistych.</text>
+<text id="220000">Kaptur noszony przez giermków służących szlachcie, których obowiązkiem było chronienie jej przed zagrożeniami.
+
+Niepozorny wygląd, przypominający worek, pasuje do ich niezauważanej i ignorowanej pozycji.</text>
+<text id="220100">Strój noszony przez giermków służących szlachcie, których obowiązkiem było chronienie jej przed zagrożeniami.
+
+Ubiór podróżny wykonany z wyjątkową precyzją, by giermek nie przyniósł wstydu swemu panu.</text>
+<text id="220300">Spodnie noszone przez giermków służących
+szlachcie, których obowiązkiem było chronienie jej
+przed zagrożeniami.
+
+Ubiór podróżny wykonany z wyjątkową
+precyzją, by giermek nie przyniósł wstydu swemu panu.</text>
+<text id="221100">Strój noszony przez giermków służących szlachcie, których obowiązkiem było chronienie jej przed zagrożeniami.
+
+Ubiór podróżny wykonany z wyjątkową precyzją, by giermek nie przyniósł wstydu swemu panu.</text>
+<text id="230000">Kruczoczarny hełm z długimi czarnymi włosami.
+Noszony przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="230100">Kruczoczarna zbroja pokryta grubą warstwą zaschniętej krwi.
+Noszona przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="230200">Kruczoczarne rękawice pokryte grubą warstwą zaschniętej krwi.
+Noszone przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="230300">Kruczoczarne nagolenniki pokryte grubą warstwą zaschniętej krwi.
+Noszone przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="231000">Kruczoczarny hełm pokryty grubą warstwą zaschniętej krwi.
+Noszony przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="231100">Kruczoczarna zbroja pokryta grubą warstwą zaschniętej krwi.
+Noszona przez Nocną Kawalerię, jeżdżącą na żałobnych ogierach.
+
+Nocna Kawaleria, która teraz nocą przemierza ciemne trakty, była kiedyś dowodzona przez Upadły Omen i niosła śmierć wielkim wojownikom, rycerzom oraz czempionom.</text>
+<text id="240000">Kaptur kolczy wykonany z niebieskiego srebra.
+Noszony przez łuczników albinauryków, dosiadających wilków.
+
+Niebieskie srebro to metal zrodzony z tej samej matki, co łucznicy, chroniący przed magią i mrozem.</text>
+<text id="240100">Kolczuga wykonana z niebieskiego srebra.
+Noszona przez łuczników albinauryków, dosiadających wilków.
+
+Niebieskie srebro to metal zrodzony z tej samej matki, co łucznicy, chroniący przed magią i mrozem.</text>
+<text id="240200">Karwasze wykonane z niebieskiego srebra.
+Noszone przez łuczników albinauryków, dosiadających wilków.
+
+Niebieskie srebro to metal zrodzony z tej samej matki, co łucznicy, chroniący przed magią i mrozem.</text>
+<text id="240300">Spódnica kolcza wykonana z niebieskiego srebra.
+Noszona przez łuczników albinauryków, dosiadających wilków.
+
+Niebieskie srebro to metal zrodzony z tej samej matki, co łucznicy, chroniący przed magią i chłodem.</text>
+<text id="241100">Kolczuga wykonana z niebieskiego srebra.
+Noszona przez łuczników albinauryków, dosiadających wilków.
+
+Niebieskie srebro to metal zrodzony z tej samej matki, co łucznicy, chroniący przed magią i mrozem.</text>
+<text id="250000">Kapelusz koczowniczych kupców.
+Ozdobiony różnobarwnymi drobnymi klejnotami.
+
+Ci kupcy prosperowali niegdyś jako Wielka Karawana, ale po oskarżeniu ich o herezję, cały klan został pojmany i zakopany żywcem pod ziemią.
+
+Wtedy jego członkowie rzucili klątwę rozpaczy i przyzwali płomień szału.</text>
+<text id="250100">Elegancka szata koczowniczych kupców.
+Ozdobiona różnobarwnymi drobnymi klejnotami.
+
+Ci kupcy prosperowali niegdyś jako Wielka Karawana, ale po oskarżeniu ich o herezję cały klan został pojmany i zakopany żywcem pod ziemią.
+
+Wtedy jego członkowie rzucili klątwę rozpaczy i przyzwali płomień szału.</text>
+<text id="250300">Spodnie koczowniczych kupców.
+
+Ci kupcy prosperowali niegdyś jako Wielka Karawana, ale po oskarżeniu ich o herezję cały klan został pojmany i zakopany żywcem pod ziemią.
+
+Wtedy jego członkowie rzucili klątwę rozpaczy i przyzwali płomień szału.</text>
+<text id="251100">Elegancka szata koczowniczych kupców.
+Ozdobiona różnobarwnymi drobnymi klejnotami.
+
+Ci kupcy prosperowali niegdyś jako Wielka Karawana, ale po oskarżeniu ich o herezję cały klan został pojmany i zakopany żywcem pod ziemią.
+
+Wtedy jego członkowie rzucili klątwę rozpaczy i przyzwali płomień szału.</text>
+<text id="260000">Zniekształcony złoty hełm.
+Ozdobiony różnymi obrazami smoka i noszony przez odszczepieńców, strażników Drzewa.
+
+Po ataku wielkiego starożytnego smoka Gransaxa strażnicy doznali olśnienia. By móc naprawdę chronić Złote Drzewo, musieli sami stać się smokami.</text>
+<text id="260100">Zniekształcona złota zbroja.
+Ozdobiona różnymi obrazami smoka i noszona przez odszczepieńców, strażników Drzewa.
+
+Po ataku wielkiego starożytnego smoka Gransaxa strażnicy doznali olśnienia. By móc naprawdę chronić Złote Drzewo, musieli sami stać się smokami.</text>
+<text id="260200">Zniekształcone złote rękawice. 
+Ozdobione smoczymi wzorami i noszone przez zdeformowanych strażników Drzewa.
+
+Po ataku wielkiego starożytnego smoka Gransaxa strażnicy doznali olśnienia. By móc naprawdę chronić Złote Drzewo, musieli sami stać się smokami.</text>
+<text id="260300">Zniekształcone złote nagolenniki.
+Ozdobione różnymi obrazami smoka i noszone przez odszczepieńców, strażników Drzewa.
+
+Po ataku wielkiego starożytnego smoka Gransaxa strażnicy doznali olśnienia. By móc naprawdę chronić Złote Drzewo, musieli sami stać się smokami.</text>
+<text id="270000">Złoty hełm ciężkiej kawalerii strażników, którzy służą Złotemu Drzewu.
+
+Niewielu dostępuje zaszczytu noszenia grzebienia ze złotego drewna o rozmiarach takich, jak na tym hełmie.</text>
+<text id="270100">Złota zbroja ciężkiej kawalerii strażników, którzy służą Złotemu Drzewu.
+
+Ozdobiona peleryną z symbolem uświęconego drzewa.
+
+Wciąż tli się w niej dawna łaska, dzięki czemu jest niemalże niezniszczalna.</text>
+<text id="270200">Złote rękawice ciężkiej kawalerii strażników, którzy służą Złotemu Drzewu.
+
+Wciąż tli się w nich stara magia, dzięki czemu są niemalże niezniszczalne.</text>
+<text id="270300">Złote nagolenniki ciężkiej kawalerii strażników, którzy służą Złotemu Drzewu.
+
+Wciąż tli się w nich stara magia, dzięki czemu są niemalże niezniszczalne.</text>
+<text id="271100">Złota zbroja ciężkiej kawalerii strażników, którzy służą Złotemu Drzewu.
+
+Wciąż tli się w niej dawna łaska, dzięki czemu jest niemalże niezniszczalna.</text>
+<text id="280000">Srebrny hełm Loretty, rycerza służącego Świętemu Drzewu Miquelli.
+
+Loretta, niegdyś wierny karyjski rycerz, wyruszyła na poszukiwanie schronienia dla albinauryków i odkryła, że Święte Drzewo dawało im największą szansę zbawienia.</text>
+<text id="280100">Srebrna zbroja Loretty, rycerza służącego Świętemu Drzewu Miquelli.
+
+Lazurytowy płaszcz Loretty, niegdyś wiernego karyjskiego rycerza, jest symbolem rycerskiej dumy, która nadal wskazuje jej drogę.</text>
+<text id="280200">Srebrne rękawice Loretty, rycerza służącego Świętemu Drzewu Miquelli.
+
+Loretta, niegdyś wierny karyjski rycerz, wyruszyła na poszukiwanie schronienia dla albinauryków i odkryła, że Święte Drzewo dawało im największą szansę na zbawienie.</text>
+<text id="280300">Srebrne nagolenniki Loretty, rycerza służącego Świętemu Drzewu Miquelli.
+
+Loretta, niegdyś wierny karyjski rycerz, wyruszyła na poszukiwanie schronienia dla albinauryków i odkryła, że Święte Drzewo dawało im największą szansę zbawienia.</text>
+<text id="281100">Srebrna zbroja Loretty, rycerza służącego Świętemu Drzewu Miquelli.
+
+Loretta, niegdyś wierny karyjski rycerz, wyruszyła na poszukiwanie schronienia dla albinauryków i odkryła, że Święte Drzewo dawało im największą szansę zbawienia.</text>
+<text id="290000">Jedwabny kaptur noszony przez mnichów z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="290100">Zbroja z jedwabnym płaszczem noszona przez mnichów z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="290200">Zakonne karwasze z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="290300">Zakonne nagolenniki z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="291000">Kaptur noszony przez mnichów z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="291100">Zbroja noszona przez mnichów z Wiecznego Miasta.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="292000">Korona noszona przez szermierczynie z Wiecznego Miasta.
+Te kobiety są osobistą gwardią nocnych służek, ich oczy skrywa jedwab.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="292100">Zbroja noszona przez szermierczynie z Wiecznego Miasta.
+Te kobiety są osobistą gwardią nocnych służek i noszą jedwabne płaszcze.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="293000">Podwójne korony noszone przez nocne służki z Wiecznego Miasta.
+Są symbolem najwyższej rangi kapłańskiej i zakrywają oczy jedwabiem.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="293100">Zbroja noszona przez nocne służki z Wiecznego Miasta.
+Jest symbolem najwyższej rangi kapłańskiej, w komplecie z jedwabnym płaszczem.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="294000">Korona noszona przez szermierczynie z Wiecznego Miasta.
+Jedwabna osłona oka została usunięta, zgodnie z konwencją.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="294100">Zbroja noszona przez szermierczynie z Wiecznego Miasta.
+Te kobiety są osobistą gwardią nocnych służek.
+
+Dawno temu Noxowie rozgniewali Wyższą Wolę i zostali wygnani głęboko pod ziemię. Teraz żyją pod fałszywym nocnym niebem i nieustannie czekają na swego pana. Na nadejście ery gwiazd. I ich Pana Nocy.</text>
+<text id="300000">Obręcz ozdobiona parą wielkich rogów.
+Nosili ją dawni wojownicy, wyznawcy przodków.
+
+Wyznawcy przodków trzymają się z dala od Złotego Drzewa i czekają na nowe pąki. Są pewni, że wyrosną z ich ciał, a nawet dusz.</text>
+<text id="300100">Strój z porośniętej szczeciną skóry.
+Nosili go dawni wojownicy, wyznawcy przodków.
+
+Wyznawcy przodków trzymają się z dala od Złotego Drzewa i czekają na nowe pąki. Są pewni, że wyrosną z ich ciał, a nawet dusz.</text>
+<text id="300300">Nogawice z porośniętych szczeciną skór.
+Nosili go dawni wojownicy, wyznawcy przodków.
+
+Wyznawcy przodków trzymają się z dala od Złotego Drzewa i czekają na nowe pąki. Są pewni, że wyrosną z ich ciał, a nawet dusz.</text>
+<text id="301000">Obręcz ozdobiona parą lśniących rogów.
+Nosili ją dawni szamani wyznawców.
+
+Świecące rogi to doskonałe przedmioty ceremonialne do oddawania czci przodkom. Wzmacniają głowę niemowlęcego przodka.</text>
+<text id="301100">Strój z porośniętej szczeciną skóry.
+Nosili go szamani dawnych wyznawców.
+
+Dawni wyznawcy mieszkają daleko od Złotego Drzewa i czekają na nowe pąki. Są pewni, że te wyrosną z ich ciał, a nawet dusz.</text>
+<text id="301300">Nogawice z porośniętej szczeciną skóry.
+Nosili je dawni szamani wyznawców.
+
+Dawni wyznawcy mieszkają daleko od Złotego Drzewa i czekają na nowe pąki. Są pewni, że wyrosną z ich ciał, a nawet dusz.</text>
+<text id="310000">Hełm z brązu ozdobiony niezliczonymi wężami.
+Noszony przez gladiatorów, których wygnano z koloseum. Właściciel staje się trochę łatwiejszym celem dla wrogów.
+
+Wąż jest uważany za zdrajcę Złotego Drzewa, a publiczność zachwycała się widokiem tłuczenia i obijania tych wizerunków z brązu.</text>
+<text id="310100">Gruby, szorstki płaszcz, będący symbolem podziemnego strażnika grobów.
+
+Ci, którzy niegdyś walczyli, by zarobić na życie, zostali wygnani z koloseum i stali się strażnikami grobowca Złotego Drzewa.</text>
+<text id="310300">Nagolenniki owinięte wężami z brązu.
+Noszone przez gladiatorów, których wygnano z koloseum. Właściciel staje się trochę łatwiejszym celem dla wrogów.
+
+Wąż jest uważany za zdrajcę Złotego Drzewa, a publiczność zachwycała się widokiem tłuczenia i obijania tych wizerunków z brązu.</text>
+<text id="311100">Strój, na który składają się owijające ramiona węże z brązu.
+Noszone przez gladiatorów, których wygnano z koloseum. Właściciel staje się trochę łatwiejszym celem dla wrogów.
+
+Wąż jest uważany za zdrajcę Złotego Drzewa, a publiczność zachwycała się widokiem tłuczenia i obijania tych wizerunków z brązu.</text>
+<text id="320000">Kaptur z czarnego materiału ze złotym haftem.
+Noszony przez szlachtę służącą Panu Krwi.
+
+Ci skrytobójcy są znani z tego, że potrafią uderzać z kałuż krwi. To także misjonarze, którzy niosą słowo przeklętej krwi.</text>
+<text id="320100">Szata z tkaniny barwionej na czarno ze złotym haftem.
+Noszona przez szlachtę służącą Panu Krwi.
+
+Efektowny metaliczny wzór na ramionach świadczy o szlachetnym stanie, który sługi zamierzają osiągnąć, gdy uda im się osadzić na tronie nową dynastię.</text>
+<text id="320300">Przepaska biodrowa uszyta z czarnego materiału.
+Noszona przez szlachtę służącą Panu Krwi.
+
+Ci skrytobójcy są znani z tego, że potrafią uderzać z kałuż krwi. To także misjonarze, którzy niosą słowo przeklętej krwi.</text>
+<text id="330000">Zdobiona złota maska.
+Noszona przez strażników pomniejszych Złotych drzew.
+
+Zgodnie z pradawnym paktem ze Złotym Drzewem ich śmierć nie oznaczała zniszczenia tylko miała zapewnić nowe, wieczne życie jako strażnicy.</text>
+<text id="330100">Zdobiony złoty strój.
+Noszony przez strażników pomniejszych Złotych drzew.
+
+Zwiększa efekty przywracania PŻ butelki szkarłatnych łez, ale znacznie obniża negację obrażeń ognistych.
+
+Podobno krwistoczerwone kwiaty rosnące im na plecach są symbolem ich pradawnego paktu. Może ci strażnicy sami już są po części drzewem.</text>
+<text id="330200">Złote karwasze z wygrawerowanym herbem.
+Noszone przez strażników pomniejszych Złotych drzew.
+
+Zgodnie z pradawnym paktem ze Złotym Drzewem ich śmierć nie oznaczała zniszczenia tylko miała zapewnić nowe, wieczne życie jako strażnicy.</text>
+<text id="330300">Zdobione złote nagolenniki.
+Noszone przez strażników pomniejszych Złotych drzew.
+
+Zgodnie z pradawnym paktem ze Złotym Drzewem ich śmierć nie oznaczała zniszczenia tylko miała zapewnić nowe, wieczne życie jako strażnicy.</text>
+<text id="331100">Zdobiony złoty strój.
+Noszony przez strażników pomniejszych Złotych drzew.
+
+Zgodnie z pradawnym paktem ze Złotym Drzewem ich śmierć nie oznaczała zniszczenia tylko miała zapewnić nowe, wieczne życie jako strażnicy.</text>
+<text id="340000">Skrzydlaty hełm rycerzy czystej zgnilizny, uwielbianych za ich zwycięską kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, zmieniały się w kamień. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="340100">Zbroja rycerzy czystej zgnilizny, uwielbianych za ich zwycięską kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, pokrywała zgnilizna. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="340200">Rękawice rycerzy czystej zgnilizny, uwielbianych za ich niepokonaną kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, pokrywała zgnilizna. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="340300">Nagolenniki rycerzy czystej zgnilizny, uwielbianych za ich zwycięską kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, zmieniały się w kamień. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="341000">Skrzydlaty hełm rycerzy czystej zgnilizny, uwielbianych za ich zwycięską kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, zmieniały się w kamień. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="341100">Zbroja rycerzy czystej zgnilizny, uwielbianych za ich niepokonaną kampanię podczas Roztrzaskania.
+
+Rycerze czystej zgnilizny przysięgli walczyć u boku Malenii, mimo że ich ciała nieuchronnie, choć stopniowo, pokrywała zgnilizna. Akceptacja własnego losu sprawiła, że ​​bitwy te były najbardziej zaciekłe ze wszystkich.</text>
+<text id="350000">Kaptur kolczy z żelaza okrywający obręcz
+z motywem płomieni. Strój mnichów ognia.
+
+Mnisi ognia są strażnikami płomienia upadku, zakazanego przez Złote Drzewo. Ponoć płomień znajduje się gdzieś wysoko na Szczytach Olbrzymów.</text>
+<text id="350100">Zbroja z czarnego żelaza przepasana czerwonym materiałem.
+Strój mnichów ognia.
+
+Groteskowa twarz wyrzeźbiona na piersi przedstawia ponoć spaczonego pradawnego boga starego płomienia.
+Zakazy przeistaczają się w trwałe obsesje za sprawą wzbudzanego przez nie strachu.</text>
+<text id="350200">Rękawice z czarnego żelaza z motywem płomieni.
+Strój mnichów ognia.
+
+Mnisi ognia są strażnikami płomienia upadku, zakazanego przez Złote Drzewo. Ponoć płomień znajduje się gdzieś wysoko na Szczytach Olbrzymów.</text>
+<text id="350300">Nagolenniki z czarnego żelaza z motywem płomieni.
+Strój mnichów ognia.
+
+Mnisi ognia są strażnikami płomienia upadku, zakazanego przez Złote Drzewo. Ponoć płomień znajduje się gdzieś wysoko na Szczytach Olbrzymów.</text>
+<text id="351000">Kaptur kolczy z żelaza okrywający obręcz
+z motywem płomieni. Strój mnichów czarnego płomienia.
+
+Mnisi czarnego płomienia, zniewoleni przez czarny płomień zabijający bogów, zostali zdrajcami i porzucili obowiązki strażników. Trudno stłumić pokusę wywołaną zakazem.</text>
+<text id="351100">Zbroja z czarnego żelaza ozdobiona szarą tkaniną.
+Strój mnichów czarnego płomienia.
+
+Mnisi czarnego płomienia, zniewoleni przez czarny płomień zabijający bogów, zostali zdrajcami i porzucili obowiązki strażników. Trudno stłumić pokusę wywołaną zakazem.</text>
+<text id="351200">Rękawice z czarnego żelaza z motywem płomieni.
+Strój mnichów czarnego płomienia.
+
+Mnisi czarnego płomienia, zniewoleni przez czarny płomień zabijający bogów, zostali zdrajcami i porzucili obowiązki strażników. Trudno stłumić pokusę wywołaną zakazem.</text>
+<text id="351300">Nagolenniki z czarnego żelaza z motywem płomieni.
+Strój mnichów czarnego płomienia.
+
+Mnisi czarnego płomienia, zniewoleni przez czarny płomień zabijający bogów, zostali zdrajcami i porzucili obowiązki strażników. Trudno stłumić pokusę wywołaną zakazem.</text>
+<text id="360000">Hełm ozdobiony świętym wizerunkiem i saganem.
+Strój prałatów ognia, czyli dowódców mnichów ognia.
+
+Mówi się, że sagan na szczycie głowy był niegdyś pełny rozżarzonych węgli, które buchały płomieniami, gdy wiara posiadacza hełmu osiągała szczyt. Jednak ogień w tym saganie już dawno zgasł.</text>
+<text id="360100">Zbroja z czarnego żelaza ozdobiona czerwoną tkaniną.
+Strój prałatów ognia, czyli dowódców mnichów ognia.
+
+Potężne sylwetki prałatów symbolizowały ciężar ich doniosłych ślubów jako strażników płomienia. „Wytrawcie ten obraz na swoich piersiach. Oto ma potęga”.</text>
+<text id="360200">Rękawice z czarnego żelaza z wizerunkiem płomieni.
+Strój prałatów ognia, czyli dowódców mnichów ognia.
+
+Potężne sylwetki prałatów symbolizowały zobowiązanie ich doniosłych ślubów jako strażników płomienia. „Wytrawcie ten obraz na swoich piersiach. To moja potęga”.</text>
+<text id="360300">Nagolenniki z czarnego żelaza z wizerunkiem płomieni.
+Strój prałatów ognia, czyli dowódców mnichów ognia.
+
+Potężne sylwetki prałatów symbolizowały zobowiązanie ich doniosłych ślubów jako strażników płomienia. „Wytrawcie ten obraz na swoich piersiach. To moja potęga”.</text>
+<text id="361100">Zbroja z czarnego żelaza.
+Strój prałatów ognia, czyli dowódców mnichów ognia.
+
+Potężne sylwetki prałatów symbolizowały ciężar ich doniosłych ślubów jako strażników płomienia. „Wytrawcie ten obraz na swoich piersiach. Oto ma potęga”.</text>
+<text id="370000">Cenna obręcz inkrustowana złotem.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsca swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="370100">Wysokiej jakości szata z delikatnym złotym haftem.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy. Strasznie wypłowiała i potargana.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsca swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="370300">Buty wykonane z garbowanej skóry.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="371100">Wysokiej jakości szata z delikatnym złotym haftem.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy. Strasznie wypłowiała i potargana.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsca swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="380000">Skórzany kapelusz przyozdobiony wypłowiałym piórkiem.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy, należącą do rodu twierdzącego, że jego przodkiem był pewien rycerz.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="380100">Płaszcz z garbowanej skóry wyszywany złotą nicią.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy oraz własność rodziny pretendującej do rycerskiego pochodzenia.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="390000">Kaptur z miękkiej tkaniny.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy. Preferowany przez starszyznę.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="390100">Szata z miękkiej tkaniny wyszywanej złotą nicią.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy. Preferowana przez starszyznę.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="390300">Twarde skórzane buty.
+Część stroju podróżnego noszonego przez szlachtę ze stolicy. Preferowane przez starszyznę.
+
+Ci nieumarli wędrowcy, którzy opuścili miejsce swoich narodzin po Roztrzaskaniu, są żałosnym wytworem nieskończonego życia.</text>
+<text id="420000">Hełm noszony przez chudych, wrednych i brudnych pospolitaków.
+
+Rozszerzający się ku górze krój powiększa sylwetkę, choć nieznacznie.</text>
+<text id="420100">Zbroja noszona przez chudych, wrednych i brudnych pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. To tutaj służy pospolite ruszenie, niestrudzone i niedoceniane.</text>
+<text id="420200">Rękawice noszone przez chudych, wrednych i brudnych pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. To tutaj służy pospolite ruszenie, niestrudzone i niedoceniane.</text>
+<text id="420300">Nagolenniki noszone przez chudych, wrednych i brudnych pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. To tutaj służy pospolite ruszenie, niestrudzone i niedoceniane.</text>
+<text id="430000">Bordowy spiczasty kaptur.
+Strój mędrców, których uznano za heretyków.
+
+Dowodzi, że noszącą go osobę wygnano z miasta.</text>
+<text id="430100">Gruba bordowa szata.
+Strój mędrców, których uznano za heretyków.
+
+Dowodzi, że noszącą ją osobę wygnano z miasta.</text>
+<text id="430300">Grube brunatne spodnie.
+Strój mędrców, których uznano za heretyków.
+
+Dowodzi, że noszącą je osobę wygnano z miasta.</text>
+<text id="440000">Owalny hełm, na tyle duży, by osłonić każdą głowę.
+Bardzo ciężki i wytrzymały.
+
+Zmniejsza obrażenia od uderzeń i trafień w głowę.
+
+W jego wnętrzu panuje całkowita ciemność, co pomaga oszalałemu wojownikowi powstrzymać panikę.
+Duży rozmiar hełmu ułatwia również opanowanie poczucia ciasnoty i klaustrofobii.</text>
+<text id="460000">Korona Godfreya, pierwszego Eldeńskiego Władcy.
+
+Era Złotego Drzewa zaczęła się w czasie konfliktu, gdy Godfrey był panem pola bitwy.
+
+Prowadził wojnę z olbrzymami. W pojedynkę zmierzył się z Władcą Burz. A potem nadeszła ta chwila. Padł jego ostatni godny przeciwnik. I właśnie wtedy, jak chce opowieść, oczy Godfreya straciły kolor.</text>
+<text id="460100">Zbroja Godfreya, pierwszego Eldeńskiego Władcy.
+
+Era Złotego Drzewa zaczęła się w czasie konfliktu, gdy Godfrey był panem pola bitwy.
+
+Prowadził wojnę z olbrzymami. W pojedynkę zmierzył się z Władcą Burz. A potem nadeszła ta chwila. Padł jego ostatni godny przeciwnik. I właśnie wtedy, jak chce opowieść, oczy Godfreya straciły kolor.</text>
+<text id="460200">Karwasze Godfreya, pierwszego Eldeńskiego Władcy.
+
+Era Złotego Drzewa zaczęła się w czasie konfliktu, gdy Godfrey był panem pola bitwy.
+
+Prowadził wojnę z olbrzymami. W pojedynkę zmierzył się z Władcą Burz. A potem nadeszła ta chwila. Padł jego ostatni godny przeciwnik. I właśnie wtedy, jak chce opowieść, oczy Godfreya straciły kolor.</text>
+<text id="460300">Nagolenniki Godfreya, pierwszego Eldeńskiego Władcy.
+
+Era Złotego Drzewa zaczęła się w czasie konfliktu, gdy Godfrey był panem pola bitwy.
+
+Prowadził wojnę przeciwko olbrzymom. W pojedynkę zmierzył się z Władcą Burz. A potem nadeszła ta chwila. Padł jego ostatni godny przeciwnik. I właśnie wtedy, jak chce opowieść, oczy Godfreya straciły kolor.</text>
+<text id="461100">Zbroja Godfreya, pierwszego Eldeńskiego Władcy.
+
+Era Złotego Drzewa zaczęła się w czasie konfliktu, gdy Godfrey był panem pola bitwy.
+
+Prowadził wojnę z olbrzymami. W pojedynkę zmierzył się z Władcą Burz. A potem nadeszła ta chwila. Padł jego ostatni godny przeciwnik. I właśnie wtedy, jak chce opowieść, oczy Godfreya straciły kolor.</text>
+<text id="470000">Hełm złotego lwa z rozwianą rudą grzywą.
+Noszony przez generała Radahna.
+
+Radahn odziedziczył swe rozwichrzone, ognistoczerwone włosy po ojcu, Radagonie, i podoba mu się, że budzą heroiczne skojarzenia.
+
+„Urodziłem się jako szczenię czempiona. Teraz jestem lwem pola bitwy”.</text>
+<text id="470100">Zbroja przedstawiająca złotego lwa.
+Noszona przez generała Radahna.
+
+Złoty lew ma symbolizować Godfreya, pierwszego Eldeńskiego Władcę, i jego zwierzęcego regenta, Serosha. Radahn od najmłodszych lat był zafascynowany panem pola bitwy.</text>
+<text id="470200">Rękawice przedstawiające złotego lwa.
+Noszone przez generała Radahna.
+
+Złoty lew ma symbolizować Godfreya, pierwszego Eldeńskiego Władcę, i jego zwierzęcego regenta, Serosha. Radahn od najmłodszych lat był zafascynowany panem pola bitwy.</text>
+<text id="470300">Nagolenniki przedstawiające złotego lwa.
+Noszone przez generała Radahna.
+
+Złoty lew ma symbolizować Godfreya, pierwszego Eldeńskiego Władcę, i jego zwierzęcego regenta, Serosha. Radahn od najmłodszych lat był zafascynowany panem pola bitwy.</text>
+<text id="471100">Zbroja przedstawiająca złotego lwa.
+Noszona przez generała Radahna.
+
+Złoty lew ma symbolizować Godfreya, pierwszego Eldeńskiego Władcę, i jego zwierzęcego regenta, Serosha. Radahn od najmłodszych lat był zafascynowany panem pola bitwy.</text>
+<text id="480100">Strój Mohga, Pana Krwi, przyozdobiony ekstrawaganckim złotym emblematem na czarnej tkaninie.
+
+Ubiór Świetlistego, panującego władcy i hierarchy z rozkwitającej dynastii Mohgwynów. A może tylko szaleńca.</text>
+<text id="481100">Strój Mohga, Pana Krwi, przyozdobiony ekstrawaganckim złotym emblematem na czarnej tkaninie.
+
+Ubiór Świetlistego, panującego władcy i hierarchy z rozkwitającej dynastii Mohgwynów. A może tylko szaleńca.</text>
+<text id="510000">Wysoka korona z wizerunkiem księżyca.
+Noszona przez Rennalę, Królową Pełni Księżyca. Zwiększa inteligencję.
+
+Gdy Rennala, rządząca Akademią Magii w Rai Lucarii i karyjską rodziną królewską, straciła męża, Radagona, jej serce odeszło wraz z nim.
+
+I wtedy Akademia uświadomiła sobie, że Rennala jednak nie była czempionką.</text>
+<text id="510100">Szata dla najważniejszego czarodzieja.
+Noszona przez Rennalę, Królową Pełni Księżyca.
+
+Gdy Rennala, rządząca Akademią w Rai Lucarii i karyjską rodziną królewską, straciła męża, Radagona, jej serce odeszło wraz z nim.
+
+I wtedy Akademia uświadomiła sobie, że Rennala jednak nie była czempionką.</text>
+<text id="510200">Manszety dla najwyższego rangą czarodzieja.
+Noszone przez Rennalę, Królową Pełni Księżyca.
+
+Gdy Rennala, pani zarówno Akademii Rai Lucarii, jak i karyjskiej rodziny królewskiej, straciła męża, Radagona, jej serce odeszło wraz z nim.
+
+I wtedy Akademia uświadomiła sobie, że Rennala jednak nie była czempionką.</text>
+<text id="510300">Nogawice dla najważniejszego czarodzieja.
+Noszone przez Rennalę, Królową Pełni Księżyca.
+
+Gdy Rennala, rządząca Akademią Rai Lucarii oraz głowa karyjskiej rodziny królewskiej, straciła męża, Radagona, jej serce odeszło wraz z nim.
+
+Wtedy to Akademia uświadomiła sobie, że Rennala jednak nie była czempionką.</text>
+<text id="520000">Kaptur ze zszytych kawałków gładkiej skóry.
+Noszony przez apostołów boskiej skóry.
+
+Apostołowie, którzy ponoć kiedyś służyli Przeznaczonej Śmierci, władają czarnym płomieniem zabijającym bogów. Lecz gdy zostali pokonani przez Maliketha, Czarną Klingę, uwięziono źródło ich mocy.</text>
+<text id="520100">Szata ze zszytych kawałków gładkiej skóry.
+Noszona przez apostołów boskiej skóry.
+
+Apostołowie, którzy ponoć kiedyś służyli Przeznaczonej Śmierci, władają czarnym płomieniem zabijającym bogów. Lecz gdy zostali pokonani przez Maliketha, Czarną Klingę, uwięziono źródło ich mocy.</text>
+<text id="520200">Czarne karwasze apostołów boskiej skóry.
+
+Apostołowie, którzy ponoć kiedyś służyli Przeznaczonej Śmierci, władali czarnym płomieniem zabójcy bogów. Lecz gdy zostali pokonani przez Maliketha, Czarną Klingę, czarny płomień został uwięziono.</text>
+<text id="520300">Spodnie ze zszytych kawałków gładkiej skóry.
+Noszone przez apostołów boskiej skóry.
+
+Apostołowie, którzy ponoć kiedyś służyli Przeznaczonej Śmierci, władają czarnym płomieniem zabijającym bogów. Lecz gdy zostali pokonani przez Maliketha, Czarną Klingę, uwięziono źródło ich mocy.</text>
+<text id="530000">Kaptur ze zszytych kawałków gładkiej skóry.
+Podskórny tłuszcz sprawia, że jest gruby i miękki.
+Noszony przez szlachtę boskiej skóry.
+
+Szlachta ta jest najpradawniejszymi apostołami o których powiada się, iż przyjęli nieludzką fizjologię. Nieróżni od Tygla, są Złotym Drzewem w najczystszej postaci.</text>
+<text id="530100">Szata ze zszytych kawałków gładkiej skóry.
+Podskórny tłuszcz sprawia, że jest gruba i miękka. Noszona przez szlachtę boskiej skóry, znaną z kasaków o siedmiu obliczach.
+
+Wzmacnia inkantację szlachetnej obecności.
+
+Szlachta ta jest najpradawniejszymi apostołami o których powiada się, iż przyjęli nieludzką fizjologię. Nieróżni od Tygla, są Złotym Drzewem w najczystszej postaci.</text>
+<text id="530200">Czarne karwasze noszone przez szlachtę boskiej skóry.
+
+Szlachta ta jest najpradawniejszymi apostołami o których powiada się, iż przyjęli nieludzką fizjologię. Nieróżni od Tygla, są Złotym Drzewem w najczystszej postaci.</text>
+<text id="530300">Spodnie ze zszytych kawałków gładkiej skóry.
+Podskórny tłuszcz sprawia, że są grube i miękkie.
+Noszone przez szlachtę boskiej skóry.
+
+Szlachta ta jest najpradawniejszymi apostołami o których powiada się, iż przyjęli nieludzką fizjologię. Nieróżni od Tygla, są Złotym Drzewem w najczystszej postaci.</text>
+<text id="540000">Kaptur noszony przez zdeprawowanych perfumiarzy.
+
+Ci opętani herezją perfumiarze przyjmują własne trucizny, by zmieniać swe ciała i umysły. Swoje miano otrzymali, ponieważ powoli staczają się ku samozagładzie.</text>
+<text id="540100">Szata noszona przez zdeprawowanych perfumiarzy.
+Haft na kasaku jest klątwą rzuconą na Złote Drzewo.
+
+Ci opętani herezją perfumiarze przyjmują własne trucizny, by zmieniać swe ciała i umysły. Swoje miano otrzymali, ponieważ powoli staczają się ku samozagładzie.</text>
+<text id="540200">Rękawice noszone przez zdeprawowanych perfumiarzy.
+
+Ci opętani herezją perfumiarze przyjmują własne trucizny, by zmieniać swe ciała i umysły. Swoje miano otrzymali, ponieważ powoli staczają się ku samozagładzie.</text>
+<text id="540300">Spodnie noszone przez zdeprawowanych perfumiarzy.
+
+Ci opętani herezją perfumiarze przyjmują własne trucizny, by zmieniać swe ciała i umysły. Swoje miano otrzymali, ponieważ powoli staczają się ku samozagładzie.</text>
+<text id="541100">Szata noszona przez zdeprawowanych perfumiarzy.
+Haft na kasaku jest klątwą rzuconą na Złote Drzewo.
+
+Ci opętani herezją perfumiarze przyjmują własne trucizny, by zmieniać swe ciała i umysły. Swoje miano otrzymali, ponieważ powoli staczają się ku samozagładzie.</text>
+<text id="570000">Hełm rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Ozdoba w postaci topora to znak rycerza Ordovisa, noszony również przez jego ludzi.
+
+Drzemie w nim potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="570100">Zbroja rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Noszona przez rycerza Ordovisa i jego ludzi.
+
+Drzemie w niej potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="570200">Rękawice rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Drzemie w nich potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.
+
+Z czasem siłę tych rycerzy, a nawet ich wygląd, zaczęto uważać za coś chaotycznego i zasługującego na pogardę.</text>
+<text id="570300">Nagolenniki rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Drzemie w nich potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.
+
+Z czasem siłę tych rycerzy, a nawet ich wygląd, zaczęto uważać za coś chaotycznego i zasługującego na pogardę.</text>
+<text id="571000">Hełm rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Ozdoba w postaci wielkiego drzewa to znak rycerza Silurii, noszony również przez jej ludzi.
+
+Drzemie w nim potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="571100">Zbroja rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Noszona przez rycerza Silurię i jej ludzi.
+
+Drzemie w niej potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="572100">Zbroja rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Noszona przez rycerza Ordovisa i jego ludzi.
+
+Drzemie w niej potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="573100">Zbroja rycerzy Tygla, którzy służyli Godfreyowi, pierwszemu Eldeńskiemu Władcy.
+
+Noszona przez rycerza Silurię i jej ludzi.
+
+Drzemie w niej potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.</text>
+<text id="580000">Olbrzymia korona z błękitnego błyskamienia noszona przez Lusata, czarodzieja pierwotnego nurtu.
+
+Ta korona całkowicie zastąpiła mózg i czaszkę Lusata, a teraz, oddzielona od jego ciała, jest martwa. Drzemiąca w niej jeszcze moc zwiększa moc czarów pierwotnego nurtu Lusata kosztem dodatkowych PS.</text>
+<text id="580100">Szata zarezerwowana dla mistrzów Akademii Rai Lucarii.
+Dotknięta rdzą niebieskich błyskamieni.
+
+Odkąd wielcy mistrzowie Azur i Lusat zostali wypędzeni z Akademii, nikt nie osiągnął ich dawnej rangi.</text>
+<text id="580200">Owijki usiane rdzą niebieskich błyskamieni.
+Noszone przez Lusata, czarodzieja pierwotnego nurtu.
+
+Lusat osiągnął stan niemal nieorganiczny.</text>
+<text id="580300">Zniszczone owijacze sięgające ud.
+Powszechne wśród staroświeckich czarodziejów.</text>
+<text id="581000">Korona Azura, czarodzieja pierwotnego nurtu, ozdobiona sporym błękitnozielonym błyskamieniem.
+
+Ta korona całkowicie zastąpiła mózg i czaszkę Azura, a teraz, oddzielona od jego ciała, jest martwa. Drzemiąca w niej jeszcze moc zwiększa moc czarów pierwotnego nurtu Azura kosztem dodatkowych PS.</text>
+<text id="581100">Szata zarezerwowana dla mistrzów Akademii Rai Lucarii.
+Dotknięta rdzą zielono-błękitnych błyskamieni.
+
+Odkąd wielcy mistrzowie Azur i Lusat zostali wypędzeni z Akademii, nikt nie osiągnął ich dawnej rangi.</text>
+<text id="581200">Owijki usiane rdzą niebieskozielonych błyskamieni.
+Noszone przez Azura, czarodzieja pierwotnego nurtu.
+
+Azur osiągnął stan niemal nieorganiczny.</text>
+<text id="590000">Hełm o niezliczonych oczach i uszach.
+Noszony przez Gideona Ofnira, Wszechwiedzącego.
+
+Wiedza zaczyna się od uznania własnej ignorancji. Uświadomienia sobie, że poszukiwanie wiedzy nie ma końca. Ale kiedy Gideon dostrzegł wolę królowej Mariki, zadrżał ze strachu.
+
+A tak być nie może.</text>
+<text id="590100">Zbroja o niezliczonych oczach i uszach.
+Noszona przez Gideona Ofnira, Wszechwiedzącego.
+
+Wiedza zaczyna się od uznania własnej ignorancji. Uświadomienia sobie, że poszukiwanie wiedzy nie ma końca. Ale kiedy Gideon dostrzegł wolę królowej Mariki, zadrżał ze strachu.
+
+A tak być nie może.</text>
+<text id="590200">Rękawice o niezliczonych oczach i uszach.
+Noszone przez Gideona Ofnira, Wszechwiedzącego.
+
+Wiedza zaczyna się od uznania własnej ignorancji. Uświadomienia sobie, że poszukiwanie wiedzy nie ma końca. Ale kiedy Gideon dostrzegł wolę królowej Mariki, zadrżał ze strachu.
+
+A tak być nie może.</text>
+<text id="590300">Nagolenniki o niezliczonych oczach i uszach.
+Noszone przez Gideona Ofnira, Wszechwiedzącego.
+
+Wiedza zaczyna się od uznania własnej ignorancji. Uświadomienia sobie, że poszukiwanie wiedzy nie ma końca. Ale kiedy Gideon dostrzegł wolę królowej Mariki, zadrżał ze strachu.
+
+A tak być nie może.</text>
+<text id="591100">Zbroja o niezliczonych oczach i uszach.
+Noszona przez Gideona Ofnira, Wszechwiedzącego.
+
+Wiedza zaczyna się od uznania własnej ignorancji. Uświadomienia sobie, że poszukiwanie wiedzy nie ma końca. Ale kiedy Gideon dostrzegł wolę królowej Mariki, zadrżał ze strachu.
+
+A tak być nie może.</text>
+<text id="600000">Hełm z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="600100">Zbroja z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="600200">Rękawice z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="600300">Nagolenniki z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="601100">Zbroja z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="601300">Nagolenniki z motywem splecionych bliźniąt ze złota i srebra.
+
+Ta nierozłączna dwójka jest nazywana D.
+Mają dwa ciała i umysły, ale jedną duszę. Ani razu się nie zjednoczyli, ani nie zamienili ze sobą nawet słowa.
+
+Może ta zbroja pragnie znaleźć drugie z bliźniąt D.</text>
+<text id="610000">Hełm wykonany ze znalezionego metalu.</text>
+<text id="610100">Zbroja wykonana ze znalezionego metalu.</text>
+<text id="610200">Rękawice wykonane ze znalezionego metalu.</text>
+<text id="610300">Nagolenniki wykonane ze znalezionego metalu.</text>
+<text id="611000">Hełm wykonany ze znalezionego metalu.</text>
+<text id="611100">Zbroja wykonana ze znalezionego metalu.</text>
+<text id="620000">Przepaska na oczy wygnanych proroków, którzy przepowiedzieli nieszczęście. Doświadczyli prześladowań, a później zostali wypędzeni.
+
+Po cóż się wahać, skoro droga prowadząca do przyszłości jest jasna? Po prostu zamknij oczy i idź.</text>
+<text id="620100">Szata kapłana Corhyna.
+
+Nawet na wygnaniu Corhyn nie chciał odwołać swoich proroctw. I za to został pobłogosławiony przewodnictwem łaski.
+
+Od tamtej pory koło wozu wiszące na jego szyi służy jako przypomnienie. To prawdziwe przewodnictwo czeka na tych o żelaznej woli. Na tych o niezachwianej wierze.</text>
+<text id="620300">Spodnie wygnanych proroków, którzy przepowiedzieli nieszczęście. Doświadczyli prześladowań, a później zostali wypędzeni.
+
+Wykonane z szorstkiej tkaniny, która drapie skórę jak włosienica.</text>
+<text id="621100">Szata wygnanych proroków, którzy przepowiedzieli nieszczęście. Doświadczyli prześladowań, a później zostali wypędzeni.
+
+Wykonana z szorstkiej tkaniny, która drapie skórę jak włosienica.</text>
+<text id="622100">Szata wygnanych proroków, którzy przepowiedzieli nieszczęście. Doświadczyli prześladowań, a później zostali wypędzeni.
+
+Deski wokół szyi ostrzegają przechodniów, by nie słuchali tych kazań.</text>
+<text id="630000">Kaptur z miękkiego materiału.
+Noszony przez tych, którzy wpatrują się w kosmos.
+
+Odczytują oni los z gwiazd i podobno są spadkobiercami błyskamiennych czarodziejów.
+
+Niestety jednak nocne niebo nie jest już kołyską losu.</text>
+<text id="630100">Szata z miękkiego materiału.
+Noszona przez tych, którzy wpatrują się w kosmos.
+
+Odczytują oni los z gwiazd i podobno są spadkobiercami błyskamiennych czarodziejów.
+
+Niestety jednak nocne niebo nie jest już kołyską losu.</text>
+<text id="630200">Rękawice z cienkiego i miękkiego materiału.
+Noszone przez tych, którzy wpatrują się w kosmos.
+
+Odczytują oni los z gwiazd i podobno są spadkobiercami błyskamiennych czarodziejów.
+
+Niestety jednak nocne niebo nie jest już kołyską losu.</text>
+<text id="630300">Spodnie zakładane pod szatę.
+Noszone przez tych, którzy wpatrują się w kosmos.
+
+Odczytują oni los z gwiazd i podobno są spadkobiercami błyskamiennych czarodziejów.
+Niestety jednak nocne niebo nie jest już kołyską losu.</text>
+<text id="631100">Szata z miękkiego materiału.
+Noszona przez tych, którzy wpatrują się w kosmos.
+
+Odczytują oni los z gwiazd i podobno są spadkobiercami błyskamiennych czarodziejów.
+
+Niestety jednak nocne niebo nie jest już kołyską losu.</text>
+<text id="640000">Okrągły żelazny hełm z charakterystycznym dużym rondem.
+Noszony przez Lionela Lwie Serce.
+
+Kiedy ten nieustraszony rycerz spotkał wygnaną z domu Fię, powiedział, że będzie dla niej ojcem.</text>
+<text id="640100">Wydęta żelazna zbroja z chorągwią wystającą zza pleców.
+Noszona przez Lionela Lwie Serce.
+
+Kiedy ten nieustraszony rycerz spotkał wygnaną z domu Fię, powiedział, że będzie dla niej ojcem.</text>
+<text id="640200">Okrągłe żelazne rękawice.
+Noszone przez Lionela Lwie Serce.
+
+Kiedy ten nieustraszony rycerz spotkał wygnaną z domu Fię, powiedział, że będzie dla niej ojcem.</text>
+<text id="640300">Okrągłe żelazne nagolenniki.
+Noszone przez Lionela Lwie Serce.
+
+Kiedy ten nieustraszony rycerz spotkał wygnaną z domu Fię, powiedział, że będzie dla niej ojcem.</text>
+<text id="641100">Wydęta żelazna zbroja.
+Noszona przez Lionela Lwie Serce.
+
+Kiedy ten nieustraszony rycerz spotkał wygnaną z domu Fię, powiedział, że będzie dla niej ojcem.</text>
+<text id="650000">Srebrny hełm z dwoma warkoczami, ozdobiony kwietnymi ornamentami. Symbol głowy szanowanego rodu Hoslow.
+
+Juno Hoslow miał młodszego brata, który potrafił jedynie rzucać słowa na wiatr.
+
+Jego niezdolność do działania była tak daleko posunięta, że Juno bez przeszkód stał się dziedzicem rodu Hoslow, dzięki czemu mógł swobodnie zasypywać młodszego brata oznakami uwielbienia. </text>
+<text id="650100">Jaskrawa srebrna zbroja z czerwonymi ozdobami.
+Przekazywana z rąk do rąk w rodu Hoslow.
+
+Kiedy Juno Hoslow otrzymał zaproszenie do Wulkanicznego Dworu, dyskretnie odmówił.
+
+„Podążałem już wieloma drogami zalanymi krwią, ale nigdy nie uważałem się za czempiona”.</text>
+<text id="650200">Jaskrawe srebrne rękawice z czerwonymi ozdobami.
+Przekazywane z rąk do rąk w rodu Hoslow.
+
+Kiedy Juno Hoslow otrzymał zaproszenie do Wulkanicznego Dworu, dyskretnie odmówił.
+
+„Podążałem już wieloma drogami zalanymi krwią, ale nigdy nie uważałem się za czempiona”.</text>
+<text id="650300">Jaskrawe srebrne nagolenniki z czerwonymi ozdobami.
+Przekazywane z rąk do rąk w rodu Hoslow.
+
+Kiedy Juno Hoslow otrzymał zaproszenie do Wulkanicznego Dworu, dyskretnie odmówił.
+
+„Podążałem już wieloma drogami zalanymi krwią, ale nigdy nie uważałem się za czempiona”.</text>
+<text id="651000">Replika srebrnego hełmu z dwoma warkoczami, ozdobionego kwietnymi ornamentami. Tylko nie ma na niej warkoczy.
+
+Diallos Hoslow miał starszego brata, który był surowym, opanowanym i małomównym człowiekiem. Jego osiągnięcia sprawiały, że wydawał się nieprzystępny.
+
+Dlatego młodszy brat chciał być taki jak starszy. Pragnął, by nadszedł dzień, w którym opowie historię rodu Hoslow krwią. Dobrze wiedząc, że to złamie serce jego bratu.</text>
+<text id="652100">Jaskrawa srebrna zbroja z czerwonymi ozdobami.
+Przekazywana z rąk do rąk w rodu Hoslow.
+
+Kiedy Juno Hoslow otrzymał zaproszenie do Wulkanicznego Dworu, dyskretnie odmówił.
+
+„Podążałem już wieloma drogami zalanymi krwią, ale nigdy nie uważałem się za czempiona”.</text>
+<text id="660000">Hełm rycerza wypędzonego z ojczyzny.
+Brudny i poobijany po długiej tułaczce.
+
+Przyłbica nie działa, nie można jej już opuścić.
+
+Metalowa zbroja jest ciężka, ale także wytrzymała i zapewnia znaczną negację obrażeń.</text>
+<text id="660100">Napierśnik rycerza wypędzonego z ojczyzny.
+Brudny i poobijany po długiej tułaczce.
+
+Zdobiący go herb wytarł się i spłowiał, nie budzi już sentymentu.
+
+Metalowa zbroja jest ciężka, ale także wytrzymała i zapewnia znaczną negację obrażeń.</text>
+<text id="660200">Rękawice rycerza wypędzonego z ojczyzny.
+Brudne i poobijane po długiej tułaczce.
+
+Metalowa zbroja jest ciężka, ale także wytrzymała i zapewnia znaczną negację obrażeń.</text>
+<text id="660300">Nagolenniki rycerza wypędzonego z ojczyzny.
+Brudne i poobijane po długiej tułaczce.
+
+Metalowa zbroja jest ciężka, ale także wytrzymała i zapewnia znaczną negację obrażeń.</text>
+<text id="661100">Napierśnik rycerza wypędzonego z ojczyzny.
+Brudny i poobijany po długiej tułaczce.
+
+Zdobiący go herb wytarł się i spłowiał, nie budzi już sentymentu.
+
+Metalowa zbroja jest ciężka, ale także wytrzymała i zapewnia znaczną negację obrażeń.</text>
+<text id="670000">Kaptur nomadycznego wojownika.
+Niebieski kolor tkaniny symbolizuje rześką wodę, bystrą i dynamiczną jak miecz w dłoni tego, który ją nosi.
+
+Tak jak stojąca woda robi się nieczysta, tak stagnacja prowadzi do rozkładu. Wojownik noszący ten kaptur musi pozostawać w ciągłym ruchu.</text>
+<text id="670100">Kamizelka nomadycznego wojownika.
+Niebieski kolor tkaniny symbolizuje rześką wodę, zwinną i dynamiczną jak miecz w dłoni tego, który ją nosi.
+
+Tak jak stojąca woda robi się nieczysta, tak stagnacja prowadzi do rozkładu.
+Wojownicy muszą ciągle być w ruchu.</text>
+<text id="670200">Rękawice nomadycznego wojownika.
+Wykonane z wytrzymałej skóry.</text>
+<text id="670300">Nagolenniki nomadycznego wojownika.
+Stworzone z wytrzymałej skóry.</text>
+<text id="680000">Zakrwawiona, lekko uśmiechnięta biała maska.
+Noszona przez chirurgów polowych, których zadaniem było tak naprawdę dobijanie z litości.
+
+Klątwa Pana Krwi ożywia jej właściciela, gdy leje się krew. Nieznacznie zwiększa siłę ataku, gdy w pobliżu ktoś krwawi.</text>
+<text id="680100">Zakrwawiona biała szata chirurgów polowych, których zadaniem było tak naprawdę dobijanie z litości.
+
+Chirurdzy uprowadzeni przez Pana Krwi nie potrafili ujarzmić przeklętej krwi.
+Tylko Varrému się to udało, ale on był wyjątkiem.</text>
+<text id="680200">Zakrwawione białe rękawice chirurgów polowych, których zadaniem było tak naprawdę dobijanie z litości.
+
+Chirurdzy uprowadzeni przez Pana Krwi nie potrafili ujarzmić przeklętej krwi.
+Tylko Varrému się to udało, ale on był wyjątkiem.</text>
+<text id="680300">Zakrwawione białe spodnie chirurgów polowych, których zadaniem było tak naprawdę dobijanie z litości.
+
+Chirurdzy uprowadzeni przez Pana Krwi nie potrafili ujarzmić przeklętej krwi.
+Tylko Varrému się to udało, ale on był wyjątkiem.</text>
+<text id="681100">Zakrwawiona biała szata chirurgów polowych, których zadaniem było tak naprawdę dobijanie z litości.
+
+Chirurdzy uprowadzeni przez Pana Krwi nie potrafili ujarzmić przeklętej krwi.
+Tylko Varrému się to udało, ale on był wyjątkiem.</text>
+<text id="690000">Hełm ozdobiony złotymi ludzkimi kośćmi.
+Noszony przez milczących zwolenników sir Gideona Wszechwiedzącego.
+
+Stopniowo przywraca PŻ, gdy ich liczba jest zmniejszona.
+
+Mówi się, że kości należą do starożytnego władcy – bezdusznego króla, pana zagubionych i zrozpaczonych, znanego jako Ensha.</text>
+<text id="690100">Zbroja ozdobiona złotymi ludzkimi kośćmi.
+Noszona przez milczących zwolenników sir Gideona Wszechwiedzącego.
+
+Stopniowo przywraca PŻ, gdy ich liczba jest zmniejszona.
+
+Mówi się, że kości należą do starożytnego władcy – bezdusznego króla, pana zagubionych i zrozpaczonych, znanego jako Ensha.</text>
+<text id="690200">Rękawice ozdobione złotymi ludzkimi kośćmi.
+Noszone przez milczących zwolenników sir Gideona Wszechwiedzącego.
+
+Stopniowo przywracają PŻ, gdy ich liczba jest zmniejszona.
+
+Mówi się, że kości należą do starożytnego władcy – bezdusznego króla, pana zagubionych i zrozpaczonych, znanego jako Ensha.</text>
+<text id="690300">Nagolenniki ozdobione złotymi ludzkimi kośćmi.
+Noszone przez milczących zwolenników sir Gideona Wszechwiedzącego.
+
+Stopniowo przywracają PŻ, gdy ich liczba jest zmniejszona.
+
+Mówi się, że kości należą do starożytnego władcy – bezdusznego króla, pana zagubionych i zrozpaczonych, znanego jako Ensha.</text>
+<text id="700000">Obręcz wojownika upleciona ze skóry.
+Noszona przez wojowników z mroźnych wyżyn.
+
+Do tych obręczy często przywiązuje się małe flagi,
+białe kawałki materiału albo źdźbła zboża,
+które są prezentami pożegnalnymi od pobratymców.
+Jako pożegnanie z wojownikami, zanim wyruszą
+w podróż, z której prawdopodobnie nie powrócą,
+ten mały gest przynosi jedynie niewielką ulgę.</text>
+<text id="700100">Strój bojowy wykonany ze skórzanej zbroi ozdobionej dużą płachtą materiału. Noszony przez wojowników z mroźnych wyżyn.
+
+Czerwony materiał oznacza udział w Długim Marszu przed wieloma laty, a ten ceremonialny strój to błaganie o łaskę króla wojownika, który prowadził Marsz.</text>
+<text id="700200">Rękawice owinięte grubą skórą. Noszone przez wojowników z mroźnych wzgórz.
+
+Mają futrzaną podszewkę, dzięki której łatwiej zachować ciepłotę.</text>
+<text id="700300">Nagolenniki owinięte grubą skórą.
+Noszone przez wojowników z mroźnych wyżyn.
+
+Mają futrzaną podszewkę, dzięki której
+łatwiej zachować ciepłotę.</text>
+<text id="701000">Strój bojowy owinięty grubą skórą.
+Noszony przez wojowników z mroźnych wzgórz.</text>
+<text id="702000">Pancerz owinięty grubą skórą.
+Noszony przez wojowników z mroźnych wzgórz.</text>
+<text id="720000">Srebrny hełm z grawerunkiem niewielkich bestii.
+Noszony przez odszczepieńca Bernahla.
+
+Bestie z zakrytymi oczami i uszami są symbolem przysięgi: „Nic nie widzieć, nic nie słyszeć, w nic nie wątpić, tylko dalej podążać wyznaczoną ścieżką”.</text>
+<text id="720100">Srebrna zbroja z grawerunkiem niewielkich bestii.
+Noszona przez odszczepieńca Bernahla.
+
+Bestie lgną do czempionów i lordów. A zbroja ta godna jest czempiona, który zasłużył na tytuł lorda. I tym właśnie był Bernahl.
+
+Dopóki jego służka nie rzuciła się w ogień.</text>
+<text id="720200">Srebrne rękawice z grawerunkiem niewielkich bestii.
+Noszone przez odszczepieńca Bernahla.
+
+Bestie lgną do czempionów i lordów. Zbroi tej używają czempioni, który są godni tytułu lorda. I takim właśnie był Bernahl.
+
+Dopóki jego służka nie rzuciła się w ogień.</text>
+<text id="720300">Srebrne nagolenniki z grawerunkiem niewielkich bestii.
+Noszone przez odszczepieńca Bernahla.
+
+Bestie lgną do czempionów i lordów. Zbroi tej używają czempioni, który są godni tytułu lorda. I takim właśnie był Bernahl.
+
+Dopóki jego służka nie rzuciła się w ogień.</text>
+<text id="721100">Srebrna zbroja z grawerunkiem niewielkich bestii.
+Noszona przez odszczepieńca Bernahla.
+
+Bestie lgną do czempionów i lordów. Zbroja ta godna jest czempiona, który zasłużył na tytuł lorda. I takim właśnie był Bernahl.
+
+Dopóki jego służka nie rzuciła się w ogień.</text>
+<text id="730000">Obręcz zarezerwowana dla najdzielniejszych mieszkańców martwych ziem.
+Dowód na to, że noszący ją zabił wielu wrogów.
+
+Podążając za przykładem swojego wodza Hoarah Louxa, dzielni wojownicy martwych ziem odrzucają zbędne ozdoby.</text>
+<text id="730100">Naramiennik zarezerwowany dla najdzielniejszych mieszkańców martwych ziem.
+Dowód na to, że noszący go zabił wielu wrogów.
+
+Podążając za przykładem swojego wodza Hoarah Louxa, dzielni wojownicy martwych ziem odrzucają zbędne ozdoby.</text>
+<text id="730200">Karwasze zarezerwowane dla najdzielniejszych mieszkańców martwych ziem. Dowód na to, że noszący je zabił wielu wrogów.
+
+Podążając za przykładem swojego wodza Hoarah Louxa, dzielni wojownicy martwych ziem odrzucają zbędne ozdoby.</text>
+<text id="730300">Stuptuty wykonane wyłącznie ze skórzanych pasków.
+Powszechne odzienie na martwych ziemiach.</text>
+<text id="740000">Karmazynowa peleryna z kapturem.
+Noszona przez wygnanych członków rodziny królewskiej.
+Zwiększa witalność.
+
+Takie peleryny darowano tym, którzy wyruszali w podróż bez wyraźnego rozkazu, do odległych krain, z których mieli nigdy nie powrócić. Innymi słowy, podarowane peleryny ułatwiały wędrówkę niepożądanym. 
+
+Roderika nigdy nie widziała przewodnictwa łaski.</text>
+<text id="740100">Strój podróżny wykonany z białej, metalicznej jedwabnej nici. Noszony przez wygnanych członków rodziny królewskiej.
+
+Prezent ten jest tak piękny, że żaden arystokrata nie skalałby swojej znamienitej spuścizny, nawet gdyby w tym stroju znaleziono go martwego w rowie gdzieś na końcu świata.</text>
+<text id="740200">Rękawice z miękkiej skóry.
+Noszone przez wygnanych członków rodziny królewskiej.
+
+Prezent ten jest tak piękny, że żaden arystokrata nie skalałby swojej znamienitej spuścizny, nawet gdyby w tym stroju znaleziono go martwego w rowie gdzieś na końcu świata.</text>
+<text id="740300">Białe, kunsztownie wykonane spodnie.
+Noszone przez wygnanych członków rodziny królewskiej.
+
+Prezent ten jest tak piękny, że żaden arystokrata nie skalałby swojej znamienitej spuścizny, nawet gdyby w tym stroju znaleziono go martwego w rowie gdzieś na końcu świata.</text>
+<text id="741000">Granatowa peleryna z kapturem.
+Noszona przez wygnanych członków rodziny królewskiej.
+Zwiększa umysł.
+
+Takie peleryny darowano tym, którzy wyruszali w misje do odległych krain, z których mieli nigdy nie powrócić. Lecz jaki mieli wybór po tym, jak ujrzeli przewodnictwo łaski?</text>
+<text id="760000">Hełm bestii wykonany z czarnego żelaza i ozdobiony złotem.
+Noszony przez Maliketha, Czarną Klingę.
+
+Maliketh, przyrodni brat królowej Mariki, nosił klingę Przeznaczonej Śmierci i nie było żadnego półboga, który by się go nie bał.
+
+Czempioni wiedzieli, co było na szali.
+Właśnie to uczyniło ich czempionami.</text>
+<text id="760100">Zbroja bestii wykonana z czarnego żelaza i ozdobiona złotem.
+Noszona przez Maliketha, Czarną Klingę.
+
+Maliketh, przyrodni brat królowej Mariki, nosił klingę Przeznaczonej Śmierci i nie było żadnego półboga, który by się go nie bał.
+
+Czempioni wiedzieli, co było na szali.
+Właśnie to uczyniło ich czempionami.</text>
+<text id="760200">Rękawice bestii wykonane z czarnego żelaza i ozdobione złotem.
+Noszone przez Maliketha, Czarną Klingę.
+
+Maliketh, przyrodni brat królowej Mariki, nosił klingę Przeznaczonej Śmierci i nie było żadnego półboga, który by się go nie bał.
+
+Czempioni wiedzieli, co było na szali.
+Właśnie to uczyniło ich czempionami.</text>
+<text id="760300">Nagolenniki bestii wykonane z czarnego żelaza i ozdobione złotem.
+Noszone przez Maliketha, Czarną Klingę.
+
+Maliketh, przyrodni brat królowej Mariki, nosił klingę Przeznaczonej Śmierci i nie było żadnego półboga, który by się go nie bał.
+
+Czempioni wiedzieli, co było na szali.
+Właśnie to uczyniło ich czempionami.</text>
+<text id="761100">Zbroja bestii wykonana z czarnego żelaza i ozdobiona złotem.
+Noszona przez Maliketha, Czarną Klingę.
+
+Maliketh, przyrodni brat królowej Mariki, nosił klingę Przeznaczonej Śmierci i nie było żadnego półboga, który by się go nie bał.
+
+Czempioni wiedzieli, co było na szali.
+Właśnie to uczyniło ich czempionami.</text>
+<text id="770000">Uskrzydlony hełm wykonany z czystego złota.
+Noszony przez Malenię, Miecz Miquelli.
+
+Malenia czekała na Miquellę u stóp cienia.
+
+„Mój brat dotrzyma obietnicy. Posiada boską mądrość i urok. Jest najstraszliwszym z Niebian”.</text>
+<text id="770100">Zbroja wykonana z czystego złota.
+Noszona przez Malenię, Miecz Miquelli.
+
+Malenia czekała na Miquellę u stóp cienia.
+
+„Mój brat dotrzyma obietnicy. Posiada boską mądrość i urok. Jest najstraszliwszym z Niebian”.</text>
+<text id="770200">Rękawica wykonana z czystego złota.
+Noszona przez Malenię, Miecz Miquelli.
+
+Malenia czekała na Miquellę u stóp cienia.
+
+„Mój brat dotrzyma obietnicy. Posiada boską mądrość i urok. Jest najstraszliwszym z Niebian”.</text>
+<text id="770300">Nagolenniki wykonane z czystego złota.
+Noszone przez Malenię, Miecz Miquelli.
+
+Malenia czekała na Miquellę u stóp cienia.
+
+„Mój brat dotrzyma obietnicy. Posiada boską mądrość i urok. Jest najstraszliwszym z Niebian”.</text>
+<text id="771100">Zbroja wykonana z czystego złota.
+Noszona przez Malenię, Miecz Miquelli.
+
+Malenia czekała na Miquellę u stóp cienia.
+
+„Mój brat dotrzyma obietnicy. Posiada boską mądrość i urok. Jest najstraszliwszym z Niebian”.</text>
+<text id="780000">Stary hełm, który widział wiele bitew.
+Noszony przez Nialla, doświadczonego generała zamku Sol.
+
+Niall był jedynym ocalałym, który rozkazał duchom, by broniły jego dawno nieżyjącego pana.</text>
+<text id="780100">Stara zbroja, która widziała wiele bitew.
+Noszona przez Nialla, doświadczonego generała zamku Sol.
+
+Niall był jedynym ocalałym, który rozkazał duchom, by broniły jego dawno nieżyjącego pana.</text>
+<text id="780200">Stare rękawice, które widziały wiele bitew.
+Noszone przez Nialla, doświadczonego generała zamku Sol.
+
+Niall był jedynym ocalałym, który rozkazał duchom, by broniły jego dawno nieżyjącego pana.</text>
+<text id="780300">Stare nagolenniki, które widziały wiele bitew.
+Noszone przez Nialla, doświadczonego generała zamku Sol.
+
+Niall był jedynym ocalałym, który rozkazał duchom, by broniły jego dawno nieżyjącego pana.
+
+Ten starzejący się generał nie mógł umrzeć ani odejść w inny sposób.</text>
+<text id="781100">Stara zbroja, która widziała wiele bitew.
+Noszona przez Nialla, doświadczonego generała zamku Sol.
+
+Niall był jedynym ocalałym, który rozkazał duchom, by broniły jego dawno nieżyjącego pana.</text>
+<text id="790000">Metalowy hełm ze spiczastym dziobem.
+Noszony przez wasalnych rycerzy.
+
+Wasalni rycerze są szkoleni jak myśliwi i znani z tego, że są niewzruszonymi tropicielami.
+
+Każdy rycerz wybiera swojego mistrza bez pomocy słów.
+Po podjęciu decyzji rycerz pozostaje mu wierny na całe życie.</text>
+<text id="790100">Metalowa zbroja z wystającym napierśnikiem.
+Noszona przez wasalnych rycerzy.
+
+Wasalni rycerze są szkoleni jak myśliwi i znani
+z tego, że są niewzruszonymi tropicielami.
+
+Każdy rycerz wybiera swojego mistrza bez pomocy słów. Po podjęciu decyzji rycerz pozostaje mu wierny na całe życie.</text>
+<text id="790200">Metalowe rękawice wasalnych rycerzy.
+
+Wasalni rycerze są szkoleni jak myśliwi i znani z tego, że są niewzruszonymi tropicielami.
+
+Każdy rycerz wybiera swojego mistrza bez pomocy słów.
+Po podjęciu decyzji rycerz pozostaje mu wierny na całe życie.</text>
+<text id="790300">Metalowe nagolenniki wasalnych rycerzy.
+
+Wasalni rycerze są szkoleni jak myśliwi i znani
+z tego, że są niewzruszonymi tropicielami.
+
+Każdy rycerz wybiera swojego mistrza bez pomocy słów. Po podjęciu decyzji rycerz pozostaje mu wierny na całe życie.</text>
+<text id="791100">Metalowa zbroja z wystającym napierśnikiem.
+Noszona przez wasalnych rycerzy.
+
+Wasalni rycerze są szkoleni jak myśliwi i znani
+z tego, że są niewzruszonymi tropicielami.
+
+Każdy rycerz wybiera swojego mistrza bez pomocy słów. Po podjęciu decyzji rycerz pozostaje mu wierny na całe życie.</text>
+<text id="800000">Kaptur noszony przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Ozdobiony różnokolorowymi kwiatami.</text>
+<text id="800100">Ceremonialne odzienie noszone przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Lekko poplamione krwią.</text>
+<text id="801000">Kaptur noszony przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Ozdobiony mnóstwem przepięknych kwiatów.</text>
+<text id="801100">Ceremonialne odzienie noszone przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Lekko poplamione krwią.</text>
+<text id="802000">Kaptur noszony przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Z tego kaptura, ufarbowanego na niebiesko, mogą korzystać tylko młode służki odgrywające kluczową rolę podczas święta.</text>
+<text id="802100">Ceremonialne odzienie noszone przez tancerzy podczas świąt w Dominuli, wiosce młynarzy.
+
+Z tego odzienia, ufarbowanego na niebiesko, mogą korzystać tylko młode służki odgrywające kluczową rolę podczas święta.</text>
+<text id="810000">Obręcz przytrzymująca materiał.
+Często noszona przez plebejuszy z Ziem Pomiędzy.
+
+Tyle tylko, że nie ma tam już plebejuszy, którzy nie straciliby rozumu.</text>
+<text id="810100">Odzienie z grubą haftowaną peleryną.
+Często noszone przez plebejuszy z Ziem Pomiędzy.
+
+Na zwisającej z szyi desce widać rozłożyste drzewo, jego korzenie i tworzące dwie dziury gałęzie. Są to okowy nałożone na samego siebie, dobrowolna demonstracja wierności Złotemu Drzewu. Zwiększają wiarę.</text>
+<text id="810300">Skromne buty z tkaniny.
+Często noszone przez plebejuszy z Ziem Pomiędzy.
+
+Tyle tylko, że nie ma tam już plebejuszy, którzy nie straciliby rozumu.</text>
+<text id="811000">Obręcz z oderwaną tkaniną.
+Często noszona przez plebejuszy z Ziem Pomiędzy.
+
+Tyle tylko, że nie ma tam już plebejuszy, którzy nie straciliby rozumu.</text>
+<text id="811100">Odzienie zdobione wymyślnym haftem.
+Często noszone przez plebejuszy z Ziem Pomiędzy.
+
+Na zwisającej z szyi desce widać rozłożyste drzewo, jego korzenie i tworzące dwie dziury gałęzie. Są to okowy nałożone na samego siebie, dobrowolna demonstracja wierności Złotemu Drzewu. Zwiększają wiarę.</text>
+<text id="812000">Odzienie z dopiętą skromną peleryną.
+Często noszone przez plebejuszy z Ziem Pomiędzy.
+
+Deska zwisająca z szyi. Widać na niej rozłożyste drzewo, jego korzenie i gałęzie tworzą dwie dziury. Są to okowy nałożone na samego siebie, dobrowolna demonstracja wierności Złotemu Drzewu. Zwiększają wiarę.</text>
+<text id="812100">Skromne odzienie z tkaniny.
+Często noszone przez plebejuszy z Ziem Pomiędzy.
+
+Na zwisającej z szyi desce widać rozłożyste drzewo, jego korzenie i tworzące dwie dziury gałęzie. Są to okowy nałożone na samego siebie, dobrowolna demonstracja wierności Złotemu Drzewu. Zwiększają wiarę.</text>
+<text id="820000">Miękki materiał noszony na głowach przez posłańców wyroczni.
+Ściśle owinięty kilkoma warstwami tkaniny.
+
+Zwiększa potencjał umiejętności opartych na bańkach.
+
+Nikt nie wie, co kryje się pod tą materią, ale niektórzy twierdzą, że słyszeli ze środka słabe zawodzenie. Na pewno tylko im się wydawało.</text>
+<text id="830000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Znacznie zwiększa inteligencję, kosztem PŻ i energii.
+
+Uczeni kodeksu bliźnioksiężnika należeli do elity Akademii, mogli badać wszystkie rodzaje magii i doskonalić związane z nimi zdolności.</text>
+<text id="830100">Szata noszona przez badaczy magii z Rai Lucarii.
+
+Ci,którzy poświęcają się studiowaniu błyskamieni uformowanych z gwiezdnych bursztynów otrzymują ten skromny, lecz elegancki granatowy strój po złożeniu ślubów cnoty i ascezy.
+
+Jednak posiadając dar długowieczności, łatwo zapomnieć stare śluby.</text>
+<text id="830200">Owijki noszone przez badaczy magii z Rai Lucarii.
+Powstają poprzez owinięcie ramion pasami zwykłego materiału.</text>
+<text id="830300">Owijacze noszone przez badaczy magii z Rai Lucarii.
+Powstają poprzez owinięcie nóg pasami zwykłego materiału.</text>
+<text id="831000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa inteligencję, kosztem PŻ.
+
+Tradycja kodeksu Olivinusa zaczęła się od czarodzieja Lusata, a jej zwolennicy kontynuują jego badania meteorów.</text>
+<text id="832000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa inteligencję i zręczność, kosztem PŻ.
+
+Uczeni kodeksu Lazuli badają karyjską magię, odmienną domenę, w której księżyc uważany jest za równy gwiazdom.</text>
+<text id="833000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa inteligencję, kosztem energii.
+
+Kodeks Karolosa to najstarszy z kierunków badań na Akademii, zapoczątkowany przez czarodzieja Azura. Uczeni idący w jego ślady badają tajemnice komet.</text>
+<text id="834000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa inteligencję i mistycyzm, kosztem energii.
+
+Tę delikatnie wyglądającą koronę otrzymywała uczona
+z wybitnymi osiągnięciami w swej dziedzinie. Dodatkowo nadano jej tytuł wiedźmy.</text>
+<text id="834100">%null%</text>
+<text id="840000">Cylindryczny hełm z metalowych płyt wzmocnionych kratownicą.
+Noszony przez marionetkowych żołnierzy, stworzonych, by służyć czarodziejom.
+
+Konstrukcja tego hełmu jest wyjątkowo prymitywna.
+
+Ale dla kukły liczy się tylko to, że nie pęka.</text>
+<text id="840100">Zbroja z metalowych pasów ułożonych w kratownicę.
+Noszona przez marionetkowych żołnierzy, niesławne sługi błyskamiennych czarodziejów.
+
+Konstrukcja tej zbroi jest wyjątkowo prymitywna, a sam pancerz nosi ślady rdzy i licznych wgnieceń.
+
+Ale jak dla kukły wystarczy.</text>
+<text id="850000">Metalowy hełm w kształcie ptasiego oblicza.
+Noszony przez latających marionetkowych żołnierzy, stworzonych, by służyć czarodziejom.
+
+Konstrukcja tego hełmu jest wyjątkowo prymitywna.
+
+Ale dla kukły liczy się tylko to, że nie pęka.</text>
+<text id="860000">Hełm noszony przez Vargrama, Rozszalałego Wilka, jednego z pierwszych zmatowieńców, którzy dotarli do Twierdzy Okrągłego Stołu.
+
+Przydomek Vargrama wziął się od grzywy białego wilka, która przystraja jego hełm.</text>
+<text id="860100">Zbroja noszona przez Vargrama, Rozszalałego Wilka, jednego z pierwszych zmatowieńców, którzy dotarli do Twierdzy Okrągłego Stołu.
+
+Według starych legend wilki są cieniami Niebian, a właśnie jednym z nich pragnie zostać Vargram.</text>
+<text id="860200">Rękawice noszone przez Vargrama, Rozszalałego Wilka, jednego z pierwszych zmatowieńców, którzy dotarli do Twierdzy Okrągłego Stołu.
+
+Według starych legend, wilki są cieniami Niebian. Vargram sam pragnął osiągnąć taki stan.</text>
+<text id="860300">Nagolenniki noszone przez Vargrama, Rozszalałego Wilka, jednego z pierwszych zmatowieńców, którzy dotarli do Twierdzy Okrągłego Stołu.
+
+Według starych legend wilki są cieniami Niebian, a właśnie jednym z nich pragnie zostać Vargram.</text>
+<text id="861100">Zbroja noszona przez Vargrama, Rozszalałego Wilka, jednego z pierwszych zmatowieńców, którzy dotarli do Twierdzy Okrągłego Stołu.
+
+Według starych legend wilki są cieniami Niebian, a właśnie jednym z nich pragnie zostać Vargram.</text>
+<text id="870000">Hełm wykonany z połączonych pasków żelaza.
+Noszony przez wojowników z Krainy Trzcin.
+
+Krainą Trzcin długo targała straszliwa wojna domowa, w czasie której ziemie te były odcięte od kultur sąsiadów. Nic dziwnego, że cały naród popadł w to krwawe szaleństwo. A przynajmniej tak mówią.</text>
+<text id="870100">Zbroja wykonana z połączonych pasków żelaza.
+Noszona przez wojowników z Krainy Trzcin.
+
+Brudna opończa wykonana jest ze zwiędłych trzcin z miejsca narodzin wojownika.
+Możliwe, że łagodzi też tęsknotę za domem.</text>
+<text id="870200">Rękawice owinięte twardą skórą.
+Noszone przez wojowników z Krainy Trzcin.</text>
+<text id="870300">Nagolenniki owinięte twardą skórą.
+Noszone przez wojowników z Krainy Trzcin.</text>
+<text id="871100">Zbroja wykonana z połączonych pasków żelaza.
+Noszona przez wojowników z Krainy Trzcin.
+
+Krainą Trzcin długo targała straszliwa wojna domowa, w czasie której ziemie te były odcięte od kultur sąsiadów. Nic dziwnego, że cały naród popadł w to krwawe szaleństwo. A przynajmniej tak mówią.</text>
+<text id="872000">Drewniana maska przedstawiająca szczerzącego zęby starca. To od niej wziął się przydomek wielkiego szermierza z Krainy Trzcin.Zwiększa zręczność i zmniejsza skupienie.Im bardziej ćwiczył swój umysł, tym więcej absurdów świata dostrzegał. I tak Okina wyrzekł się tego wszystkiego i przeniósł się na wyższy poziom egzystencji. Był tam sam. Ze swą kataną. I wielkimi umiejętnościami.Niewiele później Okina stał się demonicznym szermierzem.</text>
+<text id="872100">Zbroja Białych Trzcin, wykonana z połączonych żelaznych płytek.
+Noszona przez Inabę, głównego ucznia wielkiego szermierza Okiny.
+
+Inaba podróżował nie tylko w ślad za mistrzem, który go porzucił, ale także w pogoni za dobrą śmiercią, którą można znaleźć w ciężkim, honorowym boju.
+Biała Trzcina musi szukać śmierci godnej Inaby, który najbardziej pragnął zginąć od miecza.</text>
+<text id="872200">Rękawice Białych Trzcin, wykonane z połączonych żelaznych płytek.
+Noszone przez Inabę, głównego ucznia wielkiego szermierza Okiny.
+
+Inaba podróżował nie tylko w ślad za mistrzem, który go porzucił, ale także w pogoni za dobrą śmiercią, którą można znaleźć w ciężkim, honorowym boju.
+Biała Trzcina musi szukać śmierci godnej Inaby, który najbardziej pragnął zginąć od miecza.</text>
+<text id="872300">Nagolenniki Białych Trzcin, wykonane z połączonych żelaznych płytek.
+Noszone przez Inabę, głównego ucznia wielkiego szermierza Okiny.
+
+Inaba podróżował nie tylko w ślad za mistrzem, który go porzucił, ale także w pogoni za dobrą śmiercią, którą można znaleźć w ciężkim, honorowym boju.
+Biała Trzcina musi szukać śmierci godnej Inaby, który najbardziej pragnął zginąć od miecza.</text>
+<text id="880000">Czarny kaptur ułatwiający skrycie się w ciemności.
+Noszony przez kościelnych konfesorów.
+
+Kościoły poza Ziemiami Pomiędzy, działające zgodnie z nauczaniem Dwóch Palców, wysyłają swoich konfesorów, by podążali za przewodnictwem łaski.
+
+Ci konfesorzy są też wiernymi sługami Dwóch Palców, gotowymi tropić i po cichu usuwać wrogów.</text>
+<text id="880100">Czarna skórzana zbroja ułatwiająca skrycie się w ciemności.
+Noszona przez kościelnych konfesorów.
+
+Kościoły poza Ziemiami Pomiędzy, działające zgodnie z nauczaniem Dwóch Palców, wysyłają swoich konfesorów, by podążali za przewodnictwem łaski.
+
+Ci konfesorzy są też wiernymi sługami Dwóch Palców, gotowymi tropić i po cichu usuwać wrogów.</text>
+<text id="880200">Czarne skórzane rękawice kościelnych konfesorów.
+
+Kościoły poza Ziemiami Pomiędzy, działające zgodnie z nauczaniem Dwóch Palców, wysyłają swoich konfesorów, by podążali za przewodnictwem łaski.
+
+Ci konfesorzy są też wiernymi sługami Dwóch Palców, gotowymi tropić i po cichu usuwać wrogów.</text>
+<text id="880300">Skórzane buty kościelnych konfesorów.
+
+Kościoły poza Ziemiami Pomiędzy, działające zgodnie z nauczaniem Dwóch Palców, wysyłają swoich konfesorów, by podążali za przewodnictwem łaski.
+
+Ci konfesorzy są też wiernymi sługami Dwóch Palców, gotowymi tropić i po cichu usuwać wrogów.</text>
+<text id="881000">Płócienne nakrycie głowy noszone pod czarnym kapturem kościelnego konfesora.
+Takie kaptury mają pomóc wtopić się w mrok.</text>
+<text id="881100">Czarna skórzana zbroja ułatwiająca skrycie się w ciemności.
+Noszona przez kościelnych konfesorów.
+
+Kościoły poza Ziemiami Pomiędzy, działające zgodnie z nauczaniem Dwóch Palców, wysyłają swoich konfesorów, by podążali za przewodnictwem łaski.
+
+Ci konfesorzy są też wiernymi sługami Dwóch Palców, gotowymi tropić i po cichu usuwać wrogów.</text>
+<text id="890000">Żelazna maska, którą muszą nosić więźniowie skazani za przerażające przestępstwa.
+Gruba, ciężka i sztywna.
+
+Straszliwy wytwór mający na celu dręczenie noszącego albo poprzez zasianie w jego sercu ziarna nienawiści, albo poprzez wywołanie duchowej gorliwości, która jest od niej niemal nieodróżnialna.</text>
+<text id="890100">Potargane ubranie.
+Noszone przez więźniów skazanych za przerażające przestępstwo.
+
+Nigdy nie było prane, brudne jest każde włókno.</text>
+<text id="890300">Potargane spodnie.
+Noszone przez więźniów skazanych za przerażające przestępstwo.
+
+Nigdy nie były prane, brudne jest każde włókno.
+Niewiarygodnie śmierdzą.</text>
+<text id="891000">Żelazna maska noszona przez skazanych więźniów.
+Noszona przez szubrawca, Boggarta Wielkiego.
+
+Boggart uważał, że maska czyniła go groźniejszym i pomagała mu zdobywać to, czego zapragnął. Jednak była też lustrem jego wewnętrznej pustki.</text>
+<text id="900000">Kaptur noszony przez wędrowne służki.
+
+Służki przemierzały Ziemie Pomiędzy z różnych powodów. Część pragnęła audiencji u Palców. Inne szukały zmatowieńców, którym miały wskazywać drogę.</text>
+<text id="900100">Szata noszona przez wędrowne służki.
+
+Służki przemierzały Ziemie Pomiędzy z różnych powodów. Część pragnęła audiencji u Palców. Inne szukały zmatowieńców, którym miały wskazywać drogę.</text>
+<text id="900200">Rękawice noszone przez podróżujące służki.
+
+Służki przemierzały Ziemie Pomiędzy z różnych powodów. Część pragnęła audiencji u Palców. Inne szukały zmatowieńców, którym miały wskazywać drogę.</text>
+<text id="900300">Buty noszone przez wędrowne służki.
+
+Służki przemierzały Ziemie Pomiędzy z różnych powodów. Część pragnęła audiencji u Palców. Inne szukały zmatowieńców, którym miały wskazywać drogę.</text>
+<text id="901100">Skromne odzienie wędrownych służek, zwykle noszone pod szatą.</text>
+<text id="902000">Opaska noszona przez służki Dwóch Palców.
+
+Służki żyją, by pomagać wybranym zmatowieńcom, udzielać im rad i mądrości Dwóch Palców.
+
+Przewodnictwo łaski miało zadbać, by pewna para się spotkała. A przynajmniej tak brzmiała dawna obietnica.</text>
+<text id="902100">Szata noszona przez służki Dwóch Palców.
+
+Służki żyją, by pomagać wybranym zmatowieńcom, udzielać im rad i mądrości Dwóch Palców.
+
+Przewodnictwo łaski miało zadbać, by pewna para się spotkała. A przynajmniej tak brzmiała dawna obietnica.</text>
+<text id="902300">Buty noszone przez służki Dwóch Palców.
+
+Służki żyją, by pomagać wybranym zmatowieńcom, udzielać im rad i mądrości Dwóch Palców.
+
+Przewodnictwo łaski miało zadbać, by pewna para się spotkała. A przynajmniej tak brzmiała dawna obietnica.</text>
+<text id="903100">Szata noszona przez służki Dwóch Palców.
+
+Służki żyją, by pomagać wybranym zmatowieńcom, udzielać im rad i mądrości Dwóch Palców.
+
+Przewodnictwo łaski miało zadbać, by pewna para się spotkała. A przynajmniej tak brzmiała dawna obietnica.</text>
+<text id="910000">Duża czapka z ruchami gwiazd nakreślonymi po wewnętrznej stronie ronda.
+Noszona przez nauczycieli magii, którzy służyli karyjskiej rodzinie królewskiej.
+
+Zwiększa umysł kosztem energii.
+
+Błyskamienni czarodzieje są spadkobiercami astrologów, o czym doskonale pamiętają Karyjczycy, mimo że gwiazdy już od dawna nie decydują o ich losie.</text>
+<text id="910100">Długa jasnobłękitna toga z nakreślonymi na niej ruchami gwiazd.
+Noszona przez nauczycieli magii, którzy służyli karyjskiej rodzinie królewskiej.
+
+Błyskamienni czarodzieje są spadkobiercami astrologów, o czym doskonale pamiętają Karyjczycy, mimo że gwiazdy już od dawna nie decydują o ich losie.</text>
+<text id="910200">Rękawice mistrzów magii służących karyjskiej rodzinie królewskiej.
+Czarne i całkowicie dyskretne.</text>
+<text id="910300">Spodnie mistrzów magii służących karyjskiej rodzinie królewskiej.
+Czarne i całkowicie dyskretne.</text>
+<text id="911000">Maska z ustami zaszytymi złotą nicią.
+Zwiększa mistycyzm.
+
+Kiedy Radagon poślubił Rennalę, nakazał karyjskim nauczycielom magii nosić te maski. W ten sposób wszystkie ich sprawy miały pozostać ściśle prywatne.</text>
+<text id="911100">Skromne odzienie noszone wcześniej pod długą jasnobłękitną togą z nakreślonymi na niej ruchami gwiazd.</text>
+<text id="920000">%null%</text>
+<text id="930000">Szkieletowa maska ściśle przylegająca do twarzy.
+Noszona przez zabójców z Kruczej Góry.
+
+To rytualne narzędzie nieustannie wbija się w twarz noszącej go osoby, zachowując ludzkie odruchy, lecz nadając wygląd ptaka śmierci.</text>
+<text id="930100">Szata wykonana z czarnych piór drapieżnego ptaka.
+Noszona przez zabójców z Kruczej Góry.
+
+Rytualne narzędzie umożliwiające przemianę w ptaka śmierci, a raczej jego imitację.
+Wzmacnia ataki z wyskoku.
+
+„Jesteśmy drapieżnymi ptakami, które niosą śmierć”.</text>
+<text id="930200">Owijki wykonane z brudnych szmat owiniętych wokół przedramion.
+Noszone przez bandytów.</text>
+<text id="930300">Skórzane buty noszone przez bandytów.
+
+Są lekkie, co ułatwia ruchy i maskuje kroki. Jednak przez to słabo negują obrażenia.</text>
+<text id="931100">Skórzane odzienie noszone przez bandytów.
+
+Jest lekkie, co ułatwia ruchy i maskuje kroki. Jednak przez to słabo neguje obrażenia.</text>
+<text id="940000">Spiczasty, obszarpany kaptur.
+Noszony przez rycerza Jerrena.
+
+Pod kapturem kryje się stara maska z brodą.
+
+Jerren służył generałowi Radahnowi gościnnie jako dowódca, ponoć obaj przysięgli sobie honorową śmierć. </text>
+<text id="940100">Niezwykle kolorowa zbroja.
+Noszona przez rycerza Jerrena.
+
+Jerren wolał życie wędrowca, ale po tym, jak spędził trochę czasu jako gość karyjskiej rodziny królewskiej, został gościnnym dowódcą u generała Radahna.
+
+I po raz pierwszy ten niespokojny duch złożył przysięgę honorową.</text>
+<text id="940200">Owijki rycerza Jerrena.
+
+Jerren wolał życie wędrowca, ale po tym, jak spędził trochę czasu jako gość karyjskiej rodziny królewskiej, został gościnnym dowódcą u generała Radahna.
+
+Ten niespokojny duch po raz pierwszy złożył przysięgę honorową.</text>
+<text id="940300">Bryczesy rycerza Jerrena.
+
+Jerren wolał życie wędrowca, ale po tym, jak spędził trochę czasu jako gość karyjskiej rodziny królewskiej, został gościnnym dowódcą u generała Radahna.
+
+Ten niespokojny duch po raz pierwszy złożył przysięgę honorową.</text>
+<text id="941000">Spiczasty, obszarpany kaptur.
+Noszony przez rycerza Jerrena.
+
+Pod kapturem kryje się stara maska z brodą.
+
+Jerren służył generałowi Radahnowi gościnnie jako dowódca, ponoć obaj przysięgli sobie honorową śmierć. </text>
+<text id="950000">Żelazny hełm, który palce osmaliły i pokryły pęcherzami.
+Noszony przez Vykego, rycerza Twierdzy Okrągłego Stołu.
+
+Żaden zmatowieniec nie był tak blisko tronu Eldeńskiego Władcy jak Vyke. Ten jednak niespodziewanie udał się głęboko pod stolicę, gdzie spalił go płomień szału.
+
+Czy dokonał wyboru dla swojej służki, czy może pokierowała nim jakaś inna siła?</text>
+<text id="950100">Żelazna zbroja, którą palce osmaliły i pokryły pęcherzami.
+Noszona przez Vykego, rycerza Twierdzy Okrągłego Stołu.
+
+Żaden zmatowieniec nie był tak blisko tronu Eldeńskiego Władcy jak Vyke. Ten jednak niespodziewanie udał się głęboko pod stolicę, gdzie spalił go płomień szału.
+
+Czy dokonał wyboru dla swojej służki, czy może pokierowała nim jakaś inna siła?</text>
+<text id="950200">Żelazne rękawice, które palce osmaliły i pokryły pęcherzami.
+Noszone przez Vykego, rycerza Twierdzy Okrągłego Stołu.
+
+Żaden zmatowieniec nie był tak blisko tronu Eldeńskiego Władcy jak Vyke. Ten jednak niespodziewanie udał się głęboko pod stolicę, gdzie spalił go płomień szału.
+
+Czy dokonał wyboru dla swojej służki, czy może pokierowała nim jakaś inna siła?</text>
+<text id="950300">Żelazne nagolenniki, które palce osmaliły i pokryły pęcherzami.
+Noszone przez Vykego, rycerza Twierdzy Okrągłego Stołu.
+
+Żaden zmatowieniec nie był tak blisko tronu Eldeńskiego Władcy jak Vyke. Ten jednak niespodziewanie udał się głęboko pod stolicę, gdzie spalił go płomień szału.
+
+Czy dokonał wyboru dla swojej służki, czy może pokierowała nim jakaś inna siła?</text>
+<text id="951100">Żelazna zbroja, którą palce osmaliły i pokryły pęcherzami.
+Noszona przez Vykego, rycerza Twierdzy Okrągłego Stołu.
+
+Żaden zmatowieniec nie był tak blisko tronu Eldeńskiego Władcy jak Vyke. Ten jednak niespodziewanie udał się głęboko pod stolicę, gdzie spalił go płomień szału.
+
+Czy dokonał wyboru dla swojej służki, czy może pokierowała nim jakaś inna siła?</text>
+<text id="960000">Maska noszona przez Tanith, panią Wulkanicznego Dworu, na podobieństwo obcej królowej.
+Zwiększa zręczność.
+
+Rykard po raz pierwszy ujrzał Tanith dawno temu, w obcej krainie, gdzie pracowała jako tancerka. Wkrótce uczynił ją swoją małżonką. Była ona jedynym człowiekiem, który został u jego boku, gdy stał się wężem bluźnierstwa.
+
+I w tym momencie Tanith prawdziwie się w nim zauroczyła.</text>
+<text id="960100">Szlachetna szata z białego jedwabiu noszona przez Tanith, Panią Wulkanicznego Dworu.
+
+Rykard po raz pierwszy ujrzał Tanith dawno temu, w obcej krainie, gdzie pracowała jako tancerka. Wkrótce uczynił ją swoją małżonką. Była ona jedynym człowiekiem, który został u jego boku, gdy stał się wężem bluźnierstwa.
+
+I w tym momencie Tanith prawdziwie się w nim zauroczyła.</text>
+<text id="960300">Piękne białe spodnie, idealne do noszenia pod jedwabną szatą.</text>
+<text id="961000">Maska z obliczem pomarszczonego mędrca.
+Zwyczajowy strój władców w pewnym niewielkim kraju.
+Zwiększa wiarę.
+
+Taka maska ukazuje cechy władcy idealnego: władczość, mądrość i łagodne usposobienie.
+Osoby znajdujące się w centrum uwagi społeczności potrzebują tych cech.</text>
+<text id="961100">Luksusowa szata władców pewnego niewielkiego kraju.
+Jej piękna, błękitna opończa odzwierciedla status noszącej ją osoby.</text>
+<text id="962100">Haftowana, jasnozielona szata noszona przez szlacheckie dzieci.
+Według tradycji założenie takiego ubioru to pierwszy znak kiełkującej niezależności dziecka.</text>
+<text id="963000">Maska z obliczem siwowłosego młodego szlachcica.
+Zwyczajowo noszona przez głowę rodu Marais.
+Zwiększa mistycyzm.
+
+Rodzina Marais ma podwójną historię, obejmującą wiele pokoleń: jej członkowie służyli jako kaci i kasztelani Zamku Cieni. Ta maska przedstawia podobiznę pierwszego członka rodu.</text>
+<text id="963100">Szata z czarną opończą na ramionach.
+Zwyczajowo noszona przez głowę rodu Marais.
+
+Wszyscy synowie rodu Marais rodzą się chorowici.
+Nic dziwnego, że Maleigh Marais dał się zwieść pięknej i okrutnej bogini, która urodziła się ze zgnilizną.</text>
+<text id="963200">Ciasno owinięte, zakrwawione bandaże.
+
+Skrywanym przez nie ropiejącym rękom przyda się każda ochrona.</text>
+<text id="964000">Maska z ciasno owiniętych bandaży przesiąkniętych krwią.
+
+Nawet najupiorniejsza osłona wygląda lepiej niż skrywana pod nią ropiejąca twarz.</text>
+<text id="964100">Brudna błękitna szata oficjeli, wykonujących swe ponure obowiązki.
+
+Śledzenie, egzekucje, okrutne rytuały... Ludzkość jest napędzana przez te mroczne czyny.</text>
+<text id="970000">Zdeformowany hełm przypominający Omen z odciętymi rogami.
+
+Noszony przez Łajnożercę, jego wygląd to wizja krajobrazu umysłu właściciela i tego, jak chciałby wyglądać.
+
+Serce omenu bez godnego go ciała; czy istnienie może być okrutniejsze?
+Jakże więc przejąć się tym, że klątwa może pochłonąć wszystko?</text>
+<text id="970100">Zdeformowana zbroja przypominająca Omen z odciętymi rogami.
+
+Noszona przez Łajnożercę.
+Ciężki medalion w kształcie słońca to symbol ujrzanego niegdyś przewodnictwa i kręgu, do którego pewnego dnia doprowadzi.</text>
+<text id="970200">Zdeformowane rękawice przypominające Omen z odciętymi rogami.
+
+Noszone przez Łajnożercę, jego wygląd to wizja krajobrazu umysłu właściciela i tego, jak chciałby wyglądać.
+
+Serce Omenu bez godnego go ciała; czy istnienie może być okrutniejsze?
+Jakże więc przejąć się tym, że klątwa może pochłonąć wszystko?</text>
+<text id="970300">Zdeformowane nagolenniki przypominające Omen z odciętymi rogami.
+
+Noszone przez Łajnożercę, jego wygląd to wizja krajobrazu umysłu właściciela i tego, jak chciałby wyglądać.
+
+Serce Omenu bez godnego go ciała; czy istnienie może być okrutniejsze?
+Jakże więc przejąć się tym, że klątwa może pochłonąć wszystko?</text>
+<text id="980000">Hełm zaklętych rycerzy służących ongiś karyjskiej rodzinie królewskiej.
+
+Zaklęci rycerze powołani przez Księżycową Królową byli bohaterami, którzy dostąpili najwyższych honorów, jednak ich bractwo podupadło wraz ze spadkiem znaczenia królewskiej rodziny.</text>
+<text id="980100">Zbroja zaklętych rycerzy służących ongiś karyjskiej rodzinie królewskiej.
+
+Zaklęci rycerze powołani przez Księżycową Królową byli bohaterami, którzy dostąpili najwyższych honorów, jednak ich bractwo podupadło wraz ze spadkiem znaczenia królewskiej rodziny.</text>
+<text id="980200">Rękawice zaklętych rycerzy służących ongiś karyjskiej rodzinie królewskiej.
+
+Zaklęci rycerze powołani przez Księżycową Królową byli bohaterami, którzy dostąpili najwyższych honorów, jednak ich bractwo podupadło wraz ze spadkiem znaczenia królewskiej rodziny.</text>
+<text id="980300">Nagolenniki zaklętych rycerzy służących ongiś karyjskiej rodzinie królewskiej.
+
+Zaklęci rycerze powołani przez Księżycową Królową byli bohaterami, którzy dostąpili najwyższych honorów, jednak ich bractwo podupadło wraz ze spadkiem znaczenia królewskiej rodziny.</text>
+<text id="981100">Zbroja zaklętych rycerzy służących ongiś karyjskiej rodzinie królewskiej.
+
+Zaklęci rycerze powołani przez Księżycową Królową byli bohaterami, którzy dostąpili najwyższych honorów, jednak ich bractwo podupadło wraz ze spadkiem znaczenia królewskiej rodziny.</text>
+<text id="990000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa inteligencję i wytrzymałość, kosztem PS.
+
+Koronę Hierodasa otrzymywali uczeni zajmujący się badaniami polowymi, z dala od Akademii.</text>
+<text id="990100">Zwyczajna szata z grubego materiału.
+Noszona przez Wilhelma, Błędnego Czarodzieja, jednego z pierwszych zmatowieńców, którzy trafili do Twierdzy Okrągłego Stołu.
+
+Wilhelm był milczącym poszukiwaczem magii, który posunął się nawet do kontaktu z pierwotnym nurtem, a przewodnictwo sprawiło, że zmierzył się ze swym przyjacielem Vargramem. Ponoć później wzięto go do niewoli w Twierdzy Okrągłego Stołu.</text>
+<text id="990200">Zwyczajne skórzane karwasze.
+Na rękach znajdują się przyciemnione błyskamienie.</text>
+<text id="990300">Zwyczajne skórzane buty, mogące wytrzymać długą podróż.</text>
+<text id="991100">Zwyczajna szata z grubego materiału.
+Noszona przez Wilhelma, Błędnego Czarodzieja, jednego z pierwszych zmatowieńców, którzy trafili do Twierdzy Okrągłego Stołu.
+
+Wilhelm był milczącym poszukiwaczem magii, który posunął się nawet do kontaktu z pierwotnym nurtem, a przewodnictwo sprawiło, że zmierzył się ze swym przyjacielem Vargramem. Ponoć później wzięto go do niewoli w Twierdzy Okrągłego Stołu.</text>
+<text id="1000000">Jedna z błyskamiennych koron przekazywanych uczonym z Rai Lucarii, których badania doceniono.
+
+Zwiększa siłę i inteligencję, kosztem PS.
+
+Uczeni kodeksu Haima szukali mocy dławienia konfliktów i dlatego badali magię ognia armatniego oraz młota.</text>
+<text id="1000100">Szata noszona przez uczonych z Akademii Rai Lucarii, zniszczona na polu bitwy.
+
+Zawsze gdy wybuchała wojna i Akademia zamykała swe bramy, tylko uczeni Haima ośmielali się wychodzić na zewnątrz.
+Odgrodzenie się nie pomaga w dokonywaniu odkryć, jest jedynie wygodną formą ucieczki.</text>
+<text id="1000200">Owijki uczonych Akademii Rai Lucarii, zniszczone na polu bitwy.</text>
+<text id="1000300">Owijacze uczonych Akademii Rai Lucarii, zniszczone na polu bitwy.</text>
+<text id="1010000">Spiczasty kapelusz wiedźmy, sztywny i zamrożony.
+W stylu kojarzonym z członkami heretyckiego stowarzyszenia.
+Wzmacnia magię zimna.
+
+Noszony kiedyś przez śnieżną wiedźmę, którą młoda Ranni spotkała głęboko w lesie. Ta czarownica dobrze znała magię zimna.
+Ponoć wzorowano na niej lalkę, w której znajduje się dusza Ranni.
+
+Ta stara wiedźma była potajemną mentorką Ranni.</text>
+<text id="1010100">Śnieżnobiała szata wiedźmy.
+
+Noszona kiedyś przez śnieżną wiedźmę, którą młoda Ranni spotkała głęboko w lesie. Ta czarownica dobrze znała magię zimna.
+Ponoć wzorowano na niej lalkę, w której znajduje się dusza Ranni.
+
+Ta stara wiedźma była potajemną mentorką Ranni.</text>
+<text id="1010300">Śnieżnobiała spódnica wiedźmy.
+
+Noszona kiedyś przez śnieżną wiedźmę, którą młoda Ranni spotkała głęboko w lesie. Ta czarownica dobrze znała magię zimna.
+Ponoć wzorowano na niej lalkę, w której znajduje się dusza Ranni.
+
+Ta stara wiedźma była potajemną mentorką Ranni.</text>
+<text id="1011100">Śnieżnobiała szata wiedźmy.
+
+Noszona kiedyś przez śnieżną wiedźmę, którą młoda Ranni spotkała głęboko w lesie. Ta czarownica dobrze znała magię zimna.
+Ponoć wzorowano na niej lalkę, w której znajduje się dusza Ranni.
+
+Ta stara wiedźma była potajemną mentorką Ranni.</text>
+<text id="1020100">Lekkie, ale wytrzymałe ubranie.
+
+Noszone przez młode kobiety ruszające w świat na spotkanie z przeznaczeniem.</text>
+<text id="1020200">Lekkie, ale wytrzymałe skórzane karwasze.
+
+Noszone przez młode kobiety ruszające w świat na spotkanie z przeznaczeniem.</text>
+<text id="1020300">Lekkie, ale wytrzymałe skórzane buty.
+
+Noszone przez młode kobiety ruszające w świat na spotkanie z przeznaczeniem.</text>
+<text id="1030000">Czapka młodych uczonych Akademii, narodzonych ponownie z bursztynowego jaja samej królowej Rennali, kierującej Akademią Rai Lucarii.
+
+Lecz ich odrodzenie nie jest idealne, dlatego powtarzają ten cykl, a w końcu się od niego uzależniają.
+
+Odrodzenie jest dla nich jak sen, a z każdym przebudzeniem tracą część pamięci.</text>
+<text id="1030100">Szata młodych uczonych Akademii, narodzonych ponownie z bursztynowego jaja samej królowej Rennali, kierującej Akademią Rai Lucarii.
+
+Lecz ich odrodzenie nie jest idealne, dlatego powtarzają ten cykl, a w końcu się od niego uzależniają.
+
+Odrodzenie jest dla nich jak sen, a z każdym przebudzeniem tracą część pamięci.</text>
+<text id="1040000">Maska zaprojektowana tak, by przypominała jaśniejącą złotą aureolę.
+Stworzona i pozostawiona przez Złotą Maskę, niestrudzonego poszukiwacza fundamentalizmu Złotego Porządku.
+
+Wzmacnia inkantacje Złotego Porządku.
+
+Jej charakterystyczny wygląd to efekt przebłysku geniuszu, którego doświadczył jej twórca, a także wizja kręgu, który z pewnością czeka na niego na końcu jego wyprawy.
+
+„Ty, który chcesz świecić jak ja, noś ją z godnością!”</text>
+<text id="1040100">Znoszone łachmany, które ledwie okrywają ciało.
+
+Dla Złotej Maski nadmiar ubrań był próżnością. Po cóż piękne ozdoby komuś, kto szuka większego blasku?</text>
+<text id="1040200">Bransolety wykonane na podobieństwo gałęzi Złotego Drzewa.
+Minimalistyczne ozdoby wykonane przez uczniów Złotej Maski.
+
+Ci uczniowie już dawno go opuścili.</text>
+<text id="1040300">Pas wykonany na podobieństwo gałęzi Złotego Drzewa.
+Minimalistyczna ozdoba wykonana przez uczniów Złotej Maski.
+
+Ci uczniowie już dawno go opuścili.</text>
+<text id="1050100">Płaszcz z przetartego futra, noszony na odsłoniętym ciele przez Margita, Upadły Omen.
+
+Zgładziwszy podczas Roztrzaskania niezliczonych czempionów, Upadły Omen stał się koszmarem osób mających ambicje związane ze Złotym Drzewem lub tytułem władcy.</text>
+<text id="1060000">Maska wykonana głównie z niewyprawionej skóry młodego albinauryka.
+
+Zwiększa mistycyzm, ale zmniejsza efekty odzyskiwania PŻ wywoływane przez butelkę szkarłatnych łez.
+
+Nie może równać się z boską skórą, stworzono ją jako złośliwą kpinę.</text>
+<text id="1060100">Kolczuga noszona przez młodych albinauryków.
+Pojawienie się wydatnego brzucha nie daje żadnych istotnych korzyści.</text>
+<text id="1070000">Maska noszona przez rycerzy z Zamor, okrzykniętych bohaterami wojny z olbrzymami.
+
+Podobno ci długowieczni wojownicy, spowici przeszywającymi, mroźnymi wichrami, od niepamiętnych czasów byli śmiertelnymi wrogami ognistych olbrzymów.</text>
+<text id="1070100">Zbroja noszona przez rycerzy z Zamor, okrzykniętych bohaterami wojny z olbrzymami.
+
+Podobno ci długowieczni wojownicy, spowici przeszywającymi, mroźnymi wichrami, od niepamiętnych czasów byli śmiertelnymi wrogami ognistych olbrzymów.</text>
+<text id="1070200">Owijki noszone przez rycerzy z Zamor, okrzykniętych bohaterami wojny z olbrzymami.
+
+Podobno ci długowieczni wojownicy, spowici przeszywającymi, mroźnymi wichrami, od niepamiętnych czasów byli śmiertelnymi wrogami ognistych olbrzymów.</text>
+<text id="1070300">Owijacze noszone przez rycerzy z Zamor, okrzykniętych bohaterami wojny z olbrzymami.
+
+Podobno ci długowieczni wojownicy, spowici przeszywającymi, mroźnymi wichrami, od niepamiętnych czasów byli śmiertelnymi wrogami ognistych olbrzymów.</text>
+<text id="1080000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina kota i ma w sobie ślad kociej inteligencji.</text>
+<text id="1081000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina demona o ostrych kłach i ma w sobie ślad zwierzęcej siły.</text>
+<text id="1082000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina demona z długim językiem i ma w sobie ślad złośliwej zręczności.</text>
+<text id="1083000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina oblicze nieboszczyka i ma w sobie ślad ciągle żywej wiary.</text>
+<text id="1084000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina wilka i ma w sobie ślad wilczej wytrzymałości.</text>
+<text id="1085000">Nakrycie głowy wykonane z praktycznie niezmienionej głowy figlarnego golema.
+
+Przypomina członka starszyzny i ma w sobie ślad wiedzy tajemnej.</text>
+<text id="1090000">Maska ze zwłok bezkształtnej srebrnej łzy, podtrzymywana stwardniałym, zrzuconym pancerzem.
+
+Znacznie zwiększa mistycyzm kosztem siły ataku fizycznego.
+
+Udawanie naśladowcy to bardzo zmyślna sztuczka.</text>
+<text id="1100000">Czepiec kolczy.
+Standardowe wyposażenie zwykłych żołnierzy.
+
+Wygląda zwyczajnie, ale zapewnia dobrą ochronę.</text>
+<text id="1100100">Zbroja kolcza.
+Standardowe wyposażenie zwykłych żołnierzy.
+
+Wygląda zwyczajnie, ale zapewnia dobrą ochronę.</text>
+<text id="1100200">Rękawice zwykłych żołnierzy.
+
+Wyglądają zwyczajnie, ale zapewniają dobrą ochronę.</text>
+<text id="1100300">Nagolenniki kolcze.
+Standardowe wyposażenie zwykłych żołnierzy.
+
+Wyglądają zwyczajnie, ale zapewniają dobrą ochronę.</text>
+<text id="1101000">Twardy, żelazny wielki hełm.
+
+Jest ciężki, niewygodny i ogranicza pole widzenia, ale zapewnia znaczącą negację obrażeń.</text>
+<text id="1101100">Brązowy kasak narzucany na kolczugę.
+
+Insygnia wyrysowane na przodzie świadczą, że nosząca go osoba jest oczami i uszami sir Gideona Wszechwiedzącego.</text>
+<text id="1102100">Niebieski kasak narzucany na kolczugę.
+
+Trzy insygnia wyrysowane na przodzie przedstawiają Złote Drzewo, to wzór uwielbiany na Ziemiach Pomiędzy.</text>
+<text id="1110000">Młoda ośmiornica lądowa noszona bezpośrednio na głowie.
+Jest ciepła niczym ludzka skóra.
+
+Osoby, które wytrzymają jej smród, przekonają się, że organiczna elastyczność doskonale amortyzuje ciosy.</text>
+<text id="1120000">Słój, który idealnie pasuje na głowę, gdy odwróci się go do góry nogami.
+Aleksander Żelazna Pięść stworzył go z dumą.
+
+To wyjątkowy gest przyjaźni, zwiększa siłę rzucanych garnków.</text>
+<text id="1130000">Grzyby porastające całe ciało.
+Te wielkie grzyby pokryły głowę.
+
+Dla dotkniętych szkarłatną zgnilizną są świętą szatą łączącą ich z ziemią.</text>
+<text id="1130100">Grzyby porastające całe ciało.
+Te wielkie grzyby pokryły tułów.
+
+Dla dotkniętych szkarłatną zgnilizną są świętą szatą łączącą ich
+z ziemią.</text>
+<text id="1130200">Grzyby porastające całe ciało.
+Te wielkie grzyby pokryły ramiona.
+
+Dla dotkniętych szkarłatną zgnilizną są świętą szatą łączącą ich z ziemią.</text>
+<text id="1130300">Grzyby porastające całe ciało.
+Te wielkie grzyby pokryły nogi.
+
+Dla dotkniętych szkarłatną zgnilizną są świętą szatą łączącą ich z ziemią.</text>
+<text id="1300000">Hełm ze szkła przypominającego kryształ.
+Jedno z rytualnych narzędzi z Wiecznego Miasta.
+Łatwo pęka i słabo amortyzuje uderzenia.
+
+Noszona przez zdrajców stanu, chroni przed interwencją Wyższej Woli i służących jej Palców.</text>
+<text id="1301000">Hełm ze szkła przypominającego kryształ. Ponoć wojenny doradca Iji nigdy nie zdejmował go z głowy.
+Łatwo pęka i słabo amortyzuje uderzenia.
+
+Noszony przez zdrajców stanu, chroni przed interwencją Wyższej Woli i służących jej Palców.
+
+Iji bał się własnej perfidii.</text>
+<text id="1400000">Kaptur z matowoczarnej tkaniny, skrywający tożsamość noszącej go osoby.
+
+Na tym świecie niewiele jest rzeczy, które nigdy nie powinny być tajemnicą.</text>
+<text id="1400100">Lekka i sprawdzona w boju skórzana zbroja noszona przez sprytnego żołnierza.
+
+Wielu podziwia właściciela tej zbroi, jego rycerskość i szczerość.</text>
+<text id="1400200">Lekkie i sprawdzone w boju skórzane rękawice noszone przez sprytnego żołnierza.
+
+Wielu podziwia właściciela tej zbroi, jego rycerskość i szczerość.</text>
+<text id="1400300">Lekkie i sprawdzone w boju skórzane buty noszone przez sprytnego żołnierza.
+
+Wielu podziwia właściciela tej zbroi, jego rycerskość i szczerość.</text>
+<text id="1401000">Zakrywająca usta maska z czarnego materiału.
+
+Chętnie używają jej bandyci, by ukryć twarze. Ponadto zapewnia częściową ochronę przed trucizną.</text>
+<text id="1500000">Żelazny hełm nieznanego rycerza.
+Wykonano go z cienkiej metalowej płyty.
+
+Takie metalowe pancerze są ciężkie, lecz zapewniają dużą negację obrażeń.</text>
+<text id="1500100">Żelazna zbroja nieznanego rycerza.
+Wykonano ją z cienkiej metalowej płyty.
+
+Takie metalowe pancerze są ciężkie, lecz zapewniają dużą negację obrażeń.</text>
+<text id="1500200">Żelazne rękawice nieznanego rycerza.
+Wykonano je z cienkiej metalowej płyty.
+
+Takie metalowe pancerze są ciężkie, lecz zapewniają dużą negację obrażeń.</text>
+<text id="1500300">Żelazne nagolenniki nieznanego rycerza.
+Wykonano je z cienkiej metalowej płyty.
+
+Takie metalowe pancerze są ciężkie, lecz zapewniają dużą negację obrażeń.</text>
+<text id="1600000">Kaptur znacznie większy niż głowa, którą miał chronić.
+Swego rodzaju całun pogrzebowy dla tych, którym uda się wreszcie odkryć upragnioną prawdę.
+
+Zwiększa inteligencję i wiarę, kosztem PŻ.
+
+„Tak, młoda Rennala z pewnością patrzyła na ten księżyc”.</text>
+<text id="1700000">Hełm żołnierzy wiernych Godrickowi Zszywańcowi.
+Wykonany z wytrzymałego żelaza, od wewnątrz wyłożony kolczugą.</text>
+<text id="1700100">Zbroja żołnierzy wiernych Godrickowi Zszywańcowi.
+
+Na kasaku widnieje odległe Złote Drzewo i zwierzęcy regent, herb złotego rodu.
+Oba są symbolami dawnej chwały.</text>
+<text id="1700200">Rękawice żołnierzy wiernych Godrickowi Zszywańcowi.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1700300">Nagolenniki żołnierzy wiernych Godrickowi Zszywańcowi.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1710000">Hełm żołnierzy Akademii Rai Lucarii.
+Na jego krawędzi znajduje się pojedyncze kukułcze pióro.</text>
+<text id="1710100">Zbroja żołnierzy Akademii Rai Lucarii.
+
+Na kasaku widnieją dwie kukułki, wpatrujące się w wielką masę błyskamienia.
+Dla błyskamiennego czarodzieja ciało jest tymczasowe. Kukułka też wie, że nie ma ono znaczenia, a mimo to go strzeże.</text>
+<text id="1710200">Rękawice żołnierzy Akademii Rai Lucarii.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1710300">Nagolenniki żołnierzy Akademii Rai Lucarii.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1720000">Hełm żołnierzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+Wykonany z wytrzymałego żelaza, od wewnątrz wyłożony kolczugą.</text>
+<text id="1720100">Zbroja żołnierzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+
+Na kasaku widnieje majestatyczny wizerunek Złotego Drzewa. Złota podszewka to honor, jakiego nie dostępują inni żołnierze.</text>
+<text id="1720200">Rękawice żołnierzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1720300">Nagolenniki żołnierzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1730000">Hełm żołnierzy, którzy walczyli u boku generała Radahna.
+Jego przyłbica ma kształt lwich kłów.</text>
+<text id="1730100">Zbroja żołnierzy, którzy walczyli u boku generała Radahna.
+
+Na kasaku widnieje lew wznoszący miecz, na wzór Radahna. Dlatego nazywano tych żołnierzy Lwimi Grzywami, a oni udowodnili, że są godni tego przydomku.</text>
+<text id="1730200">Rękawice żołnierzy, którzy walczyli u boku generała Radahna.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1730300">Nagolenniki żołnierzy, którzy walczyli u boku generała Radahna.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1740100">Zbroja bezgłowych żołnierzy nieustannie strzegących Wędrownego Mauzoleum.
+
+Na kasaku widnieje dzwon mauzoleum, bijący na znak ciągłej żałoby po półbogach pozbawionych dusz.</text>
+<text id="1740200">Rękawice bezgłowych żołnierzy nieustannie strzegących Wędrownego Mauzoleum.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1740300">Nagolenniki bezgłowych żołnierzy nieustannie strzegących Wędrownego Mauzoleum.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1750000">Hełm noszony przez żołnierzy zaprzysiężonych Świętemu Drzewu.
+Żelazny hełm zwieńczony koroną z czystego złota.
+
+Zwiększa wiarę.</text>
+<text id="1750100">Zbroja żołnierzy zaprzysiężonych Świętemu Drzewu.
+
+Na kasaku widnieje jego herb.
+Choć to Święte Drzewo od początku podlewano krwią Miquelli, ostatecznie nie wyrosło na Złote Drzewo.</text>
+<text id="1750200">Rękawice żołnierzy zaprzysiężonych Świętemu Drzewu.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1750300">Nagolenniki żołnierzy zaprzysiężonych Świętemu Drzewu.
+Pokryte rdzą i poplamione podczas niekończącej się wojny.</text>
+<text id="1760000">Hełm rycerzy niegdyś wiernych sędziemu Rykardowi.
+Herb z czerwonymi piórami to symbol rodowodu Rykarda, syna władcy Radagona.</text>
+<text id="1760100">Zbroja rycerzy niegdyś wiernych sędziemu Rykardowi.
+
+Widnieje na niej herb, którego już nikt nie nosi, należący do władcy, który od wzniosłej ambicji przeszedł do niezaspokojonego okrucieństwa.
+Gdy stracił godność, jego rycerze stracili pana.</text>
+<text id="1760200">Rękawice rycerzy niegdyś wiernych sędziemu Rykardowi.
+Czas jeszcze nie przyćmił ich blasku.</text>
+<text id="1760300">Nagolenniki rycerzy niegdyś wiernych sędziemu Rykardowi.
+Czas jeszcze nie przyćmił ich blasku.</text>
+<text id="1761100">Zbroja rycerzy niegdyś wiernych sędziemu Rykardowi.
+
+Widnieje na niej herb, którego już nikt nie nosi, należący do władcy, który od wzniosłej ambicji przeszedł do niezaspokojonego okrucieństwa.
+Gdy stracił godność, jego rycerze stracili pana.</text>
+<text id="1770000">Hełm rycerzy wiernych Godrickowi Zszywańcowi.
+Ozdobiony pióropuszem z wyblakłych, popielatych włosów.</text>
+<text id="1770100">Zbroja rycerzy wiernych Godrickowi Zszywańcowi.
+
+Po lewej stronie, na wysokości piersi, widnieje dwuostrzowy topór bojowy, symbol złotego rodu.
+W dawnych czasach rycerze z pewnością chełpili się swoją siłą.</text>
+<text id="1770200">Rękawice rycerzy wiernych Godrickowi Zszywańcowi.
+Czas jeszcze nie przyćmił ich blasku.</text>
+<text id="1770300">Nagolenniki rycerzy wiernych Godrickowi Zszywańcowi.
+Czas jeszcze nie przyćmił ich blasku.</text>
+<text id="1771100">Zbroja rycerzy wiernych Godrickowi Zszywańcowi.
+
+Po lewej stronie, na wysokości piersi, widnieje dwuostrzowy topór bojowy, symbol złotego rodu.
+W dawnych czasach rycerze z pewnością chełpili się swoją siłą.</text>
+<text id="1780000">Hełm rycerzy Akademii Rai Lucarii.
+Na jego krawędzi znajduje się pojedyncze kukułcze pióro.</text>
+<text id="1780100">Zbroja rycerzy Akademii Rai Lucarii.
+
+Na jej lewej piersi widnieje czujna kukułka, od której zbroja wzięła swą nazwę.
+Możliwe, że przeszywające spojrzenie tego ptaka symbolizuje niezgodę rycerzy na bycie tylko sługami Akademii.</text>
+<text id="1780200">Rękawice rycerzy Akademii Rai Lucarii.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1780300">Nagolenniki rycerzy Akademii Rai Lucarii.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1781100">Zbroja rycerzy Akademii Rai Lucarii.
+
+Na jej lewej piersi widnieje czujna kukułka, od której zbroja wzięła swą nazwę.
+Możliwe, że przeszywające spojrzenie tego ptaka symbolizuje niezgodę rycerzy na bycie tylko sługami Akademii.</text>
+<text id="1790000">Hełm rycerzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+
+Złote korony drzew to znak honoru przynależności do grona obrońców drzewa.</text>
+<text id="1790100">Zbroja rycerzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+
+Po lewej stronie, na wysokości piersi, widnieje symbol wiary w Złote Drzewo. Ponoć niegdyś na tę zbroję rzucono inkantację ochronną.</text>
+<text id="1790200">Rękawice rycerzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1790300">Nagolenniki rycerzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1791100">Zbroja rycerzy, którzy przysięgli bronić Leyndell, królewskiej stolicy.
+
+Po lewej stronie, na wysokości piersi, widnieje symbol wiary w Złote Drzewo. Ponoć niegdyś na tę zbroję rzucono inkantację ochronną.</text>
+<text id="1800000">Hełm rycerzy, którzy walczyli u boku generała Radahna.
+
+Czerwony pióropusz to symbol rodowodu Radahna jako syna władcy Radagona: grzywa dumnego Czerwonego Lwa.</text>
+<text id="1800100">Zbroja noszona przez rycerzy walczących u boku generała Radahna.
+
+Rycerze Lwiej Grzywy, pokonani przez szkarłatną zgniliznę Malenii, wypalali sobie ten herb z napierśnika jako symbol swej niezłomności.
+
+„Niestety, nie powrócimy do drogiego nam domu! Albowiem naszym obowiązkiem jest trwać tutaj jako bastion przeciw zarazie”.</text>
+<text id="1800200">Czarne żelazne rękawice noszone przez rycerzy walczących u boku generała Radahna. Czas jeszcze nie odebrał im blasku.</text>
+<text id="1800300">Czarne żelazne nagolenniki noszone przez rycerzy walczących u boku generała Radahna. Czas jeszcze nie odebrał im blasku.</text>
+<text id="1801100">Zbroja noszona przez rycerzy walczących u boku generała Radahna.
+
+Rycerze Lwiej Grzywy, pokonani przez szkarłatną zgniliznę Malenii, wypalali sobie ten herb z napierśnika jako symbol swej niezłomności.
+
+„Niestety, nie powrócimy do drogiego nam domu! Albowiem naszym obowiązkiem jest trwać tutaj jako bastion przeciw zarazie”.</text>
+<text id="1810100">Zbroja noszona przez bezgłowych rycerzy nieustannie broniących Wędrownego Mauzoleum.
+
+Ozdoby w kształcie skrzydeł na plecach przywodzą na myśl ptaka śmierci. Ci wierni rycerze dobrowolnie ścinając własne głowy nałożyli na siebie klątwę, wiążącą ich duchy z ziemią  by móc służyć swym panom w śmierci.</text>
+<text id="1810200">Rękawice noszone przez bezgłowych rycerzy nieustannie broniących Wędrownego Mauzoleum.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1810300">Nagolenniki noszone przez bezgłowych rycerzy nieustannie broniących Wędrownego Mauzoleum.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1811100">Zbroja noszona przez bezgłowych rycerzy nieustannie broniących Wędrownego Mauzoleum.
+
+Ozdoby w kształcie skrzydeł na plecach przywodzą na myśl ptaka śmierci. Ci wierni rycerze dobrowolnie ścinając własne głowy nałożyli na siebie klątwę, wiążącą ich duchy z ziemią  by móc służyć swym panom w śmierci.</text>
+<text id="1820000">Hełm noszony przez rycerzy zaprzysiężonych Świętemu Drzewu.
+Zwieńczony koroną z czystego złota.
+
+Zwiększa wiarę.</text>
+<text id="1820100">Zbroja noszona przez rycerzy zaprzysiężonych Świętemu Drzewu.
+
+Po lewej stronie, na wysokości piersi, ozdobiono ją herbem Świętego Drzewa.
+Choć to Święte Drzewo od początku podlewano krwią Miquelli, ostatecznie nie wyrosło na Złote Drzewo.</text>
+<text id="1820200">Rękawice noszone przez rycerzy zaprzysiężonych Świętemu Drzewu.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1820300">Nagolenniki noszone przez rycerzy zaprzysiężonych Świętemu Drzewu.
+Czas jeszcze nie odebrał im blasku.</text>
+<text id="1821100">Zbroja noszona przez rycerzy zaprzysiężonych Świętemu Drzewu.
+
+Po lewej stronie, na wysokości piersi, ozdobiono ją herbem Świętego Drzewa.
+Choć to Święte Drzewo od początku podlewano krwią Miquelli, ostatecznie nie wyrosło na Złote Drzewo.</text>
+<text id="1830000">Żelazny hełm z szerokim rondem, powszechnie wydawany piechurom w armiach lordowskich.</text>
+<text id="1830100">Zbroja wyściełana tkaniną z kolczastym szalem opuszczonym na ramiona.
+
+Powszechnie wydawana piechurom w armii władcy.</text>
+<text id="1830200">Metalowe rękawice pokryte rysami i wgnieceniami.
+Powszechnie wydawane piechurom w armii władcy.</text>
+<text id="1830300">Metalowe nagolenniki naprawiane niezliczoną ilość razy.
+Powszechnie wydawane piechurom w armii władcy.</text>
+<text id="1840000">Hełm z ochronną metalową płytką.
+Powszechnie wydawany piechurom w armii władcy.</text>
+<text id="1840100">Zbroja wyściełana poplamioną tkaniną.
+Powszechnie wydawana piechurom w armii władcy.</text>
+<text id="1850000">Czapka z kołnierzem wykonana z pozłacanego żelaza.
+Wydawana piechurom z Leyndell, królewskiej stolicy.</text>
+<text id="1850100">Zbroja wyściełana tkaniną ze skórzanym szalem opuszczonym na ramiona.
+
+Powszechnie wydawana piechurom w armiach lordowskich.</text>
+<text id="1860000">Żelazny hełm pozbawiony jakichkolwiek zdobień.
+Powszechnie wydawany piechurom w armii władcy.</text>
+<text id="1860100">Zbroja wyściełana tkaniną z charakterystycznymi plamami szkarłatnej zgnilizny.
+
+Noszona przez piechurów generała Radahna.</text>
+<text id="1870100">Wyściełana zbroja z plamami krwi, których nie da się usunąć.
+
+Noszona przez bezgłowych piechurów nieustannie strzegących Wędrownego Mauzoleum.</text>
+<text id="1880000">Żelazna czapka z kołnierzem ozdobiona koroną z czystego złota.
+Zwiększa wiarę.
+
+Noszona przez piechurów zaprzysiężonych Świętemu Drzewu.
+
+„Komu pobłogosławi Miquella, jeśli nie słabym i cierpliwym?”</text>
+<text id="1880100">Zbroja wyściełana tkaniną z szalem koloru kości słoniowej opuszczonym na ramiona.
+
+Noszona przez piechurów zaprzysiężonych Świętemu Drzewu.</text>
+<text id="1890000">Maska z długimi, potwornie poskręcanymi rogami noszona przez zabójców Omenów.
+Zwiększa siłę.
+
+Przedstawia uśmiechniętą twarz starca, wykrzywioną w niegodziwej rozkoszy.
+
+Oblicze zostało wyrzeźbione na podobieństwo złych duchów, które nawiedzają Omeny w koszmarach.</text>
+<text id="1890100">Szata noszona przez zabójców Omenów, oprawców wypaczonych sumień.
+
+Jej gruby fartuch nosi się ku pamięci Rolla, przodka zabójców Omenów, starożytnego perfumiarza.</text>
+<text id="1890200">Długie i sztywne skórzane rękawice noszone przez zabójców Omenów.</text>
+<text id="1890300">Sztywne skórzane buty noszone przez zabójców Omenów.</text>
+<text id="1900000">Szary skarabeusz noszony na głowie.
+Te skarabeusze turlają grudy popiołów wojny.
+
+Nieznaczne zmniejsza koszt PS umiejętności, ale zwiększa odnoszone obrażenia.</text>
+<text id="1901000">Złoty skarabeusz noszony na głowie.
+Te skarabeusze turlają grudy inkantacji.
+
+Nieznaczne zmniejsza koszt PS inkantacji, ale zwiększa odnoszone obrażenia.
+
+Gdy skarabeusz jest bliski śmierci, porzuca toczony przez siebie skarb i szeroko rozkłada skrzydła, by wyruszyć w długą podróż do gniazda rodzinnego.</text>
+<text id="1902000">Zielono-błękitny skarabeusz noszony na głowie.
+Te skarabeusze turlają grudy czarów.
+
+Nieznaczne zmniejsza koszty PS czarów, ale zwiększa odnoszone obrażenia.</text>
+<text id="1910000">Czerwony skarabeusz noszony na głowie.
+Czerwone skarabeusze turlają grudy szkarłatnych łez.
+
+Nieznaczne zwiększa efekty przywracania przez butelkę szkarłatnych łez, ale zwiększa odnoszone obrażenia.</text>
+<text id="1920000">Błękitny skarabeusz noszony na głowie.
+Te skarabeusze turlają grudy modrych łez.
+
+Nieznaczne zwiększa efekty przywracania przez butelkę modrych łez, ale zwiększa odnoszone obrażenia.</text>
+<text id="1930100">Niezwykle cienka, przezroczysta biała suknia noszona przez Towarzyszkę na Łożu Śmierci, gdy ta obejmuje zmarłych.
+
+Powoli przywraca PŻ pobliskich sojuszników, ale nie działa na noszącą ją osobę.
+
+Tkanina jest niezwykle miękka w dotyku, aby nie skrzywdzić nawet najbardziej uschniętego ciała, a przy tym nadal ogrzewać.</text>
+<text id="1930300">Spódnica Fii, Towarzyszki na Łożu Śmierci.</text>
+<text id="1940000">Kaptur z czarnego materiału zakrywający całą głowę.
+Noszony przez Fię, Towarzyszkę na Łożu Śmierci,
+podczas podróży, którą odbyła po wygnaniu jej z domu.
+
+Tkanina jest miękka jak jedwab.</text>
+<text id="1940100">Szata z czarnego materiału zakrywająca całe ciało.
+Noszona przez Fię, Towarzyszkę na Łożu Śmierci podczas podróży, którą odbyła po wygnaniu jej z domu.
+
+Tkanina jest miękka jak jedwab i na tyle cienka, że obejmowane osoby mogą wyczuć puls Fii i jej ciepło.</text>
+<text id="1941100">Szata z czarnego materiału zakrywająca całe ciało.
+Noszona przez Fię, Towarzyszkę na Łożu Śmierci podczas podróży, którą odbyła po wygnaniu jej z domu.
+
+Tkanina jest miękka jak jedwab i na tyle cienka, że obejmowane osoby mogą wyczuć puls Fii i jej ciepło.</text>
+<text id="1950000">%null%</text>
+<text id="1950100">%null%</text>
+<text id="1950200">%null%</text>
+<text id="1950300">%null%</text>
+<text id="1960000">%null%</text>
+<text id="1970100">%null%</text>
+<text id="1970200">%null%</text>
+<text id="1980000">Obrzydliwie poplamiony i potargany kaptur.
+Noszony przez dawnych piechurów, którzy stali się bandytami.</text>
+<text id="1980100">Obrzydliwie poplamiona i potargana zbroja z tkaniny.
+Noszona przez dawnych piechurów, którzy stali się bandytami.</text>
+<text id="1980200">Obrzydliwie poplamione i potargane rękawice.
+Noszone przez dawnych piechurów, którzy stali się bandytami.</text>
+<text id="1990000">Kaptur giermka, który otrzymał specjalne przywileje od swojego szlachcica.
+
+Niepozorny wygląd, przywodzący na myśl worek, pasuje do niezauważanej i ignorowanej pozycji noszącego.</text>
+<text id="1990100">Ubranie wybranego giermka, któremu szlachcic nadał specjalne przywileje.
+
+Ubiór podróżny wykonany z wyjątkową precyzją, by giermek nie przyniósł wstydu swemu panu.</text>
+<text id="1991100">Ubranie wybranego giermka, któremu szlachcic nadał specjalne przywileje.
+
+Ubiór podróżny wykonany z wyjątkową precyzją, by giermek nie przyniósł wstydu swemu panu.</text>
+<text id="2000000">Hełm z brązu ozdobiony niezliczonymi wężami, przeżarty przez szkarłatną zgniliznę.
+
+Noszony przez gladiatorów, których wygnano z koloseum.
+Jego właściciel staje się trochę łatwiejszym celem dla wrogów.</text>
+<text id="2000100">Gruby, szczeciniasty płaszcz przeżarty przez szkarłatną zgniliznę.
+
+Symbol podziemnego posterunku strażnika grobów.</text>
+<text id="2000300">Nagolenniki oplecione wężami z brązu, przeżarte przez szkarłatną zgniliznę.
+
+Noszone przez gladiatorów, których wygnano z koloseum.
+Ich właściciel staje się trochę łatwiejszym celem dla wrogów.</text>
+<text id="2001100">Strój, na który składają się owijające ramiona węże z brązu, przeżarte przez szkarłatną zgniliznę.
+
+Noszony przez gladiatorów, których wygnano z koloseum.
+Ich właściciel staje się trochę łatwiejszym celem dla wrogów.</text>
+<text id="2010000">Grzyby porastające całe ciało.
+Te wielkie grzyby tworzą olbrzymie nakrycie głowy.
+
+Zwiększają siłę ataku, jeśli coś w pobliżu jest dotknięte zatruciem lub zgnilizną.
+
+Dawno temu wielcy władcy służyli szkarłatnej zgniliźnie. Może takie grzybne masy służyły im za korony.</text>
+<text id="2020000">Maska nakładana na głowę ofiary, aby nadać torturom dodatkowy stopień okrucieństwa.
+Wzmaga lęki i podnosi świadomość wszelkich form bólu.
+
+Zwiększa siłę ataku, gdy nosząca ją osoba jest dotknięta szaleństwem.
+
+Kiedy oprawca sięga po czarny pieróg, nie chce już odpowiedzi; chce jedynie zadać cierpienie bez nadziei na ulgę.</text>
+<text id="2030000">Szata noszona przez uczonych kodeksu Lazuli, wyjątkowego w Akademii Rai Lucarii.
+
+Uczeni, którzy starali się opanować karyjską magię, zamiast tego nauczyli się postrzegać księżyc jako równy gwiazdom.
+Ta szata w odcieniu pełni księżyca symbolizuje ich herezję.</text>
+</entries>
+</fmg>

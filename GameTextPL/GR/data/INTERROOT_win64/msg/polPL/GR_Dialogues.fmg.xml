@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">ANULUJ</text>
+<text id="3">TAK</text>
+<text id="4">NIE</text>
+<text id="15">PONÓW PRÓBĘ</text>
+<text id="16">KONTYNUUJ</text>
+<text id="17">MENU GŁÓWNE</text>
+<text id="40200">Za mało runów</text>
+<text id="40201">Potrzebne są dodatkowe przedmioty</text>
+<text id="40202">Za mało przedmiotów/runów</text>
+<text id="40300">Nastąpi powrót do ustawień domyślnych.
+OK?</text>
+<text id="40500">Nastąpi przywrócenie ustawień domyślnych.
+OK?</text>
+<text id="102000">Wyrzucasz: &lt;?itemName?&gt;.
+OK?</text>
+<text id="102001">Usuwasz: &lt;?itemName?&gt;.
+OK?</text>
+<text id="102002">Wyrzucasz wszystkie wybrane przedmioty.
+OK?</text>
+<text id="102003">Usuwasz wszystkie wybrane przedmioty.
+OK?</text>
+<text id="102004">Jednocześnie możesz wyrzucić tylko osiem przedmiotów.
+Jeśli wyrzucisz więcej przedmiotów, zostaną one stracone, poczynając od najstarszych.
+Zgadzasz się na to?</text>
+<text id="102005">Przedmiot (&lt;?itemName?&gt;) posiada popioły wojny.
+Jeśli stracisz ten przedmiot, jego popioły wojny również przepadną.
+Zgadzasz się na to?</text>
+<text id="102006">Przedmiot (&lt;?itemName?&gt;) posiada popioły wojny.
+Jeśli wyrzucisz ten przedmiot, jego popioły wojny przepadną.
+Zgadzasz się na to?</text>
+<text id="102007">Wybrany przedmiot posiada popioły wojny.
+Jeśli stracisz ten przedmiot, jego popioły wojny również przepadną.
+Zgadzasz się na to?</text>
+<text id="102008">Wybrany przedmiot posiada popioły wojny.
+Jeśli wyrzucisz ten przedmiot, jego popioły wojny przepadną.
+Zgadzasz się na to?</text>
+<text id="102009">%null%</text>
+<text id="102010">Ta akcja przekroczy limit runów.
+Runy przekraczające limit zostaną utracone.
+Użyć mimo to?</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">Nie można usunąć tych popiołów wojny, ponieważ
+w ekwipunku masz już ich maksymalną liczbę</text>
+<text id="102021">Obecnie używanych popiołów wojny nie można usunąć,
+ponieważ w ekwipunku masz już ich maksymalną liczbę</text>
+<text id="103000">Obecne cechy nie pozwalają skutecznie używać tego przedmiotu</text>
+<text id="103001">Obecne cechy nie pozwalają skutecznie używać tego przedmiotu
+bez chwycenia go oburącz.</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">Nie można przyzwać tego ducha na obecnym poziomie</text>
+<text id="103110">Nie można założyć talizmanu niekompatybilnego z już założonym.</text>
+<text id="103130">Teraz nie można zmienić wyposażenia.</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">Utrata miejsc w pamięci spowoduje usunięcie nadmiarowych czarów lub inkantacji.
+Zgadzasz się na to?</text>
+<text id="103141">Czary i inkantacje przekraczające liczbę miejsc w pamięci zostały usunięte</text>
+<text id="104000">Historia haseł do gry wieloosobowej</text>
+<text id="104001">Wybierz hasło</text>
+<text id="104002">Historia haseł grupy</text>
+<text id="104003">Wybierz hasło</text>
+<text id="104004">Brak historii haseł do gry wieloosobowej</text>
+<text id="104005">Brak historii haseł grupy</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">Użycie remedium palca odeśle przyzwane duchy.
+Zgadzasz się na to?</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">Użycie remedium palca usunie twój znak przyzwania.
+Zgadzasz się na to?</text>
+<text id="110000">Zapisać grę i wrócić do menu głównego?</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">Zapisać grę i wrócić do pulpitu?</text>
+<text id="110316">Wróć do ekranu tytułowego, by zmienić ustawienia języka</text>
+<text id="111100">Ustawienia zostały zmienione.
+Poprzednie ustawienia zostaną przywrócone za &lt;?remainingSec?&gt; sek.
+Zachować obecne ustawienia?</text>
+<text id="111101">Zachować obecne ustawienia?</text>
+<text id="111102">Niektóre ustawienia zostaną zastosowane jedynie po powrocie do ekranu tytułowego</text>
+<text id="111103">To ustawienie zostanie zastosowane po ponownym uruchomieniu gry</text>
+<text id="111104">Ustawienia zostały zmienione.
+Poprzednie ustawienia zostaną przywrócone za &lt;?remainingSec?&gt; sek.
+Zachować obecne ustawienia?</text>
+<text id="111105">Niektóre ustawienia zostaną zastosowane jedynie po powrocie do ekranu tytułowego</text>
+<text id="111106">HDR wł.</text>
+<text id="111107">HDR wył.</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">Nie wprowadzono niektórych zmian ustawień.
+Aby je zastosować, wróć do ekranu tytułowego.</text>
+<text id="211001">Udasz się do miejsca: &lt;?placeName?&gt;.
+OK?</text>
+<text id="211002">Z tego miejsca nie można podróżować do miejsca łaski</text>
+<text id="211003">W czasie gry wieloosobowej nie można podróżować do miejsca łaski</text>
+<text id="211004">W tej chwili nie możesz podróżować do miejsca łaski</text>
+<text id="211005">Jesteś w pułapce.
+Nie możesz podróżować do miejsc łaski, dopóki przy jakimś nie odpoczniesz.</text>
+<text id="211006">W tej chwili nie można podróżować do miejsca łaski</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">W tej chwili nie można podróżować do miejsca łaski</text>
+<text id="211100">Nastąpi usunięcie wszystkich umieszczonych znaczników.
+Zgadzasz się na to?</text>
+<text id="211101">Umieszczono maksymalną liczbę znaczników i nie można umieścić kolejnego</text>
+<text id="211200">Nie można przybliżyć miejsca, w którym się znajdujesz</text>
+<text id="211300">Masz zaznaczoną maksymalną liczbę miejsc
+łaski i nie możesz zaznaczyć kolejnych</text>
+<text id="211400">Z tego miejsca łaski zostanie usunięty znacznik.
+Zgadzasz się na to?</text>
+<text id="212000">Chcesz wydać runy &lt;?demandSoul?&gt; i awansować?</text>
+<text id="212001">Rozwinięcie zostanie anulowane.
+Zgadzasz się na to?</text>
+<text id="212002">Wybierz przynajmniej jedną cechę do rozwinięcia.</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">Masz maksymalny poziom.
+Nie możesz bardziej rozwinąć postaci.</text>
+<text id="212750">Chcesz się odrodzić?</text>
+<text id="212751">Odrodzenie zostanie anulowane</text>
+<text id="212752">Rozdziel punkty cech tak, by osiągnęły pierwotny poziom.</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">To spowoduje utratę miejsc w pamięci.
+Utrata miejsc w pamięci spowoduje usunięcie
+nadmiarowych czarów lub inkantacji.
+Dokonać odrodzenia?</text>
+<text id="212761">Czary/inkantacje przekraczające liczbę miejsc w pamięci
+zostały usunięte</text>
+<text id="214000">Chcesz usunąć popioły wojny z przedmiotu: &lt;?itemNameBeforeForge?&gt;
+i umieścić je w przedmiocie: &lt;?itemNameAfterForge?&gt;?</text>
+<text id="215000">Jeśli zmienisz używany wielki run, efekty
+obecnego wielkiego runu zostaną usunięte.
+Zgadzasz się na to?</text>
+<text id="216000">Wzmocnić przedmiot: &lt;?itemNameBeforeForge?&gt;, 
+by stworzyć: &lt;?itemNameAfterForge?&gt;?</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">Nie można wzmocnić, ponieważ masz już przedmiot: 
+&lt;?itemNameAfterForge?&gt;</text>
+<text id="221000">Wzmocnić przedmiot: &lt;?itemNameBeforeForge?&gt;,
+by stworzyć: &lt;?itemNameAfterForge?&gt;?</text>
+<text id="221011">Oręża nie można już bardziej wzmocnić przy stole kowala</text>
+<text id="225000">Ofiaruj następującą liczbę smoczych serc:  (&lt;?demandSoul?&gt;),
+by otrzymać przedmiot: &lt;?itemName?&gt;</text>
+<text id="225020">Nie można otrzymać.
+Osiągnięto maksymalną pojemność ekwipunku i schowka.</text>
+<text id="225100">Ta siła już należy do ciebie</text>
+<text id="226000">Oddaj odłamki gwiezdnego blasku (&lt;?demandSoul?&gt;),
+by otrzymać: &lt;?itemName?&gt;</text>
+<text id="226020">Nie można otrzymać.
+Osiągnięto maksymalną pojemność ekwipunku i schowka.</text>
+<text id="226100">Ta kukiełka już jest twoja</text>
+<text id="227000">Powiel: &lt;?itemName?&gt;</text>
+<text id="227020">Nie można powielić.
+Osiągnięto maksymalną pojemność ekwipunku i schowka.</text>
+<text id="227100">Nie można dalej powielać tego popiołu wojny</text>
+<text id="230000">Weź: &lt;?itemName?&gt;</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">Przedmioty powyżej liczby maksymalnej umieszczono w skrzyni</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Nie można otrzymać.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="230100">Powiel: &lt;?itemName?&gt;</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">Przedmioty powyżej liczby maksymalnej umieszczono w skrzyni</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">Nie można powielić.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="230150">Nie można dalej powielać tego wizerunku </text>
+<text id="231000">Kup &lt;?itemName?&gt;
+za runy (&lt;?demandSoul?&gt;)</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">Przedmioty powyżej liczby maksymalnej zostały umieszczone w skrzyni.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">Zakup niemożliwy.
+Wybrana liczba przedmiotów przekroczy limit pojemności
+ekwipunku i schowka.</text>
+<text id="231100">Asortyment wyczerpany.
+Nie można więcej kupić.</text>
+<text id="231500">Otrzymaj &lt;?itemName?&gt;
+za runy (&lt;?demandSoul?&gt;)</text>
+<text id="231501">%null%</text>
+<text id="231502">%null%</text>
+<text id="231503">%null%</text>
+<text id="231504">%null%</text>
+<text id="231505">%null%</text>
+<text id="231506">%null%</text>
+<text id="231507">%null%</text>
+<text id="231508">%null%</text>
+<text id="231509">%null%</text>
+<text id="231510">Przedmioty powyżej liczby maksymalnej umieszczono w skrzyni</text>
+<text id="231511">%null%</text>
+<text id="231512">%null%</text>
+<text id="231513">%null%</text>
+<text id="231514">%null%</text>
+<text id="231515">%null%</text>
+<text id="231516">%null%</text>
+<text id="231517">%null%</text>
+<text id="231518">%null%</text>
+<text id="231519">%null%</text>
+<text id="231520">Nie można otrzymać.
+Osiągnięto maksymalną pojemność ekwipunku i schowka.</text>
+<text id="231550">Nie możesz otrzymać duplikatów wyposażenia czempiona</text>
+<text id="232000">Sprzedać: &lt;?itemName?&gt;
+za runy (&lt;?sellSouls?&gt;)?</text>
+<text id="232001">%null%</text>
+<text id="232002">Nie można sprzedać obecnie wyposażonych przedmiotów.</text>
+<text id="232003">Nie można sprzedać tego przedmiotu.</text>
+<text id="232004">Przedmiot (&lt;?itemName?&gt;) otrzymuje popioły wojny.
+Jeśli sprzedasz ten przedmiot, jego popioły wojny przepadną.
+Zgadzasz się na to?</text>
+<text id="235000">Przydzielić?</text>
+<text id="235001">Anulowanie przydzielania.
+Zgadzasz się na to?</text>
+<text id="236001">Stwórz: &lt;?itemName?&gt;</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">Stworzone przedmioty powyżej liczby maksymalnej umieszczono w skrzyni</text>
+<text id="236011">Nie możesz stworzyć tego przedmiotu.
+Liczba przedmiotów, które chcesz stworzyć,
+przekroczy limit pojemności ekwipunku i schowka.</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">Nie można stworzyć przedmiotu, ponieważ masz za mało pękniętych garnków</text>
+<text id="236021">Nie można stworzyć przedmiotu, ponieważ masz za mało butelek perfum</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">Nie można stworzyć przedmiotu, ponieważ masz za mało ceremonialnych garnków</text>
+<text id="236050">Nie można stworzyć przedmiotu, ponieważ nie masz żadnych pękniętych garnków</text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">Nie można stworzyć przedmiotu, ponieważ nie masz żadnych ceremonialnych garnków</text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">Nie można stworzyć przedmiotu, ponieważ nie masz żadnych butelek perfum</text>
+<text id="236201">Wydaj wizerunek i runy (&lt;?demandSoul?&gt;),
+żeby otrzymać przedmiot: &lt;?itemName?&gt;</text>
+<text id="236202">Zdobądź przedmiot: &lt;?itemName?&gt; w zamian za wizerunek</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">Przedmioty powyżej liczby maksymalnej umieszczono w skrzyni</text>
+<text id="236211">Nie możesz otrzymać tej mocy.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">Ten wizerunek nie może dać ci więcej mocy,
+ponieważ masz jej maksymalny poziom</text>
+<text id="236401">Zmień na: &lt;?itemName?&gt;</text>
+<text id="236402">Użyj runów (&lt;?demandSoul?&gt;), by zmienić na: &lt;?itemName?&gt;</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">Zmienione przedmioty powyżej limitu umieszczono w skrzyni</text>
+<text id="236411">Nie możesz zmienić tych przedmiotów.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">Nie można wykonać ponieważ osiągnięto dopuszczalny limit</text>
+<text id="237000">Butelka szkarłatnych łez</text>
+<text id="237001">Butelka modrych łez</text>
+<text id="241000">Znaleziono nową mapę.
+(Rejon Pogrobna, zachód)</text>
+<text id="241001">Znaleziono nową mapę.
+(Płaczący Półwysep)</text>
+<text id="241002">Znaleziono nową mapę.
+(Rejon Pogrobna, wschód)</text>
+<text id="241003">Znaleziono nową mapę.
+(Liurnia, wschód)</text>
+<text id="241004">Znaleziono nową mapę.
+(Liurnia, północ)</text>
+<text id="241005">Znaleziono nową mapę.
+(Liurnia, zachód)</text>
+<text id="241006">Znaleziono nową mapę.
+(Płaskowyż Altus)</text>
+<text id="241007">Znaleziono nową mapę.
+(Leyndell, królewska stolica)</text>
+<text id="241008">Znaleziono nową mapę.
+(Góra Gelmir)</text>
+<text id="241009">Znaleziono nową mapę.
+(Caelid)</text>
+<text id="241010">Znaleziono nową mapę.
+(Smocze Kurhany)</text>
+<text id="241011">Znaleziono nową mapę.
+(Szczyty Olbrzymów, zachód)</text>
+<text id="241012">Znaleziono nową mapę.
+(Szczyty Olbrzymów, wschód)</text>
+<text id="241013">Znaleziono nową mapę.
+(Uświęcona śnieżna dolina)</text>
+<text id="241014">%null%</text>
+<text id="241100">Znaleziono nową mapę.
+(Rzeka Ainsel)</text>
+<text id="241101">Znaleziono nową mapę.
+(Jezioro Zgnilizny)</text>
+<text id="241102">Znaleziono nową mapę.
+(Pałac Mohgwynów)</text>
+<text id="241103">Znaleziono nową mapę.
+(Rzeka Siofra)</text>
+<text id="241104">Znaleziono nową mapę.
+(Głębiny)</text>
+<text id="241105">%null%</text>
+<text id="251020">Nie można zmagazynować obecnie wyposażonych przedmiotów.</text>
+<text id="251021">Wybranego przedmiotu nie można umieścić w schowku.</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">Nie można schować przedmiotu.
+Schowek jest pełny.</text>
+<text id="251031">Nie można zabrać przedmiotu.
+Ekwipunek jest pełny.</text>
+<text id="261000">Zbyt mało miejsc w pamięci</text>
+<text id="261001">Zbyt mało wolnych miejsc.</text>
+<text id="261002">Brak miejsc w pamięci</text>
+<text id="261003">Nie można zapamiętać duplikatów czarów lub inkantacji</text>
+<text id="261004">Obecne cechy nie pozwalają użyć tego czaru lub inkantacji</text>
+<text id="280001">Nastąpi przywrócenie ustawień domyślnych.
+OK?</text>
+<text id="281000">Nie można ustawić drugi raz tego samego przedmiotu</text>
+<text id="290001">Anulować tworzenie postaci i powrócić do wyboru podstawy?</text>
+<text id="290002">Rozpoczniesz grę tą postacią.
+OK?</text>
+<text id="290003">Wymagane jest imię.
+
+Podaj imię, by dokończyć tworzenie postaci.</text>
+<text id="290004">Nie udało się zapisać danych postaci.</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">Zmiany zostaną odrzucone.
+OK?</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">Wpisany tekst jest uznawany za nieodpowiedni i nie może być
+imieniem postaci.
+
+Wprowadź inne imię.</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">Zmiana płci cofnie część zmian.
+
+OK?</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">Zmiana wyglądu pociągnie za sobą utratę wszelkich niezapisanych zmian.
+
+Czy chcesz kontynuować?</text>
+<text id="290101">Chcesz zrezygnować ze zmian i przerwać modyfikowanie kosmetyki?</text>
+<text id="290102">Chcesz zakończyć modyfikowanie kosmetyki i grać dalej tą postacią?</text>
+<text id="290103">Wymagane jest imię.
+Podaj imię, by dokończyć modyfikowanie kosmetyki.</text>
+<text id="290121">Chcesz zrezygnować ze zmian i przerwać modyfikowanie kosmetyki?</text>
+<text id="290122">Chcesz zakończyć modyfikowanie kosmetyki i grać dalej tą postacią?</text>
+<text id="290123">Wymagane jest imię.
+Podaj imię, by dokończyć modyfikowanie kosmetyki.</text>
+<text id="290200">Zapisać obecne ustawienia jako ulubione?</text>
+<text id="290201">Czy chcesz nadpisać ustawienia ulubione i zapisać obecne ustawienia?</text>
+<text id="290202">Odrzucić wprowadzone zmiany i wczytać ulubione?</text>
+<text id="290203">Nie można wczytać wyglądu odpowiadającego innej budowie ciała.</text>
+<text id="290204">Usuniesz wybrany wygląd.
+OK?</text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">Brak zapisanych ulubionych</text>
+<text id="290300">W tej chwili nie można edytować.
+Aby to umożliwić, ustaw „oko zmian” jako wyłączone.</text>
+<text id="311000">Wiadomość zostanie skasowana.
+OK?</text>
+<text id="311001">Poprzeć tę wiadomość?</text>
+<text id="311002">Zdyskredytować tę wiadomość?</text>
+<text id="321000">Stwórz tę wiadomość</text>
+<text id="321001">W ten sposób skasujesz tworzoną wiadomość.
+Zgadzasz się na to?</text>
+<text id="322000">Skasować tę wiadomość z listy?</text>
+<text id="334510">Nie można otrzymać: &lt;?itemName?&gt;.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="334511">Nie można otrzymać wszystkich sztuk: &lt;?itemName?&gt;.
+Docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">Części przedmiotów nie można było uzyskać,
+gdyż docelowa liczba przekracza limit
+pojemności ekwipunku i schowka.</text>
+<text id="401172">Do gry w testową wersję sieciową gry ELDEN RING
+potrzebne jest połączenie z siecią.
+Nastąpi powrót do ekranu tytułowego.</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404010">Odrzucić wprowadzone zmiany i wrócić do poprzedniej strony?</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">Z włączonym HDR:
+Obraz można dostosować w menu systemu w grze</text>
+<text id="406011">Rozpoczęcie przy użyciu wybranego profilu</text>
+<text id="406012">Usunąć wybrany profil i rozpocząć nową grę?</text>
+<text id="406013">Usuniesz wybrany profil.
+OK?</text>
+<text id="450000">Chcesz rozpocząć podróż po raz &lt;?nextLoopCount?&gt;?
+Jeśli teraz nie zaczniesz od nowa, możesz zdecydować, że zaczniesz
+podróż po raz &lt;?nextLoopCount?&gt;, później przy Stole Utraconej Łaski
+w Twierdzy Okrągłego Stołu.</text>
+<text id="450001">Jeśli rozpoczniesz podróż po raz (&lt;?nextLoopCount?&gt;), nie będzie możliwy
+powrót do obecnego świata, w którym odbyto już tyle podróży: (&lt;?loopCount?&gt;).
+Chcesz zacząć podróż po raz (&lt;?nextLoopCount?&gt;)?</text>
+<text id="502000">Chcesz odesłać wybranego gracza do jego świata?</text>
+<text id="502001">Brak gracza do odesłania</text>
+<text id="550000">Gra wieloosobowa jest tymczasowo wyłączona z powodu 
+powtarzającego się nieprawidłowego kończenia sesji wieloosobowych</text>
+<text id="550100">Powrócono do twojego świata z powodu braku aktywności</text>
+<text id="550200">Imię postaci zostało zastąpione podkreśleniem,
+ponieważ wcześniej nic nie wpisano.</text>
+<text id="620001">Wrócić do menu głównego?</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">Zamknąć przewodnik po sterowaniu i rozpocząć grę?</text>
+<text id="620100">Ponieważ praca nad tym produktem wciąż trwa, niektóre funkcje
+(w tym elementy wykorzystujące sieć Xbox) mogą
+nie działać w sposób zamierzony i skutkować jego zamknięciem</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">Inaczej niż w wersji ostatecznej gra z wykorzystaniem tego produktu jest niemożliwa
+przy braku połączenia internetowego</text>
+</entries>
+</fmg>

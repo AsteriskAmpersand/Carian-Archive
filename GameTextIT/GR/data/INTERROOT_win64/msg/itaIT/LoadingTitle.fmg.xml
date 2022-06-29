@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Accovacciarsi</text>
+<text id="2">Guardia</text>
+<text id="3">Contrattacchi in difesa</text>
+<text id="4">Armamenti a due mani</text>
+<text id="5">Attacchi caricati e in salto</text>
+<text id="6">Abilità</text>
+<text id="7">Uso della parata</text>
+<text id="8">Impostare un bersaglio</text>
+<text id="9">Mira di precisione</text>
+<text id="10">Equipaggiare armamenti</text>
+<text id="11">Usare oggetti</text>
+<text id="12">Usare la torcia</text>
+<text id="13">Colpi critici</text>
+<text id="14">Gesti</text>
+<text id="15">La mappa</text>
+<text id="16">Saltare con le fonti spiritiche</text>
+<text id="17">Scorciatoia oggetti</text>
+<text id="50">Morire e perdere rune</text>
+<text id="51">%null%</text>
+<text id="52">Evocare spiriti</text>
+<text id="53">Riposare nei luoghi di grazia</text>
+<text id="54">Trovare i luoghi di grazia</text>
+<text id="55">Guida della grazia</text>
+<text id="56">Ampolle sacre</text>
+<text id="57">Viaggi veloci ai luoghi di grazia</text>
+<text id="58">Attacchi a cavallo</text>
+<text id="59">Aree precluse ai cavalli</text>
+<text id="60">Creazione oggetti</text>
+<text id="61">Oggetti con recipienti</text>
+<text id="62">Personalizzare gli armamenti</text>
+<text id="63">%null%</text>
+<text id="64">Tornare in vita dopo la morte</text>
+<text id="65">Carico equipaggiamento</text>
+<text id="66">Durante il combattimento</text>
+<text id="67">Potenziare gli spiriti</text>
+<text id="68">Avanzare di livello</text>
+<text id="69">%null%</text>
+<text id="70">Stato: avvelenamento</text>
+<text id="71">Stato: marcescenza scarlatta</text>
+<text id="72">Stato: sanguinamento</text>
+<text id="73">Stato: assideramento</text>
+<text id="74">Stato: sonno</text>
+<text id="75">Stato: follia</text>
+<text id="76">Stato: morbo mortale</text>
+<text id="77">Stabilità</text>
+<text id="100">Obiettivo dell'alleato (Dito torto)</text>
+<text id="101">Obiettivo dell'avversario (Duellante)</text>
+<text id="102">Limiti del multigiocatore</text>
+<text id="103">Vedere i segni di evocazione</text>
+<text id="104">Lasciare segni cooperativi</text>
+<text id="105">Lasciare segni ostili</text>
+<text id="106">Invasioni</text>
+<text id="107">Richieste di supporto</text>
+<text id="108">Fornire supporto</text>
+<text id="109">Bacini di evocazione</text>
+<text id="110">Password di gruppo</text>
+<text id="111">Password multigiocatore</text>
+<text id="112">Messaggi</text>
+<text id="113">Limiti di movimento in multigiocatore</text>
+<text id="114">Spettri</text>
+<text id="115">Macchie di sangue</text>
+<text id="116">Obiettivo di supporto (Cacciatore)</text>
+<text id="117">Segni di evocazione</text>
+<text id="118">Messaggi avanzati</text>
+<text id="119">Obiettivo dell'invasore</text>
+<text id="150">Limiti della difesa</text>
+<text id="151">Sbilanciare il nemico</text>
+<text id="152">Disarcionare i nemici in sella</text>
+<text id="153">Nemici temprati</text>
+<text id="154">%null%</text>
+<text id="200">Scarabei della lacrima</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>
