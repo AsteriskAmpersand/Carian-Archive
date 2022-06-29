@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Duckt Euch, um schwerer von Gegnern entdeckt zu werden.
+Besonders effektiv in hohem Gras.
+Angriffe auf einen Gegner, der Euch nicht bemerkt hat, verursachen mehr Schaden als normal.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Haltet eine Waffe in der linken Hand (oder in beiden Händen), um Angriffe abzuwehren.
+Schilde sind besonders effektiv für die Abwehr.
+Das Abwehren verbraucht Ausdauer.
+Verbraucht Ihr all Eure Ausdauer beim Abwehren, bricht Eure Haltung.
+
+&lt;?keyicon@24?&gt;: Abwehren</text>
+<text id="3">Wenn Ihr einen gegnerischen Angriff geblockt habt, könnt Ihr sofort einen Gegenangriff ausführen.
+Abwehrkonter können die Haltung des Gegners leicht brechen.
+
+&lt;?keyicon@23?&gt; sofort nach dem Blocken eines Angriffs: Abwehrkonter</text>
+<text id="4">Durch das beidhändige Führen einer Waffe erhöht sich die effektive Stärke dieser Waffe um 50 %.
+Dies erleichtert Attributsvoraussetzungen und lässt Waffen, die an Eure Stärke gebunden sind, mehr Schaden verursachen.
+Außerdem sind die mithilfe dieser Waffe ausgeführten Angriffe mit dem Schild schwieriger abzuwehren.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Waffe beidhändig führen</text>
+<text id="5">Aufgeladene und Sprungangriffe sind mächtig.
+Sie erleichtern es Euch, die Haltung eines Gegners zu brechen.
+Sie eignen sich ebenfalls, um berittene Gegner von ihrem Ross zu stoßen.
+
+&lt;?keyicon@23?&gt; halten: Aufgeladener Angriff
+&lt;?keyicon@23?&gt; beim Springen: Sprungangriff</text>
+<text id="6">Waffen haben Talente, also besondere Fertigkeiten.
+Es gibt viele verschiedene Talente, von mächtigen Angriffen bis hin zu zeitlich begrenzten Effekten.
+Der Einsatz von Talenten verbraucht FP.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">Schilde erlauben es Euch, gegnerische Nahkampfangriffe mit dem Talent "Parieren" abzuwehren.
+Erfolgreiches Parieren bricht die Haltung des Gegners und eröffnet Euch die Möglichkeit, einen kritischen Treffer auszuführen.
+
+&lt;?keyicon@25?&gt; synchron mit gegnerischem Angriff: Parieren</text>
+<text id="8">Fixiert einen Gegner, damit er immer anvisiert bleibt.
+So könnt Ihr Euch beim Kämpfen besser auf ihn konzentrieren.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; bei fixiertem Ziel: Ziel wechseln</text>
+<text id="9">Wenn Ihr einen Bogen beidhändig führt, haltet &lt;?keyicon@24?&gt;, um präzises Zielen zu aktivieren.
+Ihr könnt mit &lt;?keyControlCamera?&gt; dann genauer zielen.
+Zielt bei menschenähnlichen Gegnern auf den Kopf, um großen Schaden zu verursachen.
+&lt;?keyicon@24?&gt; beim beidhändigen Führen eines Bogens: Präzises Zielen</text>
+<text id="10">Ihr könnt in jeder Hand bis zu drei Waffen ausrüsten.
+
+Manche Ausrüstung, wie etwa Schilde, ermöglicht je nach Hand unterschiedliche Aktionen.</text>
+<text id="11">Es können maximal 10 Objekte ausgerüstet werden.
+Ihr könnt auch ohne das Objekte-Menü auf ausgerüstete Objekte zugreifen.
+Weist Objekte Eurem Beutel zu, um sie direkt über das Hauptmenü zu benutzen.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Hebt Eure Fackel, um im Dunkeln weiter zu sehen.
+
+&lt;?keyicon@24?&gt; mit ausgerüsteter Fackel in linker Hand: Fackel heben</text>
+<text id="13">Im Rücken des Gegners habt Ihr die Chance, einen kritischen Treffer auszulösen.
+Kritische Treffer sind auch nach dem Brechen der Haltung des Gegners möglich.
+Haltungsbrechende kritische Treffer verursachen mehr Schaden als kritische Treffer von hinten.
+
+&lt;?keyicon@22?&gt; in der Nähe eines Euch mit dem Rücken zugewandten Gegners: Kritischer Treffer
+&lt;?keyicon@22?&gt; in der Nähe eines Gegners mit gebrochener Haltung: Kritischer Treffer</text>
+<text id="14">Benutzt "Gesten" über das Hauptmenü, um eine Reihe einfacher Posen einzunehmen.</text>
+<text id="15">Auf der Karte seht Ihr Eure aktuelle Position, das Gelände und Gebäude in der Umgebung.
+Ihr könnt Eure Karte mit neuen Informationen aktualisieren, indem Ihr Kartenfragmente in Stelen entlang der Straße findet.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Macht zu Pferde in der Nähe einer Geisterquelle einen Sprung, um auf dem Strom durch die Luft zu reiten.
+Wenn Ihr zu Pferde in eine Geisterquelle springt, nehmt Ihr auch aus großer Höhe keinen Schaden.
+
+&lt;?keyicon@8?&gt; zu Pferde, in der Nähe einer Geisterquelle: Geisterquellensprung</text>
+<text id="17">Wenn Ihr mehrere Objekte ausgerüstet habt, könnt Ihr &lt;?keyicon@18?&gt; halten, um das Objekt auf Eurem ersten Objektplatz schnell auszuwählen.
+
+&lt;?keyicon@18?&gt; halten: Erstes ausgerüstetes Objekt auswählen</text>
+<text id="50">Wenn Ihr sterbt, lasst Ihr alle Runen in Eurem Besitz am Ort Eures Todes fallen.
+Ihr könnt sie wieder einsammeln, wenn Ihr denselben Ort noch einmal erreicht.
+Falls Ihr aber erneut sterbt, bevor Ihr sie einsammeln könnt, sind sie für immer verloren.</text>
+<text id="51">%null%</text>
+<text id="52">Wenn das Denkmalsymbol links am Bildschirm angezeigt wird, könnt Ihr Geister herbeirufen.
+Es gibt mehrere verschiedene Geisterarten, die herbeigerufen werden können.
+Das Herbeirufen von Geistern verbraucht normalerweise FP.</text>
+<text id="53">Das Rasten an einem Ort der Gnade stellt Eure LP und FP wieder her und heilt Eure Statusbeschwerden.
+Außerdem werden Eure Heiligflaschen aufgefüllt.
+
+Der Großteil Eurer besiegten Gegner wird jedoch wiederbelebt.</text>
+<text id="54">Orte der Gnade, die Ihr noch nicht entdeckt habt, leuchten hell.
+Wenn Ihr beim Erkunden also ein helles Licht seht, solltet Ihr
+seine Quelle finden, an der Ihr womöglich einen Ort der Gnade entdeckt.</text>
+<text id="55">Gnade existiert, um die Befleckten zu führen und ihnen den richtigen Weg zu weisen.
+Selbst heute besitzen manche Orte der Gnade noch diese Macht.
+Ihre goldenen Strahlen werden Euch den Weg weisen.</text>
+<text id="56">Die Flasche mit Purpurtränen füllt Eure LP wieder auf.
+Die Flasche mit Himmelstränen füllt Eure FP wieder auf.
+
+An Orten der Gnade könnt Ihr jeder Flasche bestimmte Tränendosen zuweisen.
+Ihr könnt Eure Flaschen an Orten der Gnade auch mit bestimmten Objekten aufwerten.</text>
+<text id="57">Über Eure Karte könnt Ihr sofort an bereits entdeckte Orte der Gnade reisen.
+Es gibt aber auch Dungeons und Orte, an denen dies nicht möglich ist.</text>
+<text id="58">Zu Pferde könnt Ihr mit Waffen in der rechten Hand oder mit beidhändigen Waffen angreifen.
+Wenn Ihr beim Reiten eine bestimmte Menge Schaden erleidet, stürzt Ihr vom Pferd.
+Dadurch werdet Ihr sehr verwundbar.</text>
+<text id="59">Große Gebäude, Höhlen, Katakomben und ähnliche Orte sind zu Pferde nicht zugängig.
+Ihr könnt Euer Pferd an solchen Orten auch nicht herbeirufen.</text>
+<text id="60">Mit dem Werkzeugsatz könnt Ihr verschiedene Objekte aus gefundenen Materialien herstellen.
+Wählt im Hauptmenü "Objektherstellung" aus, um Objekte herzustellen.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Um bestimmte Objekte herzustellen, braucht Ihr gesprungene Töpfe oder andere Behälter.
+Die in Behältern aufbewahrten Materialien werden beim Benutzen verbraucht, die Behälter selbst bleiben aber erhalten.</text>
+<text id="62">Kriegsaschen sind Erinnerungen an Affinitäten und Talente, die Waffen vor sehr langer Zeit verliehen wurden.
+Mithilfe eines Schleifmessers könnt Ihr Eure Waffen mit Kriegsasche an einem Ort der Gnade anpassen.</text>
+<text id="63">%null%</text>
+<text id="64">Wenn Ihr sterbt, werdet Ihr am letzten Ort der Gnade wiederbelebt.
+
+Seid Ihr allerdings in der Nähe eines Pfahls von Marika gestorben, könnt Ihr stattdessen dort wiederbelebt werden.</text>
+<text id="65">Wenn Ihr über 70 % Eures maximalen Ausrüstungsgewichts tragt, werden Eure Ausweichrollen langsamer und schwerfälliger.
+Wenn Ihr Euer maximales Ausrüstungsgewicht völlig überschreitet, könnt Ihr Euch überhaupt nicht mehr abrollen.</text>
+<text id="66">Während Ihr kämpft, könnt Ihr nichts herstellen und auch Eure Karte nicht öffnen.</text>
+<text id="67">Geister, die Ihr aus der Asche herbeigerufen habt, können von einem Geistereinstimmer mächtiger gemacht werden.
+Ihr benötigt Tallilien, um Geister zu stärken.</text>
+<text id="68">Beim Stufenaufstieg könnt Ihr Eure Attribute mithilfe von Runen verbessern.
+Mit zunehmenden Attributen steigt auch Eure Stufe – und die Anzahl der benötigten Runen für Euren nächsten Attributsaufstieg.</text>
+<text id="69">%null%</text>
+<text id="70">Bei voller Giftanzeige werdet Ihr vergiftet und erleidet kontinuierlichen Schaden.
+Je höher Eure Immunität ist, desto langsamer lädt sich die Giftanzeige auf.</text>
+<text id="71">Bei voller Anzeige für Scharlachfäule werdet Ihr krank und erleidet kontinuierlichen Schaden.
+Die Scharlachfäule ist ein sehr gefährliches Leiden, doch je höher Eure Immunität ist, desto langsamer lädt sich die Anzeige auf.</text>
+<text id="72">Bei voller Blutverlustanzeige verliert Ihr Blut.
+Dadurch erleidet Ihr hohen Schaden, proportional zu Euren maximalen LP.
+Je höher Eure Robustheit ist, desto langsamer lädt sich die Blutverlustanzeige auf.</text>
+<text id="73">Bei voller Frostanzeige erleidet Ihr Schaden und friert eine Zeit lang.
+Während Ihr friert, erleidet Ihr höheren Schaden aus anderen Schadensquellen.
+Je höher Eure Robustheit ist, desto langsamer lädt sich die Frostanzeige auf.</text>
+<text id="74">Bei voller Schlafanzeige werdet Ihr schläfrig.
+Schwächere Charaktere schlafen dabei sogar völlig ein.
+Je höher Euer Fokus ist, desto langsamer lädt sich die Schlafanzeige auf.</text>
+<text id="75">Bei voller Wahnsinnsanzeige dreht Ihr durch und verliert eine große Menge LP und FP.
+Nur Menschen kann der Wahnsinn überkommen.
+Je höher Euer Fokus ist, desto langsamer lädt sich die Wahnsinnsanzeige auf.</text>
+<text id="76">Bei voller Todesanzeige sterbt Ihr auf der Stelle.
+Dies ist ein extrem gefährliches Statusleiden, doch je höher Eure Todesresistenz ist,
+desto langsamer lädt sich die Todesanzeige auf.</text>
+<text id="77">Schwere Rüstung erhöht Eurer Gleichgewicht, sodass Euch gegnerische Angriffe nicht so leicht zurückwerfen können.
+Das beidhändige Führen einer schweren Waffe hat einen ähnlichen Effekt.</text>
+<text id="100">Im Koop-Mehrspielermodus muss ein Krummfinger dem Wirt der Finger helfen, den Gebietsboss zu besiegen.
+Ein Krummfinger kehrt in seine eigene Welt zurück, wenn er stirbt oder der Boss besiegt wurde, je nachdem, was zuerst geschieht.</text>
+<text id="101">Im Wettkampf-Mehrspielermodus muss ein Duellant den Wirt der Finger besiegen.
+Ein Duellant kehrt in seine eigene Welt zurück, wenn er stirbt oder der Wirt der Finger besiegt wurde, je nachdem, was zuerst geschieht.</text>
+<text id="102">Im Mehrspielermodus können normalerweise bis zu zwei Gäste und ein Duellant oder Blutiger Finger gleichzeitig anwesend sein.
+
+Der Spieler-Wirt kann die maximale Anzahl an Eindringlingen oder Duellanten mit einer Spötterzunge erhöhen.</text>
+<text id="103">Mit einer Krummfingermedizin könnt Ihr Rufzeichen sehen, die Spieler in anderen Welten hinterlassen haben.
+
+Wenn Ihr einen anderen Spieler durch sein Rufzeichen herbeiruft, beginnt eine Mehrspielersitzung, mit Euch als Wirt der Finger.</text>
+<text id="104">Mit dem Krummfinger des Befleckten könnt Ihr ein goldenes Rufzeichen hinterlassen.
+Dieses Zeichen erscheint in den Welten anderer Spieler und erlaubt es ihnen,
+Euch im Koop-Mehrspielermodus als Krummfinger herbeizurufen.</text>
+<text id="105">Mit dem Krummfinger des Duellanten könnt Ihr ein rotes Rufzeichen hinterlassen.
+Dieses Zeichen erscheint in den Welten anderer Spieler und erlaubt es ihnen,
+Euch im Wettkampf-Mehrspielermodus als Duellanten herbeizurufen.</text>
+<text id="106">Mit einem Blutigen Eiterfinger könnt Ihr als Blutiger Finger in die Welt anderer Spieler einfallen.
+Es gibt aber auch noch andere Objekte, durch die Ihr in andere Welten einfallen könnt.</text>
+<text id="107">Benutzt Ihr einen Weißen Losungsring, fordert Ihr im Fall einer Invasion
+durch einen Blutigen Finger automatisch die Hilfe von Jägern aus anderen Welten an.
+(Das Herbeirufen ist nicht immer möglich.)</text>
+<text id="108">Benutzt Ihr einen Blauen Losungsring, seid Ihr imstande auf Hilferufe aus anderen Welten zu antworten.
+Ihr werdet dann als Jäger in diese Welten gebracht.</text>
+<text id="109">In jedem Gebiet könnt Ihr auf Märtyrerbildnisse stoßen.
+Diese Bildnisse dienen als Herbeirufungsreserven.
+
+Rufzeichen, die mit kleinen Bildnissen erstellt wurden, werden in diesen Herbeirufungsreserven gesammelt.
+An diesen Orten wird es Euch leichtfallen, andere Spieler herbeizurufen.</text>
+<text id="110">Wenn Ihr ein Gruppenpasswort festlegt, erhöht sich die Wahrscheinlichkeit, dass Ihr Nachrichten, Rufzeichen,
+Blutflecken und Phantome anderer Spieler seht, die dasselbe Passwort verwenden.</text>
+<text id="111">Wenn Ihr ein Mehrspieler-Passwort festlegt, werdet Ihr bei den meisten Mehrspieler-Features
+nur jenen Spielern zugeordnet, die dasselbe Passwort verwenden.
+
+Mehrspieler-Passwörter funktionieren allerdings nicht bei Mehrspieler-Invasionen.</text>
+<text id="112">Über das Nachrichtenmenü könnt Ihr anderen Spielern Nachrichten hinterlassen.
+
+Eure Nachricht erscheint in den Welten anderer Spieler an der Stelle, an der Ihr sie verfasst habt.</text>
+<text id="113">In Mehrspielersitzungen könnt Ihr nur ein begrenztes Gebiet erkunden.
+Alles, was darüber hinausgeht, wird durch eine Wand aus Licht abgesperrt.
+Diese Gebiete werden nach Ende der Mehrspielersitzung wieder zugänglich.</text>
+<text id="114">Hin und wieder seht Ihr womöglich schwach schimmernde, weiße Phantome.
+Das sind Spuren von Spielern in anderen Welten und Spuren ihrer jüngsten Taten.</text>
+<text id="115">Blutflecken bleiben an Stellen zurück, an denen Spieler in anderen Welten starben.
+Untersucht sie, um zu erfahren, wie diese Spieler gestorben sind.</text>
+<text id="116">Im Unterstützer-Mehrspielermodus muss ein Jäger einen Eindringling besiegen.
+Ein Jäger kehrt in seine eigene Welt zurück, wenn er stirbt oder der Eindringling besiegt wurde, je nachdem, was zuerst geschieht.</text>
+<text id="117">Spieler in anderen Welten hinterlassen zwei Arten von Rufzeichen.
+
+Mit Goldzeichen werden Krummfinger-Gäste herbeigerufen.
+Mit roten Zeichen werden Duellanten herbeigerufen.</text>
+<text id="118">Ihr könnt das Nachrichtenformat ändern, um komplexere Nachrichten zu hinterlassen.
+Ihr könnt Euren Nachrichten auch Gesten hinzufügen.
+
+&lt;?keyicon@30?&gt;: Nachrichtenformat ändern</text>
+<text id="119">Im Invasion-Mehrspielermodus muss der Eindringling den Wirt der Finger besiegen.
+Ein Eindringling kehrt in seine eigene Welt zurück, wenn er stirbt oder der Wirt der Finger besiegt wurde, je nachdem, was zuerst geschieht.</text>
+<text id="150">Angriffe mit bestimmten Affinitäten, wie zum Beispiel Feuer oder Blitz, können die Wirksamkeit von Abwehren
+im Vergleich zu normalen körperlichen Angriffen verringern.
+
+Abwehren ist gegen viele Greifangriffe wirkungslos.</text>
+<text id="151">Einige Angriffe können die Haltung eines Gegners brechen und Euch die Chance auf einen kritischen Treffer gewähren.
+Mit aufgeladenen und Sprungangriffen ist es besonders einfach, die Haltung eines Gegners zu brechen.</text>
+<text id="152">Greift einen reitenden Gegner wiederholt an, um ihn vom Reittier zu stoßen und seine Haltung zu brechen.
+Das gibt Euch die Chance, einen kritischen Treffer auszuführen.
+Mit aufgeladenen und Sprungangriffen habt Ihr die größte Chance, Gegner von ihren Reittieren zu stoßen.</text>
+<text id="153">Die Schnittangriffe scharfer Waffen sind gegen gehärtete Rüstungen und Schuppen weitgehend wirkungslos.
+Schlagangriffe treffen wahrscheinlich ins Schwarze.</text>
+<text id="154">%null%</text>
+<text id="200">Es gibt Purpurtränen- und Himmelstränenskarabäen.
+Besiegt sie, um die ihrem Typ entsprechenden Flaschen aufzufüllen.
+Ihr könnt nur so viele Flaschen auffüllen, wie es Eure maximale Anzahl erlaubt.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

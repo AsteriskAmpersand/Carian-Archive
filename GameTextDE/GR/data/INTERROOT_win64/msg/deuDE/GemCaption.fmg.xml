@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="84">%null%</text>
+<text id="85">%null%</text>
+<text id="86">%null%</text>
+<text id="87">%null%</text>
+<text id="88">%null%</text>
+<text id="89">%null%</text>
+<text id="90">%null%</text>
+<text id="91">%null%</text>
+<text id="92">%null%</text>
+<text id="93">%null%</text>
+<text id="94">%null%</text>
+<text id="95">%null%</text>
+<text id="96">%null%</text>
+<text id="97">%null%</text>
+<text id="98">%null%</text>
+<text id="99">%null%</text>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="102">%null%</text>
+<text id="103">%null%</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">%null%</text>
+<text id="107">%null%</text>
+<text id="108">%null%</text>
+<text id="109">%null%</text>
+<text id="110">%null%</text>
+<text id="111">%null%</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">%null%</text>
+<text id="121">%null%</text>
+<text id="122">%null%</text>
+<text id="123">%null%</text>
+<text id="124">%null%</text>
+<text id="125">%null%</text>
+<text id="126">%null%</text>
+<text id="127">%null%</text>
+<text id="128">%null%</text>
+<text id="129">%null%</text>
+<text id="130">%null%</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">%null%</text>
+<text id="134">%null%</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">%null%</text>
+<text id="138">%null%</text>
+<text id="139">%null%</text>
+<text id="140">%null%</text>
+<text id="141">%null%</text>
+<text id="142">%null%</text>
+<text id="143">%null%</text>
+<text id="144">%null%</text>
+<text id="145">%null%</text>
+<text id="146">%null%</text>
+<text id="147">%null%</text>
+<text id="148">%null%</text>
+<text id="149">%null%</text>
+<text id="150">%null%</text>
+<text id="151">%null%</text>
+<text id="152">%null%</text>
+<text id="153">%null%</text>
+<text id="154">%null%</text>
+<text id="155">%null%</text>
+<text id="156">%null%</text>
+<text id="157">%null%</text>
+<text id="158">%null%</text>
+<text id="159">%null%</text>
+<text id="160">%null%</text>
+<text id="161">%null%</text>
+<text id="162">%null%</text>
+<text id="163">%null%</text>
+<text id="164">%null%</text>
+<text id="165">%null%</text>
+<text id="166">%null%</text>
+<text id="167">%null%</text>
+<text id="168">%null%</text>
+<text id="169">%null%</text>
+<text id="170">%null%</text>
+<text id="171">%null%</text>
+<text id="172">%null%</text>
+<text id="173">%null%</text>
+<text id="174">%null%</text>
+<text id="175">%null%</text>
+<text id="176">%null%</text>
+<text id="177">%null%</text>
+<text id="178">%null%</text>
+<text id="179">%null%</text>
+<text id="180">%null%</text>
+<text id="181">%null%</text>
+<text id="182">%null%</text>
+<text id="183">%null%</text>
+<text id="184">%null%</text>
+<text id="185">%null%</text>
+<text id="186">%null%</text>
+<text id="187">%null%</text>
+<text id="188">%null%</text>
+<text id="189">%null%</text>
+<text id="190">%null%</text>
+<text id="191">%null%</text>
+<text id="192">%null%</text>
+<text id="193">%null%</text>
+<text id="194">%null%</text>
+<text id="1000">%null%</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="10000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Löwenkralle: Talent der Rotmähnen, die an der Seite von General Radahn gekämpft haben. Führt einen Vorwärtssalto aus und schlagt Eure Gegner mit der Waffe."
+
+Zur Verwendung mit Schwertern, Äxten und Hämmern (außer mit kleinen Waffen und Stoßschwertern).</text>
+<text id="10100">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Aufspießender Stoß: Ein Talent, das entwickelt wurde, um Schilde mit durchbohrenden Waffen zu überwinden. Sammelt Eure Kraft und springt vorwärts, um die Abwehr des Gegners zu durchdringen."
+
+Zur Verwendung mit durchbohrenden Waffen (außer mit gigantischen Waffen).</text>
+<text id="10200">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Bohrender Reißzahn: Ein Talent von Yura, Jäger der Blutigen Finger. Ihr haltet das Schwert waagerecht für einen mächtigen Stoß, der sich nicht blocken lässt."
+
+Zur Verwendung mit mittelgroßen und großen Stoßwaffen.</text>
+<text id="10300">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Wirbelhieb: Ein Lieblingstalent geschickter Krieger. Wirbelt herum und schlitzt dabei Gegner auf. Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen."
+
+Zur Verwendung mit Schwertern, Äxten und Stangenwaffen (außer mit gigantischen Waffen).</text>
+<text id="10500">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Wuchtiger Ansturm: Mit der Waffe an der Hüfte stürmt Ihr schnell vorwärts und stoßt zu. Haltet die Taste, um größere Distanzen zu überbrücken."
+
+Zur Verwendung mit Stangenstoßwaffen, schweren Stoßschwertern und Doppelklingen.</text>
+<text id="10600">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Stampfer (Aufwärtsschnitt): Hebt die Waffe und nehmt eine niedrige Haltung ein, die kaum ein Angriff erschüttert. Setzt dann mit einem starken Angriff als Aufwärtsschlag nach."
+
+Zur Verwendung mit Schwertern, Äxten und Hämmern (außer mit kleinen und mittelgroßen Schwertern).</text>
+<text id="10700">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Stampfer (Feger): Hebt die Waffe und nehmt eine niedrige Haltung ein, die kaum ein Angriff erschüttert. Setzt dann mit einem starken Angriff als sichelförmiger Schlag nach."
+
+Zur Verwendung mit Schwertern, Äxten und Hämmern (außer mit kleinen und mittelgroßen Schwertern).</text>
+<text id="10800">Diese Kriegsasche verleiht einer Waffe die Affinität "Blutig" und folgendes Talent:
+
+"Blutzoll: Ein Bluteid-Talent vom Fürsten des Blutes. Dreht Euch, um Kraft zu sammeln, und entfesselt einen Hagel von Stößen, um dem Gegner Blut und LP zu rauben."
+
+Zur Verwendung mit durchbohrenden Waffen (außer mit gigantischen Waffen).</text>
+<text id="10900">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Stoßhagel: Dreht Euch, um Kraft zu sammeln, und entfesselt einen Hagel von Stößen."
+
+Zur Verwendung mit durchbohrenden Waffen (außer mit gigantischen Waffen).</text>
+<text id="11000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Wilde Schläge: Schwingt die Waffe mit aller Macht. Halten, um den Angriff aufrechtzuerhalten. Setzt mit einem normalen oder starken Angriff nach."
+
+Zur Verwendung mit Äxten, Hämmern, Krummschwertern und Großschwertern (außer mit gigantischen Waffen).</text>
+<text id="11100">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Wirbelhiebe: Ein Talent für Stangenwaffen, das Euch kontinuierliche Wirbelangriffe ausführen lässt. Halten, um den Angriff aufrechtzuerhalten. Setzt mit einem normalen oder starken Angriff nach. Neutralisiert beim Wirbeln Geschosse wie Pfeile."
+
+Zur Verwendung mit Stangenwaffen (außer mit großen Speeren).</text>
+<text id="11200">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Doppelschnitt: Ein Talent überragender Schwertkämpfer. Ihr nehmt eine niedrige Haltung ein und führt zwei sich kreuzende Hiebe aus. Durch wiederholte Eingabe könnt Ihr mit bis zu zwei Angriffen nachsetzen."
+
+Zur Verwendung mit Schnittschwertern und Stangenschnittwaffen (außer mit gigantischen Waffen).</text>
+<text id="11300">Diese Kriegsasche verleiht einer Waffe die Affinität "Flammend" und folgendes Talent:
+
+"Ansturm des Prälaten: Rammt die Waffe in den Boden, um eine Feuersbrunst zu entfachen, und stürmt dann los. Halten, um den Ansturm fortzusetzen."
+
+Zur Verwendung mit großen und gigantischen Äxten und Hämmern.</text>
+<text id="11400">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Iaido: Ein Talent der Schwertkämpfer aus dem Schilfland. Ihr steckt die Waffe weg und haltet sie in konzentrierter Haltung an der Hüfte. Setzt mit einem normalen oder starken Angriff nach, um einen blitzschnellen Hieb auszuführen."
+
+Zur Verwendung mit Katanas.</text>
+<text id="11500">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Duell: Dieses Talent beginnt mit einer geraden Schwerthaltung. Setzt mit einem normalen Angriff nach, um aufwärts durch die gegnerische Abwehr zu schlagen, oder mit einem starken Angriff, um mit Anlauf einen Stoß auszuführen."
+
+Zur Verwendung mit geraden Schwertern.</text>
+<text id="11600">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Riesenjagd: Ein Talent für den Kampf gegen riesige Gegner. Tretet aus niedriger Haltung vor und stoßt aus der Bewegung mit aller Kraft nach oben."
+
+Lässt sich nur für große und gigantische Stoßwaffen, Speere und Doppelklingen verwenden.</text>
+<text id="11700">Diese Kriegsasche verleiht einer Waffe das Talent "Fackelangriff".</text>
+<text id="11800">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Lorettas Schnitt: Ein Talent der Königlichen Ritterin Loretta. Springt vorwärts, erfüllt die Klinge mit Schimmersteinmacht und führt dann während der Landung einen schwungvollen ausladenden Hieb aus."
+
+Zur Verwendung mit Stangenwaffen und Doppelklingen.</text>
+<text id="11900">Diese Kriegsasche verleiht einer Waffe die Affinität "Giftig" und folgendes Talent:
+
+"Giftiger Falter: Schlagt mit einer von Gift erfüllten Klinge zu. Trifft Euer Folgeangriff einen vergifteten Gegner, erleidet dieser beträchtlichen Schaden."
+
+Zur Verwendung mit kleinen und mittelgroßen Schwertern (außer mit Doppelklingen).</text>
+<text id="12000">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Wirbelnde Waffe: Ein Defensivtalent der carianischen Prinzessinnen. Lässt Eure Waffe schweben und in der Luft herumwirbeln. Getroffene Ziele erleiden automatisch eine Angriffsserie."
+
+Lässt sich nur für kleine und mittlere Schwerter, Hämmer, Äxte, Stäbe und Stangenwaffen (außer große Speere) verwenden.</text>
+<text id="12100">%null%</text>
+<text id="12200">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Sturmangriff: Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen. Springt durch die Sturmwinde vorwärts und stoßt mit der Waffe nach unten, um am Einschlagspunkt weitere Stürme zu entfesseln."
+
+Zur Verwendung mit Stangenstoßwaffen, schweren Stoßschwertern und Doppelklingen.</text>
+<text id="12300">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Sturmrufer: Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen. Dreht Eure Waffe, um Euch in einen Sturm zu hüllen. Wiederholte Eingaben erzeugen eine Angriffskette."
+
+Zur Verwendung mit Schnittschwertern, Hämmern, Äxten und Stangenwaffen (außer mit kleinen und gigantischen Waffen).</text>
+<text id="12400">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Schwerttanz: Schließt schnell zu Eurem Gegner auf und greift ihn mit mehreren Wirbelhieben aufwärts an. Durch eine zusätzliche Eingabe könnt Ihr nachsetzen und mit einem Abwärtshieb abschließen."
+
+Zur Verwendung mit Schnittschwertern, Äxten und Stangenschnittwaffen (außer mit gigantischen Waffen und großen Speeren).</text>
+<text id="12500">Diese Kriegsasche verleiht einer Waffe das Talent "Pulverisieren".</text>
+<text id="20000">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Schimmerphalanx: Ein Talent der magischen Ritter, die der königlichen Familie von Caria dienen. Erzeugt einen Bogen magischer Schimmerklingen über Eurem Kopf, die Gegner automatisch angreifen. Setzt mit einem starken Angriff nach, um einen Sprungstoß anzuhängen."
+
+Zur Verwendung mit Schwertern und Stangenstoßwaffen (außer mit gigantischen Waffen).</text>
+<text id="20100">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+Heilige Klinge: Erfüllt die Angriffe der Waffe mit heiliger Essenz und verschießt ein goldenes Klingenprojektil. Die heilige Essenz bleibt eine Zeit lang in der Waffe erhalten."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Peitschen, Fäusten und Krallen)</text>
+<text id="20200">Diese Kriegsasche verleiht einer Waffe die Affinität "Eisig" und folgendes Talent:
+
+"Eisspeer: Ein Talent der Krieger, die Mondprinzessin Ranni dienen. Wirbelt die Waffe herum, um eisige Magie zu entfesseln und sie dann in einem durchbohrenden Eisspeer zu bündeln."
+
+Zur Verwendung mit Stangenstoßwaffen und Doppelklingen.</text>
+<text id="20300">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Schimmersteinkiesel: Ein Talent, das auf den Zaubereien für Schimmersteinkiesel aufbaut. Setzt mit einem starken Angriff nach, um einen Stampfstoß auszuführen, während die Waffe noch mit Schimmersteinmagie erfüllt ist."
+
+Lässt sich nur für Schwerter und Stangenstoßwaffen (außer mit gigantischen Waffen) verwenden.</text>
+<text id="20400">Diese Kriegsasche verleiht einer Waffe die Affinität "Blutig" und folgendes Talent:
+
+"Blutiger Schnitt: Vom Fürsten des Blutes gewährtes Bluteidtalent. Nehmt eine niedrige Haltung ein und benetzt die Klinge mit Eurem Blut, um einen weit ausladenden Blutschlitzer auszuführen."
+
+Zur Verwendung mit Schwertern (außer mit gigantischen Waffen).</text>
+<text id="20500">Diese Kriegsasche verleiht einer Waffe die Affinität "Okkult" und folgendes Talent:
+
+"Vampirfaust: Ein Talent mit der Macht über das Leben selbst. Ein langsamer kontrollierter Schlag mit einer von Energie erfüllten Faust schlägt den Gegner bewusstlos und raubt seine LP. Wirkt nur gegen Feinde von menschlicher Statur."
+
+Zur Verwendung mit Fäusten und Krallen.</text>
+<text id="20700">Diese Kriegsasche verleiht einer Waffe die Affinität "Feurig" und folgendes Talent:
+
+"Eruption: Ein Talent der Ritter im Dienst von Haus Vulkan. Ihr rammt Eure Waffe in den Boden, um eine gewaltige Lavafontäne zu entfesseln."
+
+Zur Verwendung mit großen Schwertern, Riesenschwertern, Äxten und Hämmern.</text>
+<text id="20800">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Gebetsschlag: Hebt die Waffe im Gebet und rammt sie dann in den Boden. Mündet dieser inspirierte Schlag in einem erfolgreichen Treffer, regeneriert er Eure LP und die Eurer Verbündeten in der Nähe."
+
+Zur Verwendung mit Äxten und Hämmern.</text>
+<text id="20900">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Gravitation: Ein Talent der Alabasterfürsten, deren Haut aus Stein bestand. Rammt die Waffe in den Boden, um ein Gravitationsfeld zu erzeugen. Der Angriff verursacht Schaden und zieht Gegner zu Euch heran."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit kleinen Waffen und Peitschen).</text>
+<text id="21000">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Sturmklinge: Ein verlorenes Talent aus Sturmschleier. Eure Waffe wird von heulenden Stürmen umhüllt, die sich schnell hintereinander nach vorn abfeuern lassen."
+
+Zur Verwendung mit Schwertern (außer mit gigantischen Waffen und Doppelklingen).</text>
+<text id="21200">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Erderschütterer: Rammt die Waffe in den Boden und sammelt Kraft, um eine erderschütternde Schockwelle zu entfesseln. Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen."
+
+Zur Verwendung mit Großäxten, Kriegshämmern, großen Speeren und gigantischen Waffen.</text>
+<text id="21300">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Goldenes Land: Rammt die Waffe in den Boden und sammelt Kraft, um eine Explosion heiliger Energie als goldene Pfeile zu entfesseln. Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen."
+
+Zur Verwendung mit Großäxten, Kriegshämmern, großen Speeren und gigantischen Waffen.</text>
+<text id="21400">Diese Kriegsasche verleiht einer Waffe die Affinität "Feurig" und folgendes Talent:
+
+"Flammender Schlag: Dieses Talent erzeugt einen breiten Flammenbogen vor Euch. Setzt mit einem starken Angriff nach, um einen ausladenden Sprunghieb auszuführen. Hierdurch hüllt Ihr die Waffe zusätzlich in Feuer."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit gigantischen Waffen und Peitschen).</text>
+<text id="21600">Diese Kriegsasche verleiht einer Waffe die Affinität "Blitzend" und folgendes Talent:
+
+"Donnerblitz: Ein Talent des Drachenkults aus der Hauptstadt. Hebt Eure Waffe, um einen Blitz vom Himmel herabzurufen. Kann schnell hintereinander ausgelöst werden."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="21700">Diese Kriegsasche verleiht einer Waffe die Affinität "Blitzend" und folgendes Talent:
+
+"Blitzschnitt: Ruft einen Blitz vom Himmel in Eure Waffe herab und schwingt sie abwärts, um eine Explosion auszulösen. Die Blitzaufladung hält eine Zeit lang an."
+
+Zur Verwendung mit Schwertern, Äxten und Hämmern.</text>
+<text id="21800">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Carianische Erhabenheit: Die Würde carianischer Könige in Form eines Talents. Verwandelt Eure Klinge in ein magisches Großschwert und schwingt es abwärts. Durch Aufladung könnt Ihr die Stärke um bis zu zwei Stufen erhöhen."
+
+Zur Verwendung mit Schwertern (außer mit gigantischen Waffen).</text>
+<text id="21900">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Cariagroßschwert: Die Würde carianischer Könige in Form eines Talents. Verwandelt Eure Klinge in ein magisches Großschwert und schwingt es abwärts. Durch Aufladung könnt Ihr die Stärke erhöhen."
+
+Zur Verwendung mit Schwertern (außer mit gigantischen Waffen).</text>
+<text id="22000">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Vakuumschnitt: Ein verlorenes Talent antiker Helden. Hebt die Waffe hoch, hüllt sie in ein Vakuum und feuert es als klingenförmiges Projektil vorwärts."
+
+Zur Verwendung mit Schwertern und Äxten (außer mit gigantischen Äxten).</text>
+<text id="22100">Diese Kriegsasche verleiht einer Waffe die Affinität "Flammend" und folgendes Talent:
+
+Schwarzflammentornado: Wirbelt die Waffe über Eurem Kopf herum und rammt sie dann in den Boden, um einen Wirbel schwarzer Flammen zu entfesseln. Halten, um einen Flammentornado zu erzeugen, während Ihr die Waffe herumwirbelt."
+
+Zur Verwendung mit Stangenwaffen und Doppelklingen.</text>
+<text id="22200">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Heiliger Lichtring: Ein Talent der Kommandanten der Reinfäule-Ritter. Konzentriert einen Ring aus Licht in der Waffe und schleudert ihn vorwärts. Lässt sich schnell hintereinander abfeuern."
+
+Zur Verwendung mit Stangenwaffen (außer mit großen Speeren).</text>
+<text id="22300">Diese Kriegsasche verleiht einer Waffe das Talent "Feuerodem".</text>
+<text id="22400">Diese Kriegsasche verleiht einer Waffe die Affinität "Blutig" und folgendes Talent:
+
+"Blutklinge: Benetzt die Klinge mit Eurem Blut und entfesselt dann eine fliegende Blutklinge, die zu Blutverlust führt. Lässt sich schnell hintereinander abfeuern."
+
+Zur Verwendung mit kleinen und mittelgroßen Schwertern.</text>
+<text id="22500">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Phantomschnitt: Ein Talent, mit dem die Dunkelkavalleristen ihren ehemaligen Ausbilder ehren. Der Ausbilder erscheint als Phantom und führt sie an, um im Sprung die Waffe aufwärts zu schwingen. Setzt durch weitere Eingabe mit einem Angriff nach."
+
+Zur Verwendung mit Stangenwaffen und Doppelklingen (außer mit großen Speeren).</text>
+<text id="22600">Diese Kriegsasche verleiht einer Waffe die Affinität "Okkult" und folgendes Talent:
+
+"Spektrallanze: Ein Talent der kopflosen Ritter des Mausoleums. Schleudert einen geisterhaften Speer auf Eure Gegner."
+
+Zur Verwendung mit Stangenwaffen (außer mit Schnittern).</text>
+<text id="22700">Diese Kriegsasche verleiht einer Waffe die Affinität "Eisig" und folgendes Talent:
+
+"Frostnebel: Hüllt Eure Waffe in Frost und schlagt zu, um einen eisigen Nebel vor Euch zu verbreiten. Die Waffe bleibt eine Zeit lang von Frost erfüllt."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Peitschen, Fäusten und Krallen).</text>
+<text id="22800">Diese Kriegsasche verleiht einer Waffe die Affinität "Giftig" und folgendes Talent:
+
+"Giftiger Nebel: Hüllt Eure Waffe in Gift und schlagt zu, um einen giftigen Nebel vor Euch zu verbreiten. Die Waffe bleibt eine Zeit lang von Gift erfüllt."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Peitschen, Fäusten und Krallen).</text>
+<text id="30000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Schildschlag: Geht hinter dem Schild in Abwehrhaltung und rammt den Gegner mit all Eurem Gewicht, während Ihr die Abwehrhaltung beibehaltet. Schwächere Gegner werden zurückgedrängt und geraten manchmal sogar ins Taumeln."
+
+Zur Verwendung mit allen Schilden.</text>
+<text id="30100">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Barrikadenschild: Ein von Sir Neidhardt entwickeltes Talent. Konzentriert Eure Energie in Euren Schild, um ihn kurz zu härten, sodass er stärkere Schläge ablenkt."
+
+Zur Verwendung mit allen Schilden.</text>
+<text id="30200">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Parade: Setzt dieses Talent rechtzeitig ein, und Ihr lenkt den Nahkampfangriff des Gegners ab und brecht seine Haltung. Dies gewährt Euch die Chance auf einen kritischen Treffer."
+
+Zur Verwendung mit Dolchen, Krummschwertern, Stoßschwertern, Fäusten, Krallen und kleinen und mittleren Schilden.</text>
+<text id="30300">Diese Kriegsasche verleiht einer Waffe das Talent "Faustschildparade".</text>
+<text id="30400">Diese Kriegsasche verleiht einer Waffe das Talent "Parade".</text>
+<text id="30500">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Carianischer Gegenschlag: Schwingt den Schild, um Zaubereien und Anrufungen abzuwehren und ihre Magie in einen Konter mit Schimmerklingen zu verwandeln. Lässt sich auch als normale Parade einsetzen."
+
+Zur Verwendung mit kleinen und mittleren Schilden.</text>
+<text id="30600">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Sturmwall: Schwingt den Schild, um einen Sturmwall vor Euch zu erschaffen, der Pfeile und andere materielle Projektile ablenkt. Lässt sich auch als normale Parade einsetzen."
+
+Zur Verwendung mit kleinen und mittleren Schilden.</text>
+<text id="30700">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Goldene Parade: Setzt eine Anrufung des Erdenbaums ein und schwingt dann den Schild, um Angriffe abzuwehren und die Haltung des Gegners zu brechen. Wirkt sogar über eine kurze Distanz."
+
+Zur Verwendung mit kleinen und mittleren Schilden.</text>
+<text id="30800">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Schildaufprall: Greift den Schild mit beiden Händen, nehmt eine Blockhaltung ein und stürmt vorwärts. Schwächere Gegner werden zurückgedrängt und geraten manchmal sogar ins Taumeln. Halten, um den Ansturm zu verlängern."
+
+Zur Verwendung mit allen Schilden.</text>
+<text id="30900">Diese Kriegsasche verleiht Eurer Waffe keine Affinität und ersetzt ein vorhandenes Talent durch folgendes Talent:
+
+"Kein Talent: Diese Waffe verfügt über keinerlei Talent. Besitzt die Waffe in der anderen Hand ein Talent, wird dieses Talent verwendet."
+
+Zur Verwendung mit Schilden und Fackeln.</text>
+<text id="31000">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Thops' Barriere: Errichtet eine magische Barriere, während Ihr den Schild schwingt, um Zaubereien und Anrufungen abzuwehren. Lässt sich auch als normale Parade einsetzen."
+
+Zur Verwendung mit kleinen und mittleren Schilden.</text>
+<text id="40000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Durch und durch: Ein mächtiges Talent für Bogenschützen, bei dem Ihr einen Großbogen schräg haltet. Macht den Bogen bereit und verdreht die Sehne, um einen mächtigen Großpfeil abzufeuern, der Gegner durchschlägt."
+
+Zur Verwendung mit Großbögen.</text>
+<text id="40100">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Sperrfeuer: Ein Talent für Bogenschützen. Haltet den Bogen horizontal und feuert eine Salve von Pfeilen schneller, als es ein menschliches Auge verfolgen könnte."
+
+Zur Verwendung mit leichten Bögen.</text>
+<text id="40200">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Mächtiger Schuss: Ein Talent für Bogenschützen. Haltet den Bogen schräg und zieht die Sehne dann maximal zurück, damit der Schuss die Abwehr des Gegners durchschlägt."
+
+Zur Verwendung mit leichten Bögen und Langbögen.</text>
+<text id="40400">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Verzauberter Schuss: Ein Talent für Bogenschützen, das Pfeile mit spiritueller Macht erfüllt. Die Pfeile fliegen schneller als bei normalen Schüssen und folgen dem Ziel."
+
+Zur Verwendung mit leichten Bögen und Langbögen.</text>
+<text id="40500">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Himmelsschuss: Ein Talent für Bogenschützen. Nehmt eine niedrige Haltung ein und feuert den Pfeil hoch in die Luft, sodass er bogenförmig auf den Gegner fliegt."
+
+Zur Verwendung mit leichten Bögen und Langbögen.</text>
+<text id="40600">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Pfeilhagel: Ein Talent für Bogenschützen. Nehmt eine niedrige Haltung ein und feuert mehrere Pfeile hoch in die Luft, damit sie den Gegner wie ein Hagelschauer treffen."
+
+Zur Verwendung mit allen Bögen.</text>
+<text id="40700">%null%</text>
+<text id="50100">Diese Kriegsasche verleiht einer Waffe die Affinität "Eisig" und folgendes Talent:
+
+"Raureifstampfer: Stampft hart auf den Boden, um eine Spur aus eisigem Nebel zu erzeugen. Der Nebel verursacht Frost."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50200">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Sturmstampfer: Eines der Talente, die ihre Macht aus den Stürmen von Sturmschleier beziehen. Stampft hart auf den Boden, um einen kurzen Sturm zu entfesseln."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50300">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Tritt: Stoßt den Gegner mit einem hohen Tritt zurück. Effektiv gegen abwehrende Gegner und kann sogar ihre Haltung brechen. Manchmal ist die einfachste Lösung auch die Beste."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50400">Diese Kriegsasche verleiht einer Waffe die Affinität "Blitzend" und folgendes Talent:
+
+"Blitzbock: Ein von kämpfenden Widdern inspiriertes Talent. Blökt und rollt Euch in Blitze gehüllt vorwärts. Ihr könnt mehrere Rollen schnell hintereinander ausführen."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50500">Diese Kriegsasche verleiht einer Waffe die Affinität "Feurig" und folgendes Talent:
+
+"Flamme der Rotmähnen: Ein Talent der Rotmähnen, die an der Seite von General Radahn kämpften. Erzeugt vor Euch eine mächtige Feuersbrunst in einem weiten Bogen."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50600">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Bodenschlag: Ihr springt hoch in die Luft und schlagt weiter vorne auf wie ein Meteor, um eine Schockwelle in alle Richtungen zu entfesseln."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50700">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Goldener Schlag: Ein Talent der Avatare, die Niedere Erdenbäume beschützen. Ihr springt hoch in die Luft und schlagt weiter vorne auf wie ein Meteor, um goldene Schockwellen in alle Richtungen zu entfesseln."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="50800">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Wellen der Finsternis: Rammt die Waffe in den Boden, um drei Wellen der Finsternis zu entfesseln. Setzt mit einem starken Angriff nach, um die Waffe in weitem Bogen zu schwingen."
+
+Zur Verwendung mit Großäxten, Kriegshämmern, großen Speeren und gigantischen Waffen.</text>
+<text id="50900">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Hoarah Loux' Erschütterer: Schlagt beidhändig auf den Boden, um die Erde zu erschüttern und eine Schockwelle zu entfesseln. Mit einer weiteren Eingabe schlagt Ihr erneut auf den Boden."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60000">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Eiserner Wille: Ein Talent der Ritter. Haltet die Waffe vor Euer Gesicht und sammelt Eure Entschlossenheit, um Euren nächsten Angriff zu verstärken."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60100">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Mut der Königsritter: Ein Talent der Ritter, die einst dem Eldenfürsten dienten. Haltet die Waffe vor Euer Gesicht und sammelt Eure Entschlossenheit, um Euren nächsten Angriff deutlich zu verstärken."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60200">Diese Kriegsasche verleiht einer Waffe die Affinität "Okkult" und folgendes Talent:
+
+"Schachzug des Assassinen: Ein Talent, das Euch vor fremden Augen verbirgt, aber einen Teil Eurer Lebensenergie verschlingt. Ihr werdet so gut wie unsichtbar und bewegt Euch absolut lautlos."
+
+Zur Verwendung mit kleinen und mittelgroßen geraden Schwertern und Stoßschwertern.</text>
+<text id="60300">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Goldener Schwur: Dieses Talent entspringt der langen Tradition der Ritter der Hauptstadt. Hebt die Waffe, um den Erdenbaum im Kampf zu ehren und verstärkt Eure Angriffskraft und Verteidigung sowie die Eurer Verbündeten in der Nähe."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60400">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Heilige Ordnung: Ein Talent der fundamentalistischen Ritter der Goldenen Ordnung. Salutiert und gewährt der Waffe heilige Essenz. Äußerst effektiv gegen jene, die im Tode leben."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60500">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Geteilte Ordnung: Ein Talent der fundamentalistischen Ritter der Goldenen Ordnung. Gewährt Eurer Waffe und den Waffen Eurer Verbündeten in der Nähe heilige Essenz. Äußerst effektiv gegen jene, die im Tode leben."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="60600">Diese Kriegsasche verleiht einer Waffe die Affinität "Blutig" und folgendes Talent:
+
+"Seppuku: Eine verbotene Technik der Schwertkämpfer aus dem Schilfland. Rammt die Klinge in Euren Bauch, um sie in Blut zu tränken. Erhöht die Angriffskraft und die Chance, Blutverlust auszulösen."
+
+Zur Verwendung mit Schwertern und Stangenstoßwaffen (außer mit kleinen und gigantischen Waffen).</text>
+<text id="60700">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Felsklinge: Ein Talent mit Macht über die Schwerkraft. Rammt die Waffe in den Boden, um sie mit Gestein zu verstärken. Erhöht die Angriffskraft und hilft Euch, die Haltung des Gegners zu brechen."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Peitschen).</text>
+<text id="65000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Barbarenbrüllen: Stoßt ein bestialisches Gebrüll aus, um den Geist und die Angriffskraft zu stärken. Solange dieser Effekt wirkt, werden starke Angriffe als wilde Kombos ausgeführt."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Dolchen, Stoßschwertern und Peitschen).</text>
+<text id="65100">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Kriegsgebrüll: Erhöht mit einem Kriegsschrei die Angriffskraft. Solange dieser Effekt wirkt, werden starke Angriffe als aufgeladene Angriffe ausgeführt."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Dolchen, Stoßschwertern und Peitschen).</text>
+<text id="65200">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Schrei der Bestie: Entfesselt ein bestialisches Brüllen, das wie ein Projektil durch die Luft schießt."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="65300">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Trollbrüllen: Blickt in die Ferne und stoßt ein gewaltiges Gebrüll aus, dessen mächtige Schockwelle umstehende Gegner zurückstößt. Setzt mit einem starken Angriff nach, um einen Abwärtsschlag auszuführen."
+
+Zur Verwendung mit großen Schwertern, Riesenschwertern, Äxten und Hämmern.</text>
+<text id="65400">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Prahlendes Brüllen: Gebt Euch lautstark und voller Hochmut zu erkennen. Verstärkt die Angriffskraft und Verteidigung und beschleunigt die Ausdauerregeneration."
+
+Zur Verwendung mit Nahkampfwaffen (außer mit Dolchen, Stoßschwertern und Peitschen).</text>
+<text id="70000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Beharren: Verankert Eure Haltung im Boden und sammelt alle Kraft, um kurz Euer Gleichgewicht zu stärken. Während Ihr dieses Talent verwendet, erleidet Ihr weniger Schaden."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="70100">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Unbeugsamer Schwur: Ein Talent von den antiken Kriegern des Erdenbaums. Hebt den Schild und erfüllt Euch selbst mit goldener Macht. So werdet Ihr kurz unbesiegbar."
+
+Zur Verwendung mit allen Schilden.</text>
+<text id="70200">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Heiliger Boden: Hebt den Schild, um mit der Macht des Erdenbaums einen Bereich zu weihen, in dem bei Euch und Verbündeten kontinuierlich LP regeneriert werden und die Verteidigung gestärkt wird."
+
+Zur Verwendung mit allen Schilden.</text>
+<text id="80000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Schnellschritt: Ein Talent für geschickte und flinke Krieger. Führt ein schnelles Manöver durch, mit dem Ihr fixierte Ziele umkreisen könnt."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="80100">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Bluthundschritt: Ein Talent, mit dem Ihr kurz unsichtbar werdet und blitzschnell ausweicht. Ihr bewegt Euch weiter und schneller als mit einen normalen Schnellschritt. Mit diesem Talent könnt Ihr fixierte Ziele umkreisen."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="80200">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Nebelraptor: Duckt Euch in eine niedrige Haltung, um kurz zu verschwinden. Trifft Euch ein gegnerischer Angriff, entkommt Ihr auf Raptorenschwingen schnell in die Luft."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="85000">Diese Kriegsasche verleiht einer Waffe die Affinität "Okkult" und folgendes Talent:
+
+"Ruf des Weißen Schatten: Haltet die Waffe zu einem kurzen Gebet, um einen weißen Schatten zu erschaffen. Dieses Phantom lenkt außerhalb von Kämpfen die Aggression von Gegnern mit menschlicher Statur auf sich. Halbmenschen lockt der Schatten sogar im Kampf an."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+</entries>
+</fmg>

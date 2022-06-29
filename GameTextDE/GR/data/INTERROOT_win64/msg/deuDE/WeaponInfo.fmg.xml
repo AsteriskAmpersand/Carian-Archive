@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Dünner Tierknochen mit Pfeilfiederung.</text>
+<text id="50110000">Aus dünnem Tierknochen geschnitzter Pfeil.</text>
+<text id="50130000">Befiederter Tierknochenpfeil, der nach dem Abschuss brennt.</text>
+<text id="50140000">Tierknochenpfeil, brennt nach Abschuss.</text>
+<text id="50150000">Befiederter Tierknochenpfeil mit giftiger Spitze.</text>
+<text id="50160000">Tierknochenpfeil mit giftiger Spitze.</text>
+<text id="50170000">Befiederter Tierknochenpfeil mit Wasserlilienspitze.</text>
+<text id="50180000">Tierknochenpfeil mit Wasserlilienspitze.</text>
+<text id="50190000">Knochenpfeil mit Federn eines Sturmfalken.</text>
+<text id="50200000">Befiederter Tierknochenpfeil, der mit Blitzen geladen ist.</text>
+<text id="50210000">Tierknochenpfeil, geladen mit Blitzen.</text>
+<text id="50220000">Tierknochenpfeil mit Regenbogensteinspitze.</text>
+<text id="50230000">Tierknochenpfeil, die Spitze besteht aus einem Kristallsplitter.</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Befiederter Knochenpfeil, die Spitze wurde in Schimmersteintinktur getaucht.</text>
+<text id="50270000">Tierknochenpfeil, die Spitze wurde in Schimmersteintinktur getaucht.</text>
+<text id="50280000">Befiederter Knochenpfeil, die Spitze wurde in Goldtinktur getaucht.</text>
+<text id="50290000">Tierknochenpfeil, die Spitze wurde in Goldtinktur getaucht.</text>
+<text id="50300000">Befiederter Knochenpfeil, die Spitze wurde in Bluttinktur getaucht.</text>
+<text id="50310000">Tierknochenpfeil, die Spitze wurde in Bluttinktur getaucht.</text>
+<text id="50320000">Befiederter Knochenpfeil mit vereister Spitze.</text>
+<text id="50330000">Tierknochenpfeil mit vereister Spitze.</text>
+<text id="50340000">Befiederter Knochenpfeil, die Spitze wurde mit Fäulnis überzogen.</text>
+<text id="50350000">Tierknochenpfeil, die Spitze wurde mit Fäulnis überzogen.</text>
+<text id="51050000">Dicker Knochenpfeil, geschnitzt und befiedert.</text>
+<text id="51060000">Dicker geschnitzter Tierknochenpfeil, groß wie ein Speer.</text>
+<text id="52090000">Dünner Tierknochenbolzen, geschnitzt.</text>
+<text id="52100000">Tierknochenbolzen, brennt nach Abschuss.</text>
+<text id="52110000">Tierknochenbolzen, die Spitze ist von Blitzen erfüllt.</text>
+<text id="52120000">Tierknochenbolzen, die Spitze wurde in Schimmersteintinktur 
+getaucht.</text>
+<text id="52130000">Tierknochenbolzen, die Spitze wurde in Goldtinktur getaucht.</text>
+<text id="52140000">Tierknochenbolzen mit giftiger Spitze.</text>
+<text id="52150000">Tierknochenbolzen, die Spitze wurde in Bluttinktur getaucht.</text>
+<text id="52160000">Tierknochenbolzen mit vereister Spitze.</text>
+<text id="52170000">Tierknochenbolzen, die Spitze wurde mit Fäulnis überzogen.</text>
+<text id="52180000">Tierknochenbolzen, die Spitze wurde in Wasserlilientinktur getaucht.</text>
+<text id="53030000">Dicker geschnitzter Knochenbolzen in Speergröße.</text>
+</entries>
+</fmg>

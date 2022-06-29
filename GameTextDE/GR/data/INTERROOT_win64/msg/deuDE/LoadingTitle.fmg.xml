@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Ducken</text>
+<text id="2">Abwehren</text>
+<text id="3">Abwehrkonter</text>
+<text id="4">Zweihandwaffen</text>
+<text id="5">Aufgeladene und Sprungangriffe</text>
+<text id="6">Talent</text>
+<text id="7">Parieren</text>
+<text id="8">Ein Ziel fixieren</text>
+<text id="9">Präzises Zielen</text>
+<text id="10">Waffen ausrüsten</text>
+<text id="11">Objekte benutzen</text>
+<text id="12">Fackeln benutzen</text>
+<text id="13">Kritische Treffer</text>
+<text id="14">Gesten</text>
+<text id="15">Die Karte</text>
+<text id="16">Geisterquellensprünge</text>
+<text id="17">Objekt-Kurzbefehl</text>
+<text id="50">Sterben und verlorene Runen</text>
+<text id="51">%null%</text>
+<text id="52">Geister herbeirufen</text>
+<text id="53">Ausruhen an Orten der Gnade</text>
+<text id="54">Finden von Orten der Gnade</text>
+<text id="55">Führende Hand der Gnade</text>
+<text id="56">Heiligflaschen</text>
+<text id="57">Schnellreisen zu Orten der Gnade</text>
+<text id="58">Angriffe zu Pferd</text>
+<text id="59">Nicht bereitbare Gebiete</text>
+<text id="60">Objekte herstellen</text>
+<text id="61">Behälterobjekte</text>
+<text id="62">Anpassen von Waffen</text>
+<text id="63">%null%</text>
+<text id="64">Wiederbelebung nach dem Tod</text>
+<text id="65">Ausrüstungsgewicht</text>
+<text id="66">Während des Kampfes</text>
+<text id="67">Geister stärken</text>
+<text id="68">Stufenaufstieg</text>
+<text id="69">%null%</text>
+<text id="70">Status: Gift</text>
+<text id="71">Status: Scharlachfäule</text>
+<text id="72">Status: Blutverlust</text>
+<text id="73">Status: Frost</text>
+<text id="74">Status: Schlaf</text>
+<text id="75">Status: Wahnsinn</text>
+<text id="76">Status: Tod</text>
+<text id="77">Gleichgewicht</text>
+<text id="100">Gastziel (Krummfinger)</text>
+<text id="101">Gegnerziel (Duellant)</text>
+<text id="102">Mehrspieler-Limits</text>
+<text id="103">Sehen von Rufzeichen</text>
+<text id="104">Hinterlassen von Rufzeichen</text>
+<text id="105">Hinterlassen feindlicher Rufzeichen</text>
+<text id="106">Invasion</text>
+<text id="107">Anfordern von Unterstützung</text>
+<text id="108">Unterstützen</text>
+<text id="109">Herbeirufungsreserven</text>
+<text id="110">Gruppenpasswörter</text>
+<text id="111">Mehrspieler-Passwörter</text>
+<text id="112">Nachrichten</text>
+<text id="113">Bewegungslimits für Mehrspieler-Partien</text>
+<text id="114">Phantome</text>
+<text id="115">Blutflecken</text>
+<text id="116">Unterstützerziel (Jäger)</text>
+<text id="117">Rufzeichen</text>
+<text id="118">Erweiterte Nachrichten</text>
+<text id="119">Eindringlingsziel</text>
+<text id="150">Grenzen des Abwehrens</text>
+<text id="151">Brechen von Haltungen</text>
+<text id="152">Herunterstoßen berittener Gegner</text>
+<text id="153">Harte Gegner</text>
+<text id="154">%null%</text>
+<text id="200">Tränenskarabäen</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>
