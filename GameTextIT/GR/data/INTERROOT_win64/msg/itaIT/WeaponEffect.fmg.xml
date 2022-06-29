@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">Parte del danno non è ridotto in difesa</text>
+<text id="1001">Sconfiggere nemici ripristina PV</text>
+<text id="1002">Sconfiggere nemici ripristina PA</text>
+<text id="1003">Gli attacchi ripristinano PV</text>
+<text id="1004">Gli attacchi ripristinano PA</text>
+<text id="1005">Ripristina lentamente PV</text>
+<text id="1006">Ripristina lentamente PA</text>
+<text id="1007">Aumenta la velocità di recupero del vigore</text>
+<text id="1008">Aumenta la velocità di recupero del vigore</text>
+<text id="1009">Subisci danni autoinflitti</text>
+<text id="1010">La potenza dell'attacco aumenta con gli attacchi ripetuti</text>
+<text id="1011">%null%</text>
+<text id="1012">Potenzia gli incantesimi fisici</text>
+<text id="1013">%null%</text>
+<text id="1014">Potenzia gli incantesimi spirito</text>
+<text id="1015">Potenzia gli incantesimi fulmine</text>
+<text id="1016">Potenzia gli incantesimi sacri</text>
+<text id="1017">Accresce area di potenziamento e cura</text>
+<text id="1018">Neutralizza stregonerie o incantesimi</text>
+<text id="1019">Catalizza la stregoneria scintipietra</text>
+<text id="1020">Sigillo per incantesimi</text>
+<text id="1021">Gli attacchi consecutivi recuperano PV</text>
+<text id="1022">Gli attacchi consecutivi recuperano PA</text>
+<text id="1100">Potenzia le stregonerie Cristalliane</text>
+<text id="1101">Potenzia le stregonerie gravitazionali</text>
+<text id="1102">Potenzia le stregonerie del rovo</text>
+<text id="1103">Potenzia le stregonerie della morte</text>
+<text id="1104">Potenzia le stregonerie del plenilunio</text>
+<text id="1105">Potenzia le stregonerie scavapietra </text>
+<text id="1106">Potenzia le stregonerie scintilama</text>
+<text id="1107">Potenzia le stregonerie della spada cariana</text>
+<text id="1108">Potenzia le stregonerie originarie di Azur</text>
+<text id="1109">Potenzia le stregonerie originarie di Lusat</text>
+<text id="1110">Potenzia le stregonerie dell'invisibilità</text>
+<text id="1111">Potenzia gli incantesimi della fiamma dei giganti</text>
+<text id="1112">Potenzia gli incantesimi dei fondamentalisti</text>
+<text id="1113">Potenzia gli incantesimi bestiali</text>
+<text id="1114">Potenzia gli incantesimi del culto draconico</text>
+<text id="1115">Potenzia gli incantesimi della comunione draconica</text>
+<text id="1116">Potenzia gli incantesimi della Fiamma della frenesia</text>
+<text id="1117">Potenzia le stregonerie laviche</text>
+<text id="1118">Potenzia gli incantesimi deicidi</text>
+<text id="6400">Causa avvelenamento leggero (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">Causa avvelenamento (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">Causa avvelenamento grave (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">Causa avvelenamento intenso (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">Causa marcescenza scarlatta leggera (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">Causa marcescenza scarlatta (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">Causa marcescenza scarlatta grave (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">Causa sanguinamento leggero (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">Causa sanguinamento (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">Causa sanguinamento grave (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">Causa emorragia intensa (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">Causa morbo mortale leggero (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">Causa morbo mortale (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">Causa morbo mortale grave (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">Causa assideramento leggero (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">Causa assideramento (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">Causa assideramento grave (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">Causa sonno leggero (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">Causa sonno (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">Causa sonno grave (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">Causa follia leggera (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">Causa follia (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">Causa follia grave (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

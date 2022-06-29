@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Flecha fina emplumada tallada de hueso de animal.</text>
+<text id="50110000">Flecha tallada de hueso de animal.</text>
+<text id="50130000">Flecha de hueso emplumada que se prende al dispararla.</text>
+<text id="50140000">Flecha de hueso de animal que se prende al dispararla.</text>
+<text id="50150000">Flecha de hueso de animal emplumada y envenenada.</text>
+<text id="50160000">Flecha de hueso de animal con la punta envenenada.</text>
+<text id="50170000">Flecha de hueso de animal emplumada con una infusión de lirio en la punta.</text>
+<text id="50180000">Flecha de hueso de animal con una infusión de lirio en la punta.</text>
+<text id="50190000">Flecha de hueso emplumada con las plumas de un halcón tormentoso.</text>
+<text id="50200000">Flecha de hueso de animal emplumada y electrificada.</text>
+<text id="50210000">Flecha de hueso de animal electrificada.</text>
+<text id="50220000">Flecha de hueso de animal con piedra arcoíris en la punta.</text>
+<text id="50230000">Flecha de hueso de animal con cristal en la punta.</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Flecha de hueso emplumada con piedra refulgente en la punta.</text>
+<text id="50270000">Flecha de hueso de animal con piedra refulgente en la punta.</text>
+<text id="50280000">Flecha de hueso emplumada con la punta dorada.</text>
+<text id="50290000">Flecha de hueso de animal con la punta dorada.</text>
+<text id="50300000">Flecha de hueso emplumada con la punta ensangrentada.</text>
+<text id="50310000">Flecha de hueso de animal con la punta ensangrentada.</text>
+<text id="50320000">Flecha de hueso emplumada con la punta congelada.</text>
+<text id="50330000">Flecha de hueso de animal con la punta congelada.</text>
+<text id="50340000">Flecha de hueso emplumada con la punta podrida.</text>
+<text id="50350000">Flecha de hueso de animal con la punta podrida.</text>
+<text id="51050000">Flecha gruesa emplumada tallada de hueso de animal.</text>
+<text id="51060000">Flecha gruesa tallada de hueso. Larga cual lanza.</text>
+<text id="52090000">Saeta fina tallada de hueso de animal.</text>
+<text id="52100000">Saeta de hueso de animal, se prende al dispararla.</text>
+<text id="52110000">Saeta de hueso de animal con la punta electrificada.</text>
+<text id="52120000">Saeta de hueso de animal con piedra refulgente en la punta.</text>
+<text id="52130000">Saeta de hueso de animal con la punta dorada.</text>
+<text id="52140000">Saeta de hueso de animal con la punta envenenada.</text>
+<text id="52150000">Saeta de hueso de animal con la punta ensangrentada.</text>
+<text id="52160000">Saeta de hueso de animal con la punta congelada.</text>
+<text id="52170000">Saeta de hueso de animal con la punta podrida.</text>
+<text id="52180000">Saeta de hueso de animal con una infusión de lirio en la punta.</text>
+<text id="53030000">Saeta gruesa tallada de hueso. Larga cual lanza.</text>
+</entries>
+</fmg>

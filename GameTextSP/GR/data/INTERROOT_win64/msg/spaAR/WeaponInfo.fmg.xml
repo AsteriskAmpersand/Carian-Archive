@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Delgados huesos de un animal tallados, con emplumado.</text>
+<text id="50110000">Flecha tallada a partir de huesos delgados de un animal.</text>
+<text id="50130000">Flecha de hueso de animal con remeras. Se prende fuego al ser lanzada.</text>
+<text id="50140000">Flecha de huesos de un animal. Se prende fuego al ser disparada.</text>
+<text id="50150000">Flecha de hueso de animal con remeras y una punta empapada de veneno.</text>
+<text id="50160000">Flecha de hueso de animal con una punta empapada de veneno.</text>
+<text id="50170000">Flecha de hueso de animal con remeras y una punta teñida de lirio acuático.</text>
+<text id="50180000">Flecha de hueso de animal con una punta teñida de lirio acuático.</text>
+<text id="50190000">Flecha ósea con remeras y plumas de halcón de tormenta.</text>
+<text id="50200000">Flecha de hueso de animal con remeras y cargada con rayos.</text>
+<text id="50210000">Flecha de huesos de un animal. Está cargada por un rayo.</text>
+<text id="50220000">Flecha de hueso de animal con una punta de fragmento de piedra arcoíris.</text>
+<text id="50230000">Flecha de hueso de animal con una punta de fragmento de cristal.</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Flecha ósea con remeras y una punta teñida de destellita.</text>
+<text id="50270000">Flecha de hueso de animal con una punta teñida de destellita.</text>
+<text id="50280000">Flecha ósea con remeras y una punta teñida de oro.</text>
+<text id="50290000">Flecha de hueso de animal con una punta teñida de oro.</text>
+<text id="50300000">Flecha ósea con remeras y una punta teñida de sangre.</text>
+<text id="50310000">Flecha de hueso de animal con una punta teñida de sangre.</text>
+<text id="50320000">Flecha ósea con remeras y una punta congelada.</text>
+<text id="50330000">Flecha de hueso de animal con una punta congelada.</text>
+<text id="50340000">Flecha ósea con remeras y una punta recubierta de podredumbre.</text>
+<text id="50350000">Flecha de hueso de animal con una punta recubierta de podredumbre.</text>
+<text id="51050000">Gruesa flecha de huesos con plumas.</text>
+<text id="51060000">Flecha de hueso de animal tallada y gruesa, grande como una lanza.</text>
+<text id="52090000">Virote tallado de huesos de animal delgado.</text>
+<text id="52100000">Virote de huesos de animal que se prende fuego cuando es lanzado.</text>
+<text id="52110000">Virote de hueso de animal con una punta imbuida de rayos.</text>
+<text id="52120000">Virote de hueso de animal con una punta teñida de destellita.</text>
+<text id="52130000">Virote de hueso de animal con una punta teñida de oro.</text>
+<text id="52140000">Virote de hueso de animal con una punta recubierta de veneno.</text>
+<text id="52150000">Virote de hueso de animal con una punta teñida de sangre.</text>
+<text id="52160000">Virote de hueso de animal con una punta congelada.</text>
+<text id="52170000">Virote de hueso de animal con una punta recubierta de podredumbre.</text>
+<text id="52180000">Virote de hueso de animal con una punta teñida de lirio acuático.</text>
+<text id="53030000">Virote de hueso tallado y grueso, grande como una lanza.</text>
+</entries>
+</fmg>

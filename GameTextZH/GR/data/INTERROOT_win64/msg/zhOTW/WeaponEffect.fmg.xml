@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">防禦之後，還是會受到一定傷害</text>
+<text id="1001">打倒敵人時，能恢復ＨＰ</text>
+<text id="1002">打倒敵人時，能恢復ＦＰ</text>
+<text id="1003">攻擊命中時，能恢復ＨＰ</text>
+<text id="1004">攻擊命中時，能恢復ＦＰ</text>
+<text id="1005">能緩慢恢復ＨＰ</text>
+<text id="1006">能緩慢恢復ＦＰ</text>
+<text id="1007">能提升精力的恢復速度</text>
+<text id="1008">攻擊越是連續，越能提升攻擊力</text>
+<text id="1009">會受到自我損傷</text>
+<text id="1010">能減退野獸的攻擊慾望</text>
+<text id="1011">%null%</text>
+<text id="1012">能提升物理屬性魔法的威力</text>
+<text id="1013">%null%</text>
+<text id="1014">能提升魔力屬性魔法的威力</text>
+<text id="1015">能提升雷屬性魔法的威力</text>
+<text id="1016">能提升聖屬性魔法的威力</text>
+<text id="1017">能擴展強化類、恢復類魔法的範圍</text>
+<text id="1018">能使用輝石魔法或禱告等等</text>
+<text id="1019">能夠作為施展輝石魔法用的觸媒</text>
+<text id="1020">能夠作為執行禱告用的觸媒</text>
+<text id="1021">連續攻擊能恢復ＨＰ</text>
+<text id="1022">連續攻擊能恢復ＦＰ</text>
+<text id="1100">能強化結晶人的魔法</text>
+<text id="1101">能強化重力的魔法</text>
+<text id="1102">能強化荊棘的魔法</text>
+<text id="1103">能強化死亡的魔法</text>
+<text id="1104">能強化滿月的魔法</text>
+<text id="1105">能強化挖石的魔法</text>
+<text id="1106">能強化輝劍的魔法</text>
+<text id="1107">能強化卡利亞劍的魔法</text>
+<text id="1108">能強化亞茲勒的起源魔法</text>
+<text id="1109">能強化盧瑟特的起源魔法</text>
+<text id="1110">能強化隱形的魔法</text>
+<text id="1111">能強化巨人火焰的禱告</text>
+<text id="1112">能強化黃金律法基本主義的禱告</text>
+<text id="1113">能強化野獸的禱告</text>
+<text id="1114">能強化王城古龍信仰的禱告</text>
+<text id="1115">能強化龍饗的禱告</text>
+<text id="1116">能強化癲火的禱告</text>
+<text id="1117">能強化熔岩的魔法</text>
+<text id="1118">能強化狩獵神祇的禱告</text>
+<text id="6400">些微累積中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6401">累積中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6402">大幅累積中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">累積強烈中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6450">些微累積猩紅腐敗量表（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6451">累積猩紅腐敗量表（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6452">大幅累積猩紅腐敗量表（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6500">些微累積出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6501">累積出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6502">大幅累積出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">累積強烈出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6550">些微累積死亡量表（&lt;?curseATKpwr?&gt;）</text>
+<text id="6551">累積死亡量表（&lt;?curseATKpwr?&gt;）</text>
+<text id="6552">大幅累積死亡量表（&lt;?curseATKpwr?&gt;）</text>
+<text id="6600">些微累積凍傷量表（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6601">累積凍傷量表（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6602">大幅累積凍傷量表（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6650">些微累積催眠量表（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6651">累積催眠量表（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6652">大幅累積催眠量表（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6700">些微累積發狂量表（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6701">累積發狂量表（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6702">大幅累積發狂量表（&lt;?madnessATKpwr?&gt;）</text>
+</entries>
+</fmg>

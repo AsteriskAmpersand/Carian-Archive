@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Usar objeto seleccionado</text>
+<text id="4101">Dejar objeto seleccionado aquí</text>
+<text id="4102">Descartar objeto seleccionado</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Usar objetos seleccionados</text>
+<text id="4111">Dejar objetos seleccionados aquí</text>
+<text id="4112">Descartar objetos seleccionados </text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Selecciona objetos para dejarlos aquí</text>
+<text id="4122">Seleccionar objetos para descartarlos</text>
+<text id="5100">Usar número seleccionado de objetos</text>
+<text id="5101">Dejar selección de objetos aquí</text>
+<text id="5102">Descartar selección de objetos</text>
+<text id="5103">%null%</text>
+<text id="5104">Comprar selección de objetos</text>
+<text id="5105">Vender número seleccionado de objetos</text>
+<text id="5106">Almacenar selección de objetos</text>
+<text id="5107">Retirar selección de objetos</text>
+<text id="6000">Seleccionar criterio de clasificación</text>
+<text id="30000">Seleccionar la entrada a revisar</text>
+<text id="40331">Confirmar configuración y continuar</text>
+<text id="40500">Restablecer config. predeterminada</text>
+<text id="102000">Seleccionar objeto para interactuar</text>
+<text id="103000">Seleccionar ranura para equipamiento</text>
+<text id="103500">Seleccionar y equipar objeto</text>
+<text id="105000">Comprobar estado del personaje</text>
+<text id="106000">Selecciona la ranura que deseas utilizar</text>
+<text id="106001">Elige el ajuste a cambiar</text>
+<text id="110001">Cambiar mov. de cámara arriba/abajo</text>
+<text id="110002">Cambiar mov. de cámara izq./der.</text>
+<text id="110003">Al restablecer la cámara también se restablece el eje Y de la cámara</text>
+<text id="110004">Configurar vel. de mov. de la cámara</text>
+<text id="110005">Configurar el apuntado fijo automático de un nuevo objetivo cuando el anterior muere</text>
+<text id="110006">Apuntar automáticamente a un enemigo al atacar sin fijación</text>
+<text id="110007">Configurar si la cámara evita los muros automáticamente</text>
+<text id="110008">%null%</text>
+<text id="110009">Configurar controles de salto</text>
+<text id="110010">Permite el control manual con armas grandes mientras se usa el apuntado fijo</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">Decide si priorizas la calidad visual o la velocidad de fotogramas</text>
+<text id="110101">Activa, desactiva o suaviza la aparición de sangre</text>
+<text id="110102">Activa o desactiva los subtítulos</text>
+<text id="110103">Configurar la visualización del HUD en el juego</text>
+<text id="110104">Configurar efectos cinemáticos usados en ataques especiales</text>
+<text id="110105">Ajustar nivel de la música</text>
+<text id="110106">Ajustar nivel de efectos de sonido</text>
+<text id="110107">Ajustar nivel de la voz</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">Definir volumen de audio general</text>
+<text id="110118">Confi. rotación automática de la cámara para el movimiento der./izq.</text>
+<text id="110201">Ajustar brillo de la pantalla</text>
+<text id="110202">Ajustar calidad de imagen cuando el rango dinámico está habilitado</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">Habilitar/deshabilitar rango dinámico</text>
+<text id="110301">Permitir o restringir chat de voz</text>
+<text id="110302">Permitir o restringir la búsqueda de jugadores de otras regiones</text>
+<text id="110303">Editar para coincidir con jugadores que usen la misma contraseña</text>
+<text id="110304">Elegir si mostrar o no el nombre de otros jugadores</text>
+<text id="110305">Elegir si comenzar la partida en modo conectado o desconectado</text>
+<text id="110306">Bloquea tu símbolo de invocación en mundos en los que hay adversarios presentes</text>
+<text id="110307">Revisa y actualiza tu aceptación del acuerdo de uso de los datos</text>
+<text id="110500">Guardar partida y volver al menú principal</text>
+<text id="110501">Guardar partida y volver al escritorio</text>
+<text id="110900">Ver controles</text>
+<text id="111006">Conf. botones para asignar a acciones</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">Establecer periférico para los indicadores</text>
+<text id="111011">Decide si aparecerán o no los tutoriales</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">Conf. sensibilidad del ratón para el mov. de la cámara</text>
+<text id="111021">%null%</text>
+<text id="111022">Conf. controles de cámara horizontal con el ratón</text>
+<text id="111023">Conf. controles de cámara vertical con el ratón</text>
+<text id="111110">Conf. lanzamiento del juego en modo ventana</text>
+<text id="111111">Conf. resolución</text>
+<text id="111112">Conf. simplificación de renderizado en caso de menor rendimiento</text>
+<text id="111113">Conf. calidad de gráficos</text>
+<text id="111114">Conf. calidad de gráficos avanzada</text>
+<text id="111210">Conf. calidad de textura</text>
+<text id="111211">Seleccionar calidad de suavizado de contorno</text>
+<text id="111212">Seleccionar calidad SSAO</text>
+<text id="111213">Seleccionar calidad DOF</text>
+<text id="111214">Seleccionar calidad de desenfoque de mov.</text>
+<text id="111215">Conf. calidad de sombras</text>
+<text id="111216">Seleccionar calidad de luces</text>
+<text id="111217">Conf. calidad de efectos</text>
+<text id="111218">Conf. calidad volumétrica</text>
+<text id="111219">Seleccionar calidad de los reflejos</text>
+<text id="111220">Seleccionar calidad de la superficie del agua</text>
+<text id="111221">Seleccionar calidad del sombreado</text>
+<text id="111222">Selecciona la calidad del trazado de rayos</text>
+<text id="111223">Selecciona la calidad de la iluminación global</text>
+<text id="111224">Selecciona la calidad de la hierba</text>
+<text id="212000">Elegir atributo para subir de nivel</text>
+<text id="212001">Gastar runas para subir de nivel</text>
+<text id="212750">Elegir atributo para subir de nivel</text>
+<text id="212751">Renacer para confirmar los nuevos atributos</text>
+<text id="214000">Elige el armamento que vas a mejorar con cenizas de guerra</text>
+<text id="214001">Elige la Ceniza de Guerra que vas a usar</text>
+<text id="214002">Elige la afinidad que vas a otorgar a este armamento</text>
+<text id="215000">Selecciona una ranura en la que contener una Gran Runa</text>
+<text id="215001">Selecciona una runa para su contención</text>
+<text id="216000">Selecciona las cenizas que quieres reforzar</text>
+<text id="221000">Elige el armamento que vas a reforzar</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">Elige el armamento que vas a reforzar</text>
+<text id="222000">Seleccionar ranura nemotécnica</text>
+<text id="222001">Elige el hechizo/encantamiento que vas a memorizar</text>
+<text id="225000">Selecciona la habilidad de dragón que quieres aprender</text>
+<text id="226000">Selecciona la marioneta que quieres recibir</text>
+<text id="227000">Selecciona las cenizas de guerra que quieres duplicar</text>
+<text id="230000">Selecciona la marioneta que quieres recibir</text>
+<text id="230100">Selecciona el recuerdo que quieres copiar</text>
+<text id="231000">Seleccionar y comprar objeto</text>
+<text id="231500">Selecciona el equipamiento de campeones para recibirlo</text>
+<text id="232000">Seleccionar y vender objeto</text>
+<text id="236000">Seleccionar y crear objeto</text>
+<text id="236200">Selecciona qué recuerdo quieres utilizar para obtener energía</text>
+<text id="236201">Selecciona qué poder quieres recibir del recuerdo</text>
+<text id="236400">Selecciona qué prenda quieres modificar</text>
+<text id="236401">Selecciona la prenda modificada</text>
+<text id="238000">Seleccionar ranura de mezcla</text>
+<text id="238001">Selec. lágrima de cristal a mezclar</text>
+<text id="241000">Ver mapa</text>
+<text id="241100">Coloca un marcador</text>
+<text id="241101">Elimina un marcador</text>
+<text id="241102">Elimina todos los marcadores</text>
+<text id="241200">Elige el lugar de Gracia al que deseas ir</text>
+<text id="241300">Selecciona el lugar de Gracia al que deseas ir</text>
+<text id="251000">Seleccionar objeto a guardar en el cofre</text>
+<text id="251001">Seleccionar objeto a sacar del cofre</text>
+<text id="280005">Elige la acción que vas a asignar</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">Pulsa la tecla que deseas asignar a esta acción</text>
+<text id="280100">Pulsa mientras te mueves para andar.</text>
+<text id="280101">Moverse hacia adelante.</text>
+<text id="280102">Moverse hacia atrás.</text>
+<text id="280103">Moverse hacia la izquierda.</text>
+<text id="280104">Moverse hacia la derecha.</text>
+<text id="280105">Pulsa cuando no te muevas para dar un paso atrás.
+Pulsa mientras te mueves para esquivar rodando o mantén pulsado para correr.</text>
+<text id="280106">Realizar un salto.</text>
+<text id="280107">Cambiar entre estar de pie y agacharse.</text>
+<text id="280200">Mueve la cámara hacia arriba.
+Cambia el objetivo hacia arriba cuando está fijado.</text>
+<text id="280201">Mueve la cámara hacia abajo.
+Cambia el objetivo hacia abajo cuando está fijado.</text>
+<text id="280202">Mueve la cámara hacia la izquierda.
+Cambia el objetivo hacia la izquierda cuando está fijado.</text>
+<text id="280203">Mueve la cámara hacia la derecha.
+Cambia el objetivo hacia la derecha cuando está fijado.</text>
+<text id="280204">Restablece la posición de la cámara.
+Activa y desactiva la fijación del objetivo cuando está fijado.</text>
+<text id="280300">Cambiar el objeto rápido.</text>
+<text id="280301">Cambiar el armamento de la mano derecha.</text>
+<text id="280302">Cambiar el armamento de la mano izquierda.</text>
+<text id="280303">Cambiar el hechizo o encantamiento seleccionado.</text>
+<text id="280400">Ataque normal con el armamento de la mano derecha.</text>
+<text id="280401">Ataque fuerte con el armamento de la mano derecha. Mantener para cargar ataque.</text>
+<text id="280402">Protegerse con el armamento de la mano izquierda.</text>
+<text id="280403">Utilizar una habilidad.</text>
+<text id="280404">Realizar varias acciones.</text>
+<text id="280405">Usar un objeto.</text>
+<text id="280406">Empuñar el armamento de la mano derecha con ambas manos.
+Mantener para empuñar el armamento de la mano izquierda con ambas manos.</text>
+<text id="288000">Elegir qué personaje usar</text>
+<text id="288001">Selecciona una base para crear tu personaje</text>
+<text id="291000">Escribir nombre</text>
+<text id="291001">Selecciona el tipo de cuerpo</text>
+<text id="291002">Seleccionar la edad aparente</text>
+<text id="291003">Seleccionar voz</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">Seleccionar origen</text>
+<text id="291011">Seleccionar recuerdo</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">Seleccionar aspecto de plantilla</text>
+<text id="291021">Cambiar rasgos faciales</text>
+<text id="291022">Cambiar figura general</text>
+<text id="291023">Cambiar color y detalles de la piel</text>
+<text id="291024">%null%</text>
+<text id="291025">Editar detalles del aspecto del personaje</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">Guardar config. actual como favorita</text>
+<text id="291031">Cargar config. favorita guardada</text>
+<text id="291050">Finalizar personaje</text>
+<text id="291051">Comenzar con un nuevo aspecto</text>
+<text id="291052">Comenzar con un nuevo aspecto</text>
+<text id="292000">Editar los rasgos faciales del personaje</text>
+<text id="292001">Editar la forma del rostro del personaje</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">Editar el cabello del personaje</text>
+<text id="292011">Editar las cejas del personaje</text>
+<text id="292012">Editar el vello facial del personaje</text>
+<text id="292013">Editar las pestañas del personaje</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">Editar los ojos del personaje</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">Editar las características de la piel del personaje</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">Editar el maquillaje del personaje</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">Editar los tatuajes/marcas/parche del personaje</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">Seleccionar rostro similar al actual</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">Ajustar la cabeza del personaje</text>
+<text id="292061">Ajustar el pecho del personaje</text>
+<text id="292062">Ajustar el abdomen del personaje</text>
+<text id="292063">Ajustar los brazos del personaje</text>
+<text id="292064">Ajustar las piernas del personaje</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">Ajustar el vello corporal del personaje</text>
+<text id="292071">Ajustar el color del vello corporal del personaje</text>
+<text id="292072">Seleccionar musculatura</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">Configurar si mostrar o no las marcas de quemaduras</text>
+<text id="293000">Elegir estructura ósea</text>
+<text id="293001">Elegir fuerza de rasgos faciales</text>
+<text id="293002">Ajustar edad aparente</text>
+<text id="293003">Ajustar estética facial</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">Editar equilibrio del rostro</text>
+<text id="293011">Editar frente y entrecejo</text>
+<text id="293012">Editar ceño</text>
+<text id="293013">Editar ojos</text>
+<text id="293014">Editar puente de la nariz</text>
+<text id="293015">Editar fosas nasales</text>
+<text id="293016">Editar mejillas</text>
+<text id="293017">Editar labios</text>
+<text id="293018">Editar boca</text>
+<text id="293019">Editar mentón</text>
+<text id="293020">Editar mandíbula</text>
+<text id="293100">Seleccionar peinado</text>
+<text id="293101">Editar color de pelo</text>
+<text id="293102">Ajustar brillo del pelo</text>
+<text id="293103">Ajustar oscuridad de las raíces</text>
+<text id="293104">Ajustar cantidad de canas</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">Seleccionar forma de cejas</text>
+<text id="293111">Editar color de cejas</text>
+<text id="293112">Ajustar brillo de las cejas</text>
+<text id="293113">Ajustar oscuridad de las raíces de las cejas</text>
+<text id="293114">Ajustar cantidad de canas en las cejas</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">Seleccionar tipo de barba</text>
+<text id="293121">Editar color de barba</text>
+<text id="293122">Ajustar brillo del vello facial</text>
+<text id="293123">Ajustar oscuridad de las raíces del vello facial</text>
+<text id="293124">Ajustar cantidad de canas en la cara</text>
+<text id="293125">Ajustar vello púber</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">Seleccionar forma de pestañas</text>
+<text id="293131">Editar color de pestañas</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">Ajustar tamaño de la pupila derecha</text>
+<text id="293141">Editar color del iris derecho</text>
+<text id="293142">Ajustar opacidad del ojo dcho.</text>
+<text id="293143">Ajustar color de la opacidad del ojo dcho.</text>
+<text id="293144">Ajustar color del blanco del ojo dcho.</text>
+<text id="293145">Ajustar dirección a la que mira el ojo dcho.</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">Ajustar tamaño de la pupila izquierda</text>
+<text id="293151">Editar color del iris izquierdo</text>
+<text id="293152">Ajustar opacidad del ojo izq.</text>
+<text id="293153">Ajustar color de la opacidad del ojo izq.</text>
+<text id="293154">Ajustar color del blanco del ojo izq.</text>
+<text id="293155">Ajustar dirección a la que mira el ojo izq.</text>
+<text id="293156">Aplicar modificaciones de los ojos</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">Cambiar visibilidad de los poros</text>
+<text id="293161">Ajustar brillo de la piel</text>
+<text id="293162">Ajustar oscuridad de las ojeras</text>
+<text id="293163">Ajustar color de las ojeras</text>
+<text id="293164">Ajustar intensidad del colorete</text>
+<text id="293165">Ajustar color de las mejillas</text>
+<text id="293166">Ajustar oscuridad del delineador</text>
+<text id="293167">Ajustar color del delineador</text>
+<text id="293168">Ajustar oscuridad de la sombra en párpado sup.</text>
+<text id="293169">Ajustar color de la sombra en párpado sup.</text>
+<text id="293170">Ajustar oscuridad de la sombra en párpado inf.</text>
+<text id="293171">Ajustar color de la sombra en párpado inf.</text>
+<text id="293172">Ajustar intensidad del pintalabios</text>
+<text id="293173">Ajustar color del pintalabios</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">Seleccionar aspecto de tatuaje/marca</text>
+<text id="293181">Editar color de tatuaje/marca</text>
+<text id="293182">Ajustar posición de tatuaje/marca</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">Elegir parche</text>
+<text id="293191">Ajustar color del parche</text>
+<text id="297100">Un cuerpo musculoso.
+El tipo de cuerpo no influye en las habilidades.</text>
+<text id="297101">Un cuerpo esbelto.
+El tipo de cuerpo no influye en las habilidades.</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">La opción joven
+solo influye en el aspecto,
+no en las habilidades.</text>
+<text id="297111">La opción adulto/a
+solo influye en el aspecto,
+no en las habilidades.</text>
+<text id="297112">La opción anciano/a
+solo influye en el aspecto,
+no en las habilidades.</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">Voz juvenil tipo 1</text>
+<text id="297121">Voz adulta tipo 1</text>
+<text id="297122">Voz anciana tipo 1</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">Voz juvenil tipo 2</text>
+<text id="297126">Voz adulta tipo 2</text>
+<text id="297127">Voz anciana tipo 2</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">Un caballero exiliado de su tierra natal
+y obligado a deambular. 
+Robusto y armado.</text>
+<text id="297131">Un guerrero de una tribu nómada
+que empuña armas en ambas manos.
+Técnica excepcional.</text>
+<text id="297132">Un héroe fiel, cómodo empuñando
+un hacha de guerra.
+Descendiente de un líder de Tierra Baldía.</text>
+<text id="297133">Un peligroso bandido que ataca
+los puntos débiles. Destaca en el combate
+a distancia con arcos.</text>
+<text id="297134">Un erudito que lee el destino en las estrellas.
+Seguidor de la escuela de
+hechicería de piedras refulgentes.</text>
+<text id="297135">Un vidente marginado por sus profecías
+catastrofistas. Experimentado en
+encantamientos de curación.</text>
+<text id="297136">Un hábil luchador de los 
+lejanos territorios del Cañaveral. 
+Diestro con catanas y arcos largos.</text>
+<text id="297137">Prisionero encasquetado en una máscara de hierro.
+Conoce la hechicería de piedras refugentes al haber 
+pertenecido a la élite cuando era libre.
+</text>
+<text id="297138">Un espía eclesiástico habilidoso
+en las operaciones clandestinas. 
+Diestro con la espada y los encantamientos.</text>
+<text id="297139">Un pobre tonto sin oficio ni beneficio,
+desnudo como el día en el que nació.
+Solo posee un garrote.</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">Sin recuerdos. El pasado ha quedado
+totalmente atrás.</text>
+<text id="297151">Un medallón incrustado con ámbar carmesí.
+Aumenta los PS máximos.</text>
+<text id="297152">La luz dorada de la Gracia reflejada en los
+ojos de los habitantes de las Tierras Intermedias.
+Se utiliza para obtener muchas runas.</text>
+<text id="297153">Una semilla dorada arrastrada hasta la orilla
+de las Tierras Intermedias. Dicen que
+mejora los viales sagrados.</text>
+<text id="297154">Las cenizas de dos pequeños diablillos colmilludos.
+Dicen que las cenizas albergan espíritus 
+en su interior.</text>
+<text id="297155">%null%</text>
+<text id="297156">Tres extraños tarros agrietados que,
+de alguna forma, se regeneran solos.
+Un recipiente para objetos arrojados.</text>
+<text id="297157">Dos llaves de piedra con forma de espada.
+Aun capaces de romper los sellos de una estatua
+de diablillo, no aguantarán más de un uso.</text>
+<text id="297158">Cinco ramas sagradas cargadas
+con un poder cautivador. Dicen que provienen
+del semidiós Miquella.</text>
+<text id="297159">Cinco unidades de gambón cocido.
+Aumenta la negación de daños físicos.</text>
+<text id="297160">La figura enloquecida de un noble
+cuyos ojos fueron arrancados.
+Atrae los ataques enemigos.</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">Un físico promedio.</text>
+<text id="297171">Un físico musculoso.</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">Aplicar efecto espejo.</text>
+<text id="297181">No aplicar efecto espejo.</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">Aplicar modificaciones de los ojos</text>
+<text id="297186">No aplicar modificaciones de los ojos</text>
+<text id="297187">Mostrar las marcas de las quemaduras</text>
+<text id="297188">No mostrar las marcas de quemaduras</text>
+<text id="297200">El rostro más común entre los Sinluz.
+Después de todo, hubo un tiempo
+en el que todos eran guerreros.</text>
+<text id="297201">El rostro de un peregrino austero.
+Hay muchos caminos para llegar a la verdad.</text>
+<text id="297202">Un rostro regio encontrado entre aquellos que
+alegan sangre noble en las Tierras Intermedias.</text>
+<text id="297203">Rostro encontrado entre una tribu orgullosa
+y solitaria con gente bien versada tanto en
+las antiguas leyendas como en las herejías.</text>
+<text id="297204">Un rostro encontrado entre indómitos habitantes
+del implacable norte. Algunos dicen que
+provienen de gigantes.</text>
+<text id="297205">El rostro de alguien que vaga por los mares
+en busca de su hogar en las Tierras Intermedias.</text>
+<text id="297206">Un rostro de los lejanos y solitarios terrenos
+del Cañaveral, en donde ver sangre es algo común.</text>
+<text id="297207">El rostro pétreo del pueblo de
+los antiguos dragones, cuya vida
+suele ser corta.</text>
+<text id="297208">Los rasgos de aquellos conocidos como los 
+conticinianos. Escasos en número, la leyenda 
+cuenta que su sangre era de plata.</text>
+<text id="297209">El rostro de los númenes, supuestos 
+descendientes de habitantes de otro mundo.
+De larga vida, pero escaso número.</text>
+<text id="297220">El rostro más común entre los Sinluz.
+Después de todo, hubo un tiempo
+en el que todos eran guerreros.</text>
+<text id="297221">El rostro de una peregrina austera.
+Hay muchos caminos para llegar a la verdad.</text>
+<text id="297222">Un rostro regio encontrado entre aquellos que
+alegan sangre noble en las Tierras Intermedias.</text>
+<text id="297223">Rostro encontrado entre una tribu orgullosa
+y solitaria con gente bien versada tanto en
+las antiguas leyendas como en las herejías.</text>
+<text id="297224">Un rostro encontrado entre indómitos habitantes
+del implacable norte. Algunos dicen que
+provienen de gigantes.</text>
+<text id="297225">El rostro de alguien que vaga por los mares
+en busca de su hogar en las Tierras Intermedias.</text>
+<text id="297226">Un rostro de los lejanos y solitarios terrenos
+del Cañaveral, en donde ver sangre es algo común.</text>
+<text id="297227">El rostro pétreo del pueblo de
+los antiguos dragones, cuya vida
+suele ser corta.</text>
+<text id="297228">Los rasgos de aquellos conocidos como los 
+conticinianos. Escasos en número, la leyenda 
+cuenta que su sangre era de plata.</text>
+<text id="297229">El rostro de los númenes, supuestos 
+descendientes de habitantes de otro mundo.
+De larga vida, pero escaso número.</text>
+<text id="301000">Seleccionar gesto para esta ranura</text>
+<text id="301001">Seleccionar y utilizar gesto</text>
+<text id="321000">Editar composición de mensaje</text>
+<text id="321001">Cambiar gesto vinculado</text>
+<text id="321002">Terminar de escribir el mensaje</text>
+<text id="321003">Seleccionar plantilla</text>
+<text id="321004">Cambiar gesto vinculado</text>
+<text id="321005">Seleccionar categoría de palabra</text>
+<text id="321006">Seleccionar plantilla</text>
+<text id="321007">Seleccionar palabra</text>
+<text id="321008">Seleccionar conjunción</text>
+<text id="322000">Ver los mensajes redactados</text>
+<text id="324000">Mostrar mensajes vistos recientemente</text>
+<text id="406000">Seleccionar y cargar perfil</text>
+<text id="406001">Seleccionar y eliminar perfil</text>
+</entries>
+</fmg>

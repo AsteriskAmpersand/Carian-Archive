@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="84">%null%</text>
+<text id="85">%null%</text>
+<text id="86">%null%</text>
+<text id="87">%null%</text>
+<text id="88">%null%</text>
+<text id="89">%null%</text>
+<text id="90">%null%</text>
+<text id="91">%null%</text>
+<text id="92">%null%</text>
+<text id="93">%null%</text>
+<text id="94">%null%</text>
+<text id="95">%null%</text>
+<text id="96">%null%</text>
+<text id="97">%null%</text>
+<text id="98">%null%</text>
+<text id="99">%null%</text>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="102">%null%</text>
+<text id="103">%null%</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">%null%</text>
+<text id="107">%null%</text>
+<text id="108">%null%</text>
+<text id="109">%null%</text>
+<text id="110">%null%</text>
+<text id="111">%null%</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">%null%</text>
+<text id="121">%null%</text>
+<text id="122">%null%</text>
+<text id="123">%null%</text>
+<text id="124">%null%</text>
+<text id="125">%null%</text>
+<text id="126">%null%</text>
+<text id="127">%null%</text>
+<text id="128">%null%</text>
+<text id="129">%null%</text>
+<text id="130">%null%</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">%null%</text>
+<text id="134">%null%</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">%null%</text>
+<text id="138">%null%</text>
+<text id="139">%null%</text>
+<text id="140">%null%</text>
+<text id="141">%null%</text>
+<text id="142">%null%</text>
+<text id="143">%null%</text>
+<text id="144">%null%</text>
+<text id="145">%null%</text>
+<text id="146">%null%</text>
+<text id="147">%null%</text>
+<text id="148">%null%</text>
+<text id="149">%null%</text>
+<text id="150">%null%</text>
+<text id="151">%null%</text>
+<text id="152">%null%</text>
+<text id="153">%null%</text>
+<text id="154">%null%</text>
+<text id="155">%null%</text>
+<text id="156">%null%</text>
+<text id="157">%null%</text>
+<text id="158">%null%</text>
+<text id="159">%null%</text>
+<text id="160">%null%</text>
+<text id="161">%null%</text>
+<text id="162">%null%</text>
+<text id="163">%null%</text>
+<text id="164">%null%</text>
+<text id="165">%null%</text>
+<text id="166">%null%</text>
+<text id="167">%null%</text>
+<text id="168">%null%</text>
+<text id="169">%null%</text>
+<text id="170">%null%</text>
+<text id="171">%null%</text>
+<text id="172">%null%</text>
+<text id="173">%null%</text>
+<text id="174">%null%</text>
+<text id="175">%null%</text>
+<text id="176">%null%</text>
+<text id="177">%null%</text>
+<text id="178">%null%</text>
+<text id="179">%null%</text>
+<text id="180">%null%</text>
+<text id="181">%null%</text>
+<text id="182">%null%</text>
+<text id="183">%null%</text>
+<text id="184">%null%</text>
+<text id="185">%null%</text>
+<text id="186">%null%</text>
+<text id="187">%null%</text>
+<text id="188">%null%</text>
+<text id="189">%null%</text>
+<text id="190">%null%</text>
+<text id="191">%null%</text>
+<text id="192">%null%</text>
+<text id="193">%null%</text>
+<text id="194">%null%</text>
+<text id="1000">%null%</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="10000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Artiglio leonino: abilità tipica dei Mantorosso che combatterono al fianco del generale Radahn. Esegue una capriola in avanti e colpisce i nemici con l'armamento."
+
+Usabile su spade, asce e martelli (tranne armamenti piccoli e spade perforanti).</text>
+<text id="10100">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Impalamento: abilità elaborata per superare gli scudi con le armi da affondo. Esegue un attacco che si incunea nella difesa nemica."
+
+Usabile su tutti gli armamenti perforanti (tranne armamenti colossali).</text>
+<text id="10200">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Zanna perforante: abilità di Yura, cacciatore di Dita sanguinanti. Partendo con la lama in posizione orizzontale, sferra un potente affondo impossibile da bloccare."
+
+Usabile su tutti gli armamenti perforanti medi e grandi.</text>
+<text id="10300">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Taglio rotante: abilità prediletta dai guerrieri più abili. Fa roteare il corpo, infliggendo fendenti al nemico. Premi ripetutamente per eseguire una combinazione di attacchi."
+
+Usabile su spade, asce e armamenti inastati (tranne armamenti colossali e spade perforanti).</text>
+<text id="10500">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Carica avanti: carica velocemente in avanti con l'arma all'altezza del fianco, concludendo lo slancio con un affondo. Tieni premuto per coprire una distanza maggiore."
+
+Usabile su armamenti inastati perforanti, spade perforanti pesanti e lame gemelle.</text>
+<text id="10600">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Impronta (montante): stringi l'armamento e abbassa il baricentro per meglio attutire l'impatto dei colpi. Se seguita da un attacco potente, permette di sferrare un fendente verso l'alto."
+
+Usabile su spade, asce e martelli (tranne spade piccole e medie).</text>
+<text id="10700">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Impronta (spazzata): stringi l'armamento e abbassa il baricentro per meglio attutire l'impatto dei colpi. Se seguita da un attacco potente, permette di sferrare un fendente in spazzata."
+
+Usabile su spade, asce e martelli (tranne spade piccole e medie).</text>
+<text id="10800">Cenere di guerra che fornisce a un armamento l'affinità sangue e la seguente abilità:
+
+"Tributo di sangue: abilità del Voto di sangue conferita dal Signore del sangue. Esegui una torsione per prendere slancio, poi libera una raffica di affondi che sottraggono al bersaglio sangue e PV."
+
+Usabile su armamenti perforanti (tranne armamenti colossali).</text>
+<text id="10900">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Affondo ripetuto: esegue una torsione per prendere slancio, quindi libera una raffica di affondi."
+
+Usabile su armamenti perforanti (tranne armamenti colossali e artigli).</text>
+<text id="11000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Furia di colpi: agita l'armamento con feroce trasporto. Tieni premuto per continuare a colpire. Può essere seguita da un attacco normale o potente."
+
+Usabile su asce, martelli, spade curve e spadoni (tranne armamenti colossali).</text>
+<text id="11100">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Colpi rotanti: abilità che permette di eseguire una serie di attacchi in rotazione con un'arma ad asta. Tieni premuto per continuare a colpire. Può essere seguita da un attacco normale o potente. Durante la rotazione, arresta i proiettili, incluse le frecce."
+
+Usabile su armamenti inastati (tranne lance pesanti).</text>
+<text id="11200">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Doppio taglio: abilità padroneggiata dagli spadaccini esperti. Abbassa il baricentro e sferra un fendente incrociato. Premi di nuovo per eseguire fino a due attacchi supplementari."
+
+Usabile su spade e armamenti inastati laceranti (tranne armamenti colossali).</text>
+<text id="11300">Cenere di guerra che fornisce a un armamento l'affinità fiammante e la seguente abilità:
+
+"Carica del prelato: percuoti il terreno con l'armamento, scatenando una fiammata, poi parti alla carica. Tieni premuto per continuare a caricare."
+
+Usabile su asce pesanti, martelli da guerra e armi colossali.</text>
+<text id="11400">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Sfoderamento: abilità impiegata dagli assassini della terra dei giunchi. Rinfodera l'arma, tenendola sul fianco con compostezza. Se seguita da un attacco normale o potente, permette di sferrare un rapido fendente."
+
+Usabile sulle katana.</text>
+<text id="11500">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Posizionamento: abilità che ha inizio con la spada in posizione orizzontale. Con un attacco normale ti incunei nella difesa nemica colpendo dal basso, con un attacco potente corri e ti lanci in affondo."
+
+Usabile sulle spade dritte.</text>
+<text id="11600">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Caccia gigante: abilità sviluppata per contrastare avversari colossali. Abbassa il baricentro e scatta in avanti, sfruttando lo slancio per sferrare un fendente verso l'alto."
+
+Usabile su armamenti perforanti grandi e colossali, lance e lame gemelle.</text>
+<text id="11700">Questa cenere di guerra garantisce all'armamento
+un'abilità: Colpo di torcia.</text>
+<text id="11800">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Fendente di Loretta: abilità di Loretta la guardia reale. Balza in avanti, infondendo nell'arma il potere della scintipietra. Poi accelera sferrando un fendente discendente."
+
+Usabile su armamenti inastati e lame gemelle.</text>
+<text id="11900">Cenere di guerra che fornisce a un armamento l'affinità veleno e la seguente abilità:
+
+"Volo venefico: colpisce con una lama intrisa di veleno. Se l'attacco successivo infierisce su un nemico avvelenato, infligge danni notevoli."
+
+Usabile su spade piccole e medie (tranne lame gemelle).</text>
+<text id="12000">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Arma rotante: tecnica difensiva impiegata dalle principesse cariane. Solleva l'armamento a mezz'aria per farlo roteare vorticosamente, infliggendo ai bersagli colpi ripetuti."
+
+Usabile su spade piccole e medie, asce, martelli, armamenti inastati e bastoni (tranne lance pesanti).</text>
+<text id="12100">%null%</text>
+<text id="12200">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Assalto tempestoso: abilità che canalizza l'essenza di Grantempesta. Scatta in avanti avvolto in venti di tempesta e spinge l'armamento verso il terreno. L'attacco creerà altri venti tempestosi nel punto d'impatto."
+
+Usabile su armamenti inastati perforanti, spade perforanti pesanti e lame gemelle.</text>
+<text id="12300">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Echi di tempesta: abilità che canalizza l'essenza di Grantempesta. Fai roteare l'armamento, circondandoti di venti di procella. Premi di nuovo per eseguire fino a due attacchi supplementari."
+
+Usabile su spade laceranti, asce, martelli e armamenti inastati (tranne armamenti piccoli e colossali).</text>
+<text id="12400">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Danza della spada: avventati sul bersaglio sferrando una serie di fendenti vorticanti verso l'alto. Premi di nuovo per chiudere con un colpo discendente."
+
+Usabile su spade, asce e armamenti inastati laceranti (tranne armi colossali e lance pesanti).</text>
+<text id="12500">Questa cenere di guerra garantisce all'armamento
+un'abilità: Polverizzazione.</text>
+<text id="20000">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Falange di scintilama: abilità usata dai cavalieri incantati di Caria. Genera un arco di piccole scintispade ad attacco automatico. Con un secondo attacco, colpisce in affondo."
+
+Usabile su spade e armamenti inastati perforanti (tranne armi colossali).</text>
+<text id="20100">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Lama sacra: l'armamento può sferrare attacchi sacri e proiettare una lama dorata. L'armamento conserva il potere sacro per un periodo."
+
+Usabile su tutti gli armamenti da mischia (tranne fruste, pugni e artigli).</text>
+<text id="20200">Cenere di guerra che fornisce a un armamento l'affinità freddo e la seguente abilità:
+
+"Lancia di ghiaccio: abilità dei guerrieri al servizio di Ranni, la principessa lunare. Fai roteare l'armamento per risvegliarne la gelida magia, poi convogliala in una lancia di ghiaccio perforante."
+
+Usabile su armamenti inastati perforanti e lame gemelle.</text>
+<text id="20300">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Ciottolo di scintipietra: abilità che imita la stregoneria scintipietra dello stesso nome. Se seguita da un attacco potente, l'armamento sfrutta il potere della scintipietra per colpire con un affondo perforante."
+
+Usabile su spade e armamenti inastati perforanti (tranne armamenti colossali).</text>
+<text id="20400">Cenere di guerra che fornisce a un armamento l'affinità sangue e la seguente abilità:
+
+"Fendente sanguinario: abilità del Voto di sangue, impiegata da chi partecipa del potere del Signore del sangue. Abbassa il baricentro e cospargi la lama con il tuo sangue, per sferrare un ampio fendente lacerante."
+
+Usabile sulle spade (tranne armamenti colossali)</text>
+<text id="20500">Cenere di guerra che fornisce a un armamento l'affinità occulto e la seguente abilità:
+
+"Pugno assorbivita: abilità che testimonia una totale padronanza delle energie vitali. Un pugno lento e calibrato, infuso di energia, che tramortisce le vittime e sottrae loro i PV. È efficace soltanto contro gli esseri umanoidi."
+
+Usabile su pugni e artigli.</text>
+<text id="20700">Cenere di guerra che fornisce a un armamento l'affinità fuoco e la seguente abilità:
+
+"Eruzione: abilità usata dai cavalieri di Villa Vulcano. Pianta al suolo l'armamento per generare lava ribollente, poi sollevalo per scatenare un devastante getto eruttivo."
+
+Usabile su spade grandi e colossali, asce pesanti e martelli da guerra.</text>
+<text id="20800">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Attacco devoto: solleva l'armamento in preghiera, poi abbattilo al suolo. Se colpisce un nemico, ripristina i tuoi PV e quelli degli alleati vicini."
+
+Usabile su asce e martelli.</text>
+<text id="20900">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Gravitas: abilità dei campioni di alabastro dalla pelle di pietra. Conficca l'armamento nel terreno per creare un pozzo gravitazionale. Oltre a infliggere danni, attira i nemici verso l'esecutore."
+
+Usabile su tutti gli armamenti da mischia (tranne armamenti piccoli e fruste).</text>
+<text id="21000">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Lama Tempesta: abilità perduta di Grantempesta. L'armamento viene avvolto da lame tempestose che possono essere scoccate in successione."
+
+Usabile sulle spade (tranne armi colossali e lame gemelle).</text>
+<text id="21200">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Battiterra: pianta al suolo l'armamento e convoglia la tua forza in un'onda d'urto di portata sismica. Se seguita da un attacco potente, permette di eseguire un colpo in spazzata."
+
+Usabile su asce pesanti, martelli da guerra, lance pesanti e armi colossali.</text>
+<text id="21300">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Terra aurea: pianta al suolo l'armamento e convoglia la tua forza in un'emanazione di energia sacra sotto forma di dardi dorati. Se seguita da un attacco potente, permette di eseguire un colpo in spazzata."
+
+Usabile su asce pesanti, martelli da guerra, lance pesanti e armi colossali.</text>
+<text id="21400">Cenere di guerra che fornisce a un armamento l'affinità fuoco e la seguente abilità:
+
+"Attacco fiammante: proietta in avanti un ampio ventaglio di fiamme. Se seguita da un attacco potente, permette di eseguire un colpo in spazzata. Ammanta di fuoco l'armamento."
+
+Usabile su armamenti da mischia (tranne armamenti colossali e fruste).</text>
+<text id="21600">Cenere di guerra che fornisce a un armamento l'affinità fulmine e la seguente abilità:
+
+"Folgore: abilità degli adepti del drago antico della capitale. Solleva l'armamento per evocare un fulmine. Consente di lanciare saette in rapida successione."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="21700">Cenere di guerra che fornisce a un armamento l'affinità fulmine e la seguente abilità:
+
+"Fendente del fulmine: invoca il potere del fulmine nell'armamento, poi sferra un colpo discendente per scatenare una seconda esplosione folgorante. L'armamento conserva il potere del fulmine per un periodo."
+
+Usabile su spade, asce e martelli.</text>
+<text id="21800">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Fasti cariani: abilità che incarna il prestigio dei reali di Caria. Trasforma l'arma in uno spadone magico e sferra un fendente discendente. È possibile caricare l'abilità fino a due volte, aumentandone l'efficacia."
+
+Usabile sulle spade (tranne armamenti colossali).</text>
+<text id="21900">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Spadone cariano: abilità che incarna il prestigio dei reali di Caria. Trasforma l'arma in uno spadone magico e sferra un fendente discendente. È possibile caricare l'abilità, aumentandone l'efficacia."
+
+Usabile sulle spade (tranne armamenti colossali).</text>
+<text id="22000">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Squarcio dell'oblio: abilità perduta appartenuta a eroi di tempi antichi. Solleva l'armamento per ammantarlo di un vuoto dilaniante, poi scaglialo in avanti come un affilato proiettile."
+
+Usabile su spade e asce (tranne asce colossali).</text>
+<text id="22100">Cenere di guerra che fornisce a un armamento l'affinità fiammante e la seguente abilità:
+
+"Tornado di nera fiamma: fai vorticare l'armamento sopra la testa, poi conficcalo al suolo per scatenare un furioso vortice di fiamme nere. Tieni premuto per generare un tornado di fiamme mentre fai roteare l'armamento."
+
+Usabile su lame gemelle e armamenti inastati.</text>
+<text id="22200">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Sacro anello di luce: abilità usata dai comandanti dei cavalieri marcescenti. Convoglia un sacro anello di luce nell'armamento, da scagliare come proiettile. È possibile eseguire rapide raffiche consecutive."
+
+Usabile su armamenti inastati (tranne lance pesanti).</text>
+<text id="22300">Questa cenere di guerra garantisce all'armamento
+un'abilità: Respiro di fuoco.</text>
+<text id="22400">Cenere di guerra che fornisce a un armamento l'affinità sangue e la seguente abilità:
+
+"Lama di sangue: ferisciti per cospargere l'armamento di sangue e scaglia una lama che causa emorragie. È possibile eseguire rapide raffiche consecutive."
+
+Usabile sulle spade piccole e medie.</text>
+<text id="22500">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Fendente fantasma: abilità ispirata ai ricordi dei cavalieri notturni. Materializza un'apparizione del loro istruttore, che accompagna l'esecuzione di un affondo ascendente. Premi di nuovo per eseguire un attacco supplementare."
+
+Usabile su lame gemelle e armamenti inastati (tranne lance pesanti).</text>
+<text id="22600">Cenere di guerra che fornisce a un armamento l'affinità occulto e la seguente abilità:
+
+"Lancia spettrale: abilità usata dai cavalieri acefali del mausoleo. Scaglia una lancia incorporea all'indirizzo dei nemici."
+
+Usabile su armamenti inastati (tranne falci).</text>
+<text id="22700">Cenere di guerra che fornisce a un armamento l'affinità freddo e la seguente abilità:
+
+"Foschia glaciale: ammanta di ghiaccio l'armamento e sprigiona una gelida foschia con un fendente. L'armamento conserva il potere del gelo per un periodo."
+
+Usabile su armamenti da mischia (tranne fruste, pugni e artigli).</text>
+<text id="22800">Cenere di guerra che fornisce a un armamento l'affinità veleno e la seguente abilità:
+
+"Foschia velenosa: cospargi di veleno l'armamento e sprigiona una foschia tossica con un fendente. L'armamento conserva il potere del veleno per un periodo."
+
+Usabile su armamenti da mischia (tranne fruste, pugni e artigli).</text>
+<text id="30000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Colpo di scudo: impugna saldamente lo scudo, per poi lanciarti di peso contro il nemico senza abbassare la guardia. Respinge i bersagli deboli e può indurre al vacillamento."
+
+Usabile su tutti gli scudi.</text>
+<text id="30100">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Scudo barricata: abilità resa celebre da ser Neidhardt. Concentra nello scudo tutta la propria energia, rendendolo più resistente ai colpi per un periodo."
+
+Usabile su tutti gli scudi.</text>
+<text id="30200">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Parata: eseguita con il giusto tempismo, respinge l'attacco in mischia del nemico e lo sbilancia, fornendo l'opportunità di infierire con un colpo critico."
+
+Usabile su pugnali, spade curve, spade perforanti, pugni, artigli e scudi piccoli e medi.</text>
+<text id="30300">Questa cenere di guerra garantisce all'armamento
+un'abilità: Parata di brocchiero.</text>
+<text id="30400">Questa cenere di guerra garantisce all'armamento
+un'abilità: Parata.</text>
+<text id="30500">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Rappresaglia cariana: agita lo scudo per dissolvere le stregonerie e gli incantesimi in arrivo, rispedendoli al mittente sotto forma di scintilame. Si può usare anche come una normale parata."
+
+Usabile su scudi piccoli e medi.</text>
+<text id="30600">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Muro tempestoso: agita lo scudo per generare dinanzi a te un fronte di vento che respinge frecce e altri proiettili fisici. Si può usare anche come una normale parata."
+
+Usabile su scudi piccoli e medi.</text>
+<text id="30700">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Parata aurea: invoca la magia dell'Albero Madre, poi usa lo scudo per respingere gli attacchi dei nemici e sbilanciarli. Efficace anche a una certa distanza."
+
+Usabile sugli scudi piccoli e medi.</text>
+<text id="30800">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Schianto di scudo: impugna lo scudo a due mani e scatta in avanti mantenendo alta la guardia. I nemici più deboli vengono respinti all'indietro e possono vacillare. Tieni premuto per prolungare la durata della carica."
+
+Usabile su tutti gli scudi.</text>
+<text id="30900">Cenere di guerra che non fornisce alcuna affinità all'armamento e sostituisce eventuali abilità con la seguente:
+
+"Nessuna abilità: questo armamento non possiede abilità. Se l'armamento che impugni nell'altra mano ne possiede una, sarà usata quella."
+
+Usabile su tutti gli scudi e torce.</text>
+<text id="31000">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Barriera di Thops: agita lo scudo per innalzare un campo di forze magico in grado di respingere stregonerie e incantesimi. Si può usare anche come una normale parata."
+
+Usabile su scudi piccoli e medi.</text>
+<text id="40000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Fino in fondo: potente tecnica che sfrutta un'impugnatura di traverso dell'arco pesante. Posiziona l'arco, poi torcine la corda per scagliare una freccia pesante in grado di trapassare i nemici."
+
+Usabile su archi pesanti.</text>
+<text id="40100">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Sbarramento: tecnica d'arco con impugnatura orizzontale. Prepara l'arco, poi scaglia una raffica di frecce alla velocità del pensiero."
+
+Usabile sugli archi leggeri.</text>
+<text id="40200">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Colpo poderoso: tecnica d'arco con impugnatura obliqua. Prepara l'arco, poi tendine la corda fino al punto di rottura per potenziare l'attacco e trapassare la difesa nemica."
+
+Usabile su archi e archi leggeri.</text>
+<text id="40400">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Colpo incantato: tecnica d'arco che permea la freccia di essenza spirituale. Gli strali risultanti acquisiscono maggiore velocità e possono cambiare traiettoria per braccare il bersaglio."
+
+Usabile su archi e archi leggeri.</text>
+<text id="40500">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Colpo celeste: tecnica d'arco con impugnatura bassa. Prepara l'arco e scaglia una freccia verso il cielo perché colpisca il nemico nella sua parabola discendente."
+
+Usabile su archi e archi leggeri.</text>
+<text id="40600">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Pioggia di strali: tecnica d'arco con impugnatura bassa. Prepara l'arco e scaglia una salva di frecce verso il cielo perché ricadano come pioggia sul nemico."
+
+Usabile su tutti gli archi.</text>
+<text id="40700">%null%</text>
+<text id="50100">Cenere di guerra che fornisce a un armamento l'affinità freddo e la seguente abilità:
+
+"Pestone brinoso: sferra un violento pestone a terra, spargendo intorno una scia di foschia gelida che provoca assideramento."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50200">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Pestone Tempesta: abilità che canalizza l'essenza di Grantempesta. Sferra un violento pestone a terra, scatenando una breve tempesta."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50300">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Calcio: solleva la gamba per spingere via il nemico con un calcio. Utile contro gli avversari chiusi in difesa, può sbilanciarli. Gli strumenti più semplici possono rivelarsi i più efficaci."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50400">Cenere di guerra che fornisce a un armamento l'affinità fulmine e la seguente abilità:
+
+"Ariete folgorante: abilità ispirata ai ruzzoloni degli arieti. Innalza al cielo un terrificante belato, poi ammantati di fulmine e rotola in avanti, anche ripetutamente."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50500">Cenere di guerra che fornisce a un armamento l'affinità fuoco e la seguente abilità:
+
+"Fiamma del Mantorosso: abilità tipica dei Mantorosso che combatterono al fianco del generale Radahn. Proietta una fiammata che si espande in un ampio arco."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50600">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Schianto a terra: spicca un balzo e schiantati al suolo con violenza. L'impatto produce una devastante onda d'urto che si propaga in ogni direzione."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50700">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Schianto aureo: abilità usata dagli avatar che proteggono gli Alberi Madre minori. Spicca un balzo e schiantati al suolo con violenza. L'impatto produce onde d'urto auree che si propagano in ogni direzione."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="50800">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Onde di tenebra: conficca l'armamento al suolo per sprigionare tre ondate di oscurità. Se seguita da un attacco potente, permette di sferrare un fendente in spazzata."
+
+Usabile su asce pesanti, martelli da guerra, lance pesanti e armi colossali.</text>
+<text id="50900">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Colpo di Hoarah Loux: percuoti il terreno con entrambe le mani, scatenando un'onda sismica. Premi di nuovo per percuotere il terreno una seconda volta."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60000">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Determinazione: abilità da autentici cavalieri. Poggia l'armamento di piatto sul volto e riafferma la tua convinzione, potenziando l'attacco successivo."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60100">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Coraggio del cavaliere: abilità usata dai cavalieri al servizio del Lord ancestrale. Poggia l'armamento di piatto sul volto e riafferma la tua convinzione, potenziando l'attacco successivo."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60200">Cenere di guerra che fornisce a un armamento l'affinità occulto e la seguente abilità:
+
+"Mossa del sicario: al costo di una ferita autoinflitta, questa abilità permette di occultare la propria presenza. Rende praticamente invisibili e copre il rumore dei passi."
+
+Usabile su spade piccole e medie e spade perforanti.</text>
+<text id="60300">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Voto aureo: abilità tramandata nella stirpe aurea. Solleva l'armamento e giura di onorare l'Albero Madre in battaglia. Conferisce a te e ai tuoi alleati un incremento della potenza di attacco e della difesa."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60400">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Sacro ordine: abilità dei cavalieri fondamentalisti dell'Ordine aureo. Compi un gesto di saluto, convogliando essenza sacra nell'armamento con una benedizione. Causa ingenti danni a coloro che vivono nella morte."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60500">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Ordine condiviso: abilità dei cavalieri fondamentalisti dell'Ordine aureo. Infonde di essenza sacra il tuo armamento e quello degli alleati vicini. Causa ingenti danni a coloro che vivono nella morte."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="60600">Cenere di guerra che fornisce a un armamento l'affinità sangue e la seguente abilità:
+
+"Seppuku: tecnica proibita degli assassini della terra dei giunchi. Squarciati il ventre con la lama per cospargerla di sangue. Incrementa la potenza d'attacco e rende più efficaci gli effetti che causano sanguinamento."
+
+Usabile su spade e armamenti inastati perforanti (tramme armamenti piccoli e colossali).</text>
+<text id="60700">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Lama rocciosa: questa abilità può manipolare la gravità. Conficca l'armamento al suolo, rinforzandolo con le rocce estratte dalla terra. Incrementa la potenza di attacco e fa sbilanciare i nemici più facilmente."
+
+Usabile su armamenti da mischia (tranne fruste).</text>
+<text id="65000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Ruggito barbarico: ruggisci come una belva feroce per infonderti coraggio e incrementare la tua potenza d'attacco. Finché è attiva, gli attacchi potenti scatenano una letale combinazione di colpi."
+
+Usabile su armamenti da mischia (tranne pugnali, spade perforanti e fruste).</text>
+<text id="65100">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Grido di guerra: galvanizzati con un grido bellicoso, incrementando la tua potenza d'attacco. Finché è attiva, gli attacchi potenti diventano attacchi in carica."
+
+Usabile su armamenti da mischia (tranne pugnali, spade perforanti e fruste).</text>
+<text id="65200">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Ruggito della bestia: Lancia un ruggito animale e scaglia un proiettile d'aria."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="65300">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Ruggito del troll: fissa l'orizzonte e ruggisci intensamente, travolgendo i nemici con devastanti onde d'urto. Se seguita da un attacco potente, esegue uno schianto discendente."
+
+Usabile su spadoni, spade colossali, asce pesanti e martelli da guerra.</text>
+<text id="65400">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Ruggito dello spaccone: annuncia la tua presenza con un fiero ruggito. Incrementa potenza d'attacco, difesa e velocità di recupero del vigore."
+
+Usabile su armamenti da mischia (tranne pugnali, spade perforanti e fruste).</text>
+<text id="70000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Tenacia: ancorati al suolo e preparati all'impatto, incrementando temporaneamente la stabilità. Riduce i danni subiti per la durata dell'esecuzione."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="70100">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Voto dell'indomito: abilità degli antichi guerrieri dell'Albero Madre. Solleva lo scudo per ammantarti di aureo potere e acquisire una temporanea invincibilità."
+
+Usabile su tutti gli scudi.</text>
+<text id="70200">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Terra Santa: innalza lo scudo per consacrare la terra all'Albero Madre, ripristinando PV nel tempo e incrementando la difesa per l'esecutore e gli alleati nell'area d'effetto."
+
+Usabile su tutti gli scudi.</text>
+<text id="80000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Passo veloce: abilità per guerrieri agili e scaltri. Esegue un veloce scatto, consentendo di girare intorno ai bersagli agganciati."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="80100">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Passo del limiere: abilità che permette di schivare con estrema rapidità, rendendosi temporaneamente invisibili. Più rapida di un normale passo veloce, copre una maggiore distanza. Consente di girare intorno ai bersagli agganciati."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="80200">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Rapace delle nebbie: rannicchiati, occultando temporaneamente la tua presenza. Un paio d'ali ti trarranno al volo in salvo se un attacco dovesse colpirti."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="85000">Cenere di guerra che fornisce a un armamento l'affinità occulto e la seguente abilità:
+
+"Pallida esca: reggi l'armamento in silenziosa preghiera per evocare una pallida ombra al tuo cospetto. L'apparizione attirerà l'attenzione, e l'ostilità, dei nemici umanoidi che non siano in combattimento. Efficace sui semiumani, anche se già impegnati in battaglia."
+
+Usabile su tutti gli armamenti da mischia.</text>
+</entries>
+</fmg>

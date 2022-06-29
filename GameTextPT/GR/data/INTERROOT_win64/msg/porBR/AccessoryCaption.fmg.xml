@@ -1,0 +1,1239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="100">Item do modo de multijogador online. Recibo de um pedido
+de ajuda às donzelas da Leitora de Dedos.
+
+Invoca um Dedo Quebrado Perseguidor de outro
+mundo para enfrentar um Dedo Quebrado invasor.
+
+Donzelas da Leitora de Dedo falam em voz
+baixa sobre os repugnantes e traiçoeiros Dedos
+Quebrados e os perigos de suas invasões.</text>
+<text id="101">Item do modo de multijogador online. Registro de contrato com
+as donzelas da Leitora de Dedos.
+
+Seja invocado para o mundo de um jogador que
+foi invadido por um Dedo Quebrado.
+
+Os Dedos Quebrados traíram a Leitora
+de Dedos. Eles são um câncer que afligem os
+laços que unem os Maculados uns aos outros.
+Eles devem ser extirpados e erradicados.</text>
+<text id="1000">Um talismã com um âmbar carmesim incrustado.
+Aumenta os PV máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1001">Um talismã com um âmbar carmesim incrustado.
+Aumenta muito os PV máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimada como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1002">Um talismã com um âmbar carmesim incrustado.
+Aumenta vastamente os PV máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimada como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">Um medalhão com um âmbar cerúleo incrustado.
+Aumenta os PF máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1011">Um medalhão com um âmbar cerúleo incrustado.
+Aumenta muito os PF máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1012">Um medalhão com um âmbar cerúleo incrustado.
+Aumenta vastamente os PF máximos.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimado como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">Um talismã com um âmbar viridiano incrustado.
+Aumenta o vigor máximo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimada como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1021">Um talismã com um âmbar viridiano incrustado.
+Aumenta muito o vigor máximo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimada como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1022">Um talismã com um âmbar viridiano incrustado.
+Aumenta vastamente o vigor máximo.
+
+A velha seiva petrificada da Térvore se transforma em âmbar, estimada como a mais valiosa das joias na era de Godfrey, o primeiro Lorde Prístino.
+
+Uma energia de vida primordial habita ali dentro.</text>
+<text id="1023">%null%</text>
+<text id="1024">%null%</text>
+<text id="1025">%null%</text>
+<text id="1026">%null%</text>
+<text id="1027">%null%</text>
+<text id="1028">%null%</text>
+<text id="1029">%null%</text>
+<text id="1030">Um amuleto de ferro que lembra uma massa de armas.
+Aumenta a carga máxima de equipamento.
+
+Este talismã se originou de uma espada grande incomum, antes empunhada por um herói com sede de vingança.</text>
+<text id="1031">Um amuleto de ferro que lembra uma massa de armas.
+Aumenta muito a carga máxima de equipamento.
+
+Este talismã se originou de uma espada grande incomum, antes empunhada por um herói com sede de vingança.</text>
+<text id="1032">Um talismã que lembra um grande jarro abarrotado de armas.
+Aumenta vastamente a carga máxima de equipamento.
+
+O grande jarro concede este talismã aos seus guerreiros.
+Carregue o máximo que puder — fique grande e forte.</text>
+<text id="1033">%null%</text>
+<text id="1034">%null%</text>
+<text id="1035">%null%</text>
+<text id="1036">%null%</text>
+<text id="1037">%null%</text>
+<text id="1038">%null%</text>
+<text id="1039">%null%</text>
+<text id="1040">Um talismã retratando uma bênção especial da Térvore.
+Aumenta um pouco o máximo de PV, vigor e carga de equipamentos.
+
+Dizem que quando a Era da Térvore começou, tais bênçãos eram concedidas pessoalmente pela Rainha Marika.</text>
+<text id="1041">Um talismã retratando uma bênção especial da Térvore.
+Aumenta o máximo de PV, vigor e carga de equipamentos.
+
+Dizem que quando a Era da Térvore começou, tais bênçãos eram concedidas pessoalmente pela Rainha Marika.</text>
+<text id="1042">Um talismã lendário retratando uma bênção especial da Térvore.
+
+Aumenta muito o máximo de PV, vigor e carga de equipamentos.
+
+Dizem que quando a Era da Térvore começou, tais bênçãos eram concedidas pessoalmente pela Rainha Marika.</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">Um olho entalhado com uma Runa Prístina.
+Dizem ser o selo de Radagon, o Rei Consorte.
+
+Aumenta a vitalidade, fortitude, força e destreza, mas também o dano sofrido.
+
+Esses selos representam o dever vitalício daqueles escolhidos pelos deuses.</text>
+<text id="1051">Este talismã lendário é um olho entalhado com uma Runa Prístina. Dizem ser o selo de Radagon, o Rei Consorte.
+
+Aumenta muito a vitalidade, fortitude, força e destreza, mas também o dano sofrido, em uma quantia semelhante.
+
+Um dever solene pesa sobre aquele em dívida, não muito diferente de uma maldição devoradora da qual não há libertação.</text>
+<text id="1052">%null%</text>
+<text id="1053">%null%</text>
+<text id="1054">%null%</text>
+<text id="1055">%null%</text>
+<text id="1056">%null%</text>
+<text id="1057">%null%</text>
+<text id="1058">%null%</text>
+<text id="1059">%null%</text>
+<text id="1060">Um talismã entalhado com uma cena de uma história heroica.
+Aumenta a força.
+
+O herói mais poderoso dos semideuses confrontou as estrelas cadentes sozinho — e, ao esmagá-las, seu feito selou o destino das próprias estrelas.</text>
+<text id="1061">%null%</text>
+<text id="1062">%null%</text>
+<text id="1063">%null%</text>
+<text id="1064">%null%</text>
+<text id="1065">%null%</text>
+<text id="1066">%null%</text>
+<text id="1067">%null%</text>
+<text id="1068">%null%</text>
+<text id="1069">%null%</text>
+<text id="1070">Um talismã entalhado com uma cena de uma história heroica.
+Aumenta a destreza.
+
+Apesar de nascida na podridão amaldiçoada, quando a jovem menina encontrou seu mentor e sua lâmina fluida, ela ganhou asas de força sem igual.</text>
+<text id="1071">%null%</text>
+<text id="1072">%null%</text>
+<text id="1073">%null%</text>
+<text id="1074">%null%</text>
+<text id="1075">%null%</text>
+<text id="1076">%null%</text>
+<text id="1077">%null%</text>
+<text id="1078">%null%</text>
+<text id="1079">%null%</text>
+<text id="1080">Um talismã entalhado com a lenda de uma rainha.
+Aumenta a inteligência.
+
+A jovem astróloga encarou o céu noturno enquanto caminhava. Em todos os passos da sua jornada, ela perseguiu as estrelas, até que encontrou a lua cheia — e, eventualmente, a astróloga se tornou uma rainha.</text>
+<text id="1081">%null%</text>
+<text id="1082">%null%</text>
+<text id="1083">%null%</text>
+<text id="1084">%null%</text>
+<text id="1085">%null%</text>
+<text id="1086">%null%</text>
+<text id="1087">%null%</text>
+<text id="1088">%null%</text>
+<text id="1089">%null%</text>
+<text id="1090">Um talismã entalhado com a lenda dos Dois Dedos.
+Aumenta a fé.
+
+Os dedos não podem falar, mas, mesmo assim, esses eram eloquentes.
+Persistentemente, eles se contorciam, soletrando mistérios no ar.
+Assim ganhamos as palavras. As palavras de nossa fé.</text>
+<text id="1091">%null%</text>
+<text id="1092">%null%</text>
+<text id="1093">%null%</text>
+<text id="1094">%null%</text>
+<text id="1095">%null%</text>
+<text id="1096">%null%</text>
+<text id="1097">%null%</text>
+<text id="1098">%null%</text>
+<text id="1099">%null%</text>
+<text id="1100">Um talismã que é uma cópia perfeita de um escaravelho, o portador de tesouros e coisas preciosas.
+
+Este escaravelho de prata aumenta a descoberta de itens.</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">Um talismã que é uma cópia perfeita de um escaravelho, o portador de tesouros e coisas preciosas.
+
+Este escaravelho de ouro aumenta a quantidade de runas obtidas ao derrotar inimigos.</text>
+<text id="1140">Este talismã lendário é um tesouro de Nokstella, a Cidade Eterna.
+
+Aumenta os espaços de memória.
+
+Este talismã representa a lua negra perdida.
+A lua de Nokstella era guia de incontáveis estrelas.</text>
+<text id="1141">%null%</text>
+<text id="1142">%null%</text>
+<text id="1143">%null%</text>
+<text id="1144">%null%</text>
+<text id="1145">%null%</text>
+<text id="1146">%null%</text>
+<text id="1147">%null%</text>
+<text id="1148">%null%</text>
+<text id="1149">%null%</text>
+<text id="1150">Um talismã no formato de uma tartaruga verde.
+Aumenta a velocidade de recuperação do vigor.
+
+Tartarugas são conhecidas por serem um ingrediente nutritivo, um símbolo do poder inesgotável.
+
+Entretanto, aqueles que acreditam que as tartarugas são criaturas inteligentes consideram a prática de comer sua carne uma barbárie.</text>
+<text id="1151">%null%</text>
+<text id="1152">%null%</text>
+<text id="1153">%null%</text>
+<text id="1154">%null%</text>
+<text id="1155">%null%</text>
+<text id="1156">%null%</text>
+<text id="1157">%null%</text>
+<text id="1158">%null%</text>
+<text id="1159">%null%</text>
+<text id="1160">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta a robustez.
+(A robustez governa a resistência à perda de sangue e ao congelamento).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1161">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta muito a robustez.
+(A robustez governa a resistência à perda de sangue e ao congelamento).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1162">%null%</text>
+<text id="1163">%null%</text>
+<text id="1164">%null%</text>
+<text id="1165">%null%</text>
+<text id="1166">%null%</text>
+<text id="1167">%null%</text>
+<text id="1168">%null%</text>
+<text id="1169">%null%</text>
+<text id="1170">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta a imunidade.
+(A imunidade governa a resistência ao veneno e à podridão).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1171">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta muito a imunidade.
+(A imunidade governa a resistência ao veneno e à podridão).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1172">%null%</text>
+<text id="1173">%null%</text>
+<text id="1174">%null%</text>
+<text id="1175">%null%</text>
+<text id="1176">%null%</text>
+<text id="1177">%null%</text>
+<text id="1178">%null%</text>
+<text id="1179">%null%</text>
+<text id="1180">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta o foco.
+(O foco governa a resistência ao sono e à loucura).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1181">Um apetrecho usado pelos seguidores ancestrais.
+Aumenta muito o foco.
+(O foco governa a resistência ao sono e à loucura).
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1182">%null%</text>
+<text id="1183">%null%</text>
+<text id="1184">%null%</text>
+<text id="1185">%null%</text>
+<text id="1186">%null%</text>
+<text id="1187">%null%</text>
+<text id="1188">%null%</text>
+<text id="1189">%null%</text>
+<text id="1190">Uma pústula fétida retirada de carne do rosto.
+Aumenta a vitalidade.
+(A vitalidade governa a resistência aos efeitos da morte).
+
+Dizem que esta pústula fazia parte do rosto do Príncipe da Morte, que costumava ser chamado de Godwyn. Como o Primeiro dos Mortos entre os semideuses, dizem que ele foi enterrado sob a capital, entre as raízes da Térvore.</text>
+<text id="1191">Um cisto grande demais, retirado de carne do rosto.
+Aumenta muito a vitalidade.
+(A vitalidade governa a resistência aos efeitos da morte).
+
+Dizem que este cisto fazia parte do rosto corrompido de alguém incapaz de morrer uma morte verdadeira. De fato, ele veio do Príncipe da Morte, um herdeiro do ramo dourado que foi o Primeiro dos Mortos entre os semideuses.</text>
+<text id="1192">%null%</text>
+<text id="1193">%null%</text>
+<text id="1194">%null%</text>
+<text id="1195">%null%</text>
+<text id="1196">%null%</text>
+<text id="1197">%null%</text>
+<text id="1198">%null%</text>
+<text id="1199">%null%</text>
+<text id="1200">Um apetrecho particularmente precioso e ornamentado usado pelos seguidores ancestrais.
+
+Aumenta a imunidade, robustez e foco.
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1201">Um apetrecho particularmente precioso e ornamentado usado pelos seguidores ancestrais.
+
+Aumenta muito a imunidade, robustez e foco.
+
+Dizem que é um chifre nascente. Os seguidores ancestrais acreditam que os chifres de feras duradouras nascem repetidamente, até que, um dia, a fera se torne um espírito ancestral.</text>
+<text id="1202">%null%</text>
+<text id="1203">%null%</text>
+<text id="1204">%null%</text>
+<text id="1205">%null%</text>
+<text id="1206">%null%</text>
+<text id="1207">%null%</text>
+<text id="1208">%null%</text>
+<text id="1209">%null%</text>
+<text id="1210">Um talismã retratando os chifres de um touro-cabra.
+Aumenta o equilíbrio.
+
+Touros-cabras são associados ao corpulento e poderoso Tragoth, que dizem ser inabalável em combate — agora um companheiro silencioso para aqueles que lutam.</text>
+<text id="1211">%null%</text>
+<text id="1212">%null%</text>
+<text id="1213">%null%</text>
+<text id="1214">%null%</text>
+<text id="1215">%null%</text>
+<text id="1216">%null%</text>
+<text id="1217">%null%</text>
+<text id="1218">%null%</text>
+<text id="1219">%null%</text>
+<text id="1220">Um olho entalhado com uma Runa Prístina.
+Dizem ser o selo da Rainha Marika.
+
+Aumenta a mente, inteligência, fé e arcano, mas também o dano sofrido.
+
+Esses selos representam o dever vitalício daqueles escolhidos pelos deuses.</text>
+<text id="1221">Esse talismã lendário é um olho entalhado com uma Runa Prístina. Dizem ser o selo da Rainha Marika.
+
+Aumenta muito a mente, inteligência, fé e arcano, mas também o dano sofrido, em uma quantia semelhante.
+
+Um dever solene pesa sobre aquele em dívida, não muito diferente de uma maldição devoradora da qual não há libertação.</text>
+<text id="1222">%null%</text>
+<text id="1223">%null%</text>
+<text id="1224">%null%</text>
+<text id="1225">%null%</text>
+<text id="1226">%null%</text>
+<text id="1227">%null%</text>
+<text id="1228">%null%</text>
+<text id="1229">%null%</text>
+<text id="1230">Fragmento de um jarro guerreiro despedaçado.
+
+Aumenta o poder de ataque das habilidades.
+
+Restos de carne cozida estão presas ao fragmento, e vestígios de ornamentos podem ser vistos misturados dentro da gosma. Relíquias de guerreiros reais ancestrais, talvez.</text>
+<text id="1231">Fragmento do falecido Alexander, um jarro guerreiro despedaçado.
+
+Aumenta muito o poder de ataque das habilidades.
+
+Restos de carne cozida estão presas ao fragmento, e vestígios de ornamentos podem ser vistos misturados dentro da gosma. Relíquias de um campeão de cabelo vermelho, aparentemente.</text>
+<text id="1232">%null%</text>
+<text id="1233">%null%</text>
+<text id="1234">%null%</text>
+<text id="1235">%null%</text>
+<text id="1236">%null%</text>
+<text id="1237">%null%</text>
+<text id="1238">%null%</text>
+<text id="1239">%null%</text>
+<text id="1240">%null%</text>
+<text id="1241">%null%</text>
+<text id="1242">%null%</text>
+<text id="1243">%null%</text>
+<text id="1244">%null%</text>
+<text id="1245">%null%</text>
+<text id="1246">%null%</text>
+<text id="1247">%null%</text>
+<text id="1248">%null%</text>
+<text id="1249">%null%</text>
+<text id="1250">Parte da prótese de ouro usada por Millicent.
+A mão representada como um punho que já ergueu uma espada.
+
+Aumenta a destreza e o poder de ataque com ataques sucessivos.
+
+O desespero de uma doce traição transformou Millicent, antes um mero broto, em uma flor magnífica. Um dia, ela renascerá — como uma linda valquíria escarlate.</text>
+<text id="2000">Um talismã carregado por assassinos que atacam de forma oculta.
+Modelado a partir de um escorpião fora de seu exoesqueleto, com suas garras segurando um coração que brilha com a magia.
+
+Aumenta o poder de ataque mágico, mas diminui a negação de dano.</text>
+<text id="2001">%null%</text>
+<text id="2002">%null%</text>
+<text id="2003">%null%</text>
+<text id="2004">%null%</text>
+<text id="2005">%null%</text>
+<text id="2006">%null%</text>
+<text id="2007">%null%</text>
+<text id="2008">%null%</text>
+<text id="2009">%null%</text>
+<text id="2010">Um talismã carregado por assassinos que atacam de forma oculta.
+Modelado a partir de um escorpião fora de seu exoesqueleto, com suas garras segurando um coração que faísca com a eletricidade.
+
+Aumenta o poder de ataque elétrico, mas diminui a negação de dano.</text>
+<text id="2011">%null%</text>
+<text id="2012">%null%</text>
+<text id="2013">%null%</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">Um talismã carregado por assassinos que atacam de forma oculta.
+Modelado a partir de um escorpião fora de seu exoesqueleto, com suas garras segurando um coração que queima com o fogo.
+
+Aumenta o poder de ataque de fogo, mas diminui a negação de dano.</text>
+<text id="2021">%null%</text>
+<text id="2022">%null%</text>
+<text id="2023">%null%</text>
+<text id="2024">%null%</text>
+<text id="2025">%null%</text>
+<text id="2026">%null%</text>
+<text id="2027">%null%</text>
+<text id="2028">%null%</text>
+<text id="2029">%null%</text>
+<text id="2030">Um talismã carregado por assassinos que atacam de forma oculta.
+Modelado a partir de um escorpião fora de seu exoesqueleto, com suas garras segurando um coração com um brilho abençoado.
+
+Aumenta o poder de ataque sagrado, mas diminui a negação de dano.</text>
+<text id="2031">%null%</text>
+<text id="2032">%null%</text>
+<text id="2033">%null%</text>
+<text id="2034">%null%</text>
+<text id="2035">%null%</text>
+<text id="2036">%null%</text>
+<text id="2037">%null%</text>
+<text id="2038">%null%</text>
+<text id="2039">%null%</text>
+<text id="2040">Um talismã adornado com penas vermelhas, usado no passado em antigos rituais de morte.
+Aumenta o poder de ataque quando estiver com poucos PV.
+
+O coração canta quando a pessoa está perto de morrer, e um fim glorioso aguarda aqueles que se agarram à vida tenazmente.</text>
+<text id="2041">%null%</text>
+<text id="2042">%null%</text>
+<text id="2043">%null%</text>
+<text id="2044">%null%</text>
+<text id="2045">%null%</text>
+<text id="2046">%null%</text>
+<text id="2047">%null%</text>
+<text id="2048">%null%</text>
+<text id="2049">%null%</text>
+<text id="2050">Um talismã inspirado pelas espadas usadas em combates ritualísticos feitos em homenagem à Térvore.
+
+Aumenta o poder de ataque quando o PV estiver no máximo.
+
+A prática desapareceu na época do Rei Consorte Radagon, mas ruínas das arenas onde os combates aconteciam ainda podem ser encontradas pelas terras.</text>
+<text id="2051">%null%</text>
+<text id="2052">%null%</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">%null%</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">Um talismã retratando uma lança e um soldado.
+Fortalece os contra-ataques que são únicos de armas perfurantes.
+
+Lanças são as armas padrão dos soldados das Terras Intermédias. Elas tornaram possível que adversários ferozes recebessem contra-ataques igualmente ferozes.</text>
+<text id="2061">%null%</text>
+<text id="2062">%null%</text>
+<text id="2063">%null%</text>
+<text id="2064">%null%</text>
+<text id="2065">%null%</text>
+<text id="2066">%null%</text>
+<text id="2067">%null%</text>
+<text id="2068">%null%</text>
+<text id="2069">%null%</text>
+<text id="2070">Um talismã retratando um martelo e um cavaleiro.
+Fortalece ataques redutores de vigor contra oponentes que estejam bloqueando.
+
+Martelos são tão eficientes contra adversários que usam escudo que receberam o apelido de "matadores de cavaleiros".</text>
+<text id="2071">%null%</text>
+<text id="2072">%null%</text>
+<text id="2073">%null%</text>
+<text id="2074">%null%</text>
+<text id="2075">%null%</text>
+<text id="2076">%null%</text>
+<text id="2077">%null%</text>
+<text id="2078">%null%</text>
+<text id="2079">%null%</text>
+<text id="2080">Um talismã retratando uma lâmina prostética levantada.
+Uma honraria concedida aos cavaleiros que lutaram ao lado de Malenia, a Amputada.
+
+Aumenta o poder de ataque com ataques sucessivos.
+
+As asas simbolizam Malenia e sua destreza incomparável. Embora ela nunca tenha conseguido se aliviar da podridão amaldiçoada em que ela nasceu, sua lâmina sempre foi linda — e implacável.</text>
+<text id="2081">Um talismã retratando uma lâmina prostética levantada.
+Uma honra concedida às valquírias que servem à Deusa da Podridão.
+
+Aumenta muito o poder de ataque com ataques sucessivos.
+
+As quatro irmãs nasceram no pântano de Aeonia e vieram até a Árvore Sacra sob a égide de Gowry. Ainda assim, esses brotos foram condenados a nunca desabrocharem.</text>
+<text id="2082">%null%</text>
+<text id="2083">%null%</text>
+<text id="2084">%null%</text>
+<text id="2085">%null%</text>
+<text id="2086">%null%</text>
+<text id="2087">%null%</text>
+<text id="2088">%null%</text>
+<text id="2089">%null%</text>
+<text id="2090">Um talismã mostrando uma adaga e um cirurgião.
+Fortalece acertos críticos.
+
+Os cirurgiões de campo de trajes brancos dão assistência tanto a amigos quanto a inimigos, acertando um último golpe fatal para poupá-los da agonia prolongada oriunda de um ferimento mortal. Uma sensação de misericórdia é o catalisador para o frenesi de sangue.</text>
+<text id="2091">%null%</text>
+<text id="2092">%null%</text>
+<text id="2093">%null%</text>
+<text id="2094">%null%</text>
+<text id="2095">%null%</text>
+<text id="2096">%null%</text>
+<text id="2097">%null%</text>
+<text id="2098">%null%</text>
+<text id="2099">%null%</text>
+<text id="2100">Um talismã retratando três flechas.
+Carregado por caçadores de feras.
+
+Aumenta o alcance de arcos.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">Uma boneca de pano retratando uma dançarina vestida de azul.
+Uma herança antiga de algum tipo.
+
+Aumenta o poder de ataque com cargas de equipamento menores.
+
+A dançarina de azul representa uma fada, que, segundo a lenda, concedeu uma espada fluida a um espadachim cego. Com a lâmina em mãos, o espadachim expulsou um deus ancião — um deus que era a própria podridão.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">Um talismã retratando lâminas-gêmeas e um confessor.
+Aumenta o acerto final de ataques em cadeia.
+
+A técnica das lâminas-gêmeas é uma tradição dos confessores, que guardam com cuidado o segredo de como preservam o ímpeto de seus ataques. Por isso, o golpe final de seus ataques é ainda mais mortal.</text>
+<text id="2121">%null%</text>
+<text id="2122">%null%</text>
+<text id="2123">%null%</text>
+<text id="2124">%null%</text>
+<text id="2125">%null%</text>
+<text id="2126">%null%</text>
+<text id="2127">%null%</text>
+<text id="2128">%null%</text>
+<text id="2129">%null%</text>
+<text id="2130">Um Talismã retratando um machado e um guerreiro.
+Melhora ataques carregados.
+
+O lorde que liderou a Longa Marcha carregava um machado. Seus guerreiros leais o honraram empunhando armas como a dele, o que os tornou muito eficazes ao dar golpes decisivos.</text>
+<text id="2131">%null%</text>
+<text id="2132">%null%</text>
+<text id="2133">%null%</text>
+<text id="2134">%null%</text>
+<text id="2135">%null%</text>
+<text id="2136">%null%</text>
+<text id="2137">%null%</text>
+<text id="2138">%null%</text>
+<text id="2139">%null%</text>
+<text id="2140">Um talismã retratando uma lança e um cavaleiro.
+Aumenta ataques ao montar.
+
+Cavaleiros montados são inimigos mortais. Eles veem tudo de sua posição imponente, encontrando pouca resistência significativa enquanto avançam.</text>
+<text id="2141">%null%</text>
+<text id="2142">%null%</text>
+<text id="2143">%null%</text>
+<text id="2144">%null%</text>
+<text id="2145">%null%</text>
+<text id="2146">%null%</text>
+<text id="2147">%null%</text>
+<text id="2148">%null%</text>
+<text id="2149">%null%</text>
+<text id="2150">Um talismã retratando três flechas de ferro.
+Carregado por soldados há muito tempo.
+
+Aumenta o poder de ataque de flechas e setas.</text>
+<text id="2151">%null%</text>
+<text id="2152">%null%</text>
+<text id="2153">%null%</text>
+<text id="2154">%null%</text>
+<text id="2155">%null%</text>
+<text id="2156">%null%</text>
+<text id="2157">%null%</text>
+<text id="2158">%null%</text>
+<text id="2159">%null%</text>
+<text id="2160">Um talismã retratando a exultação do Lorde do Sangue.
+
+Aumenta o poder de ataque quando uma perda de sangue ocorre nas proximidades.
+
+"Entregue suas oferendas de sangue ao seu Lorde. Encharque a câmara do meu consorte. Sacie a sede de seu casulo. Seu despertar deve ser o anunciador do alvorecer de nossa dinastia."</text>
+<text id="2161">%null%</text>
+<text id="2162">%null%</text>
+<text id="2163">%null%</text>
+<text id="2164">%null%</text>
+<text id="2165">%null%</text>
+<text id="2166">%null%</text>
+<text id="2167">%null%</text>
+<text id="2168">%null%</text>
+<text id="2169">%null%</text>
+<text id="2170">Um talismã retratando a exultação das pestes.
+
+Aumenta o poder de ataque quando houver envenenamento ou podridão nas proximidades.
+
+Podridão para a deusa escarlate.
+Ó, flores da podridão, cresçam em terras distantes
+e retornem a nós, os filhos indesejados.</text>
+<text id="2171">%null%</text>
+<text id="2172">%null%</text>
+<text id="2173">%null%</text>
+<text id="2174">%null%</text>
+<text id="2175">%null%</text>
+<text id="2176">%null%</text>
+<text id="2177">%null%</text>
+<text id="2178">%null%</text>
+<text id="2179">%null%</text>
+<text id="2180">Um talismã representando uma garra e um assassino.
+Melhora os ataques com salto.
+
+Os assassinos do Monte do Corvo são profissionais. Eles atacam suas vítimas vestidos de aves de rapina.</text>
+<text id="2181">%null%</text>
+<text id="2182">%null%</text>
+<text id="2183">%null%</text>
+<text id="2184">%null%</text>
+<text id="2185">%null%</text>
+<text id="2186">%null%</text>
+<text id="2187">%null%</text>
+<text id="2188">%null%</text>
+<text id="2189">%null%</text>
+<text id="2190">Um medalhão de bronze retratando um gigante rugindo.
+Melhora os ataques de rugido e sopro.
+
+Em tempos antigos, os gigantes eram inimigos mortais da Térvore. Seus rugidos desolavam a natureza, provocavam avalanches e causavam tempestades de fogo.</text>
+<text id="2191">%null%</text>
+<text id="2192">%null%</text>
+<text id="2193">%null%</text>
+<text id="2194">%null%</text>
+<text id="2195">%null%</text>
+<text id="2196">%null%</text>
+<text id="2197">%null%</text>
+<text id="2198">%null%</text>
+<text id="2199">%null%</text>
+<text id="2200">Um talismã retratando uma espada curva e um espadachim.
+Melhora os contra-ataques defensivos.
+
+Dizem que um espadachim cego foi o criador desta técnica — a arte de permitir que seu oponente ataque para deixá-lo vulnerável a uma resposta no momento certo.</text>
+<text id="2201">%null%</text>
+<text id="2202">%null%</text>
+<text id="2203">%null%</text>
+<text id="2204">%null%</text>
+<text id="2205">%null%</text>
+<text id="2206">%null%</text>
+<text id="2207">%null%</text>
+<text id="2208">%null%</text>
+<text id="2209">%null%</text>
+<text id="2210">Um talismã dado pelos jarros aos seus amigos.
+Aumenta a potência de jarros arremessáveis.
+
+Apesar de os jarros serem trazidos à vida pela carne e o sangue humanos, eles são bem gentis. Talvez eles tenham sido feitos para serem melhores do que suas entranhas.</text>
+<text id="2211">%null%</text>
+<text id="2212">%null%</text>
+<text id="2213">%null%</text>
+<text id="2214">%null%</text>
+<text id="2215">%null%</text>
+<text id="2216">%null%</text>
+<text id="2217">%null%</text>
+<text id="2218">%null%</text>
+<text id="2219">%null%</text>
+<text id="2220">Um talismã retratando um conjunto de vidros de perfume.
+Aumenta a potência de itens de perfume.
+
+Há jardins conhecidos apenas pelos perfumistas. Escondidas nas periferias dos planaltos ou obscurecidas pelas sombras no interior de cavernas, as flores crescem em segredo, esperando para liberar seu perfume.</text>
+<text id="3000">Um talismã retratando uma escola de magos da pedra, o pesadelo da Academia.
+
+Aumenta a potência de feitiçarias.
+
+A corrente primeva é uma tradição proibida da feitiçaria pedrilhante. Para aqueles que se atêm aos seus ensinamentos, o ato de coletar feiticeiros para transformá-los em sementes de estrelas nada mais é do que outro caminho para o conhecimento científico.</text>
+<text id="3001">Um talismã retratando a primeira escola de magos da pedra — um pesadelo que continuaria assombrando a Academia.
+
+Aumenta muito a potência de feitiçarias.
+
+A corrente primeva é uma tradição proibida da feitiçaria pedrilhante. Para aqueles que se atêm aos seus ensinamentos, o ato de coletar feiticeiros para transformá-los em sementes de estrelas nada mais é do que outro caminho para conhecimento científico.</text>
+<text id="3040">Um talismã com um ícone que retrata um grupo de figuras mascaradas.
+Aumenta a potência de encantamentos.
+
+As figuras representam o rebanho em oração, sua crença firme no intangível inspirando até o solitário fundador de sua religião.
+
+O que é a fé, se não uma afirmação?</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Um talismã com um ícone que retrata uma massa de figuras mascaradas.
+Aumenta muito a potência de encantamentos.
+
+As figuras representam o rebanho em oração, sua crença firme no intangível inspirando até o solitário fundador de sua religião.
+
+O que é a fé, se não uma afirmação?</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Um talismã lendário retratando o rei ancião cujo trono está no coração da tempestade, além do tempo.
+
+Estende a duração de feitiços e encantamentos.
+
+Dizem que a antiga cidade real de Farum Azula desmorona lentamente desde tempos imemoriais.</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Um talismã lendário retratando o Lorde Prístino, Radagon.
+Diminui o tempo para lançar feitiços e encantamentos.
+
+Como marido de Rennala de Caria, o ruivo Radagon estudou feitiços, e como marido da Rainha Marika, ele estudou encantamentos. Assim, o herói aspirava ser completo.</text>
+<text id="3071">%null%</text>
+<text id="3072">%null%</text>
+<text id="3073">%null%</text>
+<text id="3074">%null%</text>
+<text id="3075">%null%</text>
+<text id="3076">%null%</text>
+<text id="3077">%null%</text>
+<text id="3078">%null%</text>
+<text id="3079">%null%</text>
+<text id="3080">Uma velha lâmina de pedrilhante manchada de sangue.
+
+Reduz o consumo de PF de feitiços e encantamentos às custas de PV máximos.
+
+Os velhos feiticeiros abriam seus corações cortando-os com essas lâminas para imbuir uma Pedrilhante Primordial com suas almas, e assim eles morriam.</text>
+<text id="3081">%null%</text>
+<text id="3082">%null%</text>
+<text id="3083">%null%</text>
+<text id="3084">%null%</text>
+<text id="3085">%null%</text>
+<text id="3086">%null%</text>
+<text id="3087">%null%</text>
+<text id="3088">%null%</text>
+<text id="3089">%null%</text>
+<text id="3090">Um talismã lendário retratando o Lorde Prístino Godfrey.
+Aumenta o poder de ataque carregado de feitiços, encantamentos e habilidades.
+
+Godfrey era um guerreiro feroz. Quando ele jurou virar um lorde, ele colocou o Regente Fera Serosh em suas costas para suprimir o incessante desejo de batalha que pulsava por dentro.</text>
+<text id="4000">Um talismã de ferro forjado que representa um dragão ancião.
+Aumenta a negação de dano físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4001">Um talismã de ferro forjado que representa um par de dragões anciões.
+Aumenta muito a negação de dano físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4002">Um talismã de ferro forjado que representa um trio de dragões anciões.
+Aumenta vastamente a negação de dano físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4003">Um talismã de ferro forjado que representa um imenso dragão ancião.
+Aumenta enormemente a negação de dano físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Um talismã que representa um dragão ancião azul.
+Aumenta a negação de dano mágico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4011">Um talismã que representa um par de dragões anciões azuis.
+Aumenta muito a negação de dano mágico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4012">Um talismã que representa um trio de dragões anciões azuis.
+Aumenta vastamente a negação de dano mágico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Um talismã que representa um dragão ancião vermelho.
+Aumenta a negação de dano de fogo.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4021">Um talismã que representa um par de dragões anciões vermelhos.
+Aumenta muito a negação de dano de fogo.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4022">Um talismã que representa um trio de dragões anciões vermelhos.
+Aumenta vastamente a negação de dano de fogo.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Um talismã que representa um dragão ancião amarelo.
+Aumenta a negação de dano elétrico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4031">Um talismã que representa um par de dragões anciões amarelos.
+Aumenta muito a negação de dano elétrico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4032">Um talismã que representa um trio de dragões anciões amarelos.
+Aumenta vastamente a negação de dano elétrico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Um talismã que representa um dragão ancião dourado.
+Aumenta a negação de dano sagrado.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4041">Um talismã que representa um par de dragões anciões dourados.
+Aumenta muito a negação de dano sagrado.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4042">Um talismã que representa um trio de dragões anciões dourados.
+Aumenta vastamente a negação de dano sagrado.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Um talismã que representa um dragão ancião perolado.
+Aumenta a negação de dano não físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4051">Um talismã que representa um par de dragões anciões perolados.
+Aumenta muito a negação de dano não físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4052">Um talismã que representa um trio de dragões anciões perolados.
+Aumenta vastamente a negação de dano não físico.
+
+Na era primitiva, antes da Térvore, os dragões anciões eram os governantes. Diz-se que eles protegeram seu rei como uma autêntica muralha.
+Assim, a figura de um dragão se tornou um símbolo de todas as formas de proteção.</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Um talismã em forma de escama que encarna os aspectos de várias criaturas.
+Dizem ter crescido no corpo humano há muito tempo.
+
+Reduz o dano recebido de acertos críticos.
+
+Um vestígio do crisol da vida primordial. Nascido parcialmente da involução, era considerado, em tempos antigos, um sinal do divino. Conforme a civilização avança, é cada vez mais desprezado como uma impureza.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Um talismã em forma de penas que encarnam os aspectos de várias criaturas.
+Dizem ter crescido no corpo humano há muito tempo.
+
+Melhora a eficácia da esquiva com rolamento, mas aumenta o dano sofrido a todo momento.
+
+Um vestígio do crisol da vida primordial. Nascido parcialmente da involução, era considerado, em tempos antigos, um sinal do divino. Conforme a civilização avança, é cada vez mais desprezado como uma impureza.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Um talismã adornado com penas azuis, usado no passado em antigos rituais de morte.
+Aumenta a defesa quando o PV está baixo.
+
+O coração canta quando a pessoa está perto de morrer, e o usuário se agarra com tanta força à vida — para entregar uma morte digna de uma oferenda.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Um talismã inspirado pelos escudos usados em combates ritualísticos feitos em homenagem à Térvore.
+
+Aumenta a defesa quando o PV estiver no máximo.
+
+A prática desapareceu à época do Rei Consorte Radagon, mas ruínas das arenas onde os combates aconteciam ainda podem ser encontradas pelas terras.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Um talismã que representa um cavaleiro segurando um escudo grande.
+Aumenta a capacidade da guarda.
+
+Os cavaleiros de Leyndell se espelhavam nas Sentinelas da Árvore. Sua proposta é proteger os merecedores, portanto, o escudo sempre vem antes da espada.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Um talismã em forma de um nó ósseo que encarna os aspectos de várias criaturas.
+Dizem ter crescido no corpo humano há muito tempo.
+
+Reduz o dano e o impacto de disparos recebidos na cabeça.
+
+Um vestígio do crisol da vida primordial. Nascido parcialmente da involução, era considerado, em tempos antigos, um sinal do divino. Conforme a civilização avança, é cada vez mais desprezado como uma impureza.</text>
+<text id="5000">Um talismã carmesim inspirado por uma semente da Térvore.
+Aumenta restauração de PV do Frasco de Lágrimas Carmesins.
+
+A Térvore já foi perfeita e eterna, e portanto acreditava-se que suas sementes não podiam existir.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Um talismã cerúleo inspirado por uma semente da Térvore.
+Aumenta restauração de PF do Frasco de Lágrimas Cerúleas.
+
+A Térvore já foi perfeita e eterna, e portanto acreditava-se que suas sementes não podiam existir.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Talismã retratando uma gota de seiva da Térvore, uma dádiva abençoada.
+
+Recupera PV gradualmente.
+
+Acreditava-se que a seiva abençoada da Térvore escorreria de seus ramos para sempre — mas aquela era de abundância rapidamente chegou ao fim e, com o tempo, a Térvore se tornou apenas um objeto de fé.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Um talismã retratando a aparência severa do Pretor Rykard, mestre da Mansão Vulcânica.
+
+Restaura PV ao derrotar inimigos.
+
+Quando Rykard se voltou à heresia, tomar à força se tornou regra. Afinal, os próprios deuses não eram diferentes.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Manto sagrado dos Apóstolos da Pele Divina, feito de peles maleáveis costuradas juntas.
+
+Ataques sucessivos restauram PV.
+
+A Rainha dos Olhos da Noite acalenta apóstolos recém-nascidos enrolados nesse manto. Logo eles crescerão para se tornarem a morte dos deuses.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Uma adaga de assassino disforme e manchada de carmesim.
+Acertos críticos restauram os PV.
+
+Este amuleto tem a forma das lâminas de brilho sombrio usadas na Noite das Facas Negras. Aquelas que deram aos semideuses o primeiro gosto da morte.</text>
+<text id="5051">%null%</text>
+<text id="5052">%null%</text>
+<text id="5053">%null%</text>
+<text id="5054">%null%</text>
+<text id="5055">%null%</text>
+<text id="5056">%null%</text>
+<text id="5057">%null%</text>
+<text id="5058">%null%</text>
+<text id="5059">%null%</text>
+<text id="5060">Uma adaga de assassino disforme e manchada de cerúleo.
+Acertos críticos restauram os PF.
+
+Este amuleto tem a forma das lâminas de brilho sombrio usadas na Noite das Facas Negras. Aquelas que deram aos semideuses o primeiro gosto da morte.</text>
+<text id="6000">Pequeno frasco misterioso com uma névoa sombria selada em seu interior.
+
+Elimina todos os sons de movimento feitos pelo usuário.
+
+Um implemento de ritual usado pelos assassinos da Mesa-Redonda. Houve um tempo em que os Maculados que se afastaram da orientação temiam o silêncio absoluto mais do que qualquer coisa.</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">Talismã criado a partir de um tecido escuro com um brilho lustroso.
+
+Esconde completamente a presença do usuário enquanto estiver agachado e a uma certa distância dos inimigos.
+
+Parte de um dos véus ocultadores usados pelos assassinos na Noite das Facas Negras.</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">Um talismã adornado com o brasão real.
+
+Diminui o PF consumido pelas habilidades.
+
+Dizem que era uma honra concedida aos cavaleiros carianos que eram servos diretos das princesas do reino. Agora há apenas uma princesa: Ranni, filha de Rennala.</text>
+<text id="6040">Um broche retratando Lacrima, a gata de cauda longa.
+
+Torna o usuário imune a danos de quedas, mas não impede a morte por queda de grandes alturas.
+
+Lacrima está presente nas fábulas de Raya Lucaria, nas quais ela é descrita como uma gata fada que adorava brincar na grande torre do sino.</text>
+<text id="6041">%null%</text>
+<text id="6042">%null%</text>
+<text id="6043">%null%</text>
+<text id="6044">%null%</text>
+<text id="6045">%null%</text>
+<text id="6046">%null%</text>
+<text id="6047">%null%</text>
+<text id="6048">%null%</text>
+<text id="6049">%null%</text>
+<text id="6050">O retrato perturbador de um homem cujos olhos foram arrancados.
+Os cantos de sua boca estão voltados para cima de uma forma que lembra um flerte.
+
+Atrai a agressividade dos inimigos constantemente.
+
+Dizem que o homem, chamado Shabriri, teve seus olhos arrancados como punição por um crime de difamação, e, com o tempo, a praga da chama do frenesi passou a habitar as cavidades oculares vazias.</text>
+<text id="6051">%null%</text>
+<text id="6052">%null%</text>
+<text id="6053">%null%</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">O retrato perturbador de uma mulher cuja pele foi esfolada.
+Ela sorri com uma ternura serena.
+
+Aumenta o dano sofrido.
+
+Dizem que esta mulher, chamada Daedica, entregou-se a todas as formas imagináveis de adultério e prazer cruel, dando à luz uma miríade de crianças grotescas.</text>
+<text id="6061">%null%</text>
+<text id="6062">%null%</text>
+<text id="6063">%null%</text>
+<text id="6064">%null%</text>
+<text id="6065">%null%</text>
+<text id="6066">%null%</text>
+<text id="6067">%null%</text>
+<text id="6068">%null%</text>
+<text id="6069">%null%</text>
+<text id="6070">Um talismã feito a partir de um ramo seco, tão fino que pode quebrar ao mais leve toque.
+
+Impede a perda de runas ao morrer, mas, em troca, é perdido.
+
+Acredita-se que seja um ramo podado da Térvore há muito, muito tempo.</text>
+<text id="6071">%null%</text>
+<text id="6072">%null%</text>
+<text id="6073">%null%</text>
+<text id="6074">%null%</text>
+<text id="6075">%null%</text>
+<text id="6076">%null%</text>
+<text id="6077">%null%</text>
+<text id="6078">%null%</text>
+<text id="6079">%null%</text>
+<text id="6080">Um pequeno espelho turvo que reflete a imagem de uma figura dourada.
+
+Faz com que o usuário assuma a aparência de um Anfitrião de Dedos.
+
+Um dos implementos de ritual criados pelos Maculados para enganar os invasores.</text>
+<text id="6081">%null%</text>
+<text id="6082">%null%</text>
+<text id="6083">%null%</text>
+<text id="6084">%null%</text>
+<text id="6085">%null%</text>
+<text id="6086">%null%</text>
+<text id="6087">%null%</text>
+<text id="6088">%null%</text>
+<text id="6089">%null%</text>
+<text id="6090">Um pequeno espelho turvo que reflete uma figura de carne e osso.
+
+Faz com que o usuário assuma a aparência de um cooperador invocado.
+
+Um dos implementos de ritual criados pelos Maculados para enganar os invasores.</text>
+<text id="6091">%null%</text>
+<text id="6092">%null%</text>
+<text id="6093">%null%</text>
+<text id="6094">%null%</text>
+<text id="6095">%null%</text>
+<text id="6096">%null%</text>
+<text id="6097">%null%</text>
+<text id="6098">%null%</text>
+<text id="6099">%null%</text>
+<text id="6100">Um objeto circular misterioso embrulhado de forma estranha.
+Muda o comportamento das ações do usuário.</text>
+<text id="6101">%null%</text>
+<text id="6102">%null%</text>
+<text id="6103">%null%</text>
+<text id="6104">%null%</text>
+<text id="6105">%null%</text>
+<text id="6106">%null%</text>
+<text id="6107">%null%</text>
+<text id="6108">%null%</text>
+<text id="6109">%null%</text>
+<text id="6110">Item cortado dos chifres do Espírito Ancestral Nobre.
+
+Restaura PF ao derrotar inimigos.
+
+Vários novos brotos retirados dos espinhos do rei caído, cada um brilhando com sua luz. Dessa forma, uma nova vida nasce da morte e, a partir desta, o usuário obtém poder.</text>
+</entries>
+</fmg>

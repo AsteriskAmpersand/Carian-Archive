@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">確定</text>
+<text id="2">取消</text>
+<text id="3">是</text>
+<text id="4">否</text>
+<text id="15">重試</text>
+<text id="16">繼續</text>
+<text id="17">返回標題畫面</text>
+<text id="40200">所需盧恩不足。</text>
+<text id="40201">所需道具不足。</text>
+<text id="40202">所需盧恩、道具不足。</text>
+<text id="40300">設定將恢復成預設，
+您確定嗎？</text>
+<text id="40500">所有設定將恢復成預設，
+您確定嗎？</text>
+<text id="102000">將放置&lt;?itemName?&gt;，
+您確定嗎？</text>
+<text id="102001">將丟棄&lt;?itemName?&gt;，
+您確定嗎？</text>
+<text id="102002">將放置所有選擇的道具，
+您確定嗎？</text>
+<text id="102003">將丟棄所有選擇的道具，
+您確定嗎？</text>
+<text id="102004">放置的道具已超過８個。
+從最先放置的道具開始，道具將依序消失。
+
+您確定嗎？</text>
+<text id="102005">&lt;?itemName?&gt;已使用戰灰。
+放置此道具，在它消失後也會失去戰灰。
+
+您確定嗎？</text>
+<text id="102006">&lt;?itemName?&gt;已使用戰灰。
+丟棄此道具也會失去戰灰。
+
+您確定嗎？</text>
+<text id="102007">所選擇的道具中包含已使用戰灰的道具。
+放置道具，在它消失後也會失去戰灰。
+
+您確定嗎？</text>
+<text id="102008">所選擇的道具中包含已使用戰灰的道具。
+丟棄道具也會失去戰灰。
+
+您確定嗎？</text>
+<text id="102009">%null%</text>
+<text id="102010">將超過可持有盧恩的上限，
+使用後超過上限的盧恩將會消失。
+
+確定要使用嗎？</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">已超過持有上限，無法移除戰灰。</text>
+<text id="102021">已超過持有上限，無法移除使用中的戰灰。</text>
+<text id="103000">必需能力值不足，
+無法發揮原有性能。</text>
+<text id="103001">必需能力值不足。
+以雙手共持，才能發揮原有性能。</text>
+<text id="103002">%null%</text>
+<text id="103003">%null%</text>
+<text id="103004">%null%</text>
+<text id="103005">必需等級不足，無法召喚此靈魂。</text>
+<text id="103110">此護符與其他裝備中的護符衝突，
+因此無法裝備。</text>
+<text id="103130">目前不能更換裝備。</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">因為記憶空格減少，
+超過可記憶上限的魔法、禱告將被移除。
+
+您確定嗎？</text>
+<text id="103141">超過可記憶上限的魔法、禱告，已被移除。</text>
+<text id="104000">多人連線遊玩的暗號記錄</text>
+<text id="104001">請選擇想要使用的暗號。</text>
+<text id="104002">群組暗號記錄</text>
+<text id="104003">請選擇想要使用的暗號。</text>
+<text id="104004">沒有多人連線遊玩的暗號記錄。</text>
+<text id="104005">沒有群組暗號的記錄。</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">使用指藥之後，會遣返召喚中的靈魂。
+
+您確定嗎？</text>
+<text id="104011">%null%</text>
+<text id="104012">%null%</text>
+<text id="104013">%null%</text>
+<text id="104014">%null%</text>
+<text id="104015">%null%</text>
+<text id="104016">%null%</text>
+<text id="104017">%null%</text>
+<text id="104018">%null%</text>
+<text id="104019">%null%</text>
+<text id="104020">使用指藥之後，會抹除召喚記號。
+
+您確定嗎？</text>
+<text id="110000">將保存遊戲進度，返回標題畫面。
+
+您確定嗎？</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">將保存遊戲進度，返回桌面。
+
+您確定嗎？</text>
+<text id="110316">如果想要改變顯示語言，
+請返回標題畫面進行設定。</text>
+<text id="111100">設定已變更，
+將在&lt;?remainingSec?&gt;秒後恢復原本的設定。
+
+要套用目前的設定嗎？</text>
+<text id="111101">要套用目前的設定嗎？</text>
+<text id="111102">部分設定必須在返回標題畫面後才會套用。</text>
+<text id="111103">此項目將在重新啟動遊戲後套用。</text>
+<text id="111104">設定已變更，
+將在&lt;?remainingSec?&gt;秒後恢復原本的設定。
+
+要套用目前的設定嗎？</text>
+<text id="111105">部分設定必須在返回標題畫面後才會套用。</text>
+<text id="111106">高動態範圍成像（ＨＤＲ）已變更為關閉。</text>
+<text id="111107">高動態範圍成像（ＨＤＲ）已變更為開啟。</text>
+<text id="111108">%null%</text>
+<text id="111109">%null%</text>
+<text id="111110">有部分變更的設定尚未套用。
+請返回標題畫面，以套用設定。</text>
+<text id="211001">將傳送至&lt;?placeName?&gt;。
+您確定嗎？</text>
+<text id="211002">無法傳送至此區域的賜福。</text>
+<text id="211003">多人連線遊玩時，無法使用賜福傳送。</text>
+<text id="211004">無法使用賜福傳送。</text>
+<text id="211005">中了設下的陷阱。
+在賜福休息過後，才能使用賜福傳送。</text>
+<text id="211006">現在無法使用賜福傳送。</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">現在無法使用賜福傳送。</text>
+<text id="211100">將移除所有放置的標記。
+您確定嗎？</text>
+<text id="211101">已超過可放置的標記數上限，
+無法再放置標記。</text>
+<text id="211200">無法執行「顯示目前所在地」。</text>
+<text id="211300">已超過可標記的上限，無法再標記賜福。</text>
+<text id="211400">將移除這個賜福的標記。
+您確定嗎？</text>
+<text id="212000">要花費&lt;?demandSoul?&gt;盧恩升級嗎？</text>
+<text id="212001">將中止升級。
+您確定嗎？</text>
+<text id="212002">請選擇１個以上要成長的能力值。</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">已達等級上限，無法再升級。</text>
+<text id="212750">要重新誕生嗎？</text>
+<text id="212751">停止重新誕生。</text>
+<text id="212752">請將能力值成長至原有等級。</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">因為記憶空格減少，
+超過可記憶上限的魔法、禱告將被移除。
+
+確定要重新誕生嗎？</text>
+<text id="212761">超過可記憶上限的魔法、禱告，已被移除。</text>
+<text id="214000">要將戰灰
+從&lt;?itemNameBeforeForge?&gt;上移除，
+改用在&lt;?itemNameAfterForge?&gt;上嗎？</text>
+<text id="215000">變更寄宿身上的大盧恩，
+會解除大盧恩目前產生的效用。
+
+您確定嗎？</text>
+<text id="216000">要將&lt;?itemNameBeforeForge?&gt;
+強化成&lt;?itemNameAfterForge?&gt;嗎？</text>
+<text id="216001">%null%</text>
+<text id="216002">%null%</text>
+<text id="216003">%null%</text>
+<text id="216004">%null%</text>
+<text id="216005">%null%</text>
+<text id="216006">%null%</text>
+<text id="216007">%null%</text>
+<text id="216008">%null%</text>
+<text id="216009">%null%</text>
+<text id="216010">已經持有強化後的物品：
+&lt;?itemNameAfterForge?&gt;
+
+無法進行強化。</text>
+<text id="221000">要將&lt;?itemNameBeforeForge?&gt;
+強化成&lt;?itemNameAfterForge?&gt;嗎？</text>
+<text id="221011">在鍛造台能執行的強化已達上限。
+這把武器無法再繼續強化。</text>
+<text id="225000">把&lt;?demandSoul?&gt;顆龍心臟當作供品，
+將&lt;?itemName?&gt;化為己有。</text>
+<text id="225020">已超過持有與收納上限，
+無法將力量化為己有。</text>
+<text id="225100">已經將此力量化為己有。</text>
+<text id="226000">交出&lt;?demandSoul?&gt;片星光碎片，
+取得&lt;?itemName?&gt;。</text>
+<text id="226020">已超過持有與收納上限，無法取得。</text>
+<text id="226100">已經擁有此傀儡。</text>
+<text id="227000">開始複製&lt;?itemName?&gt;。</text>
+<text id="227020">已超過持有與收納上限，無法複製。</text>
+<text id="227100">無法再複製此戰灰。</text>
+<text id="230000">取得&lt;?itemName?&gt;。</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">超過持有上限的道具已被收納至木箱。</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">已超過持有與收納上限，無法取得。</text>
+<text id="230100">開始複製&lt;?itemName?&gt;。</text>
+<text id="230101">%null%</text>
+<text id="230102">%null%</text>
+<text id="230103">%null%</text>
+<text id="230104">%null%</text>
+<text id="230105">%null%</text>
+<text id="230106">%null%</text>
+<text id="230107">%null%</text>
+<text id="230108">%null%</text>
+<text id="230109">%null%</text>
+<text id="230110">超過持有上限的道具已被收納至木箱。</text>
+<text id="230111">%null%</text>
+<text id="230112">%null%</text>
+<text id="230113">%null%</text>
+<text id="230114">%null%</text>
+<text id="230115">%null%</text>
+<text id="230116">%null%</text>
+<text id="230117">%null%</text>
+<text id="230118">%null%</text>
+<text id="230119">%null%</text>
+<text id="230120">已超過持有與收納上限，無法複製。</text>
+<text id="230150">無法再複製此追憶。</text>
+<text id="231000">將以&lt;?demandSoul?&gt;盧恩
+購買&lt;?itemName?&gt;。</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">超過持有上限的道具已被收納至木箱。</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">已超過持有與收納上限，無法購買。</text>
+<text id="231100">已超過限定數量上限，無法購買。</text>
+<text id="231500">將以&lt;?demandSoul?&gt;盧恩
+獲得&lt;?itemName?&gt;。</text>
+<text id="231501">%null%</text>
+<text id="231502">%null%</text>
+<text id="231503">%null%</text>
+<text id="231504">%null%</text>
+<text id="231505">%null%</text>
+<text id="231506">%null%</text>
+<text id="231507">%null%</text>
+<text id="231508">%null%</text>
+<text id="231509">%null%</text>
+<text id="231510">超過持有上限的道具已被收納至木箱。</text>
+<text id="231511">%null%</text>
+<text id="231512">%null%</text>
+<text id="231513">%null%</text>
+<text id="231514">%null%</text>
+<text id="231515">%null%</text>
+<text id="231516">%null%</text>
+<text id="231517">%null%</text>
+<text id="231518">%null%</text>
+<text id="231519">%null%</text>
+<text id="231520">已超過持有與收納上限，無法取得。</text>
+<text id="231550">無法獲得複數個英雄的防具。</text>
+<text id="232000">將以&lt;?sellSouls?&gt;盧恩
+賣出&lt;?itemName?&gt;。</text>
+<text id="232001">%null%</text>
+<text id="232002">裝備中的道具無法賣出。</text>
+<text id="232003">無法賣出此道具。</text>
+<text id="232004">&lt;?itemName?&gt; 已使用戰灰。
+賣出後也會失去戰灰。
+
+您確定嗎？</text>
+<text id="235000">要開始分配嗎？</text>
+<text id="235001">將中止分配。
+您確定嗎？</text>
+<text id="236001">開始製作&lt;?itemName?&gt;。</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">超過持有上限，
+製作的道具已收納至木箱。</text>
+<text id="236011">超過持有與收納上限，
+無法製作道具。</text>
+<text id="236012">%null%</text>
+<text id="236013">%null%</text>
+<text id="236014">%null%</text>
+<text id="236015">%null%</text>
+<text id="236016">%null%</text>
+<text id="236017">%null%</text>
+<text id="236018">%null%</text>
+<text id="236019">%null%</text>
+<text id="236020">製作的數量超過持有的龜裂壺數量，
+無法製作道具。</text>
+<text id="236021">製作的數量超過持有的調香瓶數量，
+無法製作道具。</text>
+<text id="236022">%null%</text>
+<text id="236023">%null%</text>
+<text id="236024">%null%</text>
+<text id="236025">%null%</text>
+<text id="236026">%null%</text>
+<text id="236027">%null%</text>
+<text id="236028">%null%</text>
+<text id="236029">%null%</text>
+<text id="236030">製作的數量超過持有的儀式壺數量，
+無法製作道具。</text>
+<text id="236050">您未持有龜裂壺，
+無法製作道具。</text>
+<text id="236051">%null%</text>
+<text id="236052">%null%</text>
+<text id="236053">%null%</text>
+<text id="236054">%null%</text>
+<text id="236055">您未持有儀式壺，
+無法製作道具。</text>
+<text id="236056">%null%</text>
+<text id="236057">%null%</text>
+<text id="236058">%null%</text>
+<text id="236059">%null%</text>
+<text id="236060">您未持有調香瓶，
+無法製作道具。</text>
+<text id="236201">將消耗&lt;?demandSoul?&gt;盧恩與追憶，
+獲得&lt;?itemName?&gt;。</text>
+<text id="236202">將用追憶交換&lt;?itemName?&gt;。</text>
+<text id="236203">%null%</text>
+<text id="236204">%null%</text>
+<text id="236205">%null%</text>
+<text id="236206">%null%</text>
+<text id="236207">%null%</text>
+<text id="236208">%null%</text>
+<text id="236209">%null%</text>
+<text id="236210">超過持有上限的道具已被收納至木箱。</text>
+<text id="236211">超過持有與收納上限，
+無法獲得力量。</text>
+<text id="236212">%null%</text>
+<text id="236213">%null%</text>
+<text id="236214">%null%</text>
+<text id="236215">%null%</text>
+<text id="236216">%null%</text>
+<text id="236217">%null%</text>
+<text id="236218">%null%</text>
+<text id="236219">%null%</text>
+<text id="236220">超過數量上限，無法再從追憶獲得力量。</text>
+<text id="236401">將修改成&lt;?itemName?&gt;。</text>
+<text id="236402">將花費&lt;?demandSoul?&gt;盧恩，
+修改成&lt;?itemName?&gt;。</text>
+<text id="236403">%null%</text>
+<text id="236404">%null%</text>
+<text id="236405">%null%</text>
+<text id="236406">%null%</text>
+<text id="236407">%null%</text>
+<text id="236408">%null%</text>
+<text id="236409">%null%</text>
+<text id="236410">已超過持有上限，
+修改後的道具已被收納至木箱。</text>
+<text id="236411">已超過持有與收納上限，
+無法修改。</text>
+<text id="236412">%null%</text>
+<text id="236413">%null%</text>
+<text id="236414">%null%</text>
+<text id="236415">%null%</text>
+<text id="236416">%null%</text>
+<text id="236417">%null%</text>
+<text id="236418">%null%</text>
+<text id="236419">%null%</text>
+<text id="236420">已超過上限，無法修改。</text>
+<text id="237000">紅露滴聖杯瓶</text>
+<text id="237001">藍露滴聖杯瓶</text>
+<text id="241000">獲得地圖碎片：
+寧姆格福（西）</text>
+<text id="241001">獲得地圖碎片：
+啜泣半島</text>
+<text id="241002">獲得地圖碎片：
+寧姆格福（東）</text>
+<text id="241003">獲得地圖碎片：
+利耶尼亞（東）</text>
+<text id="241004">獲得地圖碎片：
+利耶尼亞（北）</text>
+<text id="241005">獲得地圖碎片：
+利耶尼亞（西）</text>
+<text id="241006">獲得地圖碎片：
+亞壇高原</text>
+<text id="241007">獲得地圖碎片：
+王城羅德爾</text>
+<text id="241008">獲得地圖碎片：
+格密爾火山</text>
+<text id="241009">獲得地圖碎片：
+蓋利德</text>
+<text id="241010">獲得地圖碎片：
+龍墓</text>
+<text id="241011">獲得地圖碎片：
+巨人山頂（西）</text>
+<text id="241012">獲得地圖碎片：
+巨人山頂（東）</text>
+<text id="241013">獲得地圖碎片：
+化聖雪原</text>
+<text id="241014">%null%</text>
+<text id="241100">獲得地圖碎片：
+安瑟爾河</text>
+<text id="241101">獲得地圖碎片：
+腐敗湖</text>
+<text id="241102">獲得地圖碎片：
+蒙格溫王朝</text>
+<text id="241103">獲得地圖碎片：
+希芙拉河</text>
+<text id="241104">獲得地圖碎片：
+深根底層</text>
+<text id="241105">%null%</text>
+<text id="251020">裝備中的道具無法收納。</text>
+<text id="251021">無法收納此道具。</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">已超過收納上限，無法收納。</text>
+<text id="251031">已超過持有上限，無法取出。</text>
+<text id="261000">您沒有記憶空格。</text>
+<text id="261001">可用空格不足。</text>
+<text id="261002">您沒有記憶空格。</text>
+<text id="261003">無法重複記憶相同的魔法、禱告。</text>
+<text id="261004">必需能力值不足，無法使用此魔法、禱告。</text>
+<text id="280001">所有設定將恢復預設。
+您確定嗎？</text>
+<text id="281000">無法選擇相同材料。</text>
+<text id="290001">要放棄創立中的角色，
+返回選擇角色雛形的畫面嗎？</text>
+<text id="290002">將以此角色開始遊戲，
+您確定嗎？</text>
+<text id="290003">您尚未輸入名字，
+請輸入名字以完成角色創立。</text>
+<text id="290004">角色資料保存失敗。</text>
+<text id="290005">%null%</text>
+<text id="290006">%null%</text>
+<text id="290007">%null%</text>
+<text id="290008">%null%</text>
+<text id="290009">%null%</text>
+<text id="290010">%null%</text>
+<text id="290011">將放棄所編輯的內容，
+您確定嗎？</text>
+<text id="290012">%null%</text>
+<text id="290013">%null%</text>
+<text id="290014">%null%</text>
+<text id="290015">%null%</text>
+<text id="290016">%null%</text>
+<text id="290017">%null%</text>
+<text id="290018">%null%</text>
+<text id="290019">%null%</text>
+<text id="290020">輸入的名字包含不恰當的文字，
+無法作為角色名字使用。
+
+請輸入其他名字。</text>
+<text id="290021">%null%</text>
+<text id="290022">%null%</text>
+<text id="290023">%null%</text>
+<text id="290024">%null%</text>
+<text id="290025">%null%</text>
+<text id="290026">%null%</text>
+<text id="290027">%null%</text>
+<text id="290028">%null%</text>
+<text id="290029">%null%</text>
+<text id="290030">改變性別後，
+會失去部分已編輯的內容。
+
+您確定嗎？</text>
+<text id="290031">%null%</text>
+<text id="290032">%null%</text>
+<text id="290033">%null%</text>
+<text id="290034">%null%</text>
+<text id="290035">%null%</text>
+<text id="290036">%null%</text>
+<text id="290037">%null%</text>
+<text id="290038">%null%</text>
+<text id="290039">%null%</text>
+<text id="290040">改變外貌後，
+會失去沒有保存到的外貌設定。
+
+您確定嗎？</text>
+<text id="290101">要放棄所編輯的內容，結束化妝嗎？</text>
+<text id="290102">化妝結束，將變成這個角色。
+
+您確定嗎？</text>
+<text id="290103">您尚未輸入名字，
+請輸入名字以結束化妝。</text>
+<text id="290121">要放棄所編輯的內容，結束化妝嗎？</text>
+<text id="290122">化妝結束，將變成這個角色。
+
+您確定嗎？</text>
+<text id="290123">您尚未輸入名字，
+請輸入名字以結束化妝。</text>
+<text id="290200">要保存現在的外貌設定嗎？</text>
+<text id="290201">要覆蓋原有的外貌設定嗎？</text>
+<text id="290202">要放棄編輯中的內容，
+讀取外貌設定嗎？</text>
+<text id="290203">不能讀取不同體型的外貌。</text>
+<text id="290204">將刪除選擇的外貌，
+您確定嗎？</text>
+<text id="290205">%null%</text>
+<text id="290206">%null%</text>
+<text id="290207">%null%</text>
+<text id="290208">%null%</text>
+<text id="290209">%null%</text>
+<text id="290210">並無已保存的外貌設定。</text>
+<text id="290300">目前無法編輯。
+
+如果想要編輯，請先在「眼睛變化設定」選擇「不套用」。</text>
+<text id="311000">將消除此訊息。
+您確定嗎？</text>
+<text id="311001">要給予這則訊息好評嗎？</text>
+<text id="311002">要給予這則訊息惡評嗎？</text>
+<text id="321000">將以此內容寫下訊息。</text>
+<text id="321001">將捨棄編輯中的訊息。
+您確定嗎？</text>
+<text id="322000">將從記錄中刪除此訊息。
+您確定嗎？</text>
+<text id="334510">已超過持有與收納上限，
+無法取得&lt;?itemName?&gt;。</text>
+<text id="334511">已超過持有與收納上限，
+無法全數取得&lt;?itemName?&gt;。</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">已超過持有與收納上限，
+無法取得部分道具。</text>
+<text id="401172">《艾爾登法環》網路測試版僅能以連線進行遊玩。
+
+將返回標題畫面。</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404010">將放棄已設定的內容，回到前一個畫面。
+
+您確定嗎？</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">高動態範圍成像（ＨＤＲ）設定為開啟時，
+只能從遊戲內主選單的系統選單調整畫質。</text>
+<text id="406011">將以選擇的角色檔案開始遊戲。</text>
+<text id="406012">要刪除選擇的角色檔案，
+開始新遊戲嗎？</text>
+<text id="406013">將刪除選擇的角色檔案。
+
+您確定嗎？</text>
+<text id="450000">要直接開始第&lt;?nextLoopCount?&gt;次的世界嗎？
+
+如果不打算馬上進入下一次的世界，
+之後也能從圓桌廳堂的大賜福選擇「開始第&lt;?nextLoopCount?&gt;次的世界」。</text>
+<text id="450001">進入第&lt;?nextLoopCount?&gt;次的世界之後，
+就不能回到目前第&lt;?loopCount?&gt;次的世界。
+
+確定要開始第&lt;?nextLoopCount?&gt;次的世界嗎？</text>
+<text id="502000">要遣返所選的人物嗎？</text>
+<text id="502001">沒有可以遣返的人物。</text>
+<text id="550000">您在多人連線遊玩時，多次以不當方式結束遊戲，
+無法進行多人連線遊玩。</text>
+<text id="550100">在一定時間內沒有進行任何操作，
+已返回原本的世界。</text>
+<text id="550200">由於未輸入名字，
+已用「_」設定成角色的名字。</text>
+<text id="620001">要返回標題畫面嗎？</text>
+<text id="620002">%null%</text>
+<text id="620003">%null%</text>
+<text id="620004">%null%</text>
+<text id="620005">%null%</text>
+<text id="620006">%null%</text>
+<text id="620007">%null%</text>
+<text id="620008">%null%</text>
+<text id="620009">%null%</text>
+<text id="620010">將結束操作說明，開始遊戲。
+您確定嗎？</text>
+<text id="620100">本遊戲尚在開發中，
+部分功能（包含使用Xbox 網路的網路功能）
+有可能無法正常運作，或出現強制結束遊戲的情況。</text>
+<text id="620101">%null%</text>
+<text id="620102">%null%</text>
+<text id="620103">%null%</text>
+<text id="620104">%null%</text>
+<text id="620105">%null%</text>
+<text id="620106">%null%</text>
+<text id="620107">%null%</text>
+<text id="620108">%null%</text>
+<text id="620109">%null%</text>
+<text id="620110">網路測試版的下列設定與商品版相異：
+‧必須連接網路才能遊玩。</text>
+</entries>
+</fmg>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">蹲下</text>
+<text id="2">防御</text>
+<text id="3">防御反击</text>
+<text id="4">双手共持</text>
+<text id="5">蓄力攻击、跳跃攻击</text>
+<text id="6">战技</text>
+<text id="7">格挡</text>
+<text id="8">锁定目标</text>
+<text id="9">精密射击</text>
+<text id="10">装备武器</text>
+<text id="11">使用道具</text>
+<text id="12">火把</text>
+<text id="13">致命一击</text>
+<text id="14">肢体动作</text>
+<text id="15">地图</text>
+<text id="16">灵魂气流跳跃</text>
+<text id="17">快选使用道具</text>
+<text id="50">死亡与持有卢恩</text>
+<text id="51">%null%</text>
+<text id="52">召唤灵魂</text>
+<text id="53">在赐福休息</text>
+<text id="54">发现赐福</text>
+<text id="55">赐福的指引</text>
+<text id="56">圣杯瓶</text>
+<text id="57">传送至赐福</text>
+<text id="58">骑马攻击</text>
+<text id="59">无法骑马的地方</text>
+<text id="60">制作道具</text>
+<text id="61">容器道具</text>
+<text id="62">自定义武器</text>
+<text id="63">%null%</text>
+<text id="64">死后复活时</text>
+<text id="65">装备重量</text>
+<text id="66">交战时</text>
+<text id="67">强化灵魂</text>
+<text id="68">升级</text>
+<text id="69">%null%</text>
+<text id="70">异常状态：中毒</text>
+<text id="71">异常状态：猩红腐败</text>
+<text id="72">异常状态：出血</text>
+<text id="73">异常状态：冻伤</text>
+<text id="74">异常状态：催眠</text>
+<text id="75">异常状态：发狂</text>
+<text id="76">异常状态：死亡</text>
+<text id="77">强韧度</text>
+<text id="100">协助者（勾指）的目标</text>
+<text id="101">敌对者（斗士）的目标</text>
+<text id="102">多人联机游玩的人数上限</text>
+<text id="103">看见召唤记号</text>
+<text id="104">写下协力记号</text>
+<text id="105">写下敌对记号</text>
+<text id="106">入侵</text>
+<text id="107">请求支援</text>
+<text id="108">支援</text>
+<text id="109">记号聚集处</text>
+<text id="110">群组暗号</text>
+<text id="111">多人联机游玩的暗号</text>
+<text id="112">讯息</text>
+<text id="113">多人联机游玩的活动范围</text>
+<text id="114">幻影</text>
+<text id="115">血迹</text>
+<text id="116">支援者（猎人）的目标</text>
+<text id="117">召唤记号</text>
+<text id="118">切换讯息的格式</text>
+<text id="119">入侵者的目标</text>
+<text id="150">防御的缺点</text>
+<text id="151">失去平衡</text>
+<text id="152">坠马</text>
+<text id="153">坚硬的敌人</text>
+<text id="154">%null%</text>
+<text id="200">露滴粪金龟</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

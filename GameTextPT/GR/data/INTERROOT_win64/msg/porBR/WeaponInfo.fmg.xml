@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Osso fino de animal, esculpido e com penas presas</text>
+<text id="50110000">Flecha esculpida a partir de ossos finos de animais.</text>
+<text id="50130000">Flecha de osso de animal com penas, acesa ao ser disparada.</text>
+<text id="50140000">Flecha óssea acesa ao ser disparada.</text>
+<text id="50150000">Flecha de osso penado com ponta venenosa</text>
+<text id="50160000">Flecha de osso de animal e ponta venenosa.</text>
+<text id="50170000">Flecha de osso com penas e ponta sedativa.</text>
+<text id="50180000">Flecha de osso com ponta sedativa</text>
+<text id="50190000">Flecha óssea com penas de falcão da tempestade.</text>
+<text id="50200000">Flecha de osso de animal com penas, carregada com eletricidade.</text>
+<text id="50210000">Flecha de osso carregada com eletricidade</text>
+<text id="50220000">Flecha de osso de animal, acende no impacto.</text>
+<text id="50230000">Flecha de osso de animal com ponta de fragmento de cristal.</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Flecha óssea com penas e ponta de tintura pedrilhante.</text>
+<text id="50270000">Flecha de osso de animal e ponta de tintura pedrilhante.</text>
+<text id="50280000">Flecha óssea com penas e ponta de tintura dourada.</text>
+<text id="50290000">Flecha de osso de animal e ponta de tintura dourada.</text>
+<text id="50300000">Flecha óssea com penas e ponta de tintura de sangue.</text>
+<text id="50310000">Flecha de osso de animal e ponta de tintura de sangue.</text>
+<text id="50320000">Flecha óssea com penas e ponta congelada.</text>
+<text id="50330000">Flecha de osso de animal e ponta congelada.</text>
+<text id="50340000">Flecha óssea com penas e ponta de podridão.</text>
+<text id="50350000">Flecha de osso de animal e ponta de podridão.</text>
+<text id="51050000">Flecha espessa de osso talhado com penas.</text>
+<text id="51060000">Flecha espessa de osso talhado de animal, grande como uma lança.</text>
+<text id="52090000">Seta fina de osso talhado de animal.</text>
+<text id="52100000">Seta óssea de animal acesa ao ser disparada.</text>
+<text id="52110000">Seta de osso de animal com ponta imbuída de relâmpago.</text>
+<text id="52120000">Seta de osso de animal e ponta de tintura pedrilhante.</text>
+<text id="52130000">Seta de osso de animal e ponta de tintura dourada.</text>
+<text id="52140000">Seta de osso de animal com ponta venenosa.</text>
+<text id="52150000">Seta de osso de animal e ponta de tintura de sangue.</text>
+<text id="52160000">Seta de osso de animal e ponta congelada.</text>
+<text id="52170000">Seta de osso de animal e ponta de podridão.</text>
+<text id="52180000">Seta de osso de animal e ponta de tintura de lírio d'água.</text>
+<text id="53030000">Seta espessa de osso talhado de animal.</text>
+</entries>
+</fmg>

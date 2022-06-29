@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="101000">&lt;?keyControlCamera?&gt;: &lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;: &lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;: &lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;: &lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">Mantén pulsado &lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Correr rápido</text>
+<text id="101110">&lt;?keyControlCamera?&gt; con un objetivo fijado: Cambiar de objetivo</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@24?&gt;: Defender</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">Los materiales pueden usarse para crear objetos.</text>
+<text id="101150">&lt;?keyicon@22?&gt; cerca de un enemigo que está de espaldas: Golpe crítico</text>
+<text id="101170">&lt;?keyicon@27?&gt;: Visualización frontal</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">&lt;?keyicon@8?&gt; durante el salto a caballo: Salto doble</text>
+<text id="201010">&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;</text>
+<text id="201070">%null%</text>
+<text id="201100">Puedes equipar hasta tres piezas de armamento en cada mano, lo que te permite alternarlas.
+
+También existen piezas de armamento para empuñar con las dos manos, lo que hace que los ataques sean más difíciles de repeler con escudos y que aumente la fuerza efectiva en un 50 %.
+
+&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Blandir con las dos manos</text>
+<text id="301020">Descansar en un sitio de gracia restablecerá tus PV y PC, y eliminará todos los efectos negativos.
+También llenará tus frascos sagrados.
+Sin embargo, la mayoría de los enemigos que derrotaste resucitarán.
+
+Puedes encontrar sitios de gracia si vas adonde la luz converge.
+
+* Estas explicaciones se obtienen en forma de objetos informativos, y se puede acceder a ellas desde el inventario en cualquier momento.</text>
+<text id="301060">En los sitios de gracia, puedes memorizar hechicerías y encantamientos.
+
+Debes tener un báculo equipado para lanzar hechicerías, o un sello sagrado para lanzar encantamientos.
+Lanzar hechicerías y encantamientos consume PC.
+
+&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;</text>
+<text id="301130">Equipa un arco para lanzar flechas.
+Puedes equipar hasta dos tipos de flechas a la vez.
+
+Cuando sostengas un arco a dos manos, mantén pulsado &lt;?keyicon@24?&gt; para apuntar con precisión.
+Usa &lt;?keyControlCamera?&gt; para ajustar tu tiro.
+
+&lt;?keyicon@22?&gt;: Lanzar flecha de tipo 1
+&lt;?keyicon@23?&gt;: Lanzar flecha de tipo 2
+&lt;?keyicon@24?&gt;: Apuntar con precisión</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">Agáchate para que los enemigos no puedan descubrirte fácilmente.
+Es muy efectivo en pastizales.
+
+Atacar a un enemigo que no te haya visto causará más daño de lo habitual.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="301160">Algunos ataques pueden desestabilizar al enemigo, lo que te permitirá dar un golpe crítico.
+
+Es muy fácil desestabilizar al enemigo con ataques de carga y de salto.
+
+Mantén pulsado &lt;?keyicon@23?&gt;: Ataque de carga
+&lt;?keyicon@23?&gt; mientras saltas: Ataque de salto</text>
+<text id="301500">Usa el mapa para corroborar tu posición actual, además del terreno y las estructuras cercanas.
+
+Puedes actualizar el mapa con información nueva cuando encuentres fragmentos de mapa en las estelas del camino.
+
+También puedes usar el mapa para ubicar libremente faros de luz que sirvan de marcadores a medida que exploras.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">La gracia existe para guiar a los Tiznados y dirigirlos por el camino correcto.
+
+Incluso ahora, algunos sitios de gracia conservan ese poder. Sus rayos dorados te guiarán en tu camino.</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">Usa el silbato equino espectral para invocar y montar tu corcel espectral.
+
+Si tu corcel espectral muere, puedes invocarlo otra vez, pero te costará un frasco de lágrimas carmesí.
+
+Para desmontar, usa el silbato de nuevo o pulsa &lt;?keyicon@0009?&gt;.</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">Tras morir, revivirás en el último sitio de gracia que visitaste.
+
+Dejarás todas las runas que tengas en el lugar de tu muerte.
+Si mueres de nuevo antes de reclamar esas runas, se perderán para siempre
+
+La brújula en la parte superior de la pantalla indica la dirección de las runas perdidas.</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">Al morir, revivirás en el último sitio de gracia que visitaste.
+
+De todas maneras, si había una Estaca de Márida cerca de donde moriste, tendrás la opción de revivir allí.</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">Con una campana llamadora de espíritus, puedes usar las cenizas para invocar a varios de ellos.
+Normalmente, las invocaciones consumen PC.
+
+Solo puedes invocar un tipo de espíritu a la vez.
+No puedes invocar espíritus en el modo multijugador.</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">En cada rincón de las Tierras Intermedias,
+encontrarás frutas y flores, hongos y mariposas,
+entre otros materiales útiles.
+
+Puedes usar estos materiales para crear objetos.</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">Si tienes un kit de creación, puedes crear distintos objetos a partir de materiales que encuentres.
+
+Selecciona "Creación de objetos" en el menú principal para crear objetos.
+
+Encuentra libros de preparaciones para aprender a crear más objetos.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">Necesitarás recipientes rajados u otros recipientes para crear ciertos objetos.
+La cantidad de objetos que puedas crear dependerá de la cantidad de recipientes que tengas.
+
+Estos objetos creados a partir de recipientes se gastarán con el uso, pero sus contenedores permanecerán.</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">Podrás encontrar lágrimas de cristal al pie de los Terrárboles menores y por otros lugares de las Tierras Intermedias.
+
+En los sitios de gracia, puedes mezclar dos lágrimas de cristal en un frasco de cataplasma asombrosa.
+Esto te permitirá crear elíxires con distintos efectos personalizados.</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">Con un cuchillo de piedra de afilar, puedes usar cenizas de guerra para otorgar nuevas habilidades a tus armamentos en sitios de gracia.
+
+Cada armamento solo puede tener una habilidad.
+Se eliminará cualquier habilidad previa que haya tenido.
+
+El tipo de armamento determina qué habilidades puede tener. Algunos armamentos especiales tienen habilidades únicas y no pueden recibir otras.</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">Puedes usar los telescopios con visión de pájaro que se encuentran en varias áreas para conseguir una vista aérea del terreno en la dirección hacia la que se orienta el telescopio.
+
+&lt;?keyicon@17?&gt;: Acercar
+&lt;?keyicon@18?&gt;: Alejar</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">Mientras vas a caballo, salta cerca de un manantial espiritual para montar la corriente y elevarte.
+
+Saltar a un manantial espiritual mientras montas no te lastimará, ni siquiera cuando saltes desde gran altura.
+
+&lt;?keyicon@8?&gt; en un manantial espiritual a caballo: Salto a un manantial espiritual</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">Si aniquilas a un grupo enemigo, tus frascos se recargarán.
+
+La cantidad y el tipo de frascos que se recarguen varía según el grupo enemigo.
+
+Solo podrás recargar la cantidad máxima de frascos que tengas permitida.</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">Hay escarabajos con forma de lágrimas cerúleas y carmesíes.
+Derrótalos para reponer los frascos que coincidan con su tipo.
+
+Sin embargo, solo podrás reponer la cantidad de frascos máxima que tienes permitida.</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">Usa la cura de dedo doblado para revelar señales de invocación de jugadores de otros mundos.
+
+Las señales de oro indican un aliado.
+Las señales rojas indican un rival.
+La sesión multijugador comenzará una vez que se haya invocado a cualquiera de los dos.
+(Asumirás el rol de Anfitrión de Dedos).</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">Usa el dedo doblado de Tiznado para escribir una señal de invocación de oro.
+
+El modo multijugador cooperativo comenzará una vez que te haya invocado un jugador de otro mundo.
+
+Asumirás el rol de aliado (dedo doblado), y tu objetivo será derrotar al jefe del área.
+
+La brújula en la parte superior de la pantalla indica la dirección del invocador (Anfitrión de Dedos).</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">Usa el dedo doblado de duelista para escribir una señal de invocación roja.
+
+El modo multijugador competitivo comenzará una vez que te haya invocado un jugador de otro mundo.
+
+Asumirás el rol de rival (duelista), y tu objetivo será derrotar al Anfitrión de Dedos que te invocó.</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">Usa el dedo sangriento e infectado para intentar invadir el mundo de otro jugador.
+
+La sesión multijugador comenzará una vez que la invasión haya sido exitosa.
+
+Asumirás el rol de un invasor (dedo sangriento), y tu objetivo será derrotar al Anfitrión de Dedos de ese mundo.
+
+Si te alejas del Anfitrión de Dedos, la brújula en la parte superior de la pantalla indicará su ubicación.</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">En cada área, puedes encontrar efigies de mártires.
+Estas efigies son grupos de invocaciones.
+
+Te será fácil invocar a otros jugadores en estos lugares, ya que las señales de invocación hostiles y de cooperación creadas con efigies pequeñas se reúnen en los grupos de invocaciones.</text>
+<text id="302000">Con un cuchillo de piedra de afilar, puedes usar cenizas de guerra para otorgarles afinidades a tus piezas de armamento en sitios de gracia.
+
+De esta manera, puedes alterar la afinidad de ataque de la pieza de armamento, potenciar el aumento de atributos y más.
+
+El tipo de la pieza de armamento determina qué afinidades puede tener. Algunas piezas especiales, como las que tienen habilidades únicas, no pueden recibir nuevas afinidades.</text>
+<text id="302380">Si usas un anillo cifrado azul, te pondrás a disposición de invocaciones de rescate provenientes de otros mundos.
+
+La sesión multijugador comenzará una vez que te hayan invocado como cazador, y tu objetivo será derrotar al invasor de ese mundo.
+
+La brújula en la parte superior de la pantalla indica la dirección del invocador (Anfitrión de Dedos).</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">Para invocar espíritus desde las cenizas, debes estar cerca de un monumento de renacimiento.
+
+Cuando estés cerca de un monumento de renacimiento y puedas invocar, aparecerá un ícono de monumento en la parte izquierda de la pantalla.</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">Puedes contraatacar de inmediato después de bloquear un ataque enemigo.
+
+Los contraataques de defensa permiten desestabilizar al enemigo con facilidad.
+
+&lt;?keyicon@23?&gt; de inmediato después de bloquear un ataque: Contraataque de defensa</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">Lleva armamento en la mano izquierda o en ambas para defenderte de los ataques inminentes.
+La defensa es muy efectiva si usas un escudo.
+
+La defensa consume vigor.
+Si te quedas sin vigor, te desestabilizarán.
+
+&lt;?keyicon@24?&gt;: Defender</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">Si usas un anillo cifrado blanco, solicitarás automáticamente que un cazador de otro mundo venga a rescatarte cuando invadan tu mundo.
+(También se puede usar después de que te invaden).
+
+Se invocará al cazador una vez que la solicitud tenga éxito, y su objetivo será derrotar al invasor de tu mundo.</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">Los armamentos tienen poderes especiales llamados "habilidades".
+
+Hay una gran variedad de habilidades, desde ataques poderosos hasta efectos temporales.
+Usar estas habilidades consume PC.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">Con el mapa, puedes viajar al instante a cualquier sitio de gracia que hayas descubierto.
+
+Sin embargo, hay algunos calabozos y otras áreas en donde no se puede hacer esto.</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">En la mesa de herrería, puedes gastar runas y piedras de herrería para fortalecer tus armamentos.
+
+En algún lugar de las Tierras Intermedias, quizás encuentres a un herrero que pueda fortalecer aún más tus armamentos.</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">La Mesa Redonda es un lugar donde se reúnen los Tiznados, guiados por la gracia. El combate está prohibido en este sitio debido a un pacto de no agresión. (Esta regla está en efecto cuando aparece el ícono de la Mesa Redonda).
+La Mesa Redonda se encuentra fuera de este mundo. Solo se puede llegar a ella mediante el viaje rápido a través de sitios de la gracia. (También se puede llegar usando el mapa para viajar).
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">%null%</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">Desde "Bolsa" en el menú principal, puedes equipar hasta seis objetos en tus bolsas.
+
+Podrás usar cuatro de esos objetos sin abrir el menú principal.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: Usar el objeto en la bolsa 1
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: Usar el objeto en la bolsa 2
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: Usar el objeto en la bolsa 3
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: Usar el objeto en la bolsa 4</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">Haz una voltereta de evasión o da un paso hacia atrás para evitar los ataques enemigos.
+Ambas acciones consumen vigor. ​
+
+&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Voltereta de evasión 
+&lt;?keyicon@7?&gt;: Paso atrás</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">Las Runas Mayores que recibes al derrotar portafragmentos han perdido su beneficioso poder.
+Sin embargo, es posible restaurarlo en las torres divinas de las Tierras Intermedias.
+
+Revisa la descripción de cada Runa Mayor para descubrir qué torre divina deberías visitar.</text>
+<text id="302501">%null%</text>
+<text id="302502">%null%</text>
+<text id="302503">%null%</text>
+<text id="302504">%null%</text>
+<text id="302505">%null%</text>
+<text id="302506">%null%</text>
+<text id="302507">%null%</text>
+<text id="302508">%null%</text>
+<text id="302509">%null%</text>
+<text id="302510">Desciende por este agujero frente a ti, y encontrarás la Cueva del Conocimiento.
+
+Allí puedes aprender más sobre los controles y las mecánicas básicas del juego, además de otros consejos que podrán ser de ayuda en tus viajes por las Tierras Intermedias.</text>
+<text id="309000">Necesitarás ciertos objetos para participar en cada modo multijugador:
+cooperativo, invasión o competitivo.
+
+Selecciona "Multijugador" en el menú principal para ver tus objetos multijugador.
+También puedes usarlos directamente desde este menú.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="402000">Con el menú Equipo, puedes equipar armamentos, flechas, virotes, armadura, talismanes y otros objetos.
+
+Puedes equipar hasta tres armamentos en la izquierda y tres en la derecha.
+Las acciones de cada armamento variarán según la mano que los empuñe.</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">Con el menú de creación de objetos, puedes crear distintos objetos a partir de materiales que encuentres.
+
+Encuentra libros de preparaciones para aprender a crear más objetos.</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">Con el menú Inventario, puedes explorar los objetos que llevas, dejarlos en el suelo o descartarlos.
+
+También puedes usar herramientas desde este menú.
+
+&lt;?keyicon@31?&gt;: Mostrar imagen grande y explicación.
+&lt;?keyicon@30?&gt;: Alternar datos de personaje</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">Con el menú de estado, puedes consultar tu nivel, atributos, estadísticas básicas y más.
+
+La información que se muestra aquí también refleja los cambios en tu ataque, defensa y resistencia otorgados por los armamentos y la armadura que tengas.</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">Con el menú de mensajes, puedes escribirles mensajes a jugadores en otros mundos, quienes los leerán en el lugar donde los hayas dejado.
+
+Puedes dejar mensajes más complejos cambiando el formato y complementarlos con gestos.
+
+Puedes calificar los mensajes de otros jugadores.
+Cuando otro jugador califique un mensaje que hayas escrito, se repondrán tus PV.</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">Con el menú del modo Multijugador, puedes usar distintos objetos de Multijugador.
+
+Si estableces una contraseña grupal, será más probable que veas mensajes, señales de invocación, manchas de sangre, fantasmas y más de otros jugadores que estén usando la misma contraseña.
+
+Si estableces una contraseña de Multijugador, solo se te emparejará con jugadores que estén usando la misma contraseña y accederás a la mayoría de las características de Multijugador.
+Sin embargo, las contraseñas de Multijugador no sirven para la invasión Multijugador.</text>
+<text id="402100">Con el menú Mapa, puedes consultar tu ubicación actual, además de ver terrenos y construcciones del área circundante.
+
+También puedes usar el mapa para ubicar libremente faros de luz que sirvan de marcadores a medida que exploras.
+
+Por último, con el mapa, puedes seleccionar cualquier sitio de gracia que hayas descubierto y viajar ahí instantáneamente.
+Sin embargo, hay algunos calabozos y otras áreas en donde no se puede hacer.</text>
+<text id="402200">Desde el menú Aumentar de nivel, puedes gastar runas para mejorar tus atributos.
+
+Con cada incremento de atributo, tu nivel aumentará de a uno.
+A medida que tu nivel aumenta, también aumenta la cantidad necesaria de runas para el siguiente incremento de atributo.</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">%null%</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">%null%</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">Con este menú, puedes asignar la cantidad de usos de cada uno de tus frascos.
+
+Hay una cantidad máxima de usos para los frascos.
+Puedes decidir cuántos de esos usos se destinarán a reponer los PV de los frascos de lágrimas carmesíes, y cuántos se destinarán para reponer los PC de los frascos de lágrimas cerúleas.</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">Con el menú Memorizar, puedes memorizar hechicerías y encantamientos.
+
+Debes tener un báculo equipado para lanzar hechicerías, o un sello sagrado equipado para lanzar encantamientos.
+Lanzar hechicerías y encantamientos consume PC.
+
+Tus espacios de memoria determinan la cantidad de hechicerías y encantamientos que puedes memorizar.
+Consigue una piedra de memoria para aumentar tus espacios de memoria.</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">Con este menú, puedes colocar los objetos que llevas en el cofre para almacenarlos, o bien sacar los objetos allí almacenados.
+
+Si ya portas la cantidad máxima de objetos, cuando recojas uno nuevo, este se almacenará de forma automática en el cofre.</text>
+<text id="402300">Con el menú de compras, puedes gastar runas para comprar distintos objetos.
+
+También puedes vender objetos a cambio de runas.
+
+Cada mercader tiene un surtido diferente de objetos para ofrecer.</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">%null%</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">Con el menú Cenizas de guerra, puedes usar cenizas de guerra para otorgar habilidades y afinidades a tus armamentos en sitios de gracia.
+
+Cada armamento solo puede tener una habilidad.
+Se perderá cualquier habilidad previa que haya tenido.
+
+Al agregar una afinidad, puedes alterar la afinidad de ataque del armamento, potenciar el aumento de atributos y más.
+
+El tipo de armamento determina qué habilidades y afinidades puede tener. Algunos armamentos especiales no podrán recibir nuevas habilidades o afinidades cuando uses cenizas de guerra.</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">En el menú Afinación espiritual, puedes gastar runas y lirios de tumbas para fortalecer a los espíritus que invocas de las cenizas.
+
+Para fortalecer a espíritus con nombre, necesitarás lirios fantasmales.</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">%null%</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">En el menú Runas Mayores, puedes equipar Runas Mayores
+cuyo poder se haya restaurado.
+
+Puedes usar un arco de runas para otorgarle aún mejores
+beneficios a tus Runas Mayores equipadas.</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">Con este menú, puedes mezclar dos lágrimas de cristal en un frasco de cataplasma asombrosa.
+
+Esto te permitirá crear cataplasmas con distintos efectos personalizados.</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">En el menú Renacimiento, puedes gastar lágrimas larvales para borrar
+tus niveles y comenzar desde el principio.
+
+Debes reasignar todos los niveles hasta que llegues
+a tu nivel actual, y no puedes establecer ningún atributo
+con un valor inferior a su valor inicial (determinado por tu origen).</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">Con el menú Poder del recuerdo, puedes extraer el poder del homónimo de un recuerdo.
+
+Cada recuerdo puede proporcionar un poder. Una vez que se reclamó el poder, el recuerdo se perderá.</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">Con el menú de herrería, puedes gastar runas y piedras de herrería para fortalecer tus armamentos.
+
+En la mesa de herrería, puedes fortalecer tus armamentos hasta +3.
+
+En algún lugar de las Tierras Intermedias, quizás encuentres a un herrero que pueda hacer aún más fuertes tus armamentos</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">En el menú Duplicación de recuerdos, puedes duplicar los recuerdos que hayas adquirido.
+(Incluidos los recuerdos de los cuales ya extrajiste poderes).
+
+La duplicación puede realizarse solo una vez por mausoleo.</text>
+</entries>
+</fmg>

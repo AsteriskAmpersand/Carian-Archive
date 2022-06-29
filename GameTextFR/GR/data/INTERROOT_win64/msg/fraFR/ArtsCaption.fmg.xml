@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Aucune compétence
+
+Cette arme ne dispose d'aucune compétence.
+Si l'arme tenue dans votre autre main possède une compétence, c'est celle-ci qui sera utilisée.</text>
+<text id="100">Compétence : Griffe du lion
+
+Compétence des vaillants chevaliers du Lion rouge qui combattirent aux côtés du général Radahn.
+Vous bondissez en avant et frappez l'ennemi avec votre arme.</text>
+<text id="101">Compétence : Empalement
+
+Compétence permettant de contrer les boucliers avec une arme perçante. Vous concentrez votre force, puis portez un puissant coup en avant capable de transpercer la garde de l'ennemi.</text>
+<text id="102">Compétence : Croc perçant
+
+Compétence employée par Yura, chasseur de Doigts sanglants.
+Vous tenez votre lame à l'horizontale, puis portez une puissante attaque d'estoc impossible à bloquer.</text>
+<text id="103">Compétence : Entaille tournoyante
+
+Compétence appréciée des guerriers les plus adroits.
+Vous tournez sur vous-même pour taillader vos ennemis. Enchaînez cette compétence pour effectuer plusieurs attaques d'affilée.</text>
+<text id="104">%null%</text>
+<text id="105">Compétence : Charge
+
+Une vive charge en avant avec l'arme tenue à hauteur de hanche, l'élan se terminant par un coup d'estoc.
+Maintenez la commande enfoncée pour charger sur une plus grande distance.</text>
+<text id="106">Compétence : Entaille ascendante
+
+Vous tenez fermement votre arme et vous campez sur vos appuis, encaissant sans fléchir la plupart des attaques ennemies.
+Enchaînez avec une attaque puissante pour exécuter une frappe montante.</text>
+<text id="107">Compétence : Balayage tournoyant
+
+Vous tenez fermement votre arme et vous campez sur vos appuis, encaissant sans fléchir la plupart des attaques ennemies.
+Enchaînez avec une attaque puissante pour exécuter une frappe horizontale.</text>
+<text id="108">Compétence : Dîme de sang
+
+Compétence du Serment sanglant accordée par le seigneur du sang.
+Vous tournoyez pour emmagasiner de la puissance, puis libérez une série de frappes d'estoc qui drainent le sang et les PV de votre cible.</text>
+<text id="109">Compétence : Estoc répété
+
+Vous tournoyez pour emmagasiner de la puissance, puis portez une succession rapide de coups d'estoc.</text>
+<text id="110">Compétence : Frappes déchaînées
+
+Vous faites tournoyer votre arme avec brutalité.
+Tant que vous maintenez la commande enfoncée, vous continuez d'attaquer. Enchaînez avec une attaque normale ou puissante.</text>
+<text id="111">Compétence : Frappes tournoyantes
+
+Compétence à l'arme d'hast qui vous permet d'effectuer des attaques tournoyantes en continu. Maintenez la commande enfoncée pour continuer de tournoyer. Enchaînez avec une attaque normale ou puissante. Tant que l'arme tournoie, vous déviez les projectiles telles que les flèches.</text>
+<text id="112">Compétence : Enchaînement de tailles
+
+Compétence d'épéistes expérimentés.
+Vous vous baissez sur vos appuis et effectuez une attaque de taille croisée.
+Enchaînez cette compétence pour asséner jusqu'à deux attaques supplémentaires.</text>
+<text id="113">Compétence : Charge du prélat
+
+Vous abattez votre arme au sol et créez une vague de flammes, avant de charger.
+Maintenez la commande enfoncée pour continuer de charger.</text>
+<text id="114">Compétence : Dégainer
+
+Compétence des épéistes des Terres des roseaux.
+Vous rengainez votre arme et la portez à votre hanche pour vous préparer à frapper.
+Effectuez ensuite une vive attaque de taille, normale ou puissante.</text>
+<text id="115">Compétence : En garde
+
+Au début de cette compétence, vous tenez votre épée à l'horizontale.
+Exécutez une attaque normale pour briser la garde de l'ennemi avec une frappe verticale, ou une attaque puissante pour porter un coup d'estoc.</text>
+<text id="116">Compétence : Traque-Géant
+
+Compétence conçue pour affronter des adversaires gigantesques.
+Vous adoptez une posture basse et avancez, puis profitez de l'élan pour effectuer une rapide frappe verticale.</text>
+<text id="117">Compétence : Coup de torche
+
+Brandissez votre torche en avant pour mettre le feu à vos ennemis.
+Cette compétence est particulièrement efficace contre les ennemis vulnérables au feu.</text>
+<text id="118">Compétence : Entaille de Loretta
+
+Technique de Loretta, chevaleresse royale.
+Vous bondissez vers l'avant en imprégnant votre arme à l'aide d'une pierre d'éclat, puis retombez rapidement en assénant une attaque large.</text>
+<text id="119">Compétence : Envol venimeux
+
+Vous assénez un coup après avoir imprégné votre arme de poison.
+Si l'attaque suivante touche un ennemi empoisonné, elle infligera d'importants dégâts.</text>
+<text id="120">Compétence : Arme tournoyante
+
+Compétence défensive employée par les princesses de Caria.
+Vous faites flotter votre arme dans les airs avant de la faire tournoyer violemment. Tous les adversaires touchés subissent des attaques successives.</text>
+<text id="121">%null%</text>
+<text id="122">Compétence : Piqué tempétueux
+
+L'une des compétences faisant appel aux tempêtes de Voilorage.
+Vous vous entourez de rafales et bondissez vers l'avant, la pointe de votre arme vers le bas. Cette attaque fait apparaître d'autres rafales au point d'impact.</text>
+<text id="123">Compétence : Mande-orage
+
+L'une des compétences faisant appel aux tempêtes de Voilorage. Vous faites tournoyer votre arme, créant ainsi des tempêtes autour de vous. Enchaînez cette compétence pour asséner jusqu'à deux attaques supplémentaires.</text>
+<text id="124">Compétence : Danse des lames
+
+Vous vous ruez vers l'avant et effectuez une série d'attaques tournoyantes ascendantes.
+Enchaînez avec une autre attaque pour conclure avec une frappe de taille vers le bas.</text>
+<text id="125">Compétence : Chaîne tournoyante
+
+Vous attaquez en faisant tournoyer le fléau à toute vitesse.
+Enchaînez avec une attaque normale ou puissante pour profiter de l'élan qu'octroie cette compétence.</text>
+<text id="200">Compétence : Phalange de laméclats
+
+Compétence utilisée par les chevaliers enchantés servant la famille royale de Caria. Vous invoquez plusieurs laméclats magiques au-dessus de vous qui attaquent les ennemis automatiquement. Enchaînez avec une attaque puissante pour exécuter une frappe d'estoc.</text>
+<text id="201">Compétence : Lame sacrée
+
+Vous nimbez l'arme de puissance sacrée et projetez une lame dorée.
+Imprègne l'arme de sacré pour une courte durée.</text>
+<text id="202">Compétence : Lance de glace
+
+Compétence des guerriers servant la princesse de la lune Ranni.
+Vous faites tournoyer votre arme pour canaliser la magie de glace et vous servez de cette dernière pour créer une lance de glace perçante.</text>
+<text id="203">Compétence : Flèche de pierre d'éclat
+
+Compétence exploitant la sorcellerie des pierres d'éclat homonyme.
+Profitez de l'enchantement des pierres d'éclat présent sur votre arme pour enchaîner avec une attaque puissante et exécuter une frappe d'estoc dévastatrice.</text>
+<text id="204">Compétence : Entaille sanglante
+
+Compétence du Serment sanglant octroyée par le seigneur du sang.
+Vous fléchissez vos jambes, enduisez votre arme de votre propre sang et effectuez une puissante attaque sanglante en arc de cercle devant vous.</text>
+<text id="205">Compétence : Poing sangsue
+
+Compétence prouvant la grande maîtrise des énergies vitales de son utilisateur.
+Vous vous concentrez pour donner un coup de poing lent, mais imprégné d'une énergie qui plonge les ennemis dans l'inconscience et draine leurs PV. Ne fonctionne que sur les ennemis humanoïdes.</text>
+<text id="206">%null%</text>
+<text id="207">Compétence : Éruption
+
+Compétence des chevaliers servant le Manoir du volcan.
+Vous frappez le sol de votre arme, faisant apparaître de grandes éruptions de lave en fusion.</text>
+<text id="208">Compétence : Frappe pieuse
+
+Vous brandissez votre arme en guise de prière, puis l'abattez sur le sol.
+Si cette attaque pieuse atteint un ennemi, vos alliés et vous récupérez des PV.</text>
+<text id="209">Compétence : Gravité
+
+Compétence des seigneurs d'albâtre à la peau de pierre.
+Vous plantez votre arme dans le sol et créez un puits gravitationnel.
+En plus d'infliger des dégâts à l'impact, cette attaque attire les ennemis.</text>
+<text id="210">Compétence : Lame-tempête
+
+Compétence oubliée de Voilorage.
+Vous entourez votre arme de tempêtes violentes que vous pouvez projeter devant vous.
+Vous pouvez lancer rapidement plusieurs projectiles d'affilée.</text>
+<text id="211">%null%</text>
+<text id="212">Compétence : Tremblement de terre
+
+Vous plantez votre arme dans le sol, puis rassemblez vos forces pour provoquer une onde sismique.
+Enchaînez avec une attaque puissante pour effectuer une frappe large.</text>
+<text id="213">Compétence : Terre dorée
+
+Vous enfoncez votre arme dans le sol, puis rassemblez vos forces pour libérer une onde d'énergie sacrée qui se matérialise en une multitude de dards dorés. Enchaînez avec une attaque puissante pour effectuer une frappe large.</text>
+<text id="214">Compétence : Frappe ardente
+
+Compétence projetant un arc de flammes face à vous.
+Enchaînez avec une attaque puissante pour avancer rapidement et effectuer une frappe large.
+Imprègne votre arme de feu.</text>
+<text id="215">%null%</text>
+<text id="216">Compétence : Éclair
+
+Compétence employée par le culte de la capitale dévoué aux dragons anciens.
+Vous brandissez votre arme et invoquez un éclair.
+Vous pouvez créer rapidement plusieurs éclairs d'affilée.</text>
+<text id="217">Compétence : Entaille foudroyante
+
+Vous utilisez votre arme pour canaliser un éclair avant de l'abattre pour provoquer une explosion de foudre.
+Imprègne l'arme de foudre pour une courte durée.</text>
+<text id="218">Compétence : Grandeur de Caria
+
+Tout le prestige royal de Caria dans une compétence.
+Vous transformez votre arme en un espadon magique et l'utilisez pour asséner un coup.
+Chargez cette compétence pour augmenter la puissance et la taille de l'épée un maximum de deux fois.</text>
+<text id="219">Compétence : Espadon de Caria
+
+Tout le prestige royal de Caria dans une compétence.
+Vous transformez votre arme en un espadon magique et l'utilisez pour asséner un coup.
+Chargez cette compétence pour augmenter sa puissance.</text>
+<text id="220">Compétence : Entaille du vide
+
+Compétence oubliée des héros de jadis.
+Vous levez votre arme vers le ciel et l'entourez d'énergie du vide, puis lancez face à vous un projectile en forme d'épée.</text>
+<text id="221">Compétence : Tornade de la Flamme noire
+
+Vous faites tournoyer votre arme au-dessus de vous, puis la plantez dans le sol pour faire apparaître un puissant vortex de flammes noires.
+Maintenez la commande enfoncée pour commencer à incanter une tornade de flammes tout en agitant l'arme.</text>
+<text id="222">Compétence : Halo sacré
+
+Compétence utilisée par les commandants des chevaliers de la Noble putréfaction. Vous imprégnez votre arme d'un halo sacré, puis le projetez vers l'avant.
+Vous pouvez lancer rapidement plusieurs halos d'affilée.</text>
+<text id="223">Compétence : Souffle ardent
+
+Vous soufflez sur les flammes de votre torche, projetant un large arc de flammes face à vous. Les flammes persistent sur le sol pour une courte durée.</text>
+<text id="224">Compétence : Lame de sang
+
+Vous vous blessez pour enduire votre arme de sang avant de projeter une lame de sang qui accumule du saignement.
+Vous pouvez lancer rapidement plusieurs lames de sang d'affilée.</text>
+<text id="225">Compétence : Entaille fantomatique
+
+Compétence inspirée par les souvenirs chers aux cavaliers crépusculaires. Crée une apparition de l'ancien maître d'armes de ces chevaliers. Appuyez à nouveau sur la commande pour enchaîner avec une attaque.</text>
+<text id="226">Compétence : Lance spectrale
+
+Compétence des chevaliers acéphales du Mausolée.
+Vous projetez une lance fantomatique sur vos ennemis.</text>
+<text id="227">Compétence : Brume de givre
+
+Vous imprégnez votre arme de froid et assénez un coup, créant ainsi un nuage glacial devant vous.
+Imprègne l'arme de congélation pour une courte durée.</text>
+<text id="228">Compétence : Brume empoisonnée
+
+Vous enduisez votre arme de poison et assénez un coup, créant ainsi un nuage toxique devant vous.
+Imprègne l'arme de poison pour une courte durée.</text>
+<text id="300">Compétence : Coup de bouclier
+
+Vous vous campez fermement derrière votre bouclier et vous jetez de tout votre poids sur vos ennemis, sans pour autant abaisser votre garde.
+Repousse les ennemis plus faibles, et peut même les déséquilibrer.</text>
+<text id="301">Compétence : Rempart inébranlable
+
+Compétence popularisée par le célèbre sire Neidhardt.
+Vous concentrez votre énergie dans votre bouclier, ce qui le renforce temporairement pour dévier des coups plus puissants.</text>
+<text id="302">Compétence : Parade
+
+Utilisez cette compétence lors d'une attaque ennemie au corps à corps pour la parer et déséquilibrer l'adversaire.
+Vous aurez alors l'occasion d'exécuter un coup critique.</text>
+<text id="303">Compétence : Parade à la rondache
+
+Utilisez cette compétence lors d'une attaque ennemie au corps à corps pour la parer et déséquilibrer l'adversaire.
+Cette technique est plus rapide qu'une parade ordinaire.</text>
+<text id="304">Compétence : Parade
+
+Utilisez cette compétence lors d'une attaque ennemie au corps à corps pour la parer et déséquilibrer l'adversaire.
+Vous aurez alors l'occasion d'exécuter un coup critique.</text>
+<text id="305">Compétence : Représailles de Caria
+
+Vous brandissez votre bouclier pour dissiper les sorcelleries et incantations vous visant, transformant la magie en une riposte de laméclats.
+Peut également faire office de parade ordinaire.</text>
+<text id="306">Compétence : Mur tempétueux
+
+Vous brandissez votre bouclier pour créer un mur de tempête face à vous, lequel renvoie les flèches et autres projectiles physiques.
+Peut également faire office de parade ordinaire.</text>
+<text id="307">Compétence : Parade dorée
+
+Vous entonnez une incantation de l'Arbre-Monde, puis brandissez votre bouclier pour dévier les attaques des ennemis et briser leur posture.
+Efficace même si votre cible est légèrement éloignée.</text>
+<text id="308">Compétence : Fracas de bouclier
+
+Vous saisissez votre bouclier à deux mains et chargez vers l'avant tout en maintenant votre garde. Repousse les ennemis plus faibles, et peut même les déséquilibrer.
+Maintenez la commande enfoncée pour augmenter la durée de la charge.</text>
+<text id="309">Compétence : Champ de force de Thops
+
+Vous brandissez votre bouclier pour faire apparaître un champ de force capable de renvoyer les sorcelleries et incantations.
+Peut également faire office de parade ordinaire.</text>
+<text id="400">Compétence : Projectile perforant
+
+Puissante compétence d'archerie consistant à tenir un arc géant en se courbant légèrement.
+Vous bandez votre grand arc, puis tordez sa corde pour effectuer un tir puissant capable de transpercer les ennemis.</text>
+<text id="401">Compétence : Barrage
+
+Compétence d'archerie consistant à tenir son arc horizontalement.
+Vous bandez votre arc, puis effectuez une série de tirs très rapides.</text>
+<text id="402">Compétence : Tir puissant
+
+Compétence d'archerie consistant à tenir l'arc en se courbant légèrement.
+Vous bandez votre arc au maximum pour augmenter la puissance de votre tir et ainsi percer la garde des ennemis.</text>
+<text id="403">%null%</text>
+<text id="404">Compétence : Tir enchanté
+
+Compétence d'archerie consistant à imprégner la flèche d'une essence spirituelle.
+Cela permet à votre tir de couvrir une plus grande distance et de modifier sa trajectoire pour traquer sa cible.</text>
+<text id="405">Compétence : Tir céleste
+
+Compétence d'archerie consistant à tenir l'arc en fléchissant les jambes.
+Vous bandez votre arc, puis tirez une flèche dans les airs qui retombe ensuite sur les ennemis.</text>
+<text id="406">Compétence : Pluie de flèches
+
+Compétence d'archerie consistant à tenir l'arc en fléchissant les jambes.
+Vous bandez votre arc, puis tirez une multitude de flèches dans les airs qui s'abattent ensuite sur les ennemis.</text>
+<text id="407">%null%</text>
+<text id="501">Compétence : Piétinement givrant
+
+Vous frappez lourdement le sol et nimbez les alentours d'une brume glaciale.
+Accumule de la congélation sur les ennemis dans sa zone d'effet.</text>
+<text id="502">Compétence : Piétinement orageux
+
+Une des compétences faisant appel aux tempêtes de Voilorage.
+Vous frappez lourdement le sol pour faire apparaître momentanément une tempête.</text>
+<text id="503">Compétence : Coup de pied
+
+Vous repoussez un ennemi avec un coup de pied bien placé.
+Efficace contre les ennemis en train de parer et pour briser les postures.
+Parfois, les techniques les plus simples sont les meilleures.</text>
+<text id="504">Compétence : Roulade foudroyante
+
+Compétence s'inspirant des béliers.
+Vous laissez échapper un bêlement avant de vous parer d'éclairs et de vous laisser rouler vers l'avant.
+Vous pouvez enchaîner rapidement les roulades.</text>
+<text id="505">Compétence : Flamme des Lions rouges
+
+Compétence des Lions rouges ayant combattu aux côtés du général Radahn.
+Crée une puissante explosion de flammes dans un arc frontal.</text>
+<text id="506">Compétence : Bond fracassant
+
+Vous bondissez haut en l'air et retombez lourdement devant vous.
+L'impact crée une puissante onde de choc qui se propage partout.</text>
+<text id="507">Compétence : Bond fracassant doré
+
+Compétence des avatars protégeant les Arbres-Monde mineurs.
+Vous bondissez haut en l'air et retombez lourdement devant vous.
+L'impact crée une puissante onde de choc dorée qui se propage dans toutes les directions.</text>
+<text id="508">Compétence : Vagues ténébreuses
+
+Vous plantez votre arme dans le sol et projetez trois vagues ténébreuses.
+Enchaînez avec une attaque puissante pour effectuer une frappe large.</text>
+<text id="509">Compétence : Séisme de Hoarah Loux
+
+Vous frappez le sol de vos deux mains pour faire violemment trembler la terre et provoquer un séisme.
+Réutilisez la compétence pour frapper le sol une seconde fois.</text>
+<text id="600">Compétence : Détermination
+
+L'apanage des chevaliers.
+Vous placez le plat de votre arme devant votre visage et proclamez votre résolution, renforçant ainsi votre prochaine attaque.</text>
+<text id="601">Compétence : Résolution de chevalier royal
+
+Compétence des chevaliers ayant jadis servi le Seigneur d'Elden.
+Vous placez le plat de votre arme devant votre visage et proclamez votre résolution, renforçant ainsi grandement votre prochaine attaque.</text>
+<text id="602">Compétence : Manœuvre d'assassin
+
+Compétence qui consiste à s'infliger une blessure pour se dérober à la vue de tous.
+Octroie une invisibilité quasi totale et rend vos déplacements silencieux.</text>
+<text id="603">Compétence : Serment doré
+
+Compétence transmise depuis des temps immémoriaux parmi les chevaliers de la capitale.
+Vous brandissez votre arme et jurez d'honorer l'Arbre-Monde au combat, ce qui augmente votre puissance d'attaque et votre défense, ainsi que celles de vos alliés proches.</text>
+<text id="604">Compétence : Ordre sacré
+
+Compétence des chevaliers fondamentalistes de l'Ordre d'or.
+Vous saluez et imprégnez votre arme d'un pouvoir sacré.
+Très efficace contre les non-morts.</text>
+<text id="605">Compétence : Ordre partagé
+
+Compétence des chevaliers fondamentalistes de l'Ordre d'or.
+Vous consacrez votre arme et celle de vos alliés proches pour les imprégner d'un pouvoir sacré.
+Très efficace contre les non-morts.</text>
+<text id="606">Compétence : Seppuku
+
+Technique interdite des épéistes des Terres des roseaux.
+Vous enfoncez votre lame dans votre estomac pour la maculer de sang. Augmente votre puissance d'attaque et l'efficacité des effets de saignement.</text>
+<text id="607">Compétence : Lame rocheuse
+
+Compétence de manipulation de la gravité.
+Vous plantez votre arme dans le sol et l'imprégnez de roche pour la renforcer. Augmente la puissance d'attaque et vos chances de briser la posture des ennemis.</text>
+<text id="650">Compétence : Cri barbare
+
+Vous poussez un cri bestial pour vous redonner du courage et augmenter votre puissance d'attaque.
+Tant que l'effet est actif, convertit vos attaques puissantes en enchaînements de frappes brutales.</text>
+<text id="651">Compétence : Cri de guerre
+
+Vous poussez un cri de guerre pour augmenter votre puissance d'attaque.
+Tant que l'effet est actif, convertit vos attaques puissantes en charges vers l'avant.</text>
+<text id="652">Compétence : Cri bestial
+
+Vous poussez un hurlement de bête, envoyant devant vous un projectile fendant l'air.</text>
+<text id="653">Compétence : Cri de troll
+
+Vous regardez au loin et poussez un cri assourdissant qui génère une puissante onde de choc repoussant les ennemis proches.
+Enchaînez avec une attaque puissante pour abattre votre arme.</text>
+<text id="654">Compétence : Cri du hâbleur
+
+Vous poussez un cri plein d'entrain pour annoncer votre présence.
+Augmente la puissance d'attaque, la défense et la récupération d'endurance.</text>
+<text id="700">Compétence : Résilience
+
+Vous vous ancrez dans le sol et vous préparez à encaisser les prochaines attaques, ce qui augmente brièvement votre équilibre.
+Réduit les dégâts subis pendant la durée de l'effet.</text>
+<text id="701">Compétence : Vœu d'inflexibilité
+
+Compétence des antiques guerriers de l'Arbre-Monde.
+Vous brandissez votre bouclier pour vous imprégner du pouvoir d'or, ce qui vous rend invincible pour une courte durée.</text>
+<text id="702">Compétence : Terre sacrée
+
+Vous levez votre bouclier pour consacrer les alentours au nom de l'Arbre-Monde. Tant que vous ou vos alliés demeurez dans la zone, vous récupérez des PV et voyez votre défense renforcée.</text>
+<text id="800">Compétence : Pas vif
+
+Technique privilégiée des combattants prestes et roublards.
+Vous effectuez un rapide pas de côté, tournant ainsi autour d'une cible verrouillée.</text>
+<text id="801">Compétence : Pas de Chevalier-limier
+
+Vous rend temporairement invisible et vous permet d'esquiver les attaques avec vivacité. Permet de se déplacer plus vite qu'un Pas vif ordinaire.
+Cette compétence peut s'utiliser pour tourner autour d'une cible verrouillée afin de la frapper dans le dos.</text>
+<text id="802">Compétence : Rapace des brumes
+
+Vous vous baissez, ce qui dissimule momentanément votre présence.
+Si une attaque vous touche, des ailes d'oiseau vous permettront de vous échapper en vous projetant dans les airs.</text>
+<text id="850">Compétence : Leurre blanc
+
+Vous saisissez votre arme en silence en guise de prière et créez une ombre blanche.
+Cette dernière attire l'attention des ennemis humanoïdes qui ne sont pas engagés en combat. Également efficace sur les semi-humains déjà en combat.</text>
+<text id="1000">Compétence unique : Déferlement de foi
+
+Vous puisez dans la foi de Birac et embrasez le réceptacle crânien, avant de le brandir dans les airs pour faire pleuvoir des boules de feu.
+Répétez cette action pour maintenir la coupe en l'air et faire perdurer l'effet de la compétence.</text>
+<text id="1001">Compétence unique : Orbe ardent
+
+Vous brandissez le canon intégré au bouclier pour projeter une boule de feu.
+Cette dernière explose à l'impact.</text>
+<text id="1002">Compétence unique : Langues de feu
+
+Vous brandissez votre bouclier pour permettre aux langues qui sortent de ses mâchoires de cracher de violents jets de flammes.
+Maintenez la commande enfoncée pour continuer à projeter du feu. Vous pouvez utiliser cette compétence en vous déplaçant.</text>
+<text id="1003">Compétence unique : Sphère prophétique
+
+Vous jouez de la flûte pour invoquer un orbe magique qui flotte dans les airs et avance vers les ennemis.</text>
+<text id="1004">Compétence unique : Pluie de sphères
+
+Vous jouez de la flûte pour invoquer une écume d'orbes magiques qui flotte dans les airs, avant de fondre sur l'ennemi.</text>
+<text id="1005">Compétence unique : Grande sphère prophétique
+
+Vous jouez de la flûte pour invoquer un énorme orbe magique qui flotte lentement jusqu'à sa cible.</text>
+<text id="1006">Compétence unique : Mer de magma
+
+Vous donnez un coup de fouet en fusion qui répand temporairement de la lave dans les environs.
+Maintenez la commande enfoncée pour continuer à agiter le fouet de lave.</text>
+<text id="1007">Compétence unique : Morsure de vipère
+
+Vous secouez brièvement votre bouclier pour donner temporairement vie au serpent de bronze, qui se déchaîne et mord les ennemis.</text>
+<text id="1008">Compétence unique : Épée du clair de lune
+
+Vous levez votre lame vers la lune pour la baigner de sa lumière morne.
+Augmente temporairement la puissance d'attaque magique et imprègne la lame de congélation.
+Les attaques chargées créent des projections de lumière lunaire.</text>
+<text id="1009">Compétence unique : Vrille de Siluria
+
+Vous effectuez une frappe d'estoc vrillée qui génère une tornade autour de votre arme.
+Les attaques chargées permettent de repousser les ennemis et de propulser la tornade vers l'avant.</text>
+<text id="1010">Compétence unique : Étendard de ralliement
+
+Vous déployez un étendard de guerre et prononcez un discours de ralliement.
+Augmente votre puissance d'attaque et votre défense, ainsi que celles de vos alliés.</text>
+<text id="1011">Compétence unique : Soyez témoins !
+
+Vous insufflez un soupçon de vie dans le petit dragon et le lancez dans les airs pour lui permettre de cracher un souffle de flammes sur une large zone frontale.</text>
+<text id="1012">Compétence unique : Épée dansante d'Eochaid
+
+Vous insufflez de l'énergie dans l'épée, puis la lancez tel un projectile tourbillonnant. L'arme continuera de tournoyer, infligeant des dégâts continus.
+Chargez la compétence pour accroître la portée du projectile et la durée de tournoiement.</text>
+<text id="1013">Compétence unique : Étrangle-âme
+
+Vous déployez les ailes de l'arme pour invoquer un miasme d'agonie.
+Réduit temporairement la défense des ennemis dans la zone d'effet.</text>
+<text id="1014">Compétence unique : Flammes du pillard
+
+Vous brandissez l'épée sacrée dans les airs pour l'entourer de flammes profanes, avant de l'abattre, projetant ainsi une déflagration face à vous.
+Vous volez des PV aux ennemis touchés par cette compétence.</text>
+<text id="1015">Compétence unique : Cri de Milos
+
+Vous poussez un atroce cri maudit qui réduit la résistance à tous les dégâts et aux altérations des ennemis proches.
+Tant que cet effet est actif, vos attaques puissantes sont converties en enchaînements d'attaques.</text>
+<text id="1016">Compétence : Lame de sang de Reduvia
+
+Vous effectuez une attaque de taille avec cette infâme dague et transformez les taches de sang qu'elle arbore en lames de sang flottantes qui accumulent du saignement aux ennemis.
+Cette compétence peut être enchaînée rapidement.</text>
+<text id="1017">Compétence unique : Aiguillon de pierre d'éclat
+
+Cette compétence se base sur la Flèche de pierre d'éclat.
+Chargez la compétence pour la transformer en Aiguillon de pierre d'éclat.
+Enchaînez directement avec une attaque puissante pour effectuer une frappe d'estoc.</text>
+<text id="1018">Compétence unique : Fouet d'argent
+
+Réduit temporairement l'arme à l'état liquide.
+Vous utilisez votre arme comme s'il s'agissait d'un fouet et exécutez une large attaque.</text>
+<text id="1019">Compétence unique : Posture nocteflamme
+
+Vous saisissez votre épée et vous préparez à lancer une sorcellerie.
+Exécutez une attaque normale pour projeter une Comète nocturne, ou une attaque puissante pour envoyer des flammes dans un arc de cercle.</text>
+<text id="1020">Compétence unique : Onde dorée
+
+Vous imprégnez l'épée de la gloire passée de l'Ordre d'or, avant de la projeter sous forme de projectile sur vos ennemis.
+L'Onde dorée se propage face à vous et traverse tous les ennemis sur son passage.</text>
+<text id="1021">Compétence unique : Flammes de la ruine spectrales
+
+Vous brandissez votre épée et l'imprégnez de flammes spectrales.
+Les flammes permettent à vos attaques d'infliger des dégâts magiques, ainsi qu'un douloureux effet de morsure de froid.</text>
+<text id="1022">Compétence unique : Instauration de l'Ordre
+
+Vous brandissez votre arme en guise de salut, avant de créer une explosion dorée.
+Enchaînez cette compétence pour projeter des ondes de lumière.</text>
+<text id="1023">Compétence unique : Brumes soporifiques
+
+Répand une légère brume pourpre dans une large zone frontale.
+La brume a un effet de sommeil pour les ennemis dans sa zone d'effet.</text>
+<text id="1024">Compétence unique : Rituel d'invocation de lances
+
+Vous brandissez votre lance en l'air en guise de prière et invoquez un déluge de lances spectrales.</text>
+<text id="1025">Compétence unique : Attaque lupine
+
+Vous imprégnez votre espadon de givre et effectuez une attaque sautée vers l'avant pour le planter dans le sol. Lorsque vous le retirez, vous provoquez une explosion de givre.</text>
+<text id="1026">Compétence unique : Forme orageuse
+
+Vous vous transformez temporairement en un nuage rouge et flottez dans les airs, puis plongez avec une lame imprégnée de foudre.
+Maintenez la commande enfoncée pour augmenter la portée de la Forme orageuse.</text>
+<text id="1027">Compétence unique : Taillade de sang vicié
+
+Vous agrippez votre arme, puis chargez vers l'avant afin d'effectuer une attaque de taille diagonale.
+La lame laisse derrière elle un sillage de sang qui s'enflamme.
+Enchaînez cette compétence pour effectuer plusieurs attaques.</text>
+<text id="1028">Compétence unique : Danse des ansériformes
+
+Vous vous déplacez avec aisance tel un ansériforme, avant d'effectuer un enchaînement de coups de taille vif et gracieux.
+Enchaînez cette compétence pour asséner jusqu'à deux attaques supplémentaires.</text>
+<text id="1029">Compétence unique : Briseur d'or
+
+Vous bondissez, restez brièvement en suspension en l'air et insufflez de la lumière dans le fragment de rune, avant de retomber lourdement à terre.
+L'attaque emblématique et héroïque de Radagon.</text>
+<text id="1030">Compétence unique : À genoux, je te l'ordonne !
+
+Vous frappez plusieurs fois le sol à l'aide de la Hache de Godrick pour générer deux ondes de choc.
+Enchaînez avec une autre attaque pour provoquer une onde supplémentaire.</text>
+<text id="1031">Compétence unique : Rugissement royal
+
+Vous poussez un terrible cri de guerre tout en frappant le sol du pied, ce qui augmente votre puissance d'attaque et envoie une onde de choc imparable. Tant que l'effet est actif, les attaques puissantes sont précedées d'un piétinement sismique.</text>
+<text id="1032">Compétence unique : Cri mande-étoile
+
+Vous rassemblez les deux lames en poussant un rugissement, ce qui génère un champ gravitationnel qui attire les ennemis.
+Réutilisez la compétence pour abattre les épées imprégnées de gravité.</text>
+<text id="1033">Compétence unique : Onde destructrice
+
+Vous levez votre épée au ciel, avant de l'abattre sur le sol, créant ainsi une onde de choc gravitationnelle.</text>
+<text id="1034">Compétence unique : Rituel de faveur sanguine
+
+Vous brandissez la lance sacrée et transpercez le corps de la Mère informe. Vous pouvez effectuer jusqu'à trois frappes, générant à chaque fois une explosion de sang.
+Cette compétence enduit votre arme de feu sanguin pour une courte durée.</text>
+<text id="1035">Compétence unique : Fléau d'argent
+
+Réduit temporairement l'arme à l'état liquide. Vous utilisez votre arme comme s'il s'agissait d'un fouet, avant d'abattre sa tête en forme de larme.</text>
+<text id="1036">Compétence unique : Lame de Mort
+
+Vous déchaînez le pouvoir de la rune de Mort pour projeter une lame.
+En plus d'infliger des dégâts à l'impact, ce projectile réduit les PV maximums des adversaires et leur fait subir des dégâts continus pour une courte durée.</text>
+<text id="1037">Compétence unique : Lame d'or
+
+Vous bondissez dans les airs et imprégnez votre arme de flammes dorées, qui sont ensuite projetées sur votre adversaire sous forme d'une unique lame.
+Inflige des dégâts sacrés.</text>
+<text id="1038">Compétence unique : Mort destinée déchaînée
+
+Vous libérez les vestiges de la Mort destinée en enfonçant votre arme dans le sol afin d'invoquer une myriade de lames. En plus d'infliger des dégâts à l'impact, cette compétence réduit les PV maximums des ennemis et leur fait subir des dégâts continus pour une courte durée.</text>
+<text id="1039">Compétence unique : Rouet tournoyant
+
+Vous abattez le rouet sur le sol pour le faire tournoyer très rapidement. Maintenez la commande enfoncée pour continuer à faire tourner le rouet. Utilisable tout en vous déplaçant, ce qui vous permet d'entrer en collision avec les ennemis.</text>
+<text id="1040">Compétence unique : Vortex du seigneur d'albâtre
+
+Vous plantez votre arme dans le sol et créez un puits gravitationnel. En plus d'infliger des dégâts à l'impact, cette attaque attire les ennemis.
+La zone d'effet de cette compétence est plus étendue que celle de Gravité.</text>
+<text id="1041">Compétence unique : Répulsion du seigneur d'onyx
+
+Vous plantez votre arme dans le sol et créez un puits gravitationnel. En plus d'infliger des dégâts à l'impact, cette attaque repousse violemment les ennemis.</text>
+<text id="1042">Compétence unique : Serment de vengeance
+
+Vous jurez sur votre espadon de venger le clan, ce qui augmente temporairement tous vos attributs. Tant que l'effet du serment est actif, votre équilibre est accru.</text>
+<text id="1043">Compétence unique : Épée de givre électrifiée
+
+Vous canalisez un éclair de givre à l'intérieur de votre arme, avant de l'abattre sur vos ennemis.
+Imprègne l'arme de foudre et de givre pour une courte durée.</text>
+<text id="1044">Compétence unique : Griffes royales
+
+Vous frappez le sol de votre marteau et le déchirez à l'aide des cinq griffes de bête qu'arbore votre arme.</text>
+<text id="1045">Compétence unique : Danse des flammes
+
+Vous imprégnez la tresse rousse de la Flamme des Géants et effectuez un enchaînement de frappes lestes dans une large zone.</text>
+<text id="1046">Compétence unique : Pichenette
+
+Vous faites enfler le doigt, puis fléchissez vos jambes pour accroître votre force, avant d'asséner une pichenette dévastatrice à vos ennemis.</text>
+<text id="1047">Compétence unique : Amas stellaire
+
+Vous imprégnez les étoiles du Rejeton de magie, avant d'effectuer une large attaque.
+Cette compétence libère un sombre nuage d'étoiles dans son sillage, lequel explose après un bref instant.</text>
+<text id="1048">Compétence unique : Estoc de flammes spectrales
+
+Vous portez un coup d'estoc nimbé de flammes spectrales.
+Enchaînez avec une attaque normale pour exécuter une large frappe de taille frontale, ou une attaque puissante pour frapper de haut en bas et déclencher une explosion.</text>
+<text id="1049">Compétence unique : Lance du dragon ancien
+
+Vous imprégnez votre arme de la foudre rouge des dragons antiques, puis la projetez telle une lance.
+Chargez la compétence pour en accroître la puissance.</text>
+<text id="1050">Compétence unique : Piqué de la Flamme exaltée
+
+Vous imprégnez votre lance de la Flamme exaltée et bondissez en avant pour l'enfoncer dans le sol, provoquant ainsi une explosion aliénante.
+Cette compétence inflige de la démence à son utilisateur et aux ennemis.</text>
+<text id="1051">Compétence unique : Halo de Miquella
+
+Vous invoquez le halo lumineux de Miquella et le projetez devant vous.
+Vous pouvez lancer plusieurs projectiles d'affilée.</text>
+<text id="1052">Compétence unique : Infusion d'or
+
+Vous croisez les deux épées pour les imprégner d'une essence divine.
+Durant cet effet, vos attaques puissantes se transforment en enchaînements d'attaques ambidextres.</text>
+<text id="1053">Compétence unique : Derniers sacrements
+
+Vous brandissez l'épitaphe pour octroyer à vous-même et aux alliés proches l'effet de la compétence Ordre sacré.
+Particulièrement efficace contre les non-morts.</text>
+<text id="1054">Compétence unique : Lame imparable
+
+Vous imprégnez la lame de lumière pour l'allonger, puis effectuez une attaque large et rapide.
+Cette compétence est imparable.</text>
+<text id="1055">Compétence unique : Épée dansante d'Eochaid
+
+Vous insufflez de l'énergie dans l'épée, puis la lancez tel un projectile tourbillonnant. L'arme continuera de tournoyer, infligeant des dégâts continus.
+Chargez la compétence pour accroître la portée du projectile et la durée de tournoiement.</text>
+<text id="1167">Compétence unique : Lame d'adipocire
+
+Compétence oubliée des héros de jadis.
+Vous brandissez votre épée pour déchaîner la puissance de l'adipocire, puis projetez face à vous un projectile en forme de lame.</text>
+<text id="1168">Compétence unique : Tempête de givre de Zamor
+
+Vous plongez l'épée courbée dans le sol, puis concentrez votre puissance, avant de déclencher une tempête glaciale qui ravage les environs.</text>
+<text id="1169">Compétence unique : Déluge de Radahn
+
+Compétence d'archerie consistant à tenir l'arc en fléchissant les jambes.
+Vous bandez votre arc, puis tirez une multitude de flèches dans les airs qui s'abattent ensuite sur les ennemis.</text>
+<text id="1170">Compétence unique : Flamme noire de la reine
+
+Vous nimbez votre lame de la Flamme noire déicide et exécutez une large frappe. Enchaînez cette compétence pour effectuer plusieurs attaques. La Flamme noire inflige des dégâts continus pour une courte durée.</text>
+<text id="1171">Compétence unique : Finesse dynastique
+
+Vous évitez agilement une attaque et créez ainsi de la distance entre vous et vos adversaires. Enchaînez avec deux attaques puissantes pour effectuer une charge rapide, suivie d'un large balayage.</text>
+<text id="1172">Compétence unique : Jet de magma
+
+Vous assénez une attaque tourbillonnante à vos ennemis et répandez de la lave autour de vous.
+Appuyez à nouveau sur la commande pour enchaîner avec une attaque.</text>
+<text id="1173">Compétence unique : Amas stellaire
+
+Vous imprégnez les ailes du Rejeton de magie et projetez un sombre nuage d'étoiles, qui persiste brièvement avant d'exploser.</text>
+<text id="1174">Compétence unique : Flamboiement mortel
+
+Vous embrasez le soleil terne à l'aide des flammes du Prince de la Mort, infligeant de la malemort aux ennemis touchés.
+Réutilisez la compétence pour abattre l'arme et déclencher une explosion.</text>
+<text id="1175">Compétence unique : Finesse de Chevalier-limier
+
+Vous frappez verticalement à l'aide du Croc de limier et profitez de l'élan pour créer de la distance avec votre adversaire en faisant un bond en arrière. Enchaînez avec une attaque puissante pour exécuter un Pas de Chevalier-limier.</text>
+<text id="1176">Compétence unique : Guillotine de magma
+
+Vous agrippez votre arme à deux mains, tel un dragon qui l'enserrerait entre ses crocs, et bondissez vers l'avant pour l'abattre au sol et créer une vague de lave. Réutilisez la compétence pour effectuer une attaque de taille.</text>
+<text id="1177">Compétence unique : Abattage sanglant
+
+Vous façonnez une lame de sang vicié pour porter une succession d'attaques fluides. Appuyez à nouveau sur la commande pour réaliser un nouvel enchaînement.</text>
+<text id="1178">Compétence unique : Clair de lune éphémère
+
+Vous rengainez votre arme et la portez à votre hanche pour vous préparer à frapper.
+Enchaînez avec une attaque normale ou puissante pour dégainer votre arme en un éclair et asséner une frappe de taille. Les deux attaques projettent une vague de lumière.</text>
+<text id="1179">Compétence unique : Danse des lames sanglantes
+
+Vous bondissez sur votre adversaire et lui assénez une série d'attaques tourbillonnantes.
+Réutilisez la compétence pour effectuer une attaque s'achevant sur une manœuvre d'esquive.</text>
+<text id="1180">%null%</text>
+<text id="1181">Compétence : Lame secrète de Miquella
+
+Vous invoquez une lame porteuse de la protection de Miquella, puis exécutez une attaque dévastatrice contre les non-morts.</text>
+<text id="1182">Compétence unique : Le savoir avant tout
+
+Vous brandissez le sceptre pour invoquer le royaume de l'Omniscient. Quiconque demeure dans la zone d'effet voit sa résistance aux dégâts sacrés et magiques réduite, y compris le lanceur du sort.</text>
+<text id="1183">Compétence unique : Dévoreur de mondes
+
+Vous insufflez de la magie dans le sceptre et l'utilisez pour frapper le sol afin de voler des PV aux ennemis proches.</text>
+<text id="1184">Compétence unique : Rancœur familiale
+
+Vous faites s'entrechoquer légèrement les têtes de cuivre pour invoquer des esprits vengeurs venant traquer vos adversaires.
+Un terrible courroux né des tourments infligés à une épouse et à de jeunes enfants.</text>
+<text id="1185">Compétence unique : Appel de Rosus
+
+Vous brandissez votre hache pour invoquer ceux qui jamais ne trouvèrent le repos.
+Fait apparaître trois squelettes à distance. Ils attaquent conjointement avant de disparaître.</text>
+<text id="1186">Compétence unique : Orage
+
+Vous imprégnez la lame ailée de foudre et la faites tournoyer tout autour de vous pour générer un violent orage. Réutilisez la compétence pour effectuer jusqu'à deux attaques tournoyantes successives.
+L'enchantement de foudre persiste sur la lame pour une courte durée.</text>
+<text id="1187">Compétence unique : Phalange sacrée
+
+Vous entonnez une incantation secrète pour faire surgir face à vous une rangée de lances dorées.</text>
+<text id="1188">Compétence unique : Chasse au grand serpent
+
+Vous frappez devant vous de toutes vos forces, puis, en appuyant de nouveau sur la commande, effectuez une attaque d'estoc vers le haut. Si vous faites face à un grand serpent, une longue lame de lumière apparaît, révélant ainsi la véritable nature de l'arme.</text>
+<text id="1189">Compétence unique : Ailes angéliques
+
+Vous imprégnez de lumière la lame ailée de l'arme et bondissez en l'air, avant d'asséner un coup de taille à votre adversaire.
+Les ailes blanches bloquent l'effet curateur des Fioles sacrées.</text>
+<text id="1190">Compétence unique : Coup de pied foudroyant
+
+Vous enfoncez votre prothèse de jambe dans le sol et générez un orage.
+Enchaînez avec une attaque puissante pour effectuer une frappe sautée imprégnée de foudre.</text>
+<text id="1191">Compétence unique : Lame imparable
+
+Vous imprégnez la lame de lumière, puis vous élancez pour porter une soudaine attaque perçante.
+Cette compétence est imparable.</text>
+<text id="1192">Compétence unique : Sorcellerie de la crosse
+
+Vous canalisez de la magie à l'intérieur de la pierre d'éclat pour activer une antique sorcellerie, créant ainsi plusieurs projectiles magiques flottants qui traquent les ennemis automatiquement.</text>
+<text id="1193">Compétence unique : Bond de l'Arbre-Monde
+
+Vous bondissez haut en l'air, puis vous jetez au sol face à vous. Cette chute génère plusieurs ondes de choc dorées dans toutes les directions.
+Il s'agit là de la compétence d'écrasement la plus puissante.</text>
+<text id="1194">Compétence unique : Éclair gravitationnel
+
+Vous imprégnez la mâchoire de la créature stellaire de foudre gravitationnelle et envoyez un projectile qui s'écrase non loin.
+Cette compétence peut être enchaînée rapidement.</text>
+<text id="1195">Compétence unique : Flammes soporifiques
+
+Vous soufflez sur la flamme, recouvrant ainsi le sol devant vous de flammes violettes vaporeuses.
+Ces dernières infligent l'altération de sommeil aux ennemis.</text>
+<text id="1196">Compétence unique : Riposte dorée
+
+Vous levez votre bouclier pour libérer son incantation protectrice.
+Cette compétence puise dans le pouvoir de l'or pour dissiper toute sorcellerie ou incantation.</text>
+<text id="1197">Compétence unique : Fureur contagieuse
+
+Vous faites appel au courroux de la méduse et laissez sa fureur se propager en vous.
+Augmente la puissance d'attaque pour une courte durée.</text>
+<text id="1198">Compétence unique : Vortex d'Ordovis
+
+Vous canalisez le pouvoir du Creuset primordial et faites tournoyer votre épée en l'air, puis profitez de l'élan pour abattre votre arme sur le sol.
+Chargez cette compétence pour augmenter sa puissance.</text>
+<text id="1199">Compétence unique : Sceptre tournoyant
+
+Vous canalisez de la magie dans la pierre d'éclat et faites flotter le sceptre dans les airs avant de le faire tournoyer violemment.
+Tous les adversaires touchés subissent des attaques magiques successives.</text>
+</entries>
+</fmg>

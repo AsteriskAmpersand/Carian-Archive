@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">가드당해도 일정 대미지는 경감되지 않는다</text>
+<text id="1001">적을 쓰러뜨렸을 때 HP를 회복한다</text>
+<text id="1002">적을 쓰러뜨렸을 때 FP를 회복한다</text>
+<text id="1003">공격 명중 시 HP를 회복한다</text>
+<text id="1004">공격 명중 시 FP를 회복한다</text>
+<text id="1005">서서히 HP를 회복한다</text>
+<text id="1006">서서히 FP를 회복한다</text>
+<text id="1007">스태미나 회복 속도를 높인다</text>
+<text id="1008">공격이 연속될수록 공격력이 높아진다</text>
+<text id="1009">자해 대미지를 입는다</text>
+<text id="1010">짐승의 전의를 감퇴시킨다</text>
+<text id="1011">%null%</text>
+<text id="1012">물리 속성 마술의 위력을 높인다</text>
+<text id="1013">화염 속성 마술의 위력을 높인다</text>
+<text id="1014">마력 속성 마술의 위력을 높인다</text>
+<text id="1015">벼락 속성 마술의 위력을 높인다</text>
+<text id="1016">신성 속성 마술의 위력을 높인다</text>
+<text id="1017">강화/회복 마술의 위력을 높인다</text>
+<text id="1018">휘석 마술/기도를 모두 쓸 수 있다</text>
+<text id="1019">휘석 마술의 촉매로 사용 가능</text>
+<text id="1020">기도의 촉매로 사용 가능</text>
+<text id="1021">공격이 연속될수록 HP를 회복한다</text>
+<text id="1022">공격이 연속될수록 FP를 회복한다</text>
+<text id="1100">결정인의 마술을 강화한다</text>
+<text id="1101">중력 마술을 강화한다</text>
+<text id="1102">가시 마술을 강화한다</text>
+<text id="1103">죽음의 마술을 강화한다</text>
+<text id="1104">만월의 마술을 강화한다</text>
+<text id="1105">채굴 마술을 강화한다</text>
+<text id="1106">휘검 마술을 강화한다</text>
+<text id="1107">카리아의 검 마술을 강화한다</text>
+<text id="1108">아줄의 원류 마술을 강화한다</text>
+<text id="1109">루사트의 원류 마술을 강화한다</text>
+<text id="1110">보이지 않는 마술을 강화한다</text>
+<text id="1111">거인의 불 기도를 강화한다</text>
+<text id="1112">황금률 원리주의 기도를 강화한다</text>
+<text id="1113">짐승의 기도를 강화한다</text>
+<text id="1114">도읍 고룡신앙의 기도를 강화한다</text>
+<text id="1115">용찬 기도를 강화한다</text>
+<text id="1116">미친 불의 기도를 강화한다</text>
+<text id="1117">용암 마술을 강화한다</text>
+<text id="1118">신 사냥의 기도를 강화한다</text>
+<text id="6400">독 상태 이상을 조금 축적한다(&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">독 상태 이상을 축적한다(&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">독 상태 이상을 많이 축적한다(&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">강한 독 상태 이상을 축적한다(&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">붉은 부패 상태 이상을 조금 축적한다(&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">붉은 부패 상태 이상을 축적한다(&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">붉은 부패 상태 이상을 많이 축적한다(&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">출혈 상태 이상을 조금 축적한다(&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">출혈 상태 이상을 축적한다(&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">출혈 상태 이상을 많이 축적한다(&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">강한 출혈 상태 이상을 축적한다(&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">죽음 상태 이상을 조금 축적한다(&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">죽음 상태 이상을 축적한다(&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">죽음 상태 이상을 많이 축적한다(&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">동상 상태 이상을 조금 축적한다(&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">동상 상태 이상을 축적한다(&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">동상 상태 이상을 많이 축적한다(&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">수면 상태 이상을 조금 축적한다(&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">수면 상태 이상을 축적한다(&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">수면 상태 이상을 많이 축적한다(&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">발광 상태 이상을 조금 축적한다(&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">발광 상태 이상을 축적한다(&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">발광 상태 이상을 많이 축적한다(&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

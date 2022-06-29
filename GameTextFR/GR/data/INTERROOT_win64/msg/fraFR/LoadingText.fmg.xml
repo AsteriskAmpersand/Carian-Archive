@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Accroupissez-vous pour que les ennemis aient plus de mal à vous détecter.
+Particulièrement efficace dans les hautes herbes.
+Attaquer un ennemi qui n'a pas remarqué votre présence lui infligera plus de dégâts que d'ordinaire.
+
+&lt;?keyicon@9?&gt; : &lt;?keyActName@9?&gt;</text>
+<text id="2">Utilisez l'arme en main gauche ou à deux mains pour bloquer les attaques ennemies.
+La garde est particulièrement efficace lorsqu'effectuée à l'aide d'un bouclier.
+Chaque attaque bloquée draine l'endurance.
+Si vous êtes à court d'endurance lors d'une garde, votre posture sera brisée.
+
+&lt;?keyicon@24?&gt; : Garde</text>
+<text id="3">Vous pouvez exécuter une contre-attaque immédiatement après avoir bloqué une attaque ennemie.
+Les contre-attaques permettent de briser plus facilement la posture de l'ennemi.
+
+&lt;?keyicon@23?&gt; immédiatement après avoir bloqué une attaque : Contre-attaque</text>
+<text id="4">Saisir une arme à deux mains augmente votre force effective de 50 % pour cette arme.
+Ceci influera sur les attributs requis, et une arme qui exploite la force comme caractéristique principale infligera davantage de dégâts.
+Aussi, les attaques avec l'arme sont plus difficiles à repousser avec un bouclier.
+
+&lt;?keyicon@27?&gt; + &lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt; : Saisir à deux mains</text>
+<text id="5">Les attaques chargées et sautées sont redoutables.
+Elles permettent de briser aisément la posture d'un ennemi.
+Elles peuvent également désarçonner un ennemi.
+
+Maintenir &lt;?keyicon@23?&gt; : Attaque chargée
+&lt;?keyicon@23?&gt; en sautant : Attaque sautée</text>
+<text id="6">Les armes disposent de capacités spéciales nommées compétences.
+Il en existe toute une variété, allant de simples attaques puissantes à des effets temporaires.
+Utiliser des compétences consomme des PC.
+
+&lt;?keyicon@25?&gt; : &lt;?keyActName@25?&gt;</text>
+<text id="7">Les boucliers permettent d'utiliser la compétence "Parade" pour dévier les attaques des ennemis au corps à corps.
+Une parade réussie brise la posture d'un ennemi et vous donne l'occasion d'exécuter un coup critique.
+
+&lt;?keyicon@25?&gt; lors d'une attaque ennemie : Parade</text>
+<text id="8">Verrouillez un ennemi pour le cibler en permanence et vous concentrer plus facilement sur lui au combat.
+
+&lt;?keyicon@15?&gt; : &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; avec cible verrouillée : Changer de cible</text>
+<text id="9">Lorsque vous tenez un arc à deux mains, vous pouvez maintenir &lt;?keyicon@24?&gt; pour viser avec plus de précision.
+Cela vous permet d'ajuster votre visée avec &lt;?keyControlCamera?&gt;.
+Visez la tête d'un ennemi humanoïde pour lui infliger d'importants dégâts.
+
+&lt;?keyicon@24?&gt; en tenant un arc à deux mains : Viser</text>
+<text id="10">Vous pouvez assigner jusqu'à 3 armes à chaque main.
+
+Certaines armes, comme les boucliers, réalisent différentes actions en fonction de la main qui les tient.</text>
+<text id="11">Vous pouvez équiper jusqu'à 10 objets à la fois.
+Vous pouvez utiliser les objets actuellement équipés sans passer par le menu des objets.
+Vous pouvez également assigner des objets à votre sacoche pour les utiliser directement depuis le menu principal.
+
+&lt;?keyicon@18?&gt; : &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt; : &lt;?keyActName@26?&gt;</text>
+<text id="12">Brandir la torche vous permet de voir plus loin dans l'obscurité.
+
+&lt;?keyicon@24?&gt; avec une torche équipée en main gauche : Brandir la torche</text>
+<text id="13">Si vous vous faufilez dans le dos d'un ennemi, vous aurez l'occasion de lui infliger un coup critique.
+Vous pouvez également exécuter un coup critique après avoir brisé la posture d'un ennemi.
+Les coups critiques exécutés suite à un brisement de posture infligent davantage de dégâts que les coups critiques dans le dos.
+
+&lt;?keyicon@22?&gt; dans le dos d'un ennemi : Coup critique
+&lt;?keyicon@22?&gt; près d'un ennemi dont la posture est brisée : Coup critique</text>
+<text id="14">Ouvrez la catégorie "Émotes" du menu principal pour adopter diverses poses.</text>
+<text id="15">Servez-vous de la carte pour consulter votre position actuelle et connaître les structures et le terrain environnants.
+Trouver des fragments de carte et des stèles le long des routes fera apparaître de nouvelles informations sur votre carte.
+
+&lt;?keyicon@29?&gt; : &lt;?keyActName@29?&gt;</text>
+<text id="16">À dos de monture, sautez près d'une source spirituelle pour attraper un courant d'air ascendant.
+La chute ne vous blessera pas tant que vous restez à dos de monture, et ce quelle qu'en soit la hauteur.
+
+&lt;?keyicon@8?&gt; à dos de monture et près d'une source spirituelle : Saut spirituel</text>
+<text id="17">Lorsque vous avez équipé plusieurs objets, vous pouvez maintenir &lt;?keyicon@18?&gt; pour sélectionner rapidement l'objet situé dans le premier emplacement.
+
+Maintenir &lt;?keyicon@18?&gt; : Sélectionner le premier objet équipé</text>
+<text id="50">Lorsque vous mourez, toutes les runes que vous possédez restent sur place.
+Vous pouvez les récupérer en retournant sur le lieu de votre mort.
+Toutefois, si vous mourez à nouveau avant de les récupérer, vous les perdrez à jamais.</text>
+<text id="51">%null%</text>
+<text id="52">Lorsque l'icône de monument s'affiche à gauche de l'écran, cela signifie que vous pouvez invoquer divers esprits.
+Il est possible d'invoquer différents types d'esprits.
+L'invocation d'esprits consomme généralement des PC.</text>
+<text id="53">Se reposer près d'un Site de grâce restaure les PV ainsi que les PC, et soigne toutes les altérations de statut.
+Cela remplit également les Fioles sacrées.
+
+Toutefois, la plupart des ennemis vaincus reviendront à la vie lorsque vous vous reposez auprès d'un Site de grâce.</text>
+<text id="54">Les Sites de grâce que vous n'avez pas encore découverts émettent une lueur.
+Si vous apercevez de la lumière lors de vos pérégrinations, suivez-la ; vous tomberez peut-être sur un Site de grâce.</text>
+<text id="55">La grâce guide les Sans-éclat sur la bonne voie.
+De nos jours encore, certains Sites de grâce conservent ce pouvoir.
+Leurs rais dorés baliseront votre chemin.</text>
+<text id="56">La Fiole de larmes pourpres restaure vos PV.
+La Fiole de larmes céruléennes restaure vos PC.
+
+Aux Sites de grâce, vous pouvez répartir les doses entre chaque Fiole sacrée.
+Vous pouvez également utiliser certains objets pour améliorer vos Fioles sacrées aux Sites de grâce.</text>
+<text id="57">Grâce à votre carte, vous pouvez instantanément vous rendre à n'importe quel Site de grâce que vous avez découvert.
+Toutefois, cela n'est pas possible dans certains donjons et autres zones.</text>
+<text id="58">Sur une monture, vous pouvez attaquer avec les armes tenues en main droite ou à deux mains.
+Subir une certaine quantité de dégâts sur une monture provoquera votre chute.
+Vous vous retrouverez alors extrêmement vulnérable.</text>
+<text id="59">Vous ne pouvez pas entrer dans les grands bâtiments, les catacombes ou autres endroits similaires à dos de monture.
+Il n'est pas non plus possible d'invoquer votre destrier dans ces endroits.</text>
+<text id="60">Si vous possédez un nécessaire de fabrication, vous pouvez confectionner divers objets grâce aux matériaux que vous ramassez.
+Sélectionnez "Fabrication d'objet" dans le menu principal pour fabriquer des objets.
+
+&lt;?keyicon@28?&gt; : &lt;?keyActName@28?&gt;</text>
+<text id="61">Vous aurez besoin de pots fissurés ou d'autres contenants pour fabriquer certains objets.
+Une fois l'objet utilisé, le contenant reste en votre possession.</text>
+<text id="62">Les cendres de guerre sont des souvenirs d'affinités et de compétences imprégnées il y a bien longtemps dans des armes.
+À l'aide d'un couteau à aiguiser, vous pouvez utiliser des cendres de guerre pour personnaliser vos armes auprès d'un Site de grâce.</text>
+<text id="63">%null%</text>
+<text id="64">Lorsque vous mourez, vous revenez à la vie au dernier Site de grâce visité.
+
+Toutefois, si vous mourez près d'une effigie de Marika, vous pouvez choisir d'y ressusciter.</text>
+<text id="65">Lorsque vous portez plus de 70 % de votre charge maximale d'équipement, vos roulades sont plus lentes et malhabiles.
+Si vous dépassez votre charge maximale d'équipement, vous ne pourrez plus du tout faire de roulade.</text>
+<text id="66">Vous ne pouvez pas fabriquer d'objets ni ouvrir votre carte en plein combat.</text>
+<text id="67">Les esprits invoqués à partir de cendres peuvent être renforcés par un harmonisateur spirituel.
+Vous aurez besoin de muguet pour améliorer les esprits.</text>
+<text id="68">Vous pouvez dépenser des runes pour améliorer vos attributs.
+Chaque fois que vous augmentez un attribut, vous montez d'un niveau, et plus votre niveau est élevé, plus vous devez dépenser de runes pour continuer à progresser.</text>
+<text id="69">%null%</text>
+<text id="70">Si la jauge de poison se remplit, vous subirez des effets d'empoisonnement et recevrez dégâts continus.
+Plus votre immunité est élevée, plus la jauge de poison mettra de temps à se remplir.</text>
+<text id="71">Si la jauge de putréfaction écarlate se remplit, vous tomberez malade et subirez des dégâts continus.
+La putréfaction écarlate est une altération extrêmement dangereuse, mais plus votre immunité est élevée, plus la jauge mettra de temps à se remplir.</text>
+<text id="72">Si la jauge de saignement se remplit, vous subirez alors des dégâts importants,
+proportionnels à votre maximum de PV.
+Plus votre robustesse est élevée, plus la jauge de saignement mettra de temps à se remplir.</text>
+<text id="73">Si la jauge de congélation se remplit, vous subirez des dégâts ainsi qu'un effet négatif.
+Tant que cet effet est actif, les autres sources de dégâts vous infligeront d'avantage de dégâts.
+Plus votre robustesse est élevée, plus la jauge de congélation mettra de temps à se remplir.</text>
+<text id="74">Si la jauge de sommeil se remplit, vous deviendrez léthargique.
+Les personnages les plus faibles seront même amenés à s'endormir complètement.
+Plus votre focalisation est élevée, plus la jauge de sommeil mettra de temps à se remplir.</text>
+<text id="75">Si la jauge de démence se remplit, vous sombrerez dans la folie et perdrez une grande quantité de PV et de PC.
+Seuls les humains sont sujets à la démence.
+Plus votre focalisation est élevée, plus la jauge de démence mettra de temps à se remplir.</text>
+<text id="76">Si la jauge de malemort se remplit, vous périrez instantanément.
+Cette altération est extrêmement dangereuse, mais plus votre résistance
+à la malemort est élevée, plus la jauge mettra de temps à se remplir.</text>
+<text id="77">Les armures lourdes améliorent votre équilibre, ce qui réduit l'impact que vous font les attaques ennemies.
+Manier une arme lourde à deux mains peut conférer un avantage similaire.</text>
+<text id="100">En multijoueur coopératif, l'objectif d'un Doigt crochu est d'aider l'Hôte des Doigts à vaincre le boss de la zone.
+Le Doigt crochu retournera dans son monde lorsqu'il meurt ou que le boss est vaincu, suivant ce qui se produit en premier.</text>
+<text id="101">En multijoueur compétitif, l'objectif d'un Duelliste est de vaincre l'Hôte des Doigts.
+Le Duelliste retournera dans son monde lorsqu'il meurt ou que l'Hôte des Doigts est vaincu, suivant ce qui se produit en premier.</text>
+<text id="102">La plupart du temps, une session multijoueur peut compter au maximum deux alliés et un envahisseur ou adversaire.
+
+L'Hôte peut utiliser une Langue de raillerie pour augmenter le nombre maximal d'envahisseurs ou d'adversaires.</text>
+<text id="103">Les Remèdes des Doigts crochus permettent de voir les marques d'invocation laissées par les joueurs d'autres mondes.
+
+Lorsque vous invoquez un joueur à partir de sa marque, une session multijoueur démarre et vous devenez l'Hôte des Doigts.</text>
+<text id="104">Un Doigt crochu de Sans-éclat permet de laisser une marque d'invocation dorée.
+Cette dernière apparaîtra dans le monde des autres joueurs et leur permettra de
+vous invoquer en tant que Doigt crochu dans une session multijoueur coopérative.</text>
+<text id="105">Un Doigt crochu de Duelliste permet de laisser une marque d'invocation rouge.
+Cette dernière apparaîtra dans le monde des autres joueurs et leur permettra de
+vous invoquer en tant que Duelliste adverse dans une session multijoueur compétitive.</text>
+<text id="106">Un Doigt sanglant suppurant vous permet d'envahir le monde d'un autre joueur en tant que Doigt sanglant.
+D'autres objets vous permettent également d'envahir d'autres mondes.</text>
+<text id="107">Si vous utilisez un Anneau d'adjuration blanc, vous appellerez automatiquement à l'aide
+un Chasseur d'un autre monde lorsque votre monde est envahit.
+(L'invocation n'est pas toujours possible.)</text>
+<text id="108">Si vous utilisez un Anneau d'adjuration bleu, vous permettez qu'on vous invoque au secours dans d'autres mondes.
+Vous apparaîtrez dans ces mondes sous forme de Chasseur.</text>
+<text id="109">Vous pouvez trouver dans chaque zone des effigies de martyrs.
+Celles-ci font office de recueils d'invocations.
+
+Des marques d'invocation créées à l'aide de petites effigies sont compilées dans ces recueils d'invocations.
+Il vous sera plus simple d'invoquer d'autres joueurs à ces endroits.</text>
+<text id="110">Si vous mettez en place un mot de passe de groupe, vous aurez plus de chance de voir les messages,
+marques d'invocation, taches de sang et fantômes des autres joueurs l'utilisant.</text>
+<text id="111">Si vous mettez en place un mot de passe en multijoueur, le système vous associera uniquement
+avec d'autres joueurs utilisant le même mot de passe pour la plupart des fonctionnalités multijoueur.
+
+Toutefois, les mots de passe multijoueur ne s'appliquent pas aux invasions.</text>
+<text id="112">Vous pouvez utiliser le menu Messages pour laisser des messages aux autres joueurs.
+
+Votre message s'affichera dans le monde des autres joueurs à l'endroit où vous vous trouviez pour l'écrire.</text>
+<text id="113">En multijoueur, vous ne pouvez explorer qu'une zone limitée.
+Celle-ci est délimitée par un mur lumineux.
+Vous récupérez l'accès à toute la carte lorsque la session multijoueur prend fin.</text>
+<text id="114">Vous verrez parfois apparaître des fantômes blancs translucides.
+Ce sont les échos des joueurs d'autres mondes et des actions qu'ils ont récemment effectuées.</text>
+<text id="115">Les taches de sang se trouvent aux endroits où des joueurs d'autres mondes ont perdu la vie.
+Vous pouvez les examiner pour découvrir les raisons de leur mort.</text>
+<text id="116">En multijoueur de soutien, l'objectif d'un Chasseur est de vaincre un envahisseur.
+Le Chasseur retournera dans son monde lorsqu'il meurt ou que l'envahisseur est vaincu, suivant ce qui se produit en premier.</text>
+<text id="117">Il existe deux types de marques d'invocation laissées par les joueurs d'autres mondes.
+
+Les marques dorées permettent d'invoquer des Doigts crochus alliés.
+Les marques rouges permettent d'invoquer des Duellistes adverses.</text>
+<text id="118">Vous pouvez changer le format des messages pour les rendre plus élaborés.
+Vous avez également la possibilité d'y joindre des émotes.
+
+&lt;?keyicon@30?&gt; : Changer le format des messages</text>
+<text id="119">Lors d'une invasion multijoueur, l'objectif de l'envahisseur est de vaincre l'Hôte des Doigts.
+L'envahisseur retournera dans son monde lorsqu'il meurt ou que l'Hôte des Doigts est vaincu, suivant ce qui se produit en premier.</text>
+<text id="150">Les attaques disposant de certaines affinités, comme le feu ou la foudre,
+peuvent réduire davantage l'efficacité de la garde que les attaques physiques.
+
+La garde ne vous protégera pas contre la majorité des attaques ennemies visant à vous agripper.</text>
+<text id="151">Certaines attaques peuvent briser la posture d'un ennemi, ce qui vous permet d'asséner un coup critique.
+Les attaques chargées et sautées sont particulièrement efficaces pour briser la posture d'un ennemi.</text>
+<text id="152">Attaquez plusieurs fois un ennemi en monture pour le faire chuter et briser sa posture.
+Cela vous donnera l'occasion d'asséner un coup critique.
+Les attaques chargées et sautées sont particulièrement efficaces pour désarçonner un ennemi.</text>
+<text id="153">Les attaques de taille exécutées avec des armes tranchantes sont peu efficaces contre les armures et les écailles.
+Mieux vaut privilégier les frappes contondantes.</text>
+<text id="154">%null%</text>
+<text id="200">Il existe des Scarabées larmoyants pourpres et céruléens.
+Terrassez-les pour remplir la Fiole sacrée correspondant à leur type.
+Vous ne pouvez toutefois pas remplir vos Fioles sacrées au-delà de votre répartition actuelle.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

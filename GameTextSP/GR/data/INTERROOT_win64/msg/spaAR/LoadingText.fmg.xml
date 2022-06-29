@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Agáchate para que los enemigos no puedan descubrirte fácilmente.
+Es muy efectivo en pastizales.
+Atacar a un enemigo que no te ha visto causará más daño de lo habitual.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Puedes llevar armamento en la mano izquierda (o en ambas) para defenderte de los ataques que recibas.
+Los escudos son muy efectivos para defenderse.
+La defensa consume vigor.
+Si tu vigor se acaba, te desestabilizarán.
+
+&lt;?keyicon@24?&gt;: Defender</text>
+<text id="3">Puedes contraatacar de inmediato después de bloquear un ataque enemigo.
+Los contraataques de defensa permiten desestabilizar al enemigo con facilidad.
+
+&lt;?keyicon@23?&gt; de inmediato después de bloquear un ataque: Contraataque de defensa</text>
+<text id="4">Empuñar un armamento con las dos manos aumentará tu fuerza efectiva para ese armamento en un 50 %.
+Esto reduce los requerimientos de atributos, y los armamentos que aumentan con fuerza infligirán más daño.
+Además, los ataques con ese armamento son más difíciles de repeler con escudos.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Empuñar con las dos manos</text>
+<text id="5">Los ataques de carga y de salto son poderosos.
+Permiten desestabilizar al enemigo con facilidad.
+También permiten hacer caer a los enemigos de sus monturas.
+
+Mantén pulsado &lt;?keyicon@23?&gt;: Ataque de carga
+&lt;?keyicon@23?&gt; mientras saltas: Ataque de salto</text>
+<text id="6">Los armamentos tienen poderes especiales llamados "habilidades".
+Hay una gran variedad de habilidades, desde ataques poderosos hasta efectos temporales.
+Usar estas habilidades consume PC.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">Los escudos te permiten usar la habilidad "Rechazar" para desviar los ataques enemigos a corta distancia.
+Un rechazo exitoso desestabilizará al atacante y te dará la oportunidad de asestar un golpe crítico.
+
+&lt;?keyicon@25?&gt; al mismo tiempo que un ataque enemigo: Bloquear</text>
+<text id="8">Fíjate en un objetivo para mantenerlo en la mira, lo que hará más fácil enfocarse en él mientras peleas.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt; con un objetivo fijado: Cambiar objetivo</text>
+<text id="9">Cuando sostengas un arco a dos manos, mantén pulsado &lt;?keyicon@24?&gt; para apuntar con precisión.
+Esto te permite apuntar con más precisión con &lt;?keyControlCamera?&gt;.
+Puedes infligir graves daños a enemigos humanos o de contextura similar apuntándoles a la cabeza.
+
+&lt;?keyicon@24?&gt; mientras sostienes un arco a dos manos: Apuntar con precisión</text>
+<text id="10">Puedes equipar hasta tres piezas de armamento en cada mano.
+
+Algunas piezas, como los escudos, tienen diferentes acciones según la mano en la que las equipes.</text>
+<text id="11">Puedes equipar hasta diez objetos a la vez.
+Los objetos equipados pueden usarse sin acceder al menú de objetos.
+También puedes asignar objetos a tu bolsa para usarlos directamente desde el menú principal.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Alza tu antorcha para ver más lejos en espacios oscuros.
+
+&lt;?keyicon@24?&gt; con la antorcha en la mano izquierda: Alzar antorcha</text>
+<text id="13">Si te pones detrás de un enemigo, tendrás una oportunidad de asestar un golpe crítico.
+También puedes asestar un golpe crítico después de desestabilizar a un enemigo.
+Los golpes críticos asestados después de una desestabilización causan más daño que los golpes críticos por detrás.
+
+&lt;?keyicon@22?&gt; cerca de un enemigo que está de espaldas: Golpe crítico
+&lt;?keyicon@22?&gt; cerca de un enemigo cuya posición se rompió: Golpe crítico</text>
+<text id="14">Usa "Gestos" en el menú principal para hacer una variedad de poses básicas.</text>
+<text id="15">Usa tu mapa para comprobar tu posición actual, así como el terreno y las estructuras cercanas.
+Puedes actualizar tu mapa con información nueva al encontrar fragmentos de mapa en las estelas del camino.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Mientras vas a caballo, salta cerca de un manantial espiritual para montar la corriente y elevarte.
+Saltar a un manantial espiritual mientras montas no te lastimará, ni siquiera cuando saltes desde gran altura.
+
+&lt;?keyicon@8?&gt; en un manantial espiritual a caballo: Salto a un manantial espiritual</text>
+<text id="17">Cuando tengas varios objetos equipados, mantén pulsado &lt;?keyicon@18?&gt; para seleccionar rápidamente el objeto en el primer espacio.
+
+Mantén pulsado &lt;?keyicon@18?&gt;: Seleccionar primer objeto equipado</text>
+<text id="50">Al morir, dejarás todas las runas que tengas en el lugar de tu muerte.
+Puedes reclamar esas runas dirigiéndote al mismo lugar nuevamente.
+Sin embargo, si mueres de nuevo antes de reclamar esas runas que dejaste, estas se perderán para siempre.</text>
+<text id="51">%null%</text>
+<text id="52">Cuando el ícono de monumento aparece en la parte izquierda de la pantalla, puedes invocar espíritus de las cenizas.
+Hay muchos tipos de espíritus que puedes invocar.
+Normalmente, invocar espíritus consume PC.</text>
+<text id="53">Descansar en un sitio de gracia restablecerá tus PV, PC y eliminará todos los efectos negativos.
+También llenará tus frascos sagrados.
+
+Sin embargo, la mayoría de los enemigos que derrotaste resucitarán.</text>
+<text id="54">Los sitios de gracia que no has descubierto aún iluminan su entorno.
+Si ves un rayo de luz mientras exploras, no lo pierdas de vista: quizás encuentres un sitio de gracia.</text>
+<text id="55">La gracia existe para guiar a los Tiznados y dirigirlos por el camino correcto.
+Incluso ahora, algunos sitios de gracia conservan ese poder.
+Sus rayos dorados te guiarán en tu camino.</text>
+<text id="56">El frasco de lágrimas carmesíes repone tus PV.
+El frasco de lágrimas cerúleas repone tus PC.
+
+En los sitios de gracia, puedes distribuir porciones de dosis en cada frasco.
+También puedes usar ciertos objetos para mejorar tus frascos en sitios de gracia.</text>
+<text id="57">Con tu mapa, puedes viajar al instante a cualquier sitio de gracia que hayas descubierto.
+Sin embargo, hay algunos calabozos y otras áreas en donde no se puede hacer esto.</text>
+<text id="58">Mientras vas a caballo, puedes atacar con armamentos equipados en tu mano derecha o en ambas.
+Si recibes cierta cantidad de daño mientras vas a caballo, te caerás.
+Esto te dejará sumamente vulnerable.</text>
+<text id="59">No puedes entrar a edificios grandes, cuevas, catacumbas ni espacios similares mientras vas a caballo.
+Tampoco puedes llamar a tu caballo dentro de esos espacios.</text>
+<text id="60">Si tienes un kit de creación, puedes crear distintos objetos a partir de materiales que encuentres.
+Selecciona "Creación de objetos" en el menú principal para crear objetos.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Necesitarás recipientes rajados u otros contenedores para crear ciertos objetos.
+Estos objetos creados a partir de recipientes se gastarán con el uso, pero sus contenedores permanecerán.</text>
+<text id="62">Las cenizas de guerra son recuerdos de las afinidades y habilidades incorporadas en las piezas de armamento usadas hace mucho tiempo.
+Con un cuchillo de piedra de afilar, puedes usar cenizas de guerra para personalizar tus piezas de armamento en los sitios de gracia.</text>
+<text id="63">%null%</text>
+<text id="64">Al morir, revivirás en el último sitio de gracia que visitaste.
+
+De todas maneras, si había una Estaca de Márida cerca de donde moriste, tendrás la opción de revivir allí.</text>
+<text id="65">Cuando cargas más del 70 % de tu carga máxima de equipo, tus volteretas de evasión serán más lentas y torpes.
+Si superas tu límite de carga máxima, no podrás rodar en absoluto.</text>
+<text id="66">Mientras estás en el combate, no puedes crear objetos ni abrir tu mapa.</text>
+<text id="67">Los espíritus que has invocado de las cenizas pueden hacerse más fuertes acudiendo a un afinador espiritual.
+Necesitarás lirio de los valles para mejorar los espíritus.</text>
+<text id="68">Cuando aumentas de nivel, puedes gastar runas para mejorar tus atributos.
+A medida que tus atributos aumenten, también subirá tu nivel, así como la cantidad de runas necesaria para tu próximo incremento de atributo.</text>
+<text id="69">%null%</text>
+<text id="70">Cuando el medidor de veneno está lleno, te envenenarás y sufrirás daño continuo.
+Cuando mayor sea tu inmunidad, más tiempo tardará el medidor de veneno en llenarse.</text>
+<text id="71">Cuando el medidor de podredumbre escarlata esté lleno, te enfermarás y sufrirás daño continuo.
+La podredumbre escarlata es un efecto de estado muy peligroso, pero, cuanto mayor sea tu inmunidad, más tiempo tardará el medidor en llenarse.</text>
+<text id="72">Cuando el medidor de hemorragia está lleno, te desangrarás.
+Esto causa una gran cantidad de daño relativo a tus PV máximos.
+Cuanto mayor sea tu robustez, más tiempo tardará el medidor de hemorragia en llenarse.</text>
+<text id="73">Cuando el medidor de congelación está lleno, sufrirás daño y te congelarás por un tiempo.
+Mientras padeces congelación, sufrirás más daño por otras causas.
+Cuanto mayor sea tu robustez, más tiempo tardará el medidor de congelación en llenarse.</text>
+<text id="74">Cuando el medidor de sueño está lleno, sentirás somnolencia.
+Los personajes más débiles se quedarán dormidos.
+Cuanto mayor sea tu concentración, más tiempo tardará el medidor de sueño en llenarse.</text>
+<text id="75">Cuando el medidor de locura está lleno, enloquecerás y perderás una gran cantidad de PV y PC.
+Solo los humanos pueden padecer locura.
+Cuanto mayor sea tu concentración, más tiempo tardará el medidor de locura en llenarse.</text>
+<text id="76">Cuando tu medidor de muerte está lleno, sufrirás una muerte súbita.
+Este estado es muy peligroso, pero, cuanto mayor sea tu resistencia a la muerte,
+más tiempo tardará el medidor de muerte en llenarse.</text>
+<text id="77">La armadura pesada da un gran aplomo y te hace menos susceptible a retroceder ante ataques enemigos.
+Empuñar un arma pesada a dos manos también puede proporcionar efectos similares.</text>
+<text id="100">En el modo multijugador cooperativo, el objetivo del dedo doblado es ayudar al Anfitrión de Dedos a derrotar al jefe del área.
+El dedo doblado regresará a su mundo cuando muera o cuando el jefe haya sido derrotado, lo que ocurra primero.</text>
+<text id="101">En el modo multijugador competitivo, el objetivo del duelista es derrotar al Anfitrión de Dedos.
+El duelista regresará a su mundo cuando muera o cuando el Anfitrión de Dedos haya sido derrotado, lo que ocurra primero.</text>
+<text id="102">En el modo multijugador típico, puede haber hasta dos ayudantes, y un invasor o rival presentes a la vez.
+
+El jugador anfitrión puede usar una lengua burlona para aumentar la cantidad máxima de invasores o adversarios.</text>
+<text id="103">Con una cura de dedo doblado, puedes ver las señales de invocación que dejan los jugadores en otros mundos.
+
+Si invocas a otro jugador a través de su señal, comenzará la sesión multijugador y tú serás el Anfitrión de Dedos.</text>
+<text id="104">Con un dedo doblado de Tiznado, puedes dejar una señal de invocación dorada.
+Esta señal aparecerá en los mundos de otros jugadores, quienes podrán invocarte
+como dedo doblado en el modo multijugador cooperativo.</text>
+<text id="105">Con un dedo doblado de duelista, puedes dejar una señal de invocación roja.
+Esta señal aparecerá en los mundos de otros jugadores, quienes podrán invocarte
+como rival duelista en el modo multijugador competitivo.</text>
+<text id="106">Con un dedo sangriento e infectado, puedes ingresar al mundo de otro jugador como un dedo sangriento invasor.
+Hay otros objetos que también te permitirán invadir otros mundos.</text>
+<text id="107">Si usas un anillo cifrado blanco, solicitarás automáticamente que un cazador de otro mundo
+venga a rescatarte cuando invadan tu mundo.
+(La invocación no siempre es posible).</text>
+<text id="108">Si usas un anillo cifrado azul, te pondrás a disposición de invocaciones de rescate provenientes de otros mundos.
+Te invocarán a su mundo en calidad de cazador.</text>
+<text id="109">En cada área, puedes encontrar efigies de mártires.
+Estas efigies son grupos de invocaciones.
+
+Las señales de invocación a partir de efigies pequeñas se concentran en estos grupos de invocaciones.
+Te resultará fácil invocar a otros jugadores en estos lugares.</text>
+<text id="110">Si estableces una contraseña grupal, es más probable que veas mensajes, señales de invocación,
+manchas de sangre y fantasmas de otros jugadores que estén usando la misma contraseña.</text>
+<text id="111">Si estableces una contraseña de Multijugador, solo se te emparejará con jugadores que estén usando la misma contraseña
+y accederás a la mayoría de las características de Multijugador.
+
+Sin embargo, las contraseñas de Multijugador no sirven para la invasión Multijugador.</text>
+<text id="112">Puedes usar el menú Mensajes para dejarles mensajes a otros jugadores.
+
+Tu mensaje aparecerá en los mundos de otros jugadores en el lugar donde estabas cuando lo escribiste.</text>
+<text id="113">En el modo Multijugador, solo puedes explorar un área limitada.
+Más allá de esos límites, te encontrarás con una pared de luz.
+Cuando termine el modo Multijugador, podrás volver a explorar otras áreas.</text>
+<text id="114">De vez en cuando, quizás veas fantasmas de un blanco traslúcido.
+Son las estelas de jugadores en otros mundos y sus últimas acciones.</text>
+<text id="115">Verás manchas de sangre en los lugares donde murieron otros jugadores.
+Podrás examinarlas para saber cómo murieron.</text>
+<text id="116">En el modo multijugador de apoyo, el objetivo del cazador es derrotar a un invasor.
+El cazador regresará a su mundo cuando muera o cuando el invasor haya sido derrotado, lo que ocurra primero.</text>
+<text id="117">Hay dos tipos de señales de invocación que dejan los jugadores en otros mundos.
+
+Las señales doradas invocan a ayudantes de dedo doblado.
+Las señales rojas invocan a rivales duelistas.</text>
+<text id="118">Puedes dejar mensajes más complejos cambiando el formato.
+También puedes complementarlos con gestos.
+
+&lt;?keyicon@30?&gt;: Cambiar formato de mensaje</text>
+<text id="119">Durante la invasión multijugador, el objetivo del invasor es derrotar al Anfitrión de Dedos.
+El invasor regresará a su mundo cuando muera o cuando el Anfitrión de Dedos haya sido derrotado, lo que ocurra primero.</text>
+<text id="150">Los ataques con ciertas afinidades, como fuego o rayo, podrían hacer que la defensa sea menos efectiva
+que cuando se realizan ataques físicos comunes.
+
+La defensa no funciona contra algunos ataques de agarre.</text>
+<text id="151">Algunos ataques pueden desestabilizar al enemigo, lo que te permitirá dar un golpe crítico.
+Es muy fácil desestabilizar al enemigo con los ataques de carga y de salto.</text>
+<text id="152">Ataca reiteradas veces a un enemigo a caballo para hacerlo caer de su montura y desestabilizarlo.
+Esto te permitirá dar un golpe crítico.
+Con ataques de carga y de salto, es muy probable hacer caer a los enemigos de sus monturas.</text>
+<text id="153">Los ataques cortantes de armas afiladas son, en su mayoría, ineficaces contra las armaduras endurecidas y las escamas.
+Es probable que los ataques de golpe sean eficaces.</text>
+<text id="154">%null%</text>
+<text id="200">Hay escarabajos con forma de lágrimas cerúleas y carmesíes.
+Derrótalos para reponer los frascos que coincidan con su tipo.
+Sin embargo, solo podrás reponer la cantidad de frascos máxima que tienes permitida.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

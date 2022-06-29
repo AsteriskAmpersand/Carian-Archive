@@ -1,0 +1,3601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="12000">%null%</text>
+<text id="13000">%null%</text>
+<text id="110000">Sin armas</text>
+<text id="1000000">Daga</text>
+<text id="1000100">Daga pesada</text>
+<text id="1000200">Daga ligera</text>
+<text id="1000300">Daga de calidad</text>
+<text id="1000400">Daga ígnea</text>
+<text id="1000500">Daga llameante</text>
+<text id="1000600">Daga fulgurante</text>
+<text id="1000700">Daga sagrada</text>
+<text id="1000800">Daga mágica</text>
+<text id="1000900">Daga fría</text>
+<text id="1001000">Daga venenosa</text>
+<text id="1001100">Daga sangrienta</text>
+<text id="1001200">Daga oculta</text>
+<text id="1010000">Cuchillo negro</text>
+<text id="1020000">Daga elusiva</text>
+<text id="1020100">Daga elusiva pesada</text>
+<text id="1020200">Daga elusiva ligera</text>
+<text id="1020300">Daga elusiva de calidad</text>
+<text id="1020400">Daga elusiva ígnea</text>
+<text id="1020500">Daga elusiva llameante</text>
+<text id="1020600">Daga elusiva fulgurante</text>
+<text id="1020700">Daga elusiva sagrada</text>
+<text id="1020800">Daga elusiva mágica</text>
+<text id="1020900">Daga elusiva fría</text>
+<text id="1021000">Daga elusiva venenosa</text>
+<text id="1021100">Daga elusiva sangrienta</text>
+<text id="1021200">Daga elusiva oculta</text>
+<text id="1030000">Misericorde</text>
+<text id="1030100">Misericorde pesada</text>
+<text id="1030200">Misericorde ligera</text>
+<text id="1030300">Misericorde de calidad</text>
+<text id="1030400">Misericorde ígnea</text>
+<text id="1030500">Misericorde llameante</text>
+<text id="1030600">Misericorde fulgurante</text>
+<text id="1030700">Misericorde sagrada</text>
+<text id="1030800">Misericorde mágica</text>
+<text id="1030900">Misericorde fría</text>
+<text id="1031000">Misericorde venenosa</text>
+<text id="1031100">Misericorde sangrienta</text>
+<text id="1031200">Misericorde oculta</text>
+<text id="1040000">Reduvia</text>
+<text id="1050000">Cuchillo de cristal</text>
+<text id="1060000">Hoz ceremonial</text>
+<text id="1060100">Hoz ceremonial pesada</text>
+<text id="1060200">Hoz ceremonial ligera</text>
+<text id="1060300">Hoz ceremonial de calidad</text>
+<text id="1060400">Hoz ceremonial ígnea</text>
+<text id="1060500">Hoz ceremonial llameante</text>
+<text id="1060600">Hoz ceremonial fulgurante</text>
+<text id="1060700">Hoz ceremonial sagrada</text>
+<text id="1060800">Hoz ceremonial mágica</text>
+<text id="1060900">Hoz ceremonial fría</text>
+<text id="1061000">Hoz ceremonial venenosa</text>
+<text id="1061100">Hoz ceremonial sangrienta</text>
+<text id="1061200">Hoz ceremonial oculta</text>
+<text id="1070000">Kris de piedra refulgente</text>
+<text id="1080000">Aguijón de escorpión</text>
+<text id="1090000">Gran cuchillo</text>
+<text id="1090100">Gran cuchillo pesado</text>
+<text id="1090200">Gran cuchillo ligero</text>
+<text id="1090300">Gran cuchillo de calidad</text>
+<text id="1090400">Gran cuchillo ígneo</text>
+<text id="1090500">Gran cuchillo llameante</text>
+<text id="1090600">Gran cuchillo fulgurante</text>
+<text id="1090700">Gran cuchillo sagrado</text>
+<text id="1090800">Gran cuchillo mágico</text>
+<text id="1090900">Gran cuchillo frío</text>
+<text id="1091000">Gran cuchillo venenoso</text>
+<text id="1091100">Gran cuchillo sangriento</text>
+<text id="1091200">Gran cuchillo oculto</text>
+<text id="1100000">Wakizashi</text>
+<text id="1100100">Wakizashi pesada</text>
+<text id="1100200">Wakizashi ligera</text>
+<text id="1100300">Wakizashi de calidad</text>
+<text id="1100400">Wakizashi ígnea</text>
+<text id="1100500">Wakizashi llameante</text>
+<text id="1100600">Wakizashi fulgurante</text>
+<text id="1100700">Wakizashi sagrada</text>
+<text id="1100800">Wakizashi mágica</text>
+<text id="1100900">Wakizashi fría</text>
+<text id="1101000">Wakizashi venenosa</text>
+<text id="1101100">Wakizashi sangrienta</text>
+<text id="1101200">Wakizashi oculta</text>
+<text id="1110000">Cinquedea</text>
+<text id="1130000">Hoz de marfil</text>
+<text id="1140000">Daga manchada de sangre</text>
+<text id="1140100">Daga manchada de sangre pesada</text>
+<text id="1140200">Daga manchada de sangre ligera</text>
+<text id="1140300">Daga manchada de sangre de calidad</text>
+<text id="1140400">Daga manchada de sangre ígnea</text>
+<text id="1140500">Daga manchada de sangre llameante</text>
+<text id="1140600">Daga manchada de sangre fulgurante</text>
+<text id="1140700">Daga manchada de sangre sagrada</text>
+<text id="1140800">Daga manchada de sangre mágica</text>
+<text id="1140900">Daga manchada de sangre fría</text>
+<text id="1141000">Daga manchada de sangre venenosa</text>
+<text id="1141100">Daga manchada de sangre sangrienta</text>
+<text id="1141200">Daga manchada de sangre oculta</text>
+<text id="1150000">Daga de acero áureo</text>
+<text id="1150100">Daga de acero áureo pesada</text>
+<text id="1150200">Daga de acero áureo ligera</text>
+<text id="1150300">Daga de acero áureo de calidad</text>
+<text id="1150400">Daga de acero áureo ígnea</text>
+<text id="1150500">Daga de acero áureo llameante</text>
+<text id="1150600">Daga de acero áureo fulgurante</text>
+<text id="1150700">Daga de acero áureo sagrada</text>
+<text id="1150800">Daga de acero áureo mágica</text>
+<text id="1150900">Daga de acero áureo fría</text>
+<text id="1151000">Daga de acero áureo venenosa</text>
+<text id="1151100">Daga de acero áureo sangrienta</text>
+<text id="1151200">Daga de acero áureo oculta</text>
+<text id="1160000">Hoja de la invocación</text>
+<text id="2000000">Espada larga</text>
+<text id="2000100">Espada larga pesada</text>
+<text id="2000200">Espada larga ligera</text>
+<text id="2000300">Espada larga de calidad</text>
+<text id="2000400">Espada larga ígnea</text>
+<text id="2000500">Espada larga llameante</text>
+<text id="2000600">Espada larga fulgurante</text>
+<text id="2000700">Espada larga sagrada</text>
+<text id="2000800">Espada larga mágica</text>
+<text id="2000900">Espada larga fría</text>
+<text id="2001000">Espada larga venenosa</text>
+<text id="2001100">Espada larga sangrienta</text>
+<text id="2001200">Espada larga oculta</text>
+<text id="2010000">Espada corta</text>
+<text id="2010100">Espada corta pesada</text>
+<text id="2010200">Espada corta ligera</text>
+<text id="2010300">Espada corta de calidad</text>
+<text id="2010400">Espada corta ígnea</text>
+<text id="2010500">Espada corta llameante</text>
+<text id="2010600">Espada corta fulgurante</text>
+<text id="2010700">Espada corta sagrada</text>
+<text id="2010800">Espada corta mágica</text>
+<text id="2010900">Espada corta fría</text>
+<text id="2011000">Espada corta venenosa</text>
+<text id="2011100">Espada corta sangrienta</text>
+<text id="2011200">Espada corta oculta</text>
+<text id="2020000">Espada ancha</text>
+<text id="2020100">Espada ancha pesada</text>
+<text id="2020200">Espada ancha ligera</text>
+<text id="2020300">Espada ancha de calidad</text>
+<text id="2020400">Espada ancha ígnea</text>
+<text id="2020500">Espada ancha llameante</text>
+<text id="2020600">Espada ancha fulgurante</text>
+<text id="2020700">Espada ancha sagrada</text>
+<text id="2020800">Espada ancha mágica</text>
+<text id="2020900">Espada ancha fría</text>
+<text id="2021000">Espada ancha venenosa</text>
+<text id="2021100">Espada ancha sangrienta</text>
+<text id="2021200">Espada ancha oculta</text>
+<text id="2030000">Cuchillo de hueso</text>
+<text id="2040000">Espada recta de juramentado</text>
+<text id="2040100">Espada recta de juramentado pesada</text>
+<text id="2040200">Espada recta de juramentado ligera</text>
+<text id="2040300">Espada recta de juramentado de calidad</text>
+<text id="2040400">Espada recta de juramentado ígnea</text>
+<text id="2040500">Espada recta de juramentado llameante</text>
+<text id="2040600">Espada recta de juramentado fulgurante</text>
+<text id="2040700">Espada recta de juramentado sagrada</text>
+<text id="2040800">Espada recta de juramentado mágica</text>
+<text id="2040900">Espada recta de juramentado fría</text>
+<text id="2041000">Espada recta de juramentado venenosa</text>
+<text id="2041100">Espada recta de juramentado sangrienta</text>
+<text id="2041200">Espada recta de juramentado oculta</text>
+<text id="2050000">Espada recta desgastada</text>
+<text id="2050100">Espada recta desgastada pesada</text>
+<text id="2050200">Espada recta desgastada ligera</text>
+<text id="2050300">Espada recta desgastada de calidad</text>
+<text id="2050400">Espada recta desgastada ígnea</text>
+<text id="2050500">Espada recta desgastada llameante</text>
+<text id="2050600">Espada recta desgastada fulgurante</text>
+<text id="2050700">Espada recta desgastada sagrada</text>
+<text id="2050800">Espada recta desgastada mágica</text>
+<text id="2050900">Espada recta desgastada fría</text>
+<text id="2051000">Espada recta desgastada venenosa</text>
+<text id="2051100">Espada recta desgastada sangrienta</text>
+<text id="2051200">Espada recta desgastada oculta</text>
+<text id="2060000">Espada recta ornamental</text>
+<text id="2070000">Epitafio dorado</text>
+<text id="2080000">Espada fluctuante de Nox</text>
+<text id="2090000">Espada inseparable</text>
+<text id="2090100">Brazalete de Rennala, Bruja de la Luna Llena.</text>
+<text id="2090200">Pantalones de Rennala, Bruja de la Luna Llena.</text>
+<text id="2090300">Capucha hecha con la piel curtida de un semidiós.</text>
+<text id="2090400">Túnica hecha con la piel curtida de un semidiós.</text>
+<text id="2090500">Brazaletes hechos con la piel curtida de un semidiós.</text>
+<text id="2090600">Botas hechas con la piel curtida de un semidiós.</text>
+<text id="2090700">Una grasa solidificada hecha a partir de una mezcla de ingredientes incendiarios.
+Objeto que puede crearse.
+
+Impregna el armamento para añadir daño de fuego a los ataques.
+El efecto es muy breve.</text>
+<text id="2090800">Una grasa solidificada hecha a partir de una
+mezcla de ingredientes fulminarios.
+
+Objeto que puede crearse.
+Impregna el arma para infligir daño de rayo.</text>
+<text id="2090900">Una grasa solidificada hecha a partir de una
+mezcla de ingredientes de resonancia mágica.
+
+Objeto que puede crearse.
+Impregna el arma para infligir daño de magia.</text>
+<text id="2091000">Botas hechas con la piel curtida de un corpulento semidiós.</text>
+<text id="2091100">Grasa sólida y ampollada hecha de una mezcla
+de sangre y otros materiales.
+
+Objeto que puede crearse. Impregna el arma para infligir hemorragias.
+
+La sangre ampollada rompe la piel
+y provoca laceraciones graves. Es el arma
+favorita de maleantes e inconformistas
+desde tiempos inenarrables.
+</text>
+<text id="2091200">Grasa solidificada hecha con las artes tan bien
+guardadas de Santa Trina.
+
+Objeto que puede crearse. Impregna el arma para infligir sueño.
+
+La Santa del Arrullo se ha convertido en el
+símbolo del reposo perdido. Los débiles
+de corazón no podían resistirse a su amabilidad
+ni siquiera en el campo de batalla.
+</text>
+<text id="2110000">Espada cifrada</text>
+<text id="2140000">Espada de la Noche y la Llama</text>
+<text id="2150000">Espada de cristal</text>
+<text id="2180000">Espada de caballero cariano</text>
+<text id="2190000">Espada de Santa Trina</text>
+<text id="2200000">Espada de caballero de Miquella</text>
+<text id="2210000">Espada bastón</text>
+<text id="2210100">Espada bastón pesada</text>
+<text id="2210200">Espada bastón ligera</text>
+<text id="2210300">Espada bastón de calidad</text>
+<text id="2210400">Espada bastón ígnea</text>
+<text id="2210500">Espada bastón llameante</text>
+<text id="2210600">Espada bastón fulgurante</text>
+<text id="2210700">Espada bastón sagrada</text>
+<text id="2210800">Espada bastón mágica</text>
+<text id="2210900">Espada bastón fría</text>
+<text id="2211000">Espada bastón venenosa</text>
+<text id="2211100">Espada bastón sangrienta</text>
+<text id="2211200">Espada bastón oculta</text>
+<text id="2220000">Espada enjoyada de Eochaid</text>
+<text id="2230000">Espada esbelta de noble</text>
+<text id="2230100">Espada esbelta de noble pesada</text>
+<text id="2230200">Espada esbelta de noble ligera</text>
+<text id="2230300">Espada esbelta de noble de calidad</text>
+<text id="2230400">Espada esbelta de noble ígnea</text>
+<text id="2230500">Espada esbelta de noble llameante</text>
+<text id="2230600">Espada esbelta de noble fulgurante</text>
+<text id="2230700">Espada esbelta de noble sagrada</text>
+<text id="2230800">Espada esbelta de noble mágica</text>
+<text id="2230900">Espada esbelta de noble fría</text>
+<text id="2231000">Espada esbelta de noble venenosa</text>
+<text id="2231100">Espada esbelta de noble sangrienta</text>
+<text id="2231200">Espada esbelta de noble oculta</text>
+<text id="2240000">Garra de halcón de guerra</text>
+<text id="2240100">Garra de halcón de guerra pesada</text>
+<text id="2240200">Garra de halcón de guerra ligera</text>
+<text id="2240300">Garra de halcón de guerra de calidad</text>
+<text id="2240400">Garra de halcón de guerra ígnea</text>
+<text id="2240500">Garra de halcón de guerra llameante</text>
+<text id="2240600">Garra de halcón de guerra fulgurante</text>
+<text id="2240700">Garra de halcón de guerra sagrada</text>
+<text id="2240800">Garra de halcón de guerra mágica</text>
+<text id="2240900">Garra de halcón de guerra fría</text>
+<text id="2241000">Garra de halcón de guerra venenosa</text>
+<text id="2241100">Garra de halcón de guerra sangrienta</text>
+<text id="2241200">Garra de halcón de guerra oculta</text>
+<text id="2250000">Espada de piedra refulgente de Lazuli</text>
+<text id="2260000">Espada de cristal pútrido</text>
+<text id="3000000">Espada bastarda</text>
+<text id="3000100">Espada bastarda pesada</text>
+<text id="3000200">Espada bastarda ligera</text>
+<text id="3000300">Espada bastarda de calidad</text>
+<text id="3000400">Espada bastarda ígnea</text>
+<text id="3000500">Espada bastarda llameante</text>
+<text id="3000600">Espada bastarda fulgurante</text>
+<text id="3000700">Espada bastarda sagrada</text>
+<text id="3000800">Espada bastarda mágica</text>
+<text id="3000900">Espada bastarda fría</text>
+<text id="3001000">Espada bastarda venenosa</text>
+<text id="3001100">Espada bastarda sangrienta</text>
+<text id="3001200">Espada bastarda oculta</text>
+<text id="3010000">Espadón bifurcado</text>
+<text id="3010100">Espadón bifurcado pesado</text>
+<text id="3010200">Espadón bifurcado ligero</text>
+<text id="3010300">Espadón bifurcado de calidad</text>
+<text id="3010400">Espadón bifurcado ígneo</text>
+<text id="3010500">Espadón bifurcado llameante</text>
+<text id="3010600">Espadón bifurcado fulgurante</text>
+<text id="3010700">Espadón bifurcado sagrado</text>
+<text id="3010800">Espadón bifurcado mágico</text>
+<text id="3010900">Espadón bifurcado frío</text>
+<text id="3011000">Espadón bifurcado venenoso</text>
+<text id="3011100">Espadón bifurcado sangriento</text>
+<text id="3011200">Espadón bifurcado oculto</text>
+<text id="3020000">Espadón de hierro</text>
+<text id="3020100">Espadón de hierro pesado</text>
+<text id="3020200">Espadón de hierro ligero</text>
+<text id="3020300">Espadón de hierro de calidad</text>
+<text id="3020400">Espadón de hierro ígneo</text>
+<text id="3020500">Espadón de hierro llameante</text>
+<text id="3020600">Espadón de hierro fulgurante</text>
+<text id="3020700">Espadón de hierro sagrado</text>
+<text id="3020800">Espadón de hierro mágico</text>
+<text id="3020900">Espadón de hierro frío</text>
+<text id="3021000">Espadón de hierro venenoso</text>
+<text id="3021100">Espadón de hierro sangriento</text>
+<text id="3021200">Espadón de hierro oculto</text>
+<text id="3030000">Espadón de juramentado</text>
+<text id="3030100">Espadón de juramentado pesado</text>
+<text id="3030200">Espadón de juramentado ligero</text>
+<text id="3030300">Espadón de juramentado de calidad</text>
+<text id="3030400">Espadón de juramentado ígneo</text>
+<text id="3030500">Espadón de juramentado llameante</text>
+<text id="3030600">Espadón de juramentado fulgurante</text>
+<text id="3030700">Espadón de juramentado sagrado</text>
+<text id="3030800">Espadón de juramentado mágico</text>
+<text id="3030900">Espadón de juramentado frío</text>
+<text id="3031000">Espadón de juramentado venenoso</text>
+<text id="3031100">Espadón de juramentado sangriento</text>
+<text id="3031200">Espadón de juramentado oculto</text>
+<text id="3040000">Espadón de caballero</text>
+<text id="3040100">Espadón de caballero pesado</text>
+<text id="3040200">Espadón de caballero ligero</text>
+<text id="3040300">Espadón de caballero de calidad</text>
+<text id="3040400">Espadón de caballero ígneo</text>
+<text id="3040500">Espadón de caballero llameante</text>
+<text id="3040600">Espadón de caballero fulgurante</text>
+<text id="3040700">Espadón de caballero sagrado</text>
+<text id="3040800">Espadón de caballero mágico</text>
+<text id="3040900">Espadón de caballero frío</text>
+<text id="3041000">Espadón de caballero venenoso</text>
+<text id="3041100">Espadón de caballero sangriento</text>
+<text id="3041200">Espadón de caballero oculto</text>
+<text id="3050000">Espada flamígera</text>
+<text id="3050100">Espada flamígera pesada</text>
+<text id="3050200">Espada flamígera ligera</text>
+<text id="3050300">Espada flamígera de calidad</text>
+<text id="3050400">Espada flamígera ígnea</text>
+<text id="3050500">Espada flamígera llameante</text>
+<text id="3050600">Espada flamígera fulgurante</text>
+<text id="3050700">Espada flamígera sagrada</text>
+<text id="3050800">Espada flamígera mágica</text>
+<text id="3050900">Espada flamígera fría</text>
+<text id="3051000">Espada flamígera venenosa</text>
+<text id="3051100">Espada flamígera sangrienta</text>
+<text id="3051200">Espada flamígera oculta</text>
+<text id="3060000">Espadón de Ordovis</text>
+<text id="3070000">Espada de Señor de alabastro</text>
+<text id="3080000">Espadón de caballero proscrito</text>
+<text id="3080100">Espadón de caballero proscrito pesado</text>
+<text id="3080200">Espadón de caballero proscrito ligero</text>
+<text id="3080300">Espadón de caballero proscrito de calidad</text>
+<text id="3080400">Espadón de caballero proscrito ígneo</text>
+<text id="3080500">Espadón de caballero proscrito llameante</text>
+<text id="3080600">Espadón de caballero proscrito fulgurante</text>
+<text id="3080700">Espadón de caballero proscrito sagrado</text>
+<text id="3080800">Espadón de caballero proscrito mágico</text>
+<text id="3080900">Espadón de caballero proscrito frío</text>
+<text id="3081000">Espadón de caballero proscrito venenoso</text>
+<text id="3081100">Espadón de caballero proscrito sangriento</text>
+<text id="3081200">Espadón de caballero proscrito oculto</text>
+<text id="3090000">Espadón de la luna negra</text>
+<text id="3100000">Espada reliquia sagrada</text>
+<text id="3130000">Espira de Helfen</text>
+<text id="3140000">Hoja blasfema</text>
+<text id="3150000">Espada del ejecutor Marais</text>
+<text id="3160000">Espada de Milos</text>
+<text id="3160100">Grebas que llevaba Vargram, el Lobo Sangriento, uno de los primeros Sinluz en visitar la Mesa Redonda.
+
+Según las viejas leyendas, los lobos son las sombras del Empíreo.
+Vargram aspiraba a dicha condición.</text>
+<text id="3160200">Armadura que llevaba Vargram, el Lobo Sangriento, uno de los primeros Sinluz en visitar la Mesa Redonda.
+
+Según las viejas leyendas, los lobos son las sombras del Empíreo.
+Vargram aspiraba a dicha condición.</text>
+<text id="3160300">Casco hecho de tiras de hierro unidas entre sí.
+Lo llevan los guerreros del cañaveral.
+
+El cañaveral lleva largo tiempo
+inmerso en una eterna y trágica guerra civil,
+lo que a su vez lo ha alejado
+de los pueblos vecinos.
+Por lo tanto, no es de extrañar
+que la nación entera haya sucumbido
+a una locura sangrienta,
+o al menos eso es lo que se rumorea.</text>
+<text id="3160400">Armadura hecha de tiras de hierro unidas entre sí.
+La llevan los guerreros del cañaveral.
+
+El mugriento manto exterior está tejido
+con cañas marchitas procedentes
+de la ciudad natal del guerrero.
+¿Acaso aún pensará alguna vez en su hogar?</text>
+<text id="3160500">Guanteletes envueltos en resistente cuero.
+Los llevan los guerreros del cañaveral.</text>
+<text id="3160600">Grebas envueltas en resistente cuero.
+Las llevan los guerreros del cañaveral.</text>
+<text id="3160700">Armadura hecha de tiras de hierro unidas entre sí.
+La llevan los guerreros del cañaveral.
+
+El mugriento manto exterior está tejido
+con cañas marchitas procedentes de la ciudad natal del guerrero.
+¿Acaso aún pensará alguna vez en su hogar?</text>
+<text id="3160800">Máscara con el rostro de un veterano guerrero del cañaveral.</text>
+<text id="3160900">Faja de un veterano guerrero del cañaveral.</text>
+<text id="3161000">Guanteletes de un veterano guerrero del cañaveral.</text>
+<text id="3161100">Grebas de un veterano guerrero del cañaveral.</text>
+<text id="3161200">Capucha negra usada por los asesinos a sueldo.</text>
+<text id="3170000">Espadón de la Orden Dorada</text>
+<text id="3180000">Claymore</text>
+<text id="3180100">Claymore pesada</text>
+<text id="3180200">Claymore ligera</text>
+<text id="3180300">Claymore de calidad</text>
+<text id="3180400">Claymore ígnea</text>
+<text id="3180500">Claymore llameante</text>
+<text id="3180600">Claymore fulgurante</text>
+<text id="3180700">Claymore sagrada</text>
+<text id="3180800">Claymore mágica</text>
+<text id="3180900">Claymore fría</text>
+<text id="3181000">Claymore venenosa</text>
+<text id="3181100">Claymore sangrienta</text>
+<text id="3181200">Claymore oculta</text>
+<text id="3190000">Espadón de gárgola</text>
+<text id="3190100">Espadón de gárgola pesado</text>
+<text id="3190200">Espadón de gárgola ligero</text>
+<text id="3190300">Espadón de gárgola de calidad</text>
+<text id="3190400">Espadón de gárgola ígneo</text>
+<text id="3190500">Espadón de gárgola llameante</text>
+<text id="3190600">Espadón de gárgola fulgurante</text>
+<text id="3190700">Espadón de gárgola sagrado</text>
+<text id="3190800">Espadón de gárgola mágico</text>
+<text id="3190900">Espadón de gárgola frío</text>
+<text id="3191000">Espadón de gárgola venenoso</text>
+<text id="3191100">Espadón de gárgola sangriento</text>
+<text id="3191200">Espadón de gárgola oculto</text>
+<text id="3200000">Punzadora letal</text>
+<text id="3210000">Hoja negra de gárgola</text>
+<text id="3210100">Chaleco de los seguidores de las aves letales.</text>
+<text id="3210200">Capucha del heraldo de la muerte Jerren.</text>
+<text id="3210300">Armadura del heraldo de la muerte Jerren.</text>
+<text id="3210400">Guanteletes del heraldo de la muerte Jerren.</text>
+<text id="3210500">Medias del heraldo de la muerte Jerren.</text>
+<text id="3210600">Una hechicería de piedras refulgentes antigua y olvidada que utilizaban aquellos desgraciados que vagaban por ruinas subterráneas.
+
+Produce varias burbujas mágicas que vagan hasta explotar de forma natural.
+Estas burbujas duran un poco más si el hechizo se carga.</text>
+<text id="3210700">Casco deformado de un caballero enloquecido.</text>
+<text id="3210800">Armadura deformada de un caballero enloquecido.</text>
+<text id="3210900">Un encantamiento de los monjes ígneos, guardianes de la llama de la perdición de los gigantes.
+
+Enciende momentáneamente una llama crepitante en las manos del invocador.
+Este encantamiento puede lanzarse rápidamente después de carreras, de esquivas rodando y de otras maniobras.</text>
+<text id="3211000">Grebas deformadas de un caballero enloquecido.</text>
+<text id="3211100">Un encantamiento de los monjes ígneos, guardianes de la llama de la perdición de los gigantes.
+
+Crea y lanza una bola de un fuego voraz.
+Este encantamiento es más poderoso si se carga y hace que la bola explote.
+
+El fuego seduce a aquel que lo mira.
+Aquellos que custodian la llama también llegan a adorarla.</text>
+<text id="3211200">Una invocación sagrada visualizada por Gurranq, el Clérigo Bestia.
+
+Crea garras de bestia que despedazan la tierra.
+
+
+Antaño, las bestias poseían intelecto y dominaron su era.
+Se dice que el regente de Godfrey, el primer señor del Círculo, desciende de ellas.
+</text>
+<text id="4000000">Espadón</text>
+<text id="4000100">Espadón pesado</text>
+<text id="4000200">Espadón ligero</text>
+<text id="4000300">Espadón de calidad</text>
+<text id="4000400">Espadón ígneo</text>
+<text id="4000500">Espadón llameante</text>
+<text id="4000600">Espadón fulgurante</text>
+<text id="4000700">Espadón sagrado</text>
+<text id="4000800">Espadón mágico</text>
+<text id="4000900">Espadón frío</text>
+<text id="4001000">Espadón venenoso</text>
+<text id="4001100">Espadón sangriento</text>
+<text id="4001200">Espadón oculto</text>
+<text id="4010000">Espadón de perro guardián</text>
+<text id="4010100">Espadón de perro guardián pesado</text>
+<text id="4010200">Espadón de perro guardián ligero</text>
+<text id="4010300">Espadón de perro guardián de calidad</text>
+<text id="4010400">Espadón de perro guardián ígneo</text>
+<text id="4010500">Espadón de perro guardián llameante</text>
+<text id="4010600">Espadón de perro guardián fulgurante</text>
+<text id="4010700">Espadón de perro guardián sagrado</text>
+<text id="4010800">Espadón de perro guardián mágico</text>
+<text id="4010900">Espadón de perro guardián frío</text>
+<text id="4011000">Espadón de perro guardián venenoso</text>
+<text id="4011100">Espadón de perro guardián sangriento</text>
+<text id="4011200">Espadón de perro guardián oculto</text>
+<text id="4020000">Hoja negra de Maliketh</text>
+<text id="4030000">Espada dorada de trol</text>
+<text id="4030100">Espada dorada de trol pesada</text>
+<text id="4030200">Espada dorada de trol ligera</text>
+<text id="4030300">Espada dorada de trol de calidad</text>
+<text id="4030400">Espada dorada de trol ígnea</text>
+<text id="4030500">Espada dorada de trol llameante</text>
+<text id="4030600">Espada dorada de trol fulgurante</text>
+<text id="4030700">Espada dorada de trol sagrada</text>
+<text id="4030800">Espada dorada de trol mágica</text>
+<text id="4030900">Espada dorada de trol fría</text>
+<text id="4031000">Espada dorada de trol venenosa</text>
+<text id="4031100">Espada dorada de trol sangrienta</text>
+<text id="4031200">Espada oculta dorada de trol</text>
+<text id="4040000">Mandoble</text>
+<text id="4040100">Mandoble pesado</text>
+<text id="4040200">Mandoble ligero</text>
+<text id="4040300">Mandoble de calidad</text>
+<text id="4040400">Mandoble ígneo</text>
+<text id="4040500">Mandoble llameante</text>
+<text id="4040600">Mandoble fulgurante</text>
+<text id="4040700">Mandoble sagrado</text>
+<text id="4040800">Mandoble mágico</text>
+<text id="4040900">Mandoble frío</text>
+<text id="4041000">Mandoble venenoso</text>
+<text id="4041100">Mandoble sangriento</text>
+<text id="4041200">Mandoble oculto</text>
+<text id="4050000">Espadón del Azote de las Estrellas</text>
+<text id="4060000">Espadón regio</text>
+<text id="4070000">Espadón del exterminador de dioses</text>
+<text id="4080000">Espadón de ruinas</text>
+<text id="4100000">Espadón de hoja injertada</text>
+<text id="4110000">Espada de caballero trol</text>
+<text id="5000000">Ropera</text>
+<text id="5000100">Ropera pesada</text>
+<text id="5000200">Ropera ligera</text>
+<text id="5000300">Ropera de calidad</text>
+<text id="5000400">Ropera ígnea</text>
+<text id="5000500">Ropera llameante</text>
+<text id="5000600">Ropera fulgurante</text>
+<text id="5000700">Ropera sagrada</text>
+<text id="5000800">Ropera mágica</text>
+<text id="5000900">Ropera fría</text>
+<text id="5001000">Ropera venenosa</text>
+<text id="5001100">Ropera sangrienta</text>
+<text id="5001200">Ropera oculta</text>
+<text id="5010000">Espada de caballero imputrescible</text>
+<text id="5010100">Espada de caballero imputrescible pesada</text>
+<text id="5010200">Espada de caballero imputrescible ligera</text>
+<text id="5010300">Espada de cab. imputrescible de calidad</text>
+<text id="5010400">Espada de caballero imputrescible ígnea</text>
+<text id="5010500">Espada de caballero imputr. llameante</text>
+<text id="5010600">Espada de cab. imputrescible fulgurante</text>
+<text id="5010700">Espada de caballero imputrescible sagrada</text>
+<text id="5010800">Espada de caballero imputrescible mágica</text>
+<text id="5010900">Espada de caballero imputrescible fría</text>
+<text id="5011000">Espada de caballero imputrescible venenosa</text>
+<text id="5011100">Espada de cab. imputrescible sangrienta</text>
+<text id="5011200">Espada de caballero imputrescible oculta</text>
+<text id="5020000">Estoque</text>
+<text id="5020100">Estoque pesado</text>
+<text id="5020200">Estoque ligero</text>
+<text id="5020300">Estoque de calidad</text>
+<text id="5020400">Estoque ígneo</text>
+<text id="5020500">Estoque llameante</text>
+<text id="5020600">Estoque fulgurante</text>
+<text id="5020700">Estoque sagrado</text>
+<text id="5020800">Estoque mágico</text>
+<text id="5020900">Estoque frío</text>
+<text id="5021000">Estoque venenoso</text>
+<text id="5021100">Estoque sangriento</text>
+<text id="5021200">Estoque oculto</text>
+<text id="5030000">Estoque de Rogier</text>
+<text id="5030100">Estoque de Rogier pesado</text>
+<text id="5030200">Estoque de Rogier ligero</text>
+<text id="5030300">Estoque de Rogier de calidad</text>
+<text id="5030400">Estoque de Rogier ígneo</text>
+<text id="5030500">Estoque de Rogier llameante</text>
+<text id="5030600">Estoque de Rogier fulgurante</text>
+<text id="5030700">Estoque de Rogier sagrado</text>
+<text id="5030800">Estoque de Rogier mágico</text>
+<text id="5030900">Estoque de Rogier frío</text>
+<text id="5031000">Estoque de Rogier venenoso</text>
+<text id="5031100">Estoque de Rogier sangriento</text>
+<text id="5031200">Estoque de Rogier oculto</text>
+<text id="5040000">Estoque de aguijón hormigoso</text>
+<text id="5040100">Estoque de aguijón hormigoso pesado</text>
+<text id="5040200">Estoque de aguijón hormigoso ligero</text>
+<text id="5040300">Estoque de aguijón hormigoso de calidad</text>
+<text id="5040400">Estoque de aguijón hormigoso ígneo</text>
+<text id="5040500">Estoque de aguijón hormigoso llameante</text>
+<text id="5040600">Estoque de aguijón hormigoso fulgurante</text>
+<text id="5040700">Estoque de aguijón hormigoso sagrado</text>
+<text id="5040800">Estoque de aguijón hormigoso mágico</text>
+<text id="5040900">Estoque de aguijón hormigoso frío</text>
+<text id="5041000">Estoque de aguijón hormigoso venenoso</text>
+<text id="5041100">Estoque de aguijón hormigoso sangriento</text>
+<text id="5041200">Estoque de aguijón hormigoso oculto</text>
+<text id="5050000">Aguja congelada</text>
+<text id="5060000">Ropera de noble</text>
+<text id="5060100">Ropera de noble pesada</text>
+<text id="5060200">Ropera de noble ligera</text>
+<text id="5060300">Ropera de noble de calidad</text>
+<text id="5060400">Ropera de noble ígnea</text>
+<text id="5060500">Ropera de noble llameante</text>
+<text id="5060600">Ropera de noble fulgurante</text>
+<text id="5060700">Ropera de noble sagrada</text>
+<text id="5060800">Ropera de noble mágica</text>
+<text id="5060900">Ropera de noble fría</text>
+<text id="5061000">Ropera de noble venenosa</text>
+<text id="5061100">Ropera de noble sangrienta</text>
+<text id="5061200">Ropera de noble oculta</text>
+<text id="6000000">Hélice sangrienta</text>
+<text id="6010000">Punzadora sacroderma</text>
+<text id="6010100">Punzadora sacroderma pesada</text>
+<text id="6010200">Punzadora sacroderma ligera</text>
+<text id="6010300">Punzadora sacroderma de calidad</text>
+<text id="6010400">Punzadora sacroderma ígnea</text>
+<text id="6010500">Punzadora sacroderma llameante</text>
+<text id="6010600">Punzadora sacroderma fulgurante</text>
+<text id="6010700">Punzadora sacroderma sagrada</text>
+<text id="6010800">Punzadora sacroderma mágica</text>
+<text id="6010900">Punzadora sacroderma fría</text>
+<text id="6011000">Punzadora sacroderma venenosa</text>
+<text id="6011100">Punzadora sacroderma sangrienta</text>
+<text id="6011200">Punzadora sacroderma oculta</text>
+<text id="6020000">Gran Épée</text>
+<text id="6020100">Gran Épée pesada</text>
+<text id="6020200">Gran Épée ligera</text>
+<text id="6020300">Gran Épée de calidad</text>
+<text id="6020400">Gran Épée ígnea</text>
+<text id="6020500">Gran Épée llameante</text>
+<text id="6020600">Gran Épée fulgurante</text>
+<text id="6020700">Gran Épée sagrada</text>
+<text id="6020800">Gran Épée mágica</text>
+<text id="6020900">Gran Épée fría</text>
+<text id="6021000">Gran Épée venenosa</text>
+<text id="6021100">Gran Épée sangrienta</text>
+<text id="6021200">Gran Épée oculta</text>
+<text id="6040000">Hoja rocosa del rey dragón</text>
+<text id="7000000">Bracamarte</text>
+<text id="7000100">Bracamarte pesado</text>
+<text id="7000200">Bracamarte ligero</text>
+<text id="7000300">Bracamarte de calidad</text>
+<text id="7000400">Bracamarte ígneo</text>
+<text id="7000500">Bracamarte llameante</text>
+<text id="7000600">Bracamarte fulgurante</text>
+<text id="7000700">Bracamarte sagrado</text>
+<text id="7000800">Bracamarte mágico</text>
+<text id="7000900">Bracamarte frío</text>
+<text id="7001000">Bracamarte venenoso</text>
+<text id="7001100">Bracamarte sangriento</text>
+<text id="7001200">Bracamarte oculto</text>
+<text id="7010000">Espada curva del hombre bestia</text>
+<text id="7010100">Espada curva del hombre bestia pesada</text>
+<text id="7010200">Espada curva del hombre bestia ligera</text>
+<text id="7010300">Espada curva del hombre bestia de calidad</text>
+<text id="7010400">Espada curva del hombre bestia ígnea</text>
+<text id="7010500">Espada curva del hombre bestia llameante</text>
+<text id="7010600">Espada curva del hombre bestia fulgurante</text>
+<text id="7010700">Espada curva del hombre bestia sagrada</text>
+<text id="7010800">Espada curva del hombre bestia mágica</text>
+<text id="7010900">Espada curva del hombre bestia fría</text>
+<text id="7011000">Espada curva del hombre bestia venenosa</text>
+<text id="7011100">Espada curva del hombre bestia sangrienta</text>
+<text id="7011200">Espada curva del hombre bestia oculta</text>
+<text id="7020000">Shotel</text>
+<text id="7020100">Shotel pesado</text>
+<text id="7020200">Shotel ligero</text>
+<text id="7020300">Shotel de calidad</text>
+<text id="7020400">Shotel ígneo</text>
+<text id="7020500">Shotel llameante</text>
+<text id="7020600">Shotel fulgurante</text>
+<text id="7020700">Shotel sagrado</text>
+<text id="7020800">Shotel mágico</text>
+<text id="7020900">Shotel frío</text>
+<text id="7021000">Shotel venenoso</text>
+<text id="7021100">Shotel sangriento</text>
+<text id="7021200">Shotel oculto</text>
+<text id="7030000">Shamsir</text>
+<text id="7030100">Shamsir pesado</text>
+<text id="7030200">Shamsir ligero</text>
+<text id="7030300">Shamsir de calidad</text>
+<text id="7030400">Shamsir ígneo</text>
+<text id="7030500">Shamsir llameante</text>
+<text id="7030600">Shamsir fulgurante</text>
+<text id="7030700">Shamsir sagrado</text>
+<text id="7030800">Shamsir mágico</text>
+<text id="7030900">Shamsir frío</text>
+<text id="7031000">Shamsir venenoso</text>
+<text id="7031100">Shamsir sangriento</text>
+<text id="7031200">Shamsir oculto</text>
+<text id="7040000">Espada curva de bandido</text>
+<text id="7040100">Espada curva de bandido pesada</text>
+<text id="7040200">Espada curva de bandido ligera</text>
+<text id="7040300">Espada curva de bandido de calidad</text>
+<text id="7040400">Espada curva de bandido ígnea</text>
+<text id="7040500">Espada curva de bandido llameante</text>
+<text id="7040600">Espada curva de bandido fulgurante</text>
+<text id="7040700">Espada curva de bandido sagrada</text>
+<text id="7040800">Espada curva de bandido mágica</text>
+<text id="7040900">Espada curva de bandido fría</text>
+<text id="7041000">Espada curva de bandido venenosa</text>
+<text id="7041100">Espada curva de bandido sangrienta</text>
+<text id="7041200">Espada curva de bandido oculta</text>
+<text id="7050000">Hoja de magma</text>
+<text id="7060000">Espada fluvimorfa</text>
+<text id="7060100">Espada fluvimorfa pesada</text>
+<text id="7060200">Espada fluvimorfa ligera</text>
+<text id="7060300">Espada fluvimorfa de calidad</text>
+<text id="7060400">Espada fluvimorfa ígnea</text>
+<text id="7060500">Espada fluvimorfa llameante</text>
+<text id="7060600">Espada fluvimorfa fulgurante</text>
+<text id="7060700">Espada fluvimorfa sagrada</text>
+<text id="7060800">Espada fluvimorfa mágica</text>
+<text id="7060900">Espada fluvimorfa fría</text>
+<text id="7061000">Espada fluvimorfa venenosa</text>
+<text id="7061100">Espada fluvimorfa sangrienta</text>
+<text id="7061200">Espada fluvimorfa oculta</text>
+<text id="7070000">Ala de Astel</text>
+<text id="7080000">Espada curva de saqueador</text>
+<text id="7080100">Espada curva de saqueador pesada</text>
+<text id="7080200">Espada curva de saqueador ligera</text>
+<text id="7080300">Espada curva de saqueador de calidad</text>
+<text id="7080400">Espada curva de saqueador ígnea</text>
+<text id="7080500">Espada curva de saqueador llameante</text>
+<text id="7080600">Espada curva de saqueador fulgurante</text>
+<text id="7080700">Espada curva de saqueador sagrada</text>
+<text id="7080800">Espada curva de saqueador mágica</text>
+<text id="7080900">Espada curva de saqueador fría</text>
+<text id="7081000">Espada curva de saqueador venenosa</text>
+<text id="7081100">Espada curva de saqueador sangrienta</text>
+<text id="7081200">Espada curva de saqueador oculta</text>
+<text id="7090000">Al usarla (rápido), se añade veneno a los ataques.</text>
+<text id="7090100">%null%</text>
+<text id="7090200">%null%</text>
+<text id="7090300">%null%</text>
+<text id="7090400">%null%</text>
+<text id="7090500">%null%</text>
+<text id="7090600">%null%</text>
+<text id="7090700">%null%</text>
+<text id="7090800">%null%</text>
+<text id="7090900">%null%</text>
+<text id="7091000">%null%</text>
+<text id="7091100">%null%</text>
+<text id="7091200">%null%</text>
+<text id="7100000">Shotel del eclipse</text>
+<text id="7110000">Espada curva de dios serpiente</text>
+<text id="7110100">Espada curva de dios serpiente pesada</text>
+<text id="7110200">Espada curva de dios serpiente ligera</text>
+<text id="7110300">Espada curva de dios serpiente de calidad</text>
+<text id="7110400">Espada curva de dios serpiente ígnea</text>
+<text id="7110500">Espada curva de dios serpiente llameante</text>
+<text id="7110600">Espada curva de dios serpiente fulgurante</text>
+<text id="7110700">Espada curva de dios serpiente sagrada</text>
+<text id="7110800">Espada curva de dios serpiente mágica</text>
+<text id="7110900">Espada curva de dios serpiente fría</text>
+<text id="7111000">Espada curva de dios serpiente venenosa</text>
+<text id="7111100">Espada curva de dios serpiente sangrienta</text>
+<text id="7111200">Espada curva de dios serpiente oculta</text>
+<text id="7120000">Hoja de mantis</text>
+<text id="7120100">Hoja de mantis pesada</text>
+<text id="7120200">Hoja de mantis ligera</text>
+<text id="7120300">Hoja de mantis de calidad</text>
+<text id="7120400">Hoja de mantis ígnea</text>
+<text id="7120500">Hoja de mantis llameante</text>
+<text id="7120600">Hoja de mantis fulgurante</text>
+<text id="7120700">Hoja de mantis sagrada</text>
+<text id="7120800">Hoja de mantis mágica</text>
+<text id="7120900">Hoja de mantis fría</text>
+<text id="7121000">Hoja de mantis venenosa</text>
+<text id="7121100">Hoja de mantis sangrienta</text>
+<text id="7121200">Hoja de mantis oculta</text>
+<text id="7140000">Cimitarra</text>
+<text id="7140100">Cimitarra pesada</text>
+<text id="7140200">Cimitarra ligera</text>
+<text id="7140300">Cimitarra de calidad</text>
+<text id="7140400">Cimitarra ígnea</text>
+<text id="7140500">Cimitarra llameante</text>
+<text id="7140600">Cimitarra fulgurante</text>
+<text id="7140700">Cimitarra sagrada</text>
+<text id="7140800">Cimitarra mágica</text>
+<text id="7140900">Cimitarra fría</text>
+<text id="7141000">Cimitarra venenosa</text>
+<text id="7141100">Cimitarra sangrienta</text>
+<text id="7141200">Cimitarra oculta</text>
+<text id="7150000">Grosse messer</text>
+<text id="7150100">Grosse messer pesado</text>
+<text id="7150200">Grosse messer ligero</text>
+<text id="7150300">Grosse messer de calidad</text>
+<text id="7150400">Grosse messer ígneo</text>
+<text id="7150500">Grosse messer llameante</text>
+<text id="7150600">Grosse messer fulgurante</text>
+<text id="7150700">Grosse messer sagrado</text>
+<text id="7150800">Grosse messer mágico</text>
+<text id="7150900">Grosse messer frío</text>
+<text id="7151000">Grosse messer venenoso</text>
+<text id="7151100">Grosse messer sangriento</text>
+<text id="7151200">Grosse messer oculto</text>
+<text id="8010000">Espadón de Señor de ónice</text>
+<text id="8020000">Desmontadora</text>
+<text id="8020100">Desmontadora pesada</text>
+<text id="8020200">Desmontadora ligera</text>
+<text id="8020300">Desmontadora de calidad</text>
+<text id="8020400">Desmontadora ígnea</text>
+<text id="8020500">Desmontadora llameante</text>
+<text id="8020600">Desmontadora fulgurante</text>
+<text id="8020700">Desmontadora sagrada</text>
+<text id="8020800">Desmontadora mágica</text>
+<text id="8020900">Desmontadora fría</text>
+<text id="8021000">Desmontadora venenosa</text>
+<text id="8021100">Desmontadora sangrienta</text>
+<text id="8021200">Desmontadora oculta</text>
+<text id="8030000">Colmillo de sabueso</text>
+<text id="8030100">Colmillo de sabueso pesado</text>
+<text id="8030200">Colmillo de sabueso ligero</text>
+<text id="8030300">Colmillo de sabueso de calidad</text>
+<text id="8030400">Colmillo de sabueso ígneo</text>
+<text id="8030500">Colmillo de sabueso llameante</text>
+<text id="8030600">Colmillo de sabueso fulgurante</text>
+<text id="8030700">Colmillo de sabueso sagrado</text>
+<text id="8030800">Colmillo de sabueso mágico</text>
+<text id="8030900">Colmillo de sabueso frío</text>
+<text id="8031000">Colmillo de sabueso venenoso</text>
+<text id="8031100">Colmillo de sabueso sangriento</text>
+<text id="8031200">Colmillo de sabueso oculto</text>
+<text id="8040000">Espada de escamas de dragón de magma</text>
+<text id="8050000">Espada curva de Zamor</text>
+<text id="8060000">Machete de augurio</text>
+<text id="8060100">Machete de augurio pesado</text>
+<text id="8060200">Machete de augurio ligero</text>
+<text id="8060300">Machete de augurio de calidad</text>
+<text id="8060400">Machete de augurio ígneo</text>
+<text id="8060500">Machete de augurio llameante</text>
+<text id="8060600">Machete de augurio fulgurante</text>
+<text id="8060700">Machete de augurio sagrado</text>
+<text id="8060800">Machete de augurio mágico</text>
+<text id="8060900">Machete de augurio frío</text>
+<text id="8061000">Machete de augurio venenoso</text>
+<text id="8061100">Machete de augurio sangriento</text>
+<text id="8061200">Machete de augurio oculto</text>
+<text id="8070000">Hoja llameante de monje</text>
+<text id="8070100">Hoja llameante de monje pesada</text>
+<text id="8070200">Hoja llameante de monje ligera</text>
+<text id="8070300">Hoja llameante de monje de calidad</text>
+<text id="8070400">Hoja llameante de monje ígnea</text>
+<text id="8070500">Hoja llameante de monje llameante</text>
+<text id="8070600">Hoja llameante de monje fulgurante</text>
+<text id="8070700">Hoja llameante de monje sagrada</text>
+<text id="8070800">Hoja llameante de monje mágica</text>
+<text id="8070900">Hoja llameante de monje fría</text>
+<text id="8071000">Hoja llameante de monje venenosa</text>
+<text id="8071100">Hoja llameante de monje sangrienta</text>
+<text id="8071200">Hoja llameante de monje oculta</text>
+<text id="8080000">Machete de hombre bestia</text>
+<text id="8080100">Machete de hombre bestia pesado</text>
+<text id="8080200">Machete de hombre bestia ligero</text>
+<text id="8080300">Machete de hombre bestia de calidad</text>
+<text id="8080400">Machete de hombre bestia ígneo</text>
+<text id="8080500">Machete de hombre bestia llameante</text>
+<text id="8080600">Machete de hombre bestia fulgurante</text>
+<text id="8080700">Machete de hombre bestia sagrado</text>
+<text id="8080800">Machete de hombre bestia mágico</text>
+<text id="8080900">Machete de hombre bestia frío</text>
+<text id="8081000">Machete de hombre bestia venenoso</text>
+<text id="8081100">Machete de hombre bestia sangriento</text>
+<text id="8081200">Machete de hombre bestia oculto</text>
+<text id="8100000">Espada maldita de Morgott</text>
+<text id="8110000">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110100">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110200">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110300">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110400">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110500">Un gesto desdeñoso.</text>
+<text id="8110600">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110700">Súplica desesperada</text>
+<text id="8110800">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8110900">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8111000">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8111100">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="8111200">Catana grande usada por los monjes ígneos del gigante.
+Posee un filo muy característico y está decorada
+con un motivo de llamas centelleantes.</text>
+<text id="9000000">Uchigatana</text>
+<text id="9000100">Uchigatana pesada</text>
+<text id="9000200">Uchigatana ligera</text>
+<text id="9000300">Uchigatana de calidad</text>
+<text id="9000400">Uchigatana ígnea</text>
+<text id="9000500">Uchigatana llameante</text>
+<text id="9000600">Uchigatana fulgurante</text>
+<text id="9000700">Uchigatana sagrada</text>
+<text id="9000800">Uchigatana mágica</text>
+<text id="9000900">Uchigatana fría</text>
+<text id="9001000">Uchigatana venenosa</text>
+<text id="9001100">Uchigatana sangrienta</text>
+<text id="9001200">Uchigatana oculta</text>
+<text id="9010000">Nagakiba</text>
+<text id="9010100">Nagakiba pesada</text>
+<text id="9010200">Nagakiba ligera</text>
+<text id="9010300">Nagakiba de calidad</text>
+<text id="9010400">Nagakiba ígnea</text>
+<text id="9010500">Nagakiba llameante</text>
+<text id="9010600">Nagakiba fulgurante</text>
+<text id="9010700">Nagakiba sagrada</text>
+<text id="9010800">Nagakiba mágica</text>
+<text id="9010900">Nagakiba fría</text>
+<text id="9011000">Nagakiba venenosa</text>
+<text id="9011100">Nagakiba sangrienta</text>
+<text id="9011200">Nagakiba oculta</text>
+<text id="9020000">Mano de Malenia</text>
+<text id="9030000">Hoja de mineral de meteorito</text>
+<text id="9030100">Hoja de mineral de meteorito pesada</text>
+<text id="9030200">Hoja de mineral de meteorito ligera</text>
+<text id="9030300">Hoja de mineral de meteorito de calidad</text>
+<text id="9030400">Hoja de mineral de meteorito ígnea</text>
+<text id="9030500">Hoja de mineral de meteorito llameante</text>
+<text id="9030600">Hoja de mineral de meteorito fulgurante</text>
+<text id="9030700">Hoja de mineral de meteorito sagrada</text>
+<text id="9030800">Hoja de mineral de meteorito mágica</text>
+<text id="9030900">Hoja de mineral de meteorito fría</text>
+<text id="9031000">Hoja de mineral de meteorito venenosa</text>
+<text id="9031100">Hoja de mineral de meteorito sangrienta</text>
+<text id="9031200">Hoja de mineral de meteorito oculta</text>
+<text id="9040000">Ríos de sangre</text>
+<text id="9060000">Velo lunar</text>
+<text id="9070000">Hoja Escama de Dragón</text>
+<text id="9080000">Hoja de hueso de serpiente</text>
+<text id="9080100">Hoja de hueso de serpiente pesada</text>
+<text id="9080200">Hoja de hueso de serpiente ligera</text>
+<text id="9080300">Hoja de hueso de serpiente de calidad</text>
+<text id="9080400">Hoja de hueso de serpiente ígnea</text>
+<text id="9080500">Hoja de hueso de serpiente llameante</text>
+<text id="9080600">Hoja de hueso de serpiente fulgurante</text>
+<text id="9080700">Hoja de hueso de serpiente sagrada</text>
+<text id="9080800">Hoja de hueso de serpiente mágica</text>
+<text id="9080900">Hoja de hueso de serpiente fría</text>
+<text id="9081000">Hoja de hueso de serpiente venenosa</text>
+<text id="9081100">Hoja de hueso de serpiente sangrienta</text>
+<text id="9081200">Hoja de hueso de serpiente oculta</text>
+<text id="10000000">Hoja doble</text>
+<text id="10000100">Hoja doble pesada</text>
+<text id="10000200">Hoja doble ligera</text>
+<text id="10000300">Hoja doble de calidad</text>
+<text id="10000400">Hoja doble ígnea</text>
+<text id="10000500">Hoja doble llameante</text>
+<text id="10000600">Hoja doble fulgurante</text>
+<text id="10000700">Hoja doble sagrada</text>
+<text id="10000800">Hoja doble mágica</text>
+<text id="10000900">Hoja doble fría</text>
+<text id="10001000">Hoja doble venenosa</text>
+<text id="10001100">Hoja doble sangrienta</text>
+<text id="10001200">Hoja doble oculta</text>
+<text id="10010000">Desollador sacrodermo</text>
+<text id="10010100">Desollador sacrodermo pesado</text>
+<text id="10010200">Desollador sacrodermo ligero</text>
+<text id="10010300">Desollador sacrodermo de calidad</text>
+<text id="10010400">Desollador sacrodermo ígneo</text>
+<text id="10010500">Desollador sacrodermo llameante</text>
+<text id="10010600">Desollador sacrodermo fulgurante</text>
+<text id="10010700">Desollador sacrodermo sagrado</text>
+<text id="10010800">Desollador sacrodermo mágico</text>
+<text id="10010900">Desollador sacrodermo frío</text>
+<text id="10011000">Desollador sacrodermo venenoso</text>
+<text id="10011100">Desollador sacrodermo sangriento</text>
+<text id="10011200">Desollador sacrodermo oculto</text>
+<text id="10030000">Espadas gemelas de caballero</text>
+<text id="10030100">Espadas gemelas de caballero pesadas</text>
+<text id="10030200">Espadas gemelas de caballero ligeras</text>
+<text id="10030300">Espadas gemelas de caballero de calidad</text>
+<text id="10030400">Espadas gemelas de caballero ígneas</text>
+<text id="10030500">Espadas gemelas de caballero llameantes</text>
+<text id="10030600">Espadas gemelas de caballero fulgurantes</text>
+<text id="10030700">Espadas gemelas de caballero sagradas</text>
+<text id="10030800">Espadas gemelas de caballero mágicas</text>
+<text id="10030900">Espadas gemelas de caballero frías</text>
+<text id="10031000">Espadas gemelas de caballero venenosas</text>
+<text id="10031100">Espadas gemelas de caballero sangrientas</text>
+<text id="10031200">Espadas gemelas de caballero ocultas</text>
+<text id="10050000">Hoja enastada de Eleonora</text>
+<text id="10060000">Hoja doble que simboliza a los gemelos Miquella y Malenia.
+Miquella y su hermana nacieron
+fruto de un inseparable destino.
+
+Las hojas contienen las runas
+de la Abundancia y la Podredumbre.</text>
+<text id="10070000">Invocar espíritus</text>
+<text id="10080000">Hoja doble de gárgola</text>
+<text id="10080100">Hoja doble de gárgola pesada</text>
+<text id="10080200">Hoja doble de gárgola ligera</text>
+<text id="10080300">Hoja doble de gárgola de calidad</text>
+<text id="10080400">Hoja doble de gárgola ígnea</text>
+<text id="10080500">Hoja doble de gárgola llameante</text>
+<text id="10080600">Hoja doble de gárgola fulgurante</text>
+<text id="10080700">Hoja doble de gárgola sagrada</text>
+<text id="10080800">Hoja doble de gárgola mágica</text>
+<text id="10080900">Hoja doble de gárgola fría</text>
+<text id="10081000">Hoja doble de gárgola venenosa</text>
+<text id="10081100">Hoja doble de gárgola sangrienta</text>
+<text id="10081200">Hoja doble de gárgola oculta</text>
+<text id="10090000">Hojas negras de gárgola</text>
+<text id="10090100">Hojas negras de gárgola pesadas</text>
+<text id="10090200">Hojas negras de gárgola ligeras</text>
+<text id="10090300">Hojas negras de gárgola de calidad</text>
+<text id="10090400">Hojas negras de gárgola ígneas</text>
+<text id="10090500">Hojas negras de gárgola llameantes</text>
+<text id="10090600">Hojas negras de gárgola fulgurantes</text>
+<text id="10090700">Hojas negras de gárgola sagradas</text>
+<text id="10090800">Hojas negras de gárgola mágicas</text>
+<text id="10090900">Hojas negras de gárgola frías</text>
+<text id="10091000">Hojas negras de gárgola venenosas</text>
+<text id="10091100">Hojas negras de gárgola sangrientas</text>
+<text id="10091200">Hojas negras de gárgola ocultas</text>
+<text id="11000000">Maza</text>
+<text id="11000100">Maza pesada</text>
+<text id="11000200">Maza ligera</text>
+<text id="11000300">Maza de calidad</text>
+<text id="11000400">Maza ígnea</text>
+<text id="11000500">Maza llameante</text>
+<text id="11000600">Maza fulgurante</text>
+<text id="11000700">Maza sagrada</text>
+<text id="11000800">Maza mágica</text>
+<text id="11000900">Maza fría</text>
+<text id="11001000">Maza venenosa</text>
+<text id="11001100">Maza sangrienta</text>
+<text id="11001200">Maza oculta</text>
+<text id="11010000">Garrote</text>
+<text id="11010100">Garrote pesado</text>
+<text id="11010200">Garrote ligero</text>
+<text id="11010300">Garrote de calidad</text>
+<text id="11010400">Garrote ígneo</text>
+<text id="11010500">Garrote llameante</text>
+<text id="11010600">Garrote fulgurante</text>
+<text id="11010700">Garrote sagrado</text>
+<text id="11010800">Garrote mágico</text>
+<text id="11010900">Garrote frío</text>
+<text id="11011000">Garrote envenenado</text>
+<text id="11011100">Garrote sangriento</text>
+<text id="11011200">Garrote oculto</text>
+<text id="11030000">Garrote curvo</text>
+<text id="11030100">Garrote curvo pesado</text>
+<text id="11030200">Garrote curvo ligero</text>
+<text id="11030300">Garrote curvo de calidad</text>
+<text id="11030400">Garrote curvo ígneo</text>
+<text id="11030500">Garrote curvo llameante</text>
+<text id="11030600">Garrote curvo fulgurante</text>
+<text id="11030700">Garrote curvo sagrado</text>
+<text id="11030800">Garrote curvo mágico</text>
+<text id="11030900">Garrote curvo frío</text>
+<text id="11031000">Garrote curvo venenoso</text>
+<text id="11031100">Garrote curvo sangriento</text>
+<text id="11031200">Garrote curvo oculto</text>
+<text id="11040000">Pico de guerra</text>
+<text id="11040100">Pico de guerra pesado</text>
+<text id="11040200">Pico de guerra ligero</text>
+<text id="11040300">Pico de guerra de calidad</text>
+<text id="11040400">Pico de guerra ígneo</text>
+<text id="11040500">Pico de guerra llameante</text>
+<text id="11040600">Pico de guerra fulgurante</text>
+<text id="11040700">Pico de guerra sagrado</text>
+<text id="11040800">Pico de guerra mágico</text>
+<text id="11040900">Pico de guerra frío</text>
+<text id="11041000">Pico de guerra venenoso</text>
+<text id="11041100">Pico de guerra sangriento</text>
+<text id="11041200">Pico de guerra oculto</text>
+<text id="11050000">Lucero del alba</text>
+<text id="11050100">Lucero del alba pesado</text>
+<text id="11050200">Lucero del alba ligero</text>
+<text id="11050300">Lucero del alba de calidad</text>
+<text id="11050400">Lucero del alba ígneo</text>
+<text id="11050500">Lucero del alba llameante</text>
+<text id="11050600">Lucero del alba fulgurante</text>
+<text id="11050700">Lucero del alba sagrado</text>
+<text id="11050800">Lucero del alba mágico</text>
+<text id="11050900">Lucero del alba frío</text>
+<text id="11051000">Lucero del alba venenoso</text>
+<text id="11051100">Lucero del alba sangriento</text>
+<text id="11051200">Lucero del alba oculto</text>
+<text id="11060000">Ramo de Varré</text>
+<text id="11060100">Ramo de Varré pesado</text>
+<text id="11060200">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060300">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060400">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060500">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060600">Vestigios de un antiguo estudio sobre la vida eterna.
+Este frasco vacío se repara a sí mismo al romperse.
+
+Recipiente necesario para crear objetos arrojadizos sellados en tarros.
+
+Sellados en su interior, tanto los materiales como el misticismo demostrarán sus efectos al lanzar el tarro.</text>
+<text id="11060700">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060800">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11060900">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11061000">Maza de acero parecida a un ramo de rosas.
+
+Las flores de su elaborado diseño
+están manchadas de rojo sangre,
+rasgo que le da el nombre de «maza de las rosas rojas».</text>
+<text id="11061100">Una semilla dorada encontrada al pie de un árbol ilusorio.
+
+Aumenta los usos de un vial sagrado.
+(Se puede usar tras descansar en un lugar de Gracia).
+
+Cuando el Círculo de Elden fue destruido, estas semillas salieron volando desde el Árbol Áureo y se desperdigaron por las diferentes tierras, como si la vida misma supiera que su final había llegado.</text>
+<text id="11061200">Bendición del Árbol Áureo, al que se venera en iglesias de todas las tierras. Esta no es más que un tenue vestigio.
+
+Aumenta la potencia de los efectos restauradores del Vial Sagrado.
+(Se puede usar después de descansar en un lugar de Gracia).
+
+Durante la era del Árbol Áureo, estas lágrimas se utilizaban para difundir la fe, porque de ellos fue una vez una cierta bendición.</text>
+<text id="11070000">Garrote con pinchos</text>
+<text id="11070100">Garrote con pinchos pesado</text>
+<text id="11070200">Garrote con pinchos ligero</text>
+<text id="11070300">Garrote con pinchos de calidad</text>
+<text id="11070400">Garrote con pinchos ígneo</text>
+<text id="11070500">Garrote con pinchos llameante</text>
+<text id="11070600">Garrote con pinchos fulgurante</text>
+<text id="11070700">Garrote con pinchos sagrado</text>
+<text id="11070800">Garrote con pinchos mágico</text>
+<text id="11070900">Garrote con pinchos frío</text>
+<text id="11071000">Garrote con pinchos venenoso</text>
+<text id="11071100">Garrote con pinchos sangriento</text>
+<text id="11071200">Garrote con pinchos oculto</text>
+<text id="11080000">Martillo</text>
+<text id="11080100">Martillo pesado</text>
+<text id="11080200">Martillo ligero</text>
+<text id="11080300">Martillo de calidad</text>
+<text id="11080400">Martillo ígneo</text>
+<text id="11080500">Martillo llameante</text>
+<text id="11080600">Martillo fulgurante</text>
+<text id="11080700">Martillo sagrado</text>
+<text id="11080800">Martillo mágico</text>
+<text id="11080900">Martillo frío</text>
+<text id="11081000">Martillo venenoso</text>
+<text id="11081100">Martillo sangriento</text>
+<text id="11081200">Martillo oculto</text>
+<text id="11090000">Maza flamígera de monje</text>
+<text id="11090100">Maza flamígera de monje pesada</text>
+<text id="11090200">Maza flamígera de monje ligera</text>
+<text id="11090300">Maza flamígera de monje de calidad</text>
+<text id="11090400">Maza flamígera de monje ígnea</text>
+<text id="11090500">Maza flamígera de monje llameante</text>
+<text id="11090600">Maza flamígera de monje fulgurante</text>
+<text id="11090700">Maza flamígera de monje sagrada</text>
+<text id="11090800">Maza flamígera de monje mágica</text>
+<text id="11090900">Maza flamígera de monje fría</text>
+<text id="11091000">Maza flamígera de monje venenosa</text>
+<text id="11091100">Maza flamígera de monje sangrienta</text>
+<text id="11091200">Maza flamígera de monje oculta</text>
+<text id="11100000">Cuerno de emisario</text>
+<text id="11110000">Cetro del Omnisciente</text>
+<text id="11120000">Martillo fluctuante de Nox</text>
+<text id="11130000">Dedo anillado</text>
+<text id="11140000">Garrote de piedra</text>
+<text id="11140100">Garrote de piedra pesado</text>
+<text id="11140200">Garrote de piedra ligero</text>
+<text id="11140300">Garrote de piedra de calidad</text>
+<text id="11140400">Garrote de piedra ígneo</text>
+<text id="11140500">Garrote de piedra llameante</text>
+<text id="11140600">Garrote de piedra fulgurante</text>
+<text id="11140700">Garrote de piedra sagrado</text>
+<text id="11140800">Garrote de piedra mágico</text>
+<text id="11140900">Garrote de piedra frío</text>
+<text id="11141000">Garrote de piedra venenoso</text>
+<text id="11141100">Garrote de piedra sangriento</text>
+<text id="11141200">Garrote de piedra oculto</text>
+<text id="11150000">Martillo de Márika</text>
+<text id="11160000">Garrote de diseño sencillo, fabricado encajando piedra
+en un pedazo de madera.
+Su pequeño tamaño, en comparación con la mayoría de garrotes, hace que sea más fácil de blandir
+en el combate cuerpo a cuerpo.</text>
+<text id="11160100">Garrote de diseño sencillo, fabricado encajando piedra
+en un pedazo de madera.
+Su pequeño tamaño, en comparación con la mayoría de garrotes, hace que sea más fácil de blandir
+en el combate cuerpo a cuerpo.</text>
+<text id="11160200">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Provoca que el brebaje explote
+si se toma en una mezcla milagrosa.
+
+Un tipo de lágrima de cristal peligroso, ya que
+no posee ninguna cualidad medicinal.
+Para algunos, es una lección que se aprende por
+las malas: incluso la fe puede ser volátil.</text>
+<text id="11160300">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Provoca que el brebaje explote
+si se toma en una mezcla milagrosa.
+
+Un tipo de lágrima de cristal peligroso, ya que
+no posee ninguna cualidad medicinal.
+Para algunos, es una lección que se aprende por
+las malas: incluso la fe puede ser volátil.</text>
+<text id="11160400">Un tipo de lágrima de cristal que posee una
+superficie endurecida.
+
+Reduce temporalmente el aturdimiento
+si se toma en una mezcla milagrosa.</text>
+<text id="11160500">Garrote de diseño sencillo, fabricado encajando piedra
+en un pedazo de madera.
+Su pequeño tamaño, en comparación con la mayoría de garrotes, hace que sea más fácil de blandir
+en el combate cuerpo a cuerpo.</text>
+<text id="11160600">Un tipo especialmente raro de lágrima de cristal
+que envuelve una espiral carmesí oscura
+con una cápsula extremadamente fina.
+
+Convierte el daño recibido en PS
+si se toma en una mezcla milagrosa.
+
+Eso sí, el efecto solo ocurrirá una vez
+y el daño físico no se puede convertir.</text>
+<text id="11160700">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Aumenta temporalmente la fuerza
+si se toma en una mezcla milagrosa.
+
+Los nudos con aspecto de brote son la prueba
+de un crecimiento repentino y violento.</text>
+<text id="11160800">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Aumenta temporalmente la destreza
+si se toma en una mezcla milagrosa.
+
+Los nudos con aspecto de brote son la prueba
+de un crecimiento repentino y violento.</text>
+<text id="11160900">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Aumenta temporalmente la inteligencia
+si se toma en una mezcla milagrosa.
+
+Los nudos con aspecto de brote son la prueba
+de un crecimiento repentino y violento.</text>
+<text id="11161000">Una cristalización especial que se forma dentro
+de una lágrima de vida con el paso de muchas lunas.
+
+Aumenta temporalmente la fe
+si se toma en una mezcla milagrosa.
+
+Los nudos con aspecto de brote son la prueba
+de un crecimiento repentino y violento.</text>
+<text id="11161100">Garrote de diseño sencillo, fabricado encajando piedra
+en un pedazo de madera.
+Su pequeño tamaño, en comparación con la mayoría de garrotes, hace que sea más fácil de blandir
+en el combate cuerpo a cuerpo.</text>
+<text id="11161200">Martillo de guerra empuñado por Radagon.
+Esta arma forjada en la era de los dioses
+alberga un colosal poder mágico.</text>
+<text id="12000000">Garrote grande</text>
+<text id="12000100">Garrote grande pesado</text>
+<text id="12000200">Garrote grande ligero</text>
+<text id="12000300">Garrote grande de calidad</text>
+<text id="12000400">Garrote grande ígneo</text>
+<text id="12000500">Garrote grande llameante</text>
+<text id="12000600">Garrote grande fulgurante</text>
+<text id="12000700">Garrote grande sagrado</text>
+<text id="12000800">Garrote grande mágico</text>
+<text id="12000900">Garrote grande frío</text>
+<text id="12001000">Garrote grande venenoso</text>
+<text id="12001100">Garrote grande sangriento</text>
+<text id="12001200">Garrote grande oculto</text>
+<text id="12010000">Gran martillo de cuerno</text>
+<text id="12010100">Gran martillo de cuerno pesado</text>
+<text id="12010200">Gran martillo de cuerno ligero</text>
+<text id="12010300">Gran martillo de cuerno de calidad</text>
+<text id="12010400">Gran martillo de cuerno ígneo</text>
+<text id="12010500">Gran martillo de cuerno llameante</text>
+<text id="12010600">Gran martillo de cuerno fulgurante</text>
+<text id="12010700">Gran martillo de cuerno sagrado</text>
+<text id="12010800">Gran martillo de cuerno mágico</text>
+<text id="12010900">Gran martillo de cuerno frío</text>
+<text id="12011000">Gran martillo de cuerno venenoso</text>
+<text id="12011100">Gran martillo de cuerno sangriento</text>
+<text id="12011200">Gran martillo de cuerno oculto</text>
+<text id="12020000">Martillo de guerra</text>
+<text id="12020100">Martillo de guerra pesado</text>
+<text id="12020200">Martillo de guerra ligero</text>
+<text id="12020300">Martillo de guerra de calidad</text>
+<text id="12020400">Martillo de guerra ígneo</text>
+<text id="12020500">Martillo de guerra llameante</text>
+<text id="12020600">Martillo de guerra fulgurante</text>
+<text id="12020700">Martillo de guerra sagrado</text>
+<text id="12020800">Martillo de guerra mágico</text>
+<text id="12020900">Martillo de guerra frío</text>
+<text id="12021000">Martillo de guerra venenoso</text>
+<text id="12021100">Martillo de guerra sangriento</text>
+<text id="12021200">Martillo de guerra oculto</text>
+<text id="12060000">Gran maza</text>
+<text id="12060100">Gran maza pesada</text>
+<text id="12060200">Gran maza ligera</text>
+<text id="12060300">Gran maza de calidad</text>
+<text id="12060400">Gran maza ígnea</text>
+<text id="12060500">Gran maza llameante</text>
+<text id="12060600">Gran maza fulgurante</text>
+<text id="12060700">Gran maza sagrada</text>
+<text id="12060800">Gran maza mágica</text>
+<text id="12060900">Gran maza fría</text>
+<text id="12061000">Gran maza venenosa</text>
+<text id="12061100">Gran maza sangrienta</text>
+<text id="12061200">Gran maza oculta</text>
+<text id="12080000">Gran garrote curvo</text>
+<text id="12080100">Gran garrote curvo pesado</text>
+<text id="12080200">Gran garrote curvo ligero</text>
+<text id="12080300">Gran garrote curvo de calidad</text>
+<text id="12080400">Gran garrote curvo ígneo</text>
+<text id="12080500">Gran garrote curvo llameante</text>
+<text id="12080600">Gran garrote curvo fulgurante</text>
+<text id="12080700">Gran garrote curvo sagrado</text>
+<text id="12080800">Gran garrote curvo mágico</text>
+<text id="12080900">Gran garrote curvo frío</text>
+<text id="12081000">Gran garrote curvo venenoso</text>
+<text id="12081100">Gran garrote curvo sangriento</text>
+<text id="12081200">Gran garrote curvo oculto</text>
+<text id="12130000">Cráneo ceremonial</text>
+<text id="12130100">Cráneo ceremonial pesado</text>
+<text id="12130200">Cráneo ceremonial ligero</text>
+<text id="12130300">Cráneo ceremonial de calidad</text>
+<text id="12130400">Cráneo ceremonial ígneo</text>
+<text id="12130500">Cráneo ceremonial llameante</text>
+<text id="12130600">Cráneo ceremonial fulgurante</text>
+<text id="12130700">Cráneo ceremonial sagrado</text>
+<text id="12130800">Cráneo ceremonial mágico</text>
+<text id="12130900">Cráneo ceremonial frío</text>
+<text id="12131000">Cráneo ceremonial venenoso</text>
+<text id="12131100">Cráneo ceremonial sangriento</text>
+<text id="12131200">Cráneo ceremonial oculto</text>
+<text id="12140000">Piqueta</text>
+<text id="12140100">Piqueta pesada</text>
+<text id="12140200">Piqueta ligera</text>
+<text id="12140300">Piqueta de calidad</text>
+<text id="12140400">Piqueta ígnea</text>
+<text id="12140500">Piqueta llameante</text>
+<text id="12140600">Piqueta fulgurante</text>
+<text id="12140700">Piqueta sagrada</text>
+<text id="12140800">Piqueta mágica</text>
+<text id="12140900">Piqueta fría</text>
+<text id="12141000">Piqueta venenosa</text>
+<text id="12141100">Piqueta sangrienta</text>
+<text id="12141200">Piqueta oculta</text>
+<text id="12150000">Gran martillo de garras bestiales</text>
+<text id="12160000">Cuerno largo de emisario</text>
+<text id="12170000">Candelabro craneal</text>
+<text id="12180000">Gran lucero</text>
+<text id="12180100">Gran lucero pesado</text>
+<text id="12180200">Gran lucero ligero</text>
+<text id="12180300">Gran lucero de calidad</text>
+<text id="12180400">Gran lucero ígneo</text>
+<text id="12180500">Gran lucero llameante</text>
+<text id="12180600">Gran lucero fulgurante</text>
+<text id="12180700">Gran lucero sagrado</text>
+<text id="12180800">Gran lucero mágico</text>
+<text id="12180900">Gran lucero frío</text>
+<text id="12181000">Gran lucero venenoso</text>
+<text id="12181100">Gran lucero sangriento</text>
+<text id="12181200">Gran lucero oculto</text>
+<text id="12190000">Martillo de piedra</text>
+<text id="12190100">Martillo de piedra pesado</text>
+<text id="12190200">Martillo de piedra ligero</text>
+<text id="12190300">Martillo de piedra de calidad</text>
+<text id="12190400">Martillo de piedra ígneo</text>
+<text id="12190500">Martillo de piedra llameante</text>
+<text id="12190600">Martillo de piedra fulgurante</text>
+<text id="12190700">Martillo de piedra sagrado</text>
+<text id="12190800">Martillo de piedra mágico</text>
+<text id="12190900">Martillo de piedra frío</text>
+<text id="12191000">Martillo de piedra venenoso</text>
+<text id="12191100">Martillo de piedra sangriento</text>
+<text id="12191200">Martillo de piedra oculto</text>
+<text id="12200000">Cetro de devorador</text>
+<text id="12210000">Martillo de guerra podrido</text>
+<text id="12210100">Martillo de guerra podrido pesado</text>
+<text id="12210200">Martillo de guerra podrido ligero</text>
+<text id="12210300">Martillo de guerra podrido de calidad</text>
+<text id="12210400">Martillo de guerra podrido ígneo</text>
+<text id="12210500">Martillo de guerra podrido llameante</text>
+<text id="12210600">Martillo de guerra podrido fulgurante</text>
+<text id="12210700">Martillo de guerra podrido sagrado</text>
+<text id="12210800">Martillo de guerra podrido mágico</text>
+<text id="12210900">Martillo de guerra podrido frío</text>
+<text id="12211000">Martillo de guerra podrido venenoso</text>
+<text id="12211100">Martillo de guerra podrido sangriento</text>
+<text id="12211200">Martillo de guerra podrido oculto</text>
+<text id="13000000">Mayal de caballero del ocaso</text>
+<text id="13000100">Mayal de caballero del ocaso pesado</text>
+<text id="13000200">Mayal de caballero del ocaso ligero</text>
+<text id="13000300">Mayal de caballero del ocaso de calidad</text>
+<text id="13000400">Mayal de caballero del ocaso ígneo</text>
+<text id="13000500">Mayal de caballero del ocaso llameante</text>
+<text id="13000600">Mayal de caballero del ocaso fulgurante</text>
+<text id="13000700">Mayal de caballero del ocaso sagrado</text>
+<text id="13000800">Mayal de caballero del ocaso mágico</text>
+<text id="13000900">Mayal de caballero del ocaso frío</text>
+<text id="13001000">Mayal de caballero del ocaso venenoso</text>
+<text id="13001100">Mayal de caballero del ocaso sangriento</text>
+<text id="13001200">Mayal de caballero del ocaso oculto</text>
+<text id="13010000">Mayal</text>
+<text id="13010100">Mayal pesado</text>
+<text id="13010200">Mayal ligero</text>
+<text id="13010300">Mayal de calidad</text>
+<text id="13010400">Mayal ígneo</text>
+<text id="13010500">Mayal llameante</text>
+<text id="13010600">Mayal fulgurante</text>
+<text id="13010700">Mayal sagrado</text>
+<text id="13010800">Mayal mágico</text>
+<text id="13010900">Mayal frío</text>
+<text id="13011000">Mayal venenoso</text>
+<text id="13011100">Mayal sangriento</text>
+<text id="13011200">Mayal oculto</text>
+<text id="13020000">Cabezas de familia</text>
+<text id="13030000">Estrellas de bastardo</text>
+<text id="13040000">Mayal de cadena</text>
+<text id="13040100">Mayal de cadena pesado</text>
+<text id="13040200">Mayal de cadena ligero</text>
+<text id="13040300">Mayal de cadena de calidad</text>
+<text id="13040400">Mayal de cadena ígneo</text>
+<text id="13040500">Mayal de cadena llameante</text>
+<text id="13040600">Mayal de cadena fulgurante</text>
+<text id="13040700">Mayal de cadena sagrado</text>
+<text id="13040800">Mayal de cadena mágico</text>
+<text id="13040900">Mayal de cadena frío</text>
+<text id="13041000">Mayal de cadena venenoso</text>
+<text id="13041100">Mayal de cadena sangriento</text>
+<text id="13041200">Mayal de cadena oculto</text>
+<text id="14000000">Hacha de guerra</text>
+<text id="14000100">Hacha de guerra pesada</text>
+<text id="14000200">Hacha de guerra ligera</text>
+<text id="14000300">Hacha de guerra de calidad</text>
+<text id="14000400">Hacha de guerra ígnea</text>
+<text id="14000500">Hacha de guerra llameante</text>
+<text id="14000600">Hacha de guerra fulgurante</text>
+<text id="14000700">Hacha de guerra sagrada</text>
+<text id="14000800">Hacha de guerra mágica</text>
+<text id="14000900">Hacha de guerra fría</text>
+<text id="14001000">Hacha de guerra venenosa</text>
+<text id="14001100">Hacha de guerra sangrienta</text>
+<text id="14001200">Hacha de guerra oculta</text>
+<text id="14010000">Destral bifurcado</text>
+<text id="14010100">Destral bifurcado pesado</text>
+<text id="14010200">Destral bifurcado ligero</text>
+<text id="14010300">Destral bifurcado de calidad</text>
+<text id="14010400">Destral bifurcado ígneo</text>
+<text id="14010500">Destral bifurcado llameante</text>
+<text id="14010600">Destral bifurcado fulgurante</text>
+<text id="14010700">Destral bifurcado sagrado</text>
+<text id="14010800">Destral bifurcado mágico</text>
+<text id="14010900">Destral bifurcado frío</text>
+<text id="14011000">Destral bifurcado venenoso</text>
+<text id="14011100">Destral bifurcado sangriento</text>
+<text id="14011200">Destral bifurcado oculto</text>
+<text id="14020000">Hacha de mano</text>
+<text id="14020100">Hacha de mano pesada</text>
+<text id="14020200">Hacha de mano ligera</text>
+<text id="14020300">Hacha de mano de calidad</text>
+<text id="14020400">Hacha de mano ígnea</text>
+<text id="14020500">Hacha de mano llameante</text>
+<text id="14020600">Hacha de mano fulgurante</text>
+<text id="14020700">Hacha de mano sagrada</text>
+<text id="14020800">Hacha de mano mágica</text>
+<text id="14020900">Hacha de mano fría</text>
+<text id="14021000">Hacha de mano venenosa</text>
+<text id="14021100">Hacha de mano sangrienta</text>
+<text id="14021200">Hacha de mano oculta</text>
+<text id="14030000">Hacha de quijada</text>
+<text id="14030100">Hacha de quijada pesada</text>
+<text id="14030200">Hacha de quijada ligera</text>
+<text id="14030300">Hacha de quijada de calidad</text>
+<text id="14030400">Hacha de quijada ígnea</text>
+<text id="14030500">Hacha de quijada llameante</text>
+<text id="14030600">Hacha de quijada fulgurante</text>
+<text id="14030700">Hacha de quijada sagrada</text>
+<text id="14030800">Hacha de quijada mágica</text>
+<text id="14030900">Hacha de quijada fría</text>
+<text id="14031000">Hacha de quijada venenosa</text>
+<text id="14031100">Hacha de quijada sangrienta</text>
+<text id="14031200">Hacha de quijada oculta</text>
+<text id="14040000">Machete de hierro</text>
+<text id="14040100">Machete de hierro pesado</text>
+<text id="14040200">Machete de hierro ligero</text>
+<text id="14040300">Machete de hierro de calidad</text>
+<text id="14040400">Machete de hierro ígneo</text>
+<text id="14040500">Machete de hierro llameante</text>
+<text id="14040600">Machete de hierro fulgurante</text>
+<text id="14040700">Machete de hierro sagrado</text>
+<text id="14040800">Machete de hierro mágico</text>
+<text id="14040900">Machete de hierro frío</text>
+<text id="14041000">Machete de hierro venenoso</text>
+<text id="14041100">Machete de hierro sangriento</text>
+<text id="14041200">Machete de hierro oculto</text>
+<text id="14050000">Filo semicircular</text>
+<text id="14050100">Filo semicircular pesado</text>
+<text id="14050200">Filo semicircular ligero</text>
+<text id="14050300">Filo semicircular de calidad</text>
+<text id="14050400">Filo semicircular ígneo</text>
+<text id="14050500">Filo semicircular llameante</text>
+<text id="14050600">Filo semicircular fulgurante</text>
+<text id="14050700">Filo semicircular sagrado</text>
+<text id="14050800">Filo semicircular mágico</text>
+<text id="14050900">Filo semicircular frío</text>
+<text id="14051000">Filo semicircular venenoso</text>
+<text id="14051100">Filo semicircular sangriento</text>
+<text id="14051200">Filo semicircular oculto</text>
+<text id="14060000">Machete ceremonial</text>
+<text id="14060100">Machete ceremonial pesado</text>
+<text id="14060200">Machete ceremonial ligero</text>
+<text id="14060300">Machete ceremonial de calidad</text>
+<text id="14060400">Machete ceremonial ígneo</text>
+<text id="14060500">Machete ceremonial llameante</text>
+<text id="14060600">Machete ceremonial fulgurante</text>
+<text id="14060700">Machete ceremonial sagrado</text>
+<text id="14060800">Machete ceremonial mágico</text>
+<text id="14060900">Machete ceremonial frío</text>
+<text id="14061000">Machete ceremonial venenoso</text>
+<text id="14061100">Machete ceremonial sangriento</text>
+<text id="14061200">Machete ceremonial oculto</text>
+<text id="14080000">Destral de corteza helada</text>
+<text id="14100000">Hacha de los altiplanos</text>
+<text id="14100100">Hacha de los altiplanos pesada</text>
+<text id="14100200">Hacha de los altiplanos ligera</text>
+<text id="14100300">Hacha de los altiplanos de calidad</text>
+<text id="14100400">Hacha de los altiplanos ígnea</text>
+<text id="14100500">Hacha de los altiplanos llameante</text>
+<text id="14100600">Hacha de los altiplanos fulgurante</text>
+<text id="14100700">Hacha de los altiplanos sagrada</text>
+<text id="14100800">Hacha de los altiplanos mágica</text>
+<text id="14100900">Hacha de los altiplanos fría</text>
+<text id="14101000">Hacha de los altiplanos venenosa</text>
+<text id="14101100">Hacha de los altiplanos sangrienta</text>
+<text id="14101200">Hacha de los altiplanos oculta</text>
+<text id="14110000">Hacha sacrificial</text>
+<text id="14110100">Hacha sacrificial pesada</text>
+<text id="14110200">Hacha sacrificial ligera</text>
+<text id="14110300">Hacha sacrificial de calidad</text>
+<text id="14110400">Hacha sacrificial ígnea</text>
+<text id="14110500">Hacha sacrificial llameante</text>
+<text id="14110600">Hacha sacrificial fulgurante</text>
+<text id="14110700">Hacha sacrificial sagrada</text>
+<text id="14110800">Hacha sacrificial mágica</text>
+<text id="14110900">Hacha sacrificial fría</text>
+<text id="14111000">Hacha sacrificial venenosa</text>
+<text id="14111100">Hacha sacrificial sangrienta</text>
+<text id="14111200">Hacha sacrificial oculta</text>
+<text id="14120000">Hacha de Rosus</text>
+<text id="14130000">Una herramienta utilizada por los miembros
+de la familia real cariana para leer el horóscopo.
+Le han quitado una pieza.
+
+Permite a quien la usa ver cosas a lo lejos.
+
+Durante la época dorada, todo estaba gobernado
+por el Árbol Áureo. La astrología cariana
+se marchitaba en la vid. ¿Quién necesitaba las
+estrellas cuando el Árbol Áureo
+nos cubría a todos?</text>
+<text id="14130100">%null%</text>
+<text id="14130200">%null%</text>
+<text id="14130300">%null%</text>
+<text id="14130400">%null%</text>
+<text id="14130500">%null%</text>
+<text id="14130600">%null%</text>
+<text id="14130700">%null%</text>
+<text id="14130800">%null%</text>
+<text id="14130900">%null%</text>
+<text id="14131000">%null%</text>
+<text id="14131100">%null%</text>
+<text id="14131200">%null%</text>
+<text id="14140000">Hacha de halcón tormentoso</text>
+<text id="15000000">Gran hacha</text>
+<text id="15000100">Gran hacha pesada</text>
+<text id="15000200">Gran hacha ligera</text>
+<text id="15000300">Gran hacha de calidad</text>
+<text id="15000400">Gran hacha ígnea</text>
+<text id="15000500">Gran hacha llameante</text>
+<text id="15000600">Gran hacha fulgurante</text>
+<text id="15000700">Gran hacha sagrada</text>
+<text id="15000800">Gran hacha mágica</text>
+<text id="15000900">Gran hacha fría</text>
+<text id="15001000">Gran hacha venenosa</text>
+<text id="15001100">Gran hacha sangrienta</text>
+<text id="15001200">Gran hacha oculta</text>
+<text id="15010000">Hacha deforme</text>
+<text id="15010100">Hacha deforme pesada</text>
+<text id="15010200">Hacha deforme ligera</text>
+<text id="15010300">Hacha deforme de calidad</text>
+<text id="15010400">Hacha deforme ígnea</text>
+<text id="15010500">Hacha deforme llameante</text>
+<text id="15010600">Hacha deforme fulgurante</text>
+<text id="15010700">Hacha deforme sagrada</text>
+<text id="15010800">Hacha deforme mágica</text>
+<text id="15010900">Hacha deforme fría</text>
+<text id="15011000">Hacha deforme venenosa</text>
+<text id="15011100">Hacha deforme sangrienta</text>
+<text id="15011200">Hacha deforme oculta</text>
+<text id="15020000">Gran machete de asesino de augurios</text>
+<text id="15020100">Gran machete de asesino de aug. pesado</text>
+<text id="15020200">Gran machete de asesino de aug. ligero</text>
+<text id="15020300">Gran machete de asesino de aug. de calidad</text>
+<text id="15020400">Gran machete de asesino de aug. ígneo</text>
+<text id="15020500">Gran machete de asesino de aug. llameante</text>
+<text id="15020600">Gran machete de asesino de aug. fulgurante</text>
+<text id="15020700">Gran machete de asesino de aug. sagrado</text>
+<text id="15020800">Gran machete de asesino de aug. mágico</text>
+<text id="15020900">Gran machete de asesino de aug. frío</text>
+<text id="15021000">Gran machete de asesino de aug. venenoso</text>
+<text id="15021100">Gran machete de asesino de aug. sangriento</text>
+<text id="15021200">Gran machete de asesino de aug. oculto</text>
+<text id="15030000">Hacha de medialuna</text>
+<text id="15030100">Hacha de medialuna pesada</text>
+<text id="15030200">Hacha de medialuna ligera</text>
+<text id="15030300">Hacha de medialuna de calidad</text>
+<text id="15030400">Hacha de medialuna ígnea</text>
+<text id="15030500">Hacha de medialuna llameante</text>
+<text id="15030600">Hacha de medialuna fulgurante</text>
+<text id="15030700">Hacha de medialuna sagrada</text>
+<text id="15030800">Hacha de medialuna mágica</text>
+<text id="15030900">Hacha de medialuna fría</text>
+<text id="15031000">Hacha de medialuna venenosa</text>
+<text id="15031100">Hacha de medialuna sangrienta</text>
+<text id="15031200">Hacha de medialuna oculta</text>
+<text id="15040000">Hacha de Godrick</text>
+<text id="15050000">Hacha de empuñadura larga</text>
+<text id="15050100">Hacha de empuñadura larga pesada</text>
+<text id="15050200">Hacha de empuñadura larga ligera</text>
+<text id="15050300">Hacha de empuñadura larga de calidad</text>
+<text id="15050400">Hacha de empuñadura larga ígnea</text>
+<text id="15050500">Hacha de empuñadura larga llameante</text>
+<text id="15050600">Hacha de empuñadura larga fulgurante</text>
+<text id="15050700">Hacha de empuñadura larga sagrada</text>
+<text id="15050800">Hacha de empuñadura larga mágica</text>
+<text id="15050900">Hacha de empuñadura larga fría</text>
+<text id="15051000">Hacha de empuñadura larga venenosa</text>
+<text id="15051100">Hacha de empuñadura larga sangrienta</text>
+<text id="15051200">Hacha de empuñadura larga oculta</text>
+<text id="15060000">Ancla oxidada</text>
+<text id="15060100">Ancla oxidada pesada</text>
+<text id="15060200">Ancla oxidada ligera</text>
+<text id="15060300">Ancla oxidada de calidad</text>
+<text id="15060400">Ancla oxidada ígnea</text>
+<text id="15060500">Ancla oxidada llameante</text>
+<text id="15060600">Ancla oxidada fulgurante</text>
+<text id="15060700">Ancla oxidada sagrada</text>
+<text id="15060800">Ancla oxidada mágica</text>
+<text id="15060900">Ancla oxidada fría</text>
+<text id="15061000">Ancla oxidada venenosa</text>
+<text id="15061100">Ancla oxidada sangrienta</text>
+<text id="15061200">Ancla oxidada oculta</text>
+<text id="15080000">Gran hacha de verdugo</text>
+<text id="15080100">Gran hacha de verdugo pesada</text>
+<text id="15080200">Gran hacha de verdugo ligera</text>
+<text id="15080300">Gran hacha de verdugo de calidad</text>
+<text id="15080400">Gran hacha de verdugo ígnea</text>
+<text id="15080500">Gran hacha de verdugo llameante</text>
+<text id="15080600">Gran hacha de verdugo fulgurante</text>
+<text id="15080700">Gran hacha de verdugo sagrada</text>
+<text id="15080800">Gran hacha de verdugo mágica</text>
+<text id="15080900">Gran hacha de verdugo fría</text>
+<text id="15081000">Gran hacha de verdugo venenosa</text>
+<text id="15081100">Gran hacha de verdugo sangrienta</text>
+<text id="15081200">Gran hacha de verdugo oculta</text>
+<text id="15110000">Cuerno grande alado</text>
+<text id="15120000">Cuchillo de carnicero</text>
+<text id="15120100">Cuchillo de carnicero pesado</text>
+<text id="15120200">Cuchillo de carnicero ligero</text>
+<text id="15120300">Cuchillo de carnicero de calidad</text>
+<text id="15120400">Cuchillo de carnicero ígneo</text>
+<text id="15120500">Cuchillo de carnicero llameante</text>
+<text id="15120600">Cuchillo de carnicero fulgurante</text>
+<text id="15120700">Cuchillo de carnicero sagrado</text>
+<text id="15120800">Cuchillo de carnicero mágico</text>
+<text id="15120900">Cuchillo de carnicero frío</text>
+<text id="15121000">Cuchillo de carnicero venenoso</text>
+<text id="15121100">Cuchillo de carnicero sangriento</text>
+<text id="15121200">Cuchillo de carnicero oculto</text>
+<text id="15130000">Gran hacha de gárgola</text>
+<text id="15130100">Gran hacha de gárgola pesada</text>
+<text id="15130200">Gran hacha de gárgola ligera</text>
+<text id="15130300">Gran hacha de gárgola de calidad</text>
+<text id="15130400">Gran hacha de gárgola ígnea</text>
+<text id="15130500">Gran hacha de gárgola llameante</text>
+<text id="15130600">Gran hacha de gárgola fulgurante</text>
+<text id="15130700">Gran hacha de gárgola sagrada</text>
+<text id="15130800">Gran hacha de gárgola mágica</text>
+<text id="15130900">Gran hacha de gárgola fría</text>
+<text id="15131000">Gran hacha de gárgola venenosa</text>
+<text id="15131100">Gran hacha de gárgola sangrienta</text>
+<text id="15131200">Gran hacha de gárgola oculta</text>
+<text id="15140000">Hacha negra de gárgola</text>
+<text id="15140100">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140200">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140300">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140400">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140500">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140600">Cenizas de espíritus. Invoca el espíritu de un mercenario norteño.
+(Invocar consume PC).
+
+Se dice que los mercenarios norteños llevan la sangre de los gigantes en sus venas y empuñan con destreza unos cuchillos curvos. Sus bramidos potencian aún más su fuerza.</text>
+<text id="15140700">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="15140800">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="15140900">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="15141000">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="15141100">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="15141200">Cenizas de espíritus. Invoca los espíritus de tres lobos solitarios.
+(Invocar consume PC).
+
+Estos lobos fueron expulsados de su manada y más tarde encontraron la compañía de un proscrito humano: un joven cazador. Los espíritus de los lobos abruman a los enemigos con su agilidad, ayudando al invocador en el combate.</text>
+<text id="16000000">Lanza corta</text>
+<text id="16000100">Lanza corta pesada</text>
+<text id="16000200">Lanza corta ligera</text>
+<text id="16000300">Lanza corta de calidad</text>
+<text id="16000400">Lanza corta ígnea</text>
+<text id="16000500">Lanza corta llameante</text>
+<text id="16000600">Lanza corta fulgurante</text>
+<text id="16000700">Lanza corta sagrada</text>
+<text id="16000800">Lanza corta mágica</text>
+<text id="16000900">Lanza corta fría</text>
+<text id="16001000">Lanza corta venenosa</text>
+<text id="16001100">Lanza corta sangrienta</text>
+<text id="16001200">Lanza corta oculta</text>
+<text id="16010000">Lanza</text>
+<text id="16010100">Lanza pesada</text>
+<text id="16010200">Lanza ligera</text>
+<text id="16010300">Lanza de calidad</text>
+<text id="16010400">Lanza ígnea</text>
+<text id="16010500">Lanza llameante</text>
+<text id="16010600">Lanza fulgurante</text>
+<text id="16010700">Lanza sagrada</text>
+<text id="16010800">Lanza mágica</text>
+<text id="16010900">Lanza fría</text>
+<text id="16011000">Lanza envenenada</text>
+<text id="16011100">Lanza sangrienta</text>
+<text id="16011200">Lanza oculta</text>
+<text id="16020000">Lanza de cristal</text>
+<text id="16030000">Arpón de hombre de barro</text>
+<text id="16030100">Arpón de hombre de barro pesado</text>
+<text id="16030200">Arpón de hombre de barro ligero</text>
+<text id="16030300">Arpón de hombre de barro de calidad</text>
+<text id="16030400">Arpón de hombre de barro ígneo</text>
+<text id="16030500">Arpón de hombre de barro llameante</text>
+<text id="16030600">Arpón de hombre de barro fulgurante</text>
+<text id="16030700">Arpón de hombre de barro sagrado</text>
+<text id="16030800">Arpón de hombre de barro mágico</text>
+<text id="16030900">Arpón de hombre de barro frío</text>
+<text id="16031000">Arpón de hombre de barro venenoso</text>
+<text id="16031100">Arpón de hombre de barro sangriento</text>
+<text id="16031200">Arpón de hombre de barro oculto</text>
+<text id="16040000">Lanza imputrescible</text>
+<text id="16040100">Cenizas de espíritus. Invoca un espíritu medusa.
+(Invocar consume PC).
+
+Fantasma flotante que ilumina su entorno.
+Aparentemente, es el espíritu de una joven que pasa la eternidad en busca de su hermana, a quien prometió ver las estrellas.</text>
+<text id="16040200">Cenizas de espíritus. Invoca un espíritu medusa.
+(Invocar consume PC).
+
+Fantasma flotante que ilumina su entorno.
+Aparentemente, es el espíritu de una joven que pasa la eternidad en busca de su hermana, a quien prometió ver las estrellas.</text>
+<text id="16040300">Cenizas de espíritus. Invoca un espíritu medusa.
+(Invocar consume PC).
+
+Fantasma flotante que ilumina su entorno.
+Aparentemente, es el espíritu de una joven que pasa la eternidad en busca de su hermana, a quien prometió ver las estrellas.</text>
+<text id="16040400">Cenizas de espíritus. Invoca un espíritu medusa.
+(Invocar consume PC).
+
+Fantasma flotante que ilumina su entorno.
+Aparentemente, es el espíritu de una joven que pasa la eternidad en busca de su hermana, a quien prometió ver las estrellas.</text>
+<text id="16040500">Cenizas de espíritus. Invoca un espíritu medusa.
+(Invocar consume PC).
+
+Fantasma flotante que ilumina su entorno.
+Aparentemente, es el espíritu de una joven que pasa la eternidad en busca de su hermana, a quien prometió ver las estrellas.</text>
+<text id="16040600">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16040700">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16040800">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16040900">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16041000">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16041100">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16041200">Lanza usada por los caballeros al servicio de Malenia,
+la gemela en posesión de la Runa de la Podredumbre.
+Gracias a su afilada punta, resulta especialmente útil
+para atravesar a los rivales.</text>
+<text id="16050000">Partesana</text>
+<text id="16050100">Partesana pesada</text>
+<text id="16050200">Partesana ligera</text>
+<text id="16050300">Partesana de calidad</text>
+<text id="16050400">Partesana ígnea</text>
+<text id="16050500">Partesana llameante</text>
+<text id="16050600">Partesana fulgurante</text>
+<text id="16050700">Partesana sagrada</text>
+<text id="16050800">Partesana mágica</text>
+<text id="16050900">Partesana fría</text>
+<text id="16051000">Partesana venenosa</text>
+<text id="16051100">Partesana sangrienta</text>
+<text id="16051200">Partesana oculta</text>
+<text id="16060000">Rejón óseo ceremonial</text>
+<text id="16060100">Rejón óseo ceremonial pesado</text>
+<text id="16060200">Rejón óseo ceremonial ligero</text>
+<text id="16060300">Rejón óseo ceremonial de calidad</text>
+<text id="16060400">Rejón óseo ceremonial ígneo</text>
+<text id="16060500">Rejón óseo ceremonial llameante</text>
+<text id="16060600">Rejón óseo ceremonial fulgurante</text>
+<text id="16060700">Rejón óseo ceremonial sagrado</text>
+<text id="16060800">Rejón óseo ceremonial mágico</text>
+<text id="16060900">Rejón óseo ceremonial frío</text>
+<text id="16061000">Rejón óseo ceremonial venenoso</text>
+<text id="16061100">Rejón óseo ceremonial sangriento</text>
+<text id="16061200">Rejón óseo ceremonial oculto</text>
+<text id="16070000">Pica</text>
+<text id="16070100">Pica pesada</text>
+<text id="16070200">Pica ligera</text>
+<text id="16070300">Pica de calidad</text>
+<text id="16070400">Pica ígnea</text>
+<text id="16070500">Pica llameante</text>
+<text id="16070600">Pica fulgurante</text>
+<text id="16070700">Pica sagrada</text>
+<text id="16070800">Pica mágica</text>
+<text id="16070900">Pica fría</text>
+<text id="16071000">Pica venenosa</text>
+<text id="16071100">Pica sangrienta</text>
+<text id="16071200">Pica oculta</text>
+<text id="16080000">Antorcha alargada</text>
+<text id="16090000">Rayo de Gransax</text>
+<text id="16110000">Naginata cruciforme</text>
+<text id="16110100">Naginata cruciforme pesada</text>
+<text id="16110200">Naginata cruciforme ligera</text>
+<text id="16110300">Naginata cruciforme de calidad</text>
+<text id="16110400">Naginata cruciforme ígnea</text>
+<text id="16110500">Naginata cruciforme llameante</text>
+<text id="16110600">Naginata cruciforme fulgurante</text>
+<text id="16110700">Naginata cruciforme sagrada</text>
+<text id="16110800">Naginata cruciforme mágica</text>
+<text id="16110900">Naginata cruciforme fría</text>
+<text id="16111000">Naginata cruciforme venenosa</text>
+<text id="16111100">Naginata cruciforme sangrienta</text>
+<text id="16111200">Naginata cruciforme oculta</text>
+<text id="16120000">Lanza ritual fúnebre</text>
+<text id="16130000">Candelabro de inquisidor</text>
+<text id="16140000">Lanza espinosa</text>
+<text id="16140100">Lanza espinosa pesada</text>
+<text id="16140200">Lanza espinosa ligera</text>
+<text id="16140300">Lanza espinosa de calidad</text>
+<text id="16140400">Lanza espinosa ígnea</text>
+<text id="16140500">Lanza espinosa llameante</text>
+<text id="16140600">Lanza espinosa fulgurante</text>
+<text id="16140700">Lanza espinosa sagrada</text>
+<text id="16140800">Lanza espinosa mágica</text>
+<text id="16140900">Lanza espinosa fría</text>
+<text id="16141000">Lanza espinosa venenosa</text>
+<text id="16141100">Lanza espinosa sangrienta</text>
+<text id="16141200">Lanza espinosa oculta</text>
+<text id="16150000">Lanza de hierro</text>
+<text id="16150100">Lanza de hierro pesada</text>
+<text id="16150200">Lanza de hierro ligera</text>
+<text id="16150300">Lanza de hierro de calidad</text>
+<text id="16150400">Lanza de hierro ígnea</text>
+<text id="16150500">Lanza de hierro llameante</text>
+<text id="16150600">Lanza de hierro fulgurante</text>
+<text id="16150700">Lanza de hierro sagrada</text>
+<text id="16150800">Lanza de hierro mágica</text>
+<text id="16150900">Lanza de hierro fría</text>
+<text id="16151000">Lanza de hierro venenosa</text>
+<text id="16151100">Lanza de hierro sangrienta</text>
+<text id="16151200">Lanza de hierro oculta</text>
+<text id="16160000">Lanza de cristal pútrido</text>
+<text id="17010000">Lanza sagrada de Mohgwyn</text>
+<text id="17020000">Árbol de Siluria</text>
+<text id="17030000">Cazador de serpientes</text>
+<text id="17050000">Lanza de guerra de Vyke</text>
+<text id="17060000">Lanza de justas</text>
+<text id="17060100">Lanza de justas pesada</text>
+<text id="17060200">Lanza de justas ligera</text>
+<text id="17060300">Lanza de justas de calidad</text>
+<text id="17060400">Lanza de justas ígnea</text>
+<text id="17060500">Lanza de justas llameante</text>
+<text id="17060600">Lanza de justas fulgurante</text>
+<text id="17060700">Lanza de justas sagrada</text>
+<text id="17060800">Lanza de justas mágica</text>
+<text id="17060900">Lanza de justas fría</text>
+<text id="17061000">Lanza de justas venenosa</text>
+<text id="17061100">Lanza de justas sangrienta</text>
+<text id="17061200">Lanza de justas oculta</text>
+<text id="17070000">Lanza arbórea</text>
+<text id="17070100">Lanza arbórea pesada</text>
+<text id="17070200">Lanza arbórea ligera</text>
+<text id="17070300">Lanza arbórea de calidad</text>
+<text id="17070400">Lanza arbórea ígnea</text>
+<text id="17070500">Lanza arbórea llameante</text>
+<text id="17070600">Lanza arbórea fulgurante</text>
+<text id="17070700">Lanza arbórea sagrada</text>
+<text id="17070800">Lanza arbórea mágica</text>
+<text id="17070900">Lanza arbórea fría</text>
+<text id="17071000">Lanza arbórea venenosa</text>
+<text id="17071100">Lanza arbórea sangrienta</text>
+<text id="17071200">Lanza arbórea oculta</text>
+<text id="18000000">Alabarda</text>
+<text id="18000100">Alabarda pesada</text>
+<text id="18000200">Alabarda ligera</text>
+<text id="18000300">Alabarda de calidad</text>
+<text id="18000400">Alabarda ígnea</text>
+<text id="18000500">Alabarda llameante</text>
+<text id="18000600">Alabarda fulgurante</text>
+<text id="18000700">Alabarda sagrada</text>
+<text id="18000800">Alabarda mágica</text>
+<text id="18000900">Alabarda fría</text>
+<text id="18001000">Alabarda venenosa</text>
+<text id="18001100">Alabarda sangrienta</text>
+<text id="18001200">Alabarda oculta</text>
+<text id="18010000">Guja de la plaga</text>
+<text id="18010100">Guja de la plaga pesada</text>
+<text id="18010200">Guja de la plaga ligera</text>
+<text id="18010300">Guja de la plaga de calidad</text>
+<text id="18010400">Guja de la plaga ígnea</text>
+<text id="18010500">Guja de la plaga llameante</text>
+<text id="18010600">Guja de la plaga fulgurante</text>
+<text id="18010700">Guja de la plaga sagrada</text>
+<text id="18010800">Guja de la plaga mágica</text>
+<text id="18010900">Guja de la plaga fría</text>
+<text id="18011000">Guja de la plaga venenosa</text>
+<text id="18011100">Guja de la plaga sangrienta</text>
+<text id="18011200">Guja de la plaga oculta</text>
+<text id="18020000">Lucerna</text>
+<text id="18020100">Lucerna pesada</text>
+<text id="18020200">Lucerna ligera</text>
+<text id="18020300">Lucerna de calidad</text>
+<text id="18020400">Lucerna ígnea</text>
+<text id="18020500">Lucerna llameante</text>
+<text id="18020600">Lucerna fulgurante</text>
+<text id="18020700">Lucerna sagrada</text>
+<text id="18020800">Lucerna mágica</text>
+<text id="18020900">Lucerna fría</text>
+<text id="18021000">Lucerna venenosa</text>
+<text id="18021100">Lucerna sangrienta</text>
+<text id="18021200">Lucerna oculta</text>
+<text id="18030000">Alabarda de caballero proscrito</text>
+<text id="18030100">Alabarda de caballero proscrito pesada</text>
+<text id="18030200">Alabarda de caballero proscrito ligera</text>
+<text id="18030300">Alabarda de caballero proscrito de calidad</text>
+<text id="18030400">Alabarda de caballero proscrito ígnea</text>
+<text id="18030500">Alabarda de caballero proscrito llameante</text>
+<text id="18030600">Alabarda de caballero proscrito fulgurante</text>
+<text id="18030700">Alabarda de caballero proscrito sagrada</text>
+<text id="18030800">Alabarda de caballero proscrito mágica</text>
+<text id="18030900">Alabarda de caballero proscrito fría</text>
+<text id="18031000">Alabarda de caballero proscrito venenosa</text>
+<text id="18031100">Alabarda de caballero proscrito sangrienta</text>
+<text id="18031200">Alabarda de caballero proscrito oculta</text>
+<text id="18040000">Estandarte de comandante</text>
+<text id="18050000">Guja de caballero del ocaso</text>
+<text id="18050100">Guja de caballero del ocaso pesada</text>
+<text id="18050200">Guja de caballero del ocaso ligera</text>
+<text id="18050300">Guja de caballero del ocaso de calidad</text>
+<text id="18050400">Guja de caballero del ocaso ígnea</text>
+<text id="18050500">Guja de caballero del ocaso llameante</text>
+<text id="18050600">Guja de caballero del ocaso fulgurante</text>
+<text id="18050700">Guja de caballero del ocaso sagrada</text>
+<text id="18050800">Guja de caballero del ocaso mágica</text>
+<text id="18050900">Guja de caballero del ocaso fría</text>
+<text id="18051000">Guja de caballero del ocaso venenosa</text>
+<text id="18051100">Guja de caballero del ocaso sangrienta</text>
+<text id="18051200">Guja de caballero del ocaso oculta</text>
+<text id="18060000">Alabarda de medialuna</text>
+<text id="18060100">Alabarda de medialuna pesada</text>
+<text id="18060200">Alabarda de medialuna ligera</text>
+<text id="18060300">Alabarda de medialuna de calidad</text>
+<text id="18060400">Alabarda de medialuna ígnea</text>
+<text id="18060500">Alabarda de medialuna llameante</text>
+<text id="18060600">Alabarda de medialuna fulgurante</text>
+<text id="18060700">Alabarda de medialuna sagrada</text>
+<text id="18060800">Alabarda de medialuna mágica</text>
+<text id="18060900">Alabarda de medialuna fría</text>
+<text id="18061000">Alabarda de medialuna venenosa</text>
+<text id="18061100">Alabarda de medialuna sangrienta</text>
+<text id="18061200">Alabarda de medialuna oculta</text>
+<text id="18070000">Sierra de carne de cañón</text>
+<text id="18070100">Sierra de carne de cañón pesada</text>
+<text id="18070200">Sierra de carne de cañón ligera</text>
+<text id="18070300">Sierra de carne de cañón de calidad</text>
+<text id="18070400">Sierra de carne de cañón ígnea</text>
+<text id="18070500">Sierra de carne de cañón llameante</text>
+<text id="18070600">Sierra de carne de cañón fulgurante</text>
+<text id="18070700">Sierra de carne de cañón sagrada</text>
+<text id="18070800">Sierra de carne de cañón mágica</text>
+<text id="18070900">Sierra de carne de cañón fría</text>
+<text id="18071000">Sierra de carne de cañón venenosa</text>
+<text id="18071100">Sierra de carne de cañón sangrienta</text>
+<text id="18071200">Sierra de carne de cañón oculta</text>
+<text id="18080000">Alabarda dorada</text>
+<text id="18080100">Alabarda dorada pesada</text>
+<text id="18080200">Alabarda dorada ligera</text>
+<text id="18080300">Alabarda dorada de calidad</text>
+<text id="18080400">Alabarda dorada ígnea</text>
+<text id="18080500">Alabarda dorada llameante</text>
+<text id="18080600">Alabarda dorada fulgurante</text>
+<text id="18080700">Alabarda dorada sagrada</text>
+<text id="18080800">Alabarda dorada mágica</text>
+<text id="18080900">Alabarda dorada fría</text>
+<text id="18081000">Alabarda dorada venenosa</text>
+<text id="18081100">Alabarda dorada sangrienta</text>
+<text id="18081200">Alabarda dorada oculta</text>
+<text id="18090000">Guja</text>
+<text id="18090100">Guja pesada</text>
+<text id="18090200">Guja ligera</text>
+<text id="18090300">Guja de calidad</text>
+<text id="18090400">Guja ígnea</text>
+<text id="18090500">Guja llameante</text>
+<text id="18090600">Guja fulgurante</text>
+<text id="18090700">Guja sagrada</text>
+<text id="18090800">Guja mágica</text>
+<text id="18090900">Guja fría</text>
+<text id="18091000">Guja venenosa</text>
+<text id="18091100">Guja sangrienta</text>
+<text id="18091200">Guja oculta</text>
+<text id="18100000">Hoz de guerra de Loretta</text>
+<text id="18110000">Lanza-espada custodia</text>
+<text id="18110100">Lanza-espada custodia pesada</text>
+<text id="18110200">Lanza-espada custodia ligera</text>
+<text id="18110300">Lanza-espada custodia de calidad</text>
+<text id="18110400">Lanza-espada custodia ígnea</text>
+<text id="18110500">Lanza-espada custodia llameante</text>
+<text id="18110600">Lanza-espada custodia fulgurante</text>
+<text id="18110700">Lanza-espada custodia sagrada</text>
+<text id="18110800">Lanza-espada custodia mágica</text>
+<text id="18110900">Lanza-espada custodia fría</text>
+<text id="18111000">Lanza-espada custodia venenosa</text>
+<text id="18111100">Lanza-espada custodia sangrienta</text>
+<text id="18111200">Lanza-espada custodia oculta</text>
+<text id="18130000">Shotel de carne de cañón</text>
+<text id="18130100">Shotel de carne de cañón pesado</text>
+<text id="18130200">Shotel de carne de cañón ligero</text>
+<text id="18130300">Shotel de carne de cañón de calidad</text>
+<text id="18130400">Shotel de carne de cañón ígneo</text>
+<text id="18130500">Shotel de carne de cañón llameante</text>
+<text id="18130600">Shotel de carne de cañón fulgurante</text>
+<text id="18130700">Shotel de carne de cañón sagrado</text>
+<text id="18130800">Shotel de carne de cañón mágico</text>
+<text id="18130900">Shotel de carne de cañón frío</text>
+<text id="18131000">Shotel de carne de cañón venenoso</text>
+<text id="18131100">Shotel de carne de cañón sangriento</text>
+<text id="18131200">Shotel de carne de cañón oculto</text>
+<text id="18140000">Alabarda de dragón</text>
+<text id="18140100">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140200">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140300">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140400">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140500">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140600">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140700">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140800">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18140900">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18141000">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18141100">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18141200">Alabarda relativamente grande con una llamativa punta
+en forma de dragón.
+Una obra maestra única
+fabricada por un armero enamorado
+de los dragones y su fuerza.</text>
+<text id="18150000">Alabarda de gárgola</text>
+<text id="18150100">Alabarda de gárgola pesada</text>
+<text id="18150200">Alabarda de gárgola ligera</text>
+<text id="18150300">Alabarda de gárgola de calidad</text>
+<text id="18150400">Alabarda de gárgola ígnea</text>
+<text id="18150500">Alabarda de gárgola llameante</text>
+<text id="18150600">Alabarda de gárgola fulgurante</text>
+<text id="18150700">Alabarda de gárgola sagrada</text>
+<text id="18150800">Alabarda de gárgola mágica</text>
+<text id="18150900">Alabarda de gárgola fría</text>
+<text id="18151000">Alabarda de gárgola venenosa</text>
+<text id="18151100">Alabarda de gárgola sangrienta</text>
+<text id="18151200">Alabarda de gárgola oculta</text>
+<text id="18160000">Alabarda negra de gárgola</text>
+<text id="18160100">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160200">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160300">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160400">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160500">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160600">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160700">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160800">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18160900">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18161000">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18161100">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="18161200">Alabarda empuñada por las gárgolas
+que actúan bajo las órdenes de Maliketh.</text>
+<text id="19000000">Guadaña</text>
+<text id="19000100">Guadaña pesada</text>
+<text id="19000200">Guadaña ligera</text>
+<text id="19000300">Guadaña de calidad</text>
+<text id="19000400">Guadaña ígnea</text>
+<text id="19000500">Guadaña llameante</text>
+<text id="19000600">Guadaña fulgurante</text>
+<text id="19000700">Guadaña sagrada</text>
+<text id="19000800">Guadaña mágica</text>
+<text id="19000900">Guadaña fría</text>
+<text id="19001000">Guadaña venenosa</text>
+<text id="19001100">Guadaña sangrienta</text>
+<text id="19001200">Guadaña oculta</text>
+<text id="19010000">Guadaña sepulcral</text>
+<text id="19010100">Guadaña sepulcral pesada</text>
+<text id="19010200">Guadaña sepulcral ligera</text>
+<text id="19010300">Guadaña sepulcral de calidad</text>
+<text id="19010400">Guadaña sepulcral ígnea</text>
+<text id="19010500">Guadaña sepulcral llameante</text>
+<text id="19010600">Guadaña sepulcral fulgurante</text>
+<text id="19010700">Guadaña sepulcral sagrada</text>
+<text id="19010800">Guadaña sepulcral mágica</text>
+<text id="19010900">Guadaña sepulcral fría</text>
+<text id="19011000">Guadaña sepulcral venenosa</text>
+<text id="19011100">Guadaña sepulcral sangrienta</text>
+<text id="19011200">Guadaña sepulcral oculta</text>
+<text id="19020000">Guadaña aureolada</text>
+<text id="19050000">%null%</text>
+<text id="19060000">Guadaña alada</text>
+<text id="20000000">Látigo</text>
+<text id="20000100">Látigo pesado</text>
+<text id="20000200">Látigo ligero</text>
+<text id="20000300">Látigo de calidad</text>
+<text id="20000400">Látigo ígneo</text>
+<text id="20000500">Látigo llameante</text>
+<text id="20000600">Látigo fulgurante</text>
+<text id="20000700">Látigo sagrado</text>
+<text id="20000800">Látigo mágico</text>
+<text id="20000900">Látigo frío</text>
+<text id="20001000">Látigo venenoso</text>
+<text id="20001100">Látigo sangriento</text>
+<text id="20001200">Látigo oculto</text>
+<text id="20020000">Látigo con espinas</text>
+<text id="20020100">Látigo con espinas pesado</text>
+<text id="20020200">Látigo con espinas ligero</text>
+<text id="20020300">Látigo con espinas de calidad</text>
+<text id="20020400">Látigo con espinas ígneo</text>
+<text id="20020500">Látigo con espinas llameante</text>
+<text id="20020600">Látigo con espinas fulgurante</text>
+<text id="20020700">Látigo con espinas sagrado</text>
+<text id="20020800">Látigo con espinas mágico</text>
+<text id="20020900">Látigo con espinas frío</text>
+<text id="20021000">Látigo con espinas venenoso</text>
+<text id="20021100">Látigo con espinas sangriento</text>
+<text id="20021200">Látigo con espinas oculto</text>
+<text id="20030000">Candelabro látigo de magma</text>
+<text id="20030100">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030200">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030300">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030400">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030500">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030600">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030700">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030800">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20030900">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20031000">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20031100">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20031200">Un látigo con una forma única de tres puntas.
+
+El poder de la llama arde en su interior y,
+si se imbuye de magia, emerge lava del extremo.</text>
+<text id="20050000">Látigo con pétalos de Hoslow</text>
+<text id="20050100">Látigo con pétalos de Hoslow pesado</text>
+<text id="20050200">Látigo con pétalos de Hoslow ligero</text>
+<text id="20050300">Látigo con pétalos de Hoslow de calidad</text>
+<text id="20050400">Látigo con pétalos de Hoslow ígneo</text>
+<text id="20050500">Látigo con pétalos de Hoslow llameante</text>
+<text id="20050600">Látigo con pétalos de Hoslow fulgurante</text>
+<text id="20050700">Látigo con pétalos de Hoslow sagrado</text>
+<text id="20050800">Látigo con pétalos de Hoslow mágico</text>
+<text id="20050900">Látigo con pétalos de Hoslow frío</text>
+<text id="20051000">Látigo con pétalos de Hoslow venenoso</text>
+<text id="20051100">Látigo con pétalos de Hoslow sangriento</text>
+<text id="20051200">Látigo con pétalos de Hoslow oculto</text>
+<text id="20060000">Trenza roja de gigante</text>
+<text id="20070000">Urumi</text>
+<text id="20070100">Urumi pesado</text>
+<text id="20070200">Urumi ligero</text>
+<text id="20070300">Urumi de calidad</text>
+<text id="20070400">Urumi ígneo</text>
+<text id="20070500">Urumi llameante</text>
+<text id="20070600">Urumi fulgurante</text>
+<text id="20070700">Urumi sagrado</text>
+<text id="20070800">Urumi mágico</text>
+<text id="20070900">Urumi frío</text>
+<text id="20071000">Urumi venenoso</text>
+<text id="20071100">Urumi sangriento</text>
+<text id="20071200">Urumi oculto</text>
+<text id="21000000">Cestus</text>
+<text id="21000100">Cestus pesado</text>
+<text id="21000200">Cestus ligero</text>
+<text id="21000300">Cestus de calidad</text>
+<text id="21000400">Cestus ígneo</text>
+<text id="21000500">Cestus llameante</text>
+<text id="21000600">Cestus fulgurante</text>
+<text id="21000700">Cestus sagrado</text>
+<text id="21000800">Cestus mágico</text>
+<text id="21000900">Cestus frío</text>
+<text id="21001000">Cestus venenoso</text>
+<text id="21001100">Cestus sangriento</text>
+<text id="21001200">Cestus oculto</text>
+<text id="21010000">Cestus con pinchos</text>
+<text id="21010100">Cestus con pinchos pesado</text>
+<text id="21010200">Cestus con pinchos ligero</text>
+<text id="21010300">Cestus con pinchos de calidad</text>
+<text id="21010400">Cestus con pinchos ígneo</text>
+<text id="21010500">Cestus con pinchos llameante</text>
+<text id="21010600">Cestus con pinchos fulgurante</text>
+<text id="21010700">Cestus con pinchos sagrado</text>
+<text id="21010800">Cestus con pinchos mágico</text>
+<text id="21010900">Cestus con pinchos frío</text>
+<text id="21011000">Cestus con pinchos venenoso</text>
+<text id="21011100">Cestus con pinchos sangriento</text>
+<text id="21011200">Cestus con pinchos oculto</text>
+<text id="21060000">Dragón injertado</text>
+<text id="21070000">Bola de hierro</text>
+<text id="21070100">Bola de hierro pesada</text>
+<text id="21070200">Bola de hierro ligera</text>
+<text id="21070300">Bola de hierro de calidad</text>
+<text id="21070400">Bola de hierro ígnea</text>
+<text id="21070500">Bola de hierro llameante</text>
+<text id="21070600">Bola de hierro fulgurante</text>
+<text id="21070700">Bola de hierro sagrada</text>
+<text id="21070800">Bola de hierro mágica</text>
+<text id="21070900">Bola de hierro fría</text>
+<text id="21071000">Bola de hierro venenosa</text>
+<text id="21071100">Bola de hierro sangrienta</text>
+<text id="21071200">Bola de hierro oculta</text>
+<text id="21080000">Puño estrellado</text>
+<text id="21080100">Puño estrellado pesado</text>
+<text id="21080200">Puño estrellado ligero</text>
+<text id="21080300">Puño estrellado de calidad</text>
+<text id="21080400">Puño estrellado ígneo</text>
+<text id="21080500">Puño estrellado llameante</text>
+<text id="21080600">Puño estrellado fulgurante</text>
+<text id="21080700">Puño estrellado sagrado</text>
+<text id="21080800">Puño estrellado mágico</text>
+<text id="21080900">Puño estrellado frío</text>
+<text id="21081000">Puño estrellado venenoso</text>
+<text id="21081100">Puño estrellado sangriento</text>
+<text id="21081200">Puño estrellado oculto</text>
+<text id="21100000">Katar</text>
+<text id="21100100">Katar pesado</text>
+<text id="21100200">Katar ligero</text>
+<text id="21100300">Katar de calidad</text>
+<text id="21100400">Katar ígneo</text>
+<text id="21100500">Katar llameante</text>
+<text id="21100600">Katar fulgurante</text>
+<text id="21100700">Katar sagrado</text>
+<text id="21100800">Katar mágico</text>
+<text id="21100900">Katar frío</text>
+<text id="21101000">Katar venenoso</text>
+<text id="21101100">Katar sangriento</text>
+<text id="21101200">Katar oculto</text>
+<text id="21110000">Hueso agarrante</text>
+<text id="21120000">Prótesis de veterano</text>
+<text id="21130000">Dandpatta cifrada</text>
+<text id="22000000">Garras punzantes</text>
+<text id="22000100">Garras punzantes pesadas</text>
+<text id="22000200">Garras punzantes ligeras</text>
+<text id="22000300">Garras punzantes de calidad</text>
+<text id="22000400">Garras punzantes ígneas</text>
+<text id="22000500">Garras punzantes llameantes</text>
+<text id="22000600">Garras punzantes fulgurantes</text>
+<text id="22000700">Garras punzantes sagradas</text>
+<text id="22000800">Garras punzantes mágicas</text>
+<text id="22000900">Garras punzantes frías</text>
+<text id="22001000">Garras punzantes venenosas</text>
+<text id="22001100">Garras punzantes sangrientas</text>
+<text id="22001200">Garras punzantes ocultas</text>
+<text id="22010000">Colmillo ponzoñoso</text>
+<text id="22010100">Colmillo ponzoñoso pesado</text>
+<text id="22010200">Colmillo ponzoñoso ligero</text>
+<text id="22010300">Colmillo ponzoñoso de calidad</text>
+<text id="22010400">Colmillo ponzoñoso ígneo</text>
+<text id="22010500">Colmillo ponzoñoso llameante</text>
+<text id="22010600">Colmillo ponzoñoso fulgurante</text>
+<text id="22010700">Colmillo ponzoñoso sagrado</text>
+<text id="22010800">Colmillo ponzoñoso mágico</text>
+<text id="22010900">Colmillo ponzoñoso frío</text>
+<text id="22011000">Colmillo ponzoñoso venenoso</text>
+<text id="22011100">Colmillo ponzoñoso sangriento</text>
+<text id="22011200">Colmillo ponzoñoso oculto</text>
+<text id="22020000">Garras de sabueso</text>
+<text id="22020100">Garras de sabueso pesadas</text>
+<text id="22020200">Garras de sabueso ligeras</text>
+<text id="22020300">Garras de sabueso de calidad</text>
+<text id="22020400">Garras de sabueso ígneas</text>
+<text id="22020500">Garras de sabueso llameantes</text>
+<text id="22020600">Garras de sabueso fulgurantes</text>
+<text id="22020700">Garras de sabueso sagradas</text>
+<text id="22020800">Garras de sabueso mágicas</text>
+<text id="22020900">Garras de sabueso frías</text>
+<text id="22021000">Garras de sabueso venenosas</text>
+<text id="22021100">Garras de sabueso sangrientas</text>
+<text id="22021200">Garras de sabueso ocultas</text>
+<text id="22030000">Garras rapaces</text>
+<text id="22030100">Garras rapaces pesadas</text>
+<text id="22030200">Garras rapaces ligeras</text>
+<text id="22030300">Garras rapaces de calidad</text>
+<text id="22030400">Garras rapaces ígneas</text>
+<text id="22030500">Garras rapaces llameantes</text>
+<text id="22030600">Garras rapaces fulgurantes</text>
+<text id="22030700">Garras rapaces sagradas</text>
+<text id="22030800">Garras rapaces mágicas</text>
+<text id="22030900">Garras rapaces frías</text>
+<text id="22031000">Garras rapaces venenosas</text>
+<text id="22031100">Garras rapaces sangrientas</text>
+<text id="22031200">Garras rapaces ocultas</text>
+<text id="23000000">Báculo infernal de prelado</text>
+<text id="23000100">Báculo infernal de prelado pesado</text>
+<text id="23000200">Báculo infernal de prelado ligero</text>
+<text id="23000300">Báculo infernal de prelado de calidad</text>
+<text id="23000400">Báculo infernal de prelado ígneo</text>
+<text id="23000500">Báculo infernal de prelado llameante</text>
+<text id="23000600">Báculo infernal de prelado fulgurante</text>
+<text id="23000700">Báculo infernal de prelado sagrado</text>
+<text id="23000800">Báculo infernal de prelado mágico</text>
+<text id="23000900">Báculo infernal de prelado frío</text>
+<text id="23001000">Báculo infernal de prelado venenoso</text>
+<text id="23001100">Báculo infernal de prelado sangriento</text>
+<text id="23001200">Báculo infernal de prelado oculto</text>
+<text id="23010000">Bastón de perro guardián</text>
+<text id="23010100">Báculo de perro guardián pesado</text>
+<text id="23010200">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010300">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010400">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010500">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010600">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010700">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010800">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23010900">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23011000">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23011100">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23011200">Un gran martillo que usan los gólems
+que protegen el laberinto de la Subcapital.
+Se requiere una fuerza extraordinaria
+para manejar algo tan pesado.</text>
+<text id="23020000">Gran garrote</text>
+<text id="23020100">Gran garrote pesado</text>
+<text id="23020200">Gran garrote ligero</text>
+<text id="23020300">Gran garrote de calidad</text>
+<text id="23020400">Gran garrote ígneo</text>
+<text id="23020500">Gran garrote llameante</text>
+<text id="23020600">Gran garrote fulgurante</text>
+<text id="23020700">Gran garrote sagrado</text>
+<text id="23020800">Gran garrote mágico</text>
+<text id="23020900">Gran garrote frío</text>
+<text id="23021000">Gran garrote venenoso</text>
+<text id="23021100">Gran garrote sangriento</text>
+<text id="23021200">Gran garrote oculto</text>
+<text id="23030000">Cuerno grande de emisario</text>
+<text id="23040000">Gran hacha de duelista</text>
+<text id="23040100">Gran hacha de duelista pesada</text>
+<text id="23040200">Gran hacha de duelista ligera</text>
+<text id="23040300">Gran hacha de duelista de calidad</text>
+<text id="23040400">Gran hacha de duelista ígnea</text>
+<text id="23040500">Gran hacha de duelista llameante</text>
+<text id="23040600">Gran hacha de duelista fulgurante</text>
+<text id="23040700">Gran hacha de duelista sagrada</text>
+<text id="23040800">Gran hacha de duelista mágica</text>
+<text id="23040900">Gran hacha de duelista fría</text>
+<text id="23041000">Gran hacha de duelista venenosa</text>
+<text id="23041100">Gran hacha de duelista sangrienta</text>
+<text id="23041200">Gran hacha de duelista oculta</text>
+<text id="23050000">Hacha de Godfrey</text>
+<text id="23060000">Gran garra de dragón</text>
+<text id="23070000">Bastón de avatar</text>
+<text id="23080000">Quijada de Bestia de la Estrella fugaz</text>
+<text id="23100000">Rueda de Ghiza</text>
+<text id="23110000">Aplastagigantes</text>
+<text id="23110100">Aplastagigantes pesado</text>
+<text id="23110200">Aplastagigantes ligero</text>
+<text id="23110300">Aplastagigantes de calidad</text>
+<text id="23110400">Aplastagigantes ígneo</text>
+<text id="23110500">Aplastagigantes llameante</text>
+<text id="23110600">Aplastagigantes fulgurante</text>
+<text id="23110700">Aplastagigantes sagrado</text>
+<text id="23110800">Aplastagigantes mágico</text>
+<text id="23110900">Aplastagigantes frío</text>
+<text id="23111000">Aplastagigantes venenoso</text>
+<text id="23111100">Aplastagigantes sangriento</text>
+<text id="23111200">Aplastagigantes oculto</text>
+<text id="23120000">Alabarda de gólem</text>
+<text id="23120100">Alabarda de gólem pesada</text>
+<text id="23120200">Alabarda de gólem ligera</text>
+<text id="23120300">Alabarda de gólem de calidad</text>
+<text id="23120400">Alabarda de gólem ígnea</text>
+<text id="23120500">Alabarda de gólem llameante</text>
+<text id="23120600">Alabarda de gólem fulgurante</text>
+<text id="23120700">Alabarda de gólem sagrada</text>
+<text id="23120800">Alabarda de gólem mágica</text>
+<text id="23120900">Alabarda de gólem fría</text>
+<text id="23121000">Alabarda de gólem venenosa</text>
+<text id="23121100">Alabarda de gólem sangrienta</text>
+<text id="23121200">Alabarda de gólem oculta</text>
+<text id="23130000">Martillo de trol</text>
+<text id="23130100">Martillo de trol pesado</text>
+<text id="23130200">Martillo de trol ligero</text>
+<text id="23130300">Martillo de trol de calidad</text>
+<text id="23130400">Martillo de trol ígneo</text>
+<text id="23130500">Martillo de trol llameante</text>
+<text id="23130600">Martillo de trol fulgurante</text>
+<text id="23130700">Martillo de trol sagrado</text>
+<text id="23130800">Martillo de trol mágico</text>
+<text id="23130900">Martillo de trol frío</text>
+<text id="23131000">Martillo de trol venenoso</text>
+<text id="23131100">Martillo de trol sangriento</text>
+<text id="23131200">Martillo de trol oculto</text>
+<text id="23140000">Bastón putrefacto</text>
+<text id="23150000">Gran hacha putrefacta</text>
+<text id="23150100">Gran hacha putrefacta pesada</text>
+<text id="23150200">Gran hacha putrefacta ligera</text>
+<text id="23150300">Gran hacha putrefacta de calidad</text>
+<text id="23150400">Gran hacha putrefacta ígnea</text>
+<text id="23150500">Gran hacha putrefacta llameante</text>
+<text id="23150600">Gran hacha putrefacta fulgurante</text>
+<text id="23150700">Gran hacha putrefacta sagrada</text>
+<text id="23150800">Gran hacha putrefacta mágica</text>
+<text id="23150900">Gran hacha putrefacta fría</text>
+<text id="23151000">Gran hacha putrefacta venenosa</text>
+<text id="23151100">Gran hacha putrefacta sangrienta</text>
+<text id="23151200">Gran hacha putrefacta oculta</text>
+<text id="24000000">Antorcha</text>
+<text id="24020000">Antorcha de acero</text>
+<text id="24040000">Antorcha de Santa Trina</text>
+<text id="24050000">Antorcha de llama espectral</text>
+<text id="24060000">Antorcha repelente de bestias</text>
+<text id="24070000">Antorcha de centinela</text>
+<text id="30000000">Broquel</text>
+<text id="30000100">Broquel pesado</text>
+<text id="30000200">Broquel ligero</text>
+<text id="30000300">Broquel de calidad</text>
+<text id="30000400">Broquel ígneo</text>
+<text id="30000500">Broquel llameante</text>
+<text id="30000600">Broquel fulgurante</text>
+<text id="30000700">Broquel sagrado</text>
+<text id="30000800">Broquel mágico</text>
+<text id="30000900">Broquel frío</text>
+<text id="30001000">Broquel venenoso</text>
+<text id="30001100">Broquel sangriento</text>
+<text id="30001200">Broquel oculto</text>
+<text id="30010000">Escudo de perfumista</text>
+<text id="30010100">Escudo de perfumista pesado</text>
+<text id="30010200">Escudo de perfumista ligero</text>
+<text id="30010300">Escudo de perfumista de calidad</text>
+<text id="30010400">Escudo de perfumista ígneo</text>
+<text id="30010500">Escudo de perfumista llameante</text>
+<text id="30010600">Escudo de perfumista fulgurante</text>
+<text id="30010700">Escudo de perfumista sagrado</text>
+<text id="30010800">Escudo de perfumista mágico</text>
+<text id="30010900">Escudo de perfumista frío</text>
+<text id="30011000">Escudo de perfumista venenoso</text>
+<text id="30011100">Escudo de perfumista sangriento</text>
+<text id="30011200">Escudo de perfumista oculto</text>
+<text id="30020000">Escudo de hombre serpiente</text>
+<text id="30020100">Escudo de hombre serpiente pesado</text>
+<text id="30020200">Escudo de hombre serpiente ligero</text>
+<text id="30020300">Escudo de hombre serpiente de calidad</text>
+<text id="30020400">Escudo de hombre serpiente ígneo</text>
+<text id="30020500">Escudo de hombre serpiente llameante</text>
+<text id="30020600">Escudo de hombre serpiente fulgurante</text>
+<text id="30020700">Escudo de hombre serpiente sagrado</text>
+<text id="30020800">Escudo de hombre serpiente mágico</text>
+<text id="30020900">Escudo de hombre serpiente frío</text>
+<text id="30021000">Escudo de hombre serpiente venenoso</text>
+<text id="30021100">Escudo de hombre serpiente sangriento</text>
+<text id="30021200">Escudo de hombre serpiente oculto</text>
+<text id="30030000">Escudo desvencijado</text>
+<text id="30030100">Escudo desvencijado pesado</text>
+<text id="30030200">Escudo desvencijado ligero</text>
+<text id="30030300">Escudo desvencijado de calidad</text>
+<text id="30030400">Escudo desvencijado ígneo</text>
+<text id="30030500">Escudo desvencijado llameante</text>
+<text id="30030600">Escudo desvencijado fulgurante</text>
+<text id="30030700">Escudo desvencijado sagrado</text>
+<text id="30030800">Escudo desvencijado mágico</text>
+<text id="30030900">Escudo desvencijado frío</text>
+<text id="30031000">Escudo desvencijado venenoso</text>
+<text id="30031100">Escudo desvencijado sangriento</text>
+<text id="30031200">Escudo desvencijado oculto</text>
+<text id="30040000">Escudo cepo</text>
+<text id="30040100">Escudo cepo pesado</text>
+<text id="30040200">Escudo cepo ligero</text>
+<text id="30040300">Escudo cepo de calidad</text>
+<text id="30040400">Escudo cepo ígneo</text>
+<text id="30040500">Escudo cepo llameante</text>
+<text id="30040600">Escudo cepo fulgurante</text>
+<text id="30040700">Escudo cepo sagrado</text>
+<text id="30040800">Escudo cepo mágico</text>
+<text id="30040900">Escudo cepo frío</text>
+<text id="30041000">Escudo cepo venenoso</text>
+<text id="30041100">Escudo cepo sangriento</text>
+<text id="30041200">Escudo cepo oculto</text>
+<text id="30060000">Tarroescudo de hombre bestia</text>
+<text id="30060100">Tarroescudo de hombre bestia pesado</text>
+<text id="30060200">Tarroescudo de hombre bestia ligero</text>
+<text id="30060300">Tarroescudo de hombre bestia de calidad</text>
+<text id="30060400">Tarroescudo de hombre bestia ígneo</text>
+<text id="30060500">Tarroescudo de hombre bestia llameante</text>
+<text id="30060600">Tarroescudo de hombre bestia fulgurante</text>
+<text id="30060700">Tarroescudo de hombre bestia sagrado</text>
+<text id="30060800">Tarroescudo de hombre bestia mágico</text>
+<text id="30060900">Tarroescudo de hombre bestia frío</text>
+<text id="30061000">Tarroescudo de hombre bestia venenoso</text>
+<text id="30061100">Tarroescudo de hombre bestia sangriento</text>
+<text id="30061200">Tarroescudo de hombre bestia oculto</text>
+<text id="30070000">Escudo redondo de espinas rojas</text>
+<text id="30070100">Escudo redondo de espinas rojas pesado</text>
+<text id="30070200">Escudo redondo de espinas rojas ligero</text>
+<text id="30070300">Escudo redondo de espinas rojas de calidad</text>
+<text id="30070400">Escudo redondo de espinas rojas ígneo</text>
+<text id="30070500">Escudo redondo de espinas rojas llameante</text>
+<text id="30070600">Escudo redondo de espinas rojas fulgurante</text>
+<text id="30070700">Escudo redondo de espinas rojas sagrado</text>
+<text id="30070800">Escudo redondo de espinas rojas mágico</text>
+<text id="30070900">Escudo redondo de espinas rojas frío</text>
+<text id="30071000">Escudo redondo de espinas rojas venenoso</text>
+<text id="30071100">Escudo redondo de espinas rojas sangriento</text>
+<text id="30071200">Escudo redondo de espinas rojas oculto</text>
+<text id="30080000">Escudo de madera grabado</text>
+<text id="30080100">Escudo de madera grabado pesado</text>
+<text id="30080200">Escudo de madera grabado ligero</text>
+<text id="30080300">Escudo de madera grabado de calidad</text>
+<text id="30080400">Escudo de madera grabado ígneo</text>
+<text id="30080500">Escudo de madera grabado llameante</text>
+<text id="30080600">Escudo de madera grabado fulgurante</text>
+<text id="30080700">Escudo de madera grabado sagrado</text>
+<text id="30080800">Escudo de madera grabado mágico</text>
+<text id="30080900">Escudo de madera grabado frío</text>
+<text id="30081000">Escudo de madera grabado venenoso</text>
+<text id="30081100">Escudo de madera grabado sangriento</text>
+<text id="30081200">Escudo de madera grabado oculto</text>
+<text id="30090000">Escudo de madera remachado</text>
+<text id="30090100">Escudo de madera remachado pesado</text>
+<text id="30090200">Escudo de madera remachado ligero</text>
+<text id="30090300">Escudo de madera remachado de calidad</text>
+<text id="30090400">Escudo de madera remachado ígneo</text>
+<text id="30090500">Escudo de madera remachado llameante</text>
+<text id="30090600">Escudo de madera remachado fulgurante</text>
+<text id="30090700">Escudo de madera remachado sagrado</text>
+<text id="30090800">Escudo de madera remachado mágico</text>
+<text id="30090900">Escudo de madera remachado frío</text>
+<text id="30091000">Escudo de madera remachado venenoso</text>
+<text id="30091100">Escudo de madera remachado sangriento</text>
+<text id="30091200">Escudo de madera remachado oculto</text>
+<text id="30100000">Escudo blanquiazul de madera</text>
+<text id="30100100">Escudo blanquiazul de madera pesado</text>
+<text id="30100200">Escudo blanquiazul de madera ligero</text>
+<text id="30100300">Escudo blanquiazul de madera de calidad</text>
+<text id="30100400">Escudo blanquiazul de madera ígneo</text>
+<text id="30100500">Escudo blanquiazul de madera llameante</text>
+<text id="30100600">Escudo blanquiazul de madera fulgurante</text>
+<text id="30100700">Escudo blanquiazul de madera sagrado</text>
+<text id="30100800">Escudo blanquiazul de madera mágico</text>
+<text id="30100900">Escudo blanquiazul de madera frío</text>
+<text id="30101000">Escudo blanquiazul de madera venenoso</text>
+<text id="30101100">Escudo blanquiazul de madera sangriento</text>
+<text id="30101200">Escudo blanquiazul de madera oculto</text>
+<text id="30110000">Escudo de la grieta</text>
+<text id="30110100">Escudo de la grieta pesado</text>
+<text id="30110200">Escudo de la grieta ligero</text>
+<text id="30110300">Escudo de la grieta de calidad</text>
+<text id="30110400">Escudo de la grieta ígneo</text>
+<text id="30110500">Escudo de la grieta llameante</text>
+<text id="30110600">Escudo de la grieta fulgurante</text>
+<text id="30110700">Escudo de la grieta sagrado</text>
+<text id="30110800">Escudo de la grieta mágico</text>
+<text id="30110900">Escudo de la grieta frío</text>
+<text id="30111000">Escudo de la grieta venenoso</text>
+<text id="30111100">Escudo de la grieta sangriento</text>
+<text id="30111200">Escudo de la grieta oculto</text>
+<text id="30120000">Escudo redondo de hierro</text>
+<text id="30120100">Escudo redondo de hierro pesado</text>
+<text id="30120200">Escudo redondo de hierro ligero</text>
+<text id="30120300">Escudo redondo de hierro de calidad</text>
+<text id="30120400">Escudo redondo de hierro ígneo</text>
+<text id="30120500">Escudo redondo de hierro flameante</text>
+<text id="30120600">Escudo redondo de hierro fulgurante</text>
+<text id="30120700">Escudo redondo de hierro sagrado</text>
+<text id="30120800">Escudo redondo de hierro mágico</text>
+<text id="30120900">Escudo redondo de hierro frío</text>
+<text id="30121000">Escudo redondo de hierro venenoso</text>
+<text id="30121100">Escudo redondo de hierro sangriento</text>
+<text id="30121200">Escudo redondo de hierro oculto</text>
+<text id="30130000">Escudo de hierro y oropel</text>
+<text id="30130100">Escudo de hierro y oropel pesado</text>
+<text id="30130200">Escudo de hierro y oropel ligero</text>
+<text id="30130300">Escudo de hierro y oropel de calidad</text>
+<text id="30130400">Escudo de hierro y oropel ígneo</text>
+<text id="30130500">Escudo de hierro y oropel llameante</text>
+<text id="30130600">Escudo de hierro y oropel fulgurante</text>
+<text id="30130700">Escudo de hierro y oropel sagrado</text>
+<text id="30130800">Escudo de hierro y oropel mágico</text>
+<text id="30130900">Escudo de hierro y oropel frío</text>
+<text id="30131000">Escudo de hierro y oropel venenoso</text>
+<text id="30131100">Escudo de hierro y oropel sangriento</text>
+<text id="30131200">Escudo de hierro y oropel oculto</text>
+<text id="30140000">Escudo con blasón de hielo</text>
+<text id="30140100">Escudo con blasón de hielo pesado</text>
+<text id="30140200">Escudo con blasón de hielo ligero</text>
+<text id="30140300">Escudo con blasón de hielo de calidad</text>
+<text id="30140400">Escudo con blasón de hielo ígneo</text>
+<text id="30140500">Escudo con blasón de hielo llameante</text>
+<text id="30140600">Escudo con blasón de hielo fulgurante</text>
+<text id="30140700">Escudo con blasón de hielo sagrado</text>
+<text id="30140800">Escudo con blasón de hielo mágico</text>
+<text id="30140900">Escudo con blasón de hielo frío</text>
+<text id="30141000">Escudo con blasón de hielo venenoso</text>
+<text id="30141100">Escudo con blasón de hielo sangriento</text>
+<text id="30141200">Escudo con blasón de hielo oculto</text>
+<text id="30150000">Escudo ardiente</text>
+<text id="30150100">Escudo humeante pesado</text>
+<text id="30150200">Escudo humeante ligero</text>
+<text id="30150300">Escudo humeante de calidad</text>
+<text id="30150400">Escudo humeante ígneo</text>
+<text id="30150500">Escudo humeante llameante</text>
+<text id="30150600">Escudo humeante fulgurante</text>
+<text id="30150700">Escudo humeante sagrado</text>
+<text id="30150800">Escudo humeante mágico</text>
+<text id="30150900">Escudo humeante frío</text>
+<text id="30151000">Escudo humeante venenoso</text>
+<text id="30151100">Escudo humeante sangriento</text>
+<text id="30151200">Escudo humeante oculto</text>
+<text id="30190000">Escudo de cuerno espiralado</text>
+<text id="30190100">Escudo de cuerno espiralado pesado</text>
+<text id="30190200">Escudo de cuerno espiralado ligero</text>
+<text id="30190300">Escudo de cuerno espiralado de calidad</text>
+<text id="30190400">Escudo de cuerno espiralado ígneo</text>
+<text id="30190500">Escudo de cuerno espiralado llameante</text>
+<text id="30190600">Escudo de cuerno espiralado fulgurante</text>
+<text id="30190700">Escudo de cuerno espiralado sagrado</text>
+<text id="30190800">Escudo de cuerno espiralado mágico</text>
+<text id="30190900">Escudo de cuerno espiralado frío</text>
+<text id="30191000">Escudo de cuerno espiralado venenoso</text>
+<text id="30191100">Escudo de cuerno espiralado sangriento</text>
+<text id="30191200">Escudo de cuerno espiralado oculto</text>
+<text id="30200000">Escudo en espiral</text>
+<text id="31000000">Escudo de lágrima</text>
+<text id="31000100">Escudo de lágrima pesado</text>
+<text id="31000200">Escudo de lágrima ligero</text>
+<text id="31000300">Escudo de lágrima de calidad</text>
+<text id="31000400">Escudo de lágrima ígneo</text>
+<text id="31000500">Escudo de lágrima llameante</text>
+<text id="31000600">Escudo de lágrima fulgurante</text>
+<text id="31000700">Escudo de lágrima sagrado</text>
+<text id="31000800">Escudo de lágrima mágico</text>
+<text id="31000900">Escudo de lágrima frío</text>
+<text id="31001000">Escudo de lágrima venenoso</text>
+<text id="31001100">Escudo de lágrima sangriento</text>
+<text id="31001200">Escudo de lágrima oculto</text>
+<text id="31010000">Escudo de cuero dañado</text>
+<text id="31010100">Escudo de cuero dañado pesado</text>
+<text id="31010200">Escudo de cuero dañado ligero</text>
+<text id="31010300">Escudo de cuero dañado de calidad</text>
+<text id="31010400">Escudo de cuero dañado ígneo</text>
+<text id="31010500">Escudo de cuero dañado llameante</text>
+<text id="31010600">Escudo de cuero dañado fulgurante</text>
+<text id="31010700">Escudo de cuero dañado sagrado</text>
+<text id="31010800">Escudo de cuero dañado mágico</text>
+<text id="31010900">Escudo de cuero dañado frío</text>
+<text id="31011000">Escudo de cuero dañado venenoso</text>
+<text id="31011100">Escudo de cuero dañado sangriento</text>
+<text id="31011200">Escudo de cuero dañado oculto</text>
+<text id="31020000">Escudo de madera dañado</text>
+<text id="31020100">Escudo de madera dañado pesado</text>
+<text id="31020200">Escudo de madera dañado ligero</text>
+<text id="31020300">Escudo de madera dañado de calidad</text>
+<text id="31020400">Escudo de madera dañado ígneo</text>
+<text id="31020500">Escudo de madera dañado llameante</text>
+<text id="31020600">Escudo de madera dañado fulgurante</text>
+<text id="31020700">Escudo de madera dañado sagrado</text>
+<text id="31020800">Escudo de madera dañado mágico</text>
+<text id="31020900">Escudo de madera dañado frío</text>
+<text id="31021000">Escudo de madera dañado venenoso</text>
+<text id="31021100">Escudo de madera dañado sangriento</text>
+<text id="31021200">Escudo de madera dañado oculto</text>
+<text id="31030000">Escudo de caballero proscrito</text>
+<text id="31030100">Escudo de caballero proscrito pesado</text>
+<text id="31030200">Escudo de caballero proscrito ligero</text>
+<text id="31030300">Escudo de caballero proscrito de calidad</text>
+<text id="31030400">Escudo de caballero proscrito ígneo</text>
+<text id="31030500">Escudo de caballero proscrito llameante</text>
+<text id="31030600">Escudo de caballero proscrito fulgurante</text>
+<text id="31030700">Escudo de caballero proscrito sagrado</text>
+<text id="31030800">Escudo de caballero proscrito mágico</text>
+<text id="31030900">Escudo de caballero proscrito frío</text>
+<text id="31031000">Escudo de caballero proscrito venenoso</text>
+<text id="31031100">Escudo de caballero proscrito sangriento</text>
+<text id="31031200">Escudo de caballero proscrito oculto</text>
+<text id="31040000">Escudo de albináurico</text>
+<text id="31040100">Escudo de albináurico pesado</text>
+<text id="31040200">Escudo de albináurico ligero</text>
+<text id="31040300">Escudo de albináurico de calidad</text>
+<text id="31040400">Escudo de albináurico ígneo</text>
+<text id="31040500">Escudo de albináurico llameante</text>
+<text id="31040600">Escudo de albináurico fulgurante</text>
+<text id="31040700">Escudo de albináurico sagrado</text>
+<text id="31040800">Escudo de albináurico mágico</text>
+<text id="31040900">Escudo de albináurico frío</text>
+<text id="31041000">Escudo de albináurico venenoso</text>
+<text id="31041100">Escudo albináurico sangriento</text>
+<text id="31041200">Escudo albináurico oculto</text>
+<text id="31050000">Escudo del Reino del Sol</text>
+<text id="31050100">Escudo del Reino del Sol pesado</text>
+<text id="31050200">Escudo del Reino del Sol ligero</text>
+<text id="31050300">Escudo del Reino del Sol de calidad</text>
+<text id="31050400">Escudo del Reino del Sol ígneo</text>
+<text id="31050500">Escudo del Reino del Sol llameante</text>
+<text id="31050600">Escudo del Reino del Sol fulgurante</text>
+<text id="31050700">Escudo del Reino del Sol sagrado</text>
+<text id="31050800">Escudo del Reino del Sol mágico</text>
+<text id="31050900">Escudo del Reino del Sol frío</text>
+<text id="31051000">Escudo del Reino del Sol venenoso</text>
+<text id="31051100">Escudo del Reino del Sol sangriento</text>
+<text id="31051200">Escudo del Reino del Sol oculto</text>
+<text id="31060000">Escudo espejo plateado</text>
+<text id="31070000">Escudo redondo</text>
+<text id="31070100">Escudo redondo pesado</text>
+<text id="31070200">Escudo redondo ligero</text>
+<text id="31070300">Escudo redondo de calidad</text>
+<text id="31070400">Escudo redondo ígneo</text>
+<text id="31070500">Escudo redondo llameante</text>
+<text id="31070600">Escudo redondo fulgurante</text>
+<text id="31070700">Escudo redondo sagrado</text>
+<text id="31070800">Escudo redondo mágico</text>
+<text id="31070900">Escudo redondo frío</text>
+<text id="31071000">Escudo redondo venenoso</text>
+<text id="31071100">Escudo redondo sangriento</text>
+<text id="31071200">Escudo redondo oculto</text>
+<text id="31080000">Escudo de lágrima con escorpión</text>
+<text id="31080100">Escudo de lágrima con escorpión pesado</text>
+<text id="31080200">Escudo de lágrima con escorpión ligero</text>
+<text id="31080300">Escudo de lágrima con escorpión de calidad</text>
+<text id="31080400">Escudo de lágrima con escorpión ígneo</text>
+<text id="31080500">Escudo de lágrima con escorpión llameante</text>
+<text id="31080600">Escudo de lágrima con escorpión fulgurante</text>
+<text id="31080700">Escudo de lágrima con escorpión sagrado</text>
+<text id="31080800">Escudo de lágrima con escorpión mágico</text>
+<text id="31080900">Escudo de lágrima con escorpión frío</text>
+<text id="31081000">Escudo de lágrima con escorpión venenoso</text>
+<text id="31081100">Escudo de lágrima con escorpión sangriento</text>
+<text id="31081200">Escudo de lágrima con escorpión oculto</text>
+<text id="31090000">Escudo de lágrima con ave bicéfala</text>
+<text id="31090100">Escudo de lágrima con ave bicéfala pesado</text>
+<text id="31090200">Escudo de lágrima con ave bicéfala ligero</text>
+<text id="31090300">Escudo de lág. con ave bicéfala de calidad</text>
+<text id="31090400">Escudo de lágrima con ave bicéfala ígneo</text>
+<text id="31090500">Escudo de lág. con ave bicéfala llameante</text>
+<text id="31090600">Escudo de lág. con ave bicéfala fulgurante</text>
+<text id="31090700">Escudo de lág. con ave bicéfala sagrado</text>
+<text id="31090800">Escudo de lágrima con ave bicéfala mágico</text>
+<text id="31090900">Escudo de lágrima con ave bicéfala frío</text>
+<text id="31091000">Escudo de lág. con ave bicéfala venenoso</text>
+<text id="31091100">Escudo de lág. con ave bicéfala sangriento</text>
+<text id="31091200">Escudo de lágrima con ave bicéfala oculto</text>
+<text id="31100000">Escudo de lágrima azul y oro</text>
+<text id="31100100">Escudo de lágrima azul y oro pesado</text>
+<text id="31100200">Escudo de lágrima azul y oro ligero</text>
+<text id="31100300">Escudo de lágrima azul y oro de calidad</text>
+<text id="31100400">Escudo de lágrima azul y oro ígneo</text>
+<text id="31100500">Escudo de lágrima azul y oro llameante</text>
+<text id="31100600">Escudo de lágrima azul y oro fulgurante</text>
+<text id="31100700">Escudo de lágrima azul y oro sagrado</text>
+<text id="31100800">Escudo de lágrima azul y oro mágico</text>
+<text id="31100900">Escudo de lágrima azul y oro frío</text>
+<text id="31101000">Escudo de lágrima azul y oro venenoso</text>
+<text id="31101100">Escudo de lágrima azul y oro sangriento</text>
+<text id="31101200">Escudo de lágrima azul y oro oculto</text>
+<text id="31130000">Escudo de latón</text>
+<text id="31130100">Escudo de latón pesado</text>
+<text id="31130200">Escudo de latón ligero</text>
+<text id="31130300">Escudo de latón de calidad</text>
+<text id="31130400">Escudo de latón ígneo</text>
+<text id="31130500">Escudo de latón llameante</text>
+<text id="31130600">Escudo de latón fulgurante</text>
+<text id="31130700">Escudo de latón sagrado</text>
+<text id="31130800">Escudo de latón mágico</text>
+<text id="31130900">Escudo de latón frío</text>
+<text id="31131000">Escudo de latón venenoso</text>
+<text id="31131100">Escudo de latón sangriento</text>
+<text id="31131200">Escudo de latón oculto</text>
+<text id="31140000">Gran caparazón</text>
+<text id="31140100">Gran caparazón pesado</text>
+<text id="31140200">Gran caparazón ligero</text>
+<text id="31140300">Gran caparazón de calidad</text>
+<text id="31140400">Gran caparazón ígneo</text>
+<text id="31140500">Gran caparazón llameante</text>
+<text id="31140600">Gran caparazón fulgurante</text>
+<text id="31140700">Gran caparazón sagrado</text>
+<text id="31140800">Gran caparazón mágico</text>
+<text id="31140900">Gran caparazón frío</text>
+<text id="31141000">Gran caparazón venenoso</text>
+<text id="31141100">Gran caparazón sangriento</text>
+<text id="31141200">Gran caparazón oculto</text>
+<text id="31170000">Escudo de condenado</text>
+<text id="31170100">Escudo de condenado pesado</text>
+<text id="31170200">Escudo de condenado ligero</text>
+<text id="31170300">Escudo de condenado de calidad</text>
+<text id="31170400">Escudo de condenado ígneo</text>
+<text id="31170500">Escudo de condenado llameante</text>
+<text id="31170600">Escudo de condenado fulgurante</text>
+<text id="31170700">Escudo de condenado sagrado</text>
+<text id="31170800">Escudo de condenado mágico</text>
+<text id="31170900">Escudo de condenado frío</text>
+<text id="31171000">Escudo de condenado venenoso</text>
+<text id="31171100">Escudo de condenado sangriento</text>
+<text id="31171200">Escudo de condenado oculto</text>
+<text id="31190000">Escudo de caballero cariano</text>
+<text id="31190100">Escudo de caballero cariano pesado</text>
+<text id="31190200">Escudo de caballero cariano ligero</text>
+<text id="31190300">Escudo de caballero cariano de calidad</text>
+<text id="31190400">Escudo de caballero cariano ígneo</text>
+<text id="31190500">Escudo de caballero cariano llameante</text>
+<text id="31190600">Escudo de caballero cariano fulgurante</text>
+<text id="31190700">Escudo de caballero cariano sagrado</text>
+<text id="31190800">Escudo de caballero cariano mágico</text>
+<text id="31190900">Escudo de caballero cariano frío</text>
+<text id="31191000">Escudo de caballero cariano venenoso</text>
+<text id="31191100">Escudo de caballero cariano sangriento</text>
+<text id="31191200">Escudo de caballero cariano oculto</text>
+<text id="31230000">Escudo de cuero grande</text>
+<text id="31230100">Escudo de cuero grande pesado</text>
+<text id="31230200">Escudo de cuero grande ligero</text>
+<text id="31230300">Escudo de cuero grande de calidad</text>
+<text id="31230400">Escudo de cuero grande ígneo</text>
+<text id="31230500">Escudo de cuero grande llameante</text>
+<text id="31230600">Escudo de cuero grande fulgurante</text>
+<text id="31230700">Escudo de cuero grande sagrado</text>
+<text id="31230800">Escudo de cuero grande mágico</text>
+<text id="31230900">Escudo de cuero grande frío</text>
+<text id="31231000">Escudo de cuero grande venenoso</text>
+<text id="31231100">Escudo de cuero grande sangriento</text>
+<text id="31231200">Escudo de cuero grande oculto</text>
+<text id="31240000">Escudo de madera con blasón de caballo</text>
+<text id="31240100">Escudo de mad. con blasón de cab. pesado</text>
+<text id="31240200">Escudo de mad. con blasón de cab. ligero</text>
+<text id="31240300">Escudo de mad. con blasón de cab. de calidad</text>
+<text id="31240400">Escudo de mad. con blasón de cab. ígneo</text>
+<text id="31240500">Escudo de mad. con blasón de cab. llameante</text>
+<text id="31240600">Escudo de mad. con blasón de cab. fulgurante</text>
+<text id="31240700">Escudo de mad. con blasón de cab. sagrado</text>
+<text id="31240800">Escudo de mad. con blasón de cab. mágico</text>
+<text id="31240900">Escudo de mad. con blasón de cab. frío</text>
+<text id="31241000">Escudo de mad. con blasón de cab. venenoso</text>
+<text id="31241100">Escudo de mad. con blasón de cab. sangriento</text>
+<text id="31241200">Escudo de mad. con blasón de cab. oculto</text>
+<text id="31250000">Escudo de madera de candelárbol</text>
+<text id="31250100">Escudo de madera de candelárbol pesado</text>
+<text id="31250200">Escudo de madera de candelárbol ligero</text>
+<text id="31250300">Escudo de madera de candelárbol de calidad</text>
+<text id="31250400">Escudo de madera de candelárbol ígneo</text>
+<text id="31250500">Escudo de madera de candelárbol llameante</text>
+<text id="31250600">Escudo de madera de candelárbol fulgurante</text>
+<text id="31250700">Escudo de madera de candelárbol sagrado</text>
+<text id="31250800">Escudo de madera de candelárbol mágico</text>
+<text id="31250900">Escudo de madera de candelárbol frío</text>
+<text id="31251000">Escudo de madera de candelárbol venenoso</text>
+<text id="31251100">Escudo de madera de candelárbol sangriento</text>
+<text id="31251200">Escudo de madera de candelárbol oculto</text>
+<text id="31260000">Escudo de madera con blasón de llama</text>
+<text id="31260100">Escudo de mad. con blasón de llama pesado</text>
+<text id="31260200">Escudo de mad. con blasón de llama ligero</text>
+<text id="31260300">Esc. de mad. con blasón de llama de calidad</text>
+<text id="31260400">Escudo de mad. con blasón de llama ígneo</text>
+<text id="31260500">Escudo de madera con blasón de llama llameante</text>
+<text id="31260600">Escudo de madera con blasón de llama fulgurante</text>
+<text id="31260700">Escudo de madera con blasón de llama sagrado</text>
+<text id="31260800">Escudo de madera con blasón de llama mágico</text>
+<text id="31260900">Escudo de madera con blasón de llama frío</text>
+<text id="31261000">Escudo de madera con blasón de llama venenoso</text>
+<text id="31261100">Escudo de madera con blasón de llama sangriento</text>
+<text id="31261200">Escudo de madera con blasón de llama oculto</text>
+<text id="31270000">Escudo de madera con blasón de halcón</text>
+<text id="31270100">Escudo de madera con blasón de halcón pesado</text>
+<text id="31270200">Escudo de madera con blasón de halcón ligero</text>
+<text id="31270300">Escudo de madera con blasón de halcón de calidad</text>
+<text id="31270400">Escudo de madera con blasón de halcón ígneo</text>
+<text id="31270500">Escudo de madera con blasón de halcón llameante</text>
+<text id="31270600">Escudo de madera con blasón de halcón fulgurante</text>
+<text id="31270700">Escudo de madera con blasón de halcón sagrado</text>
+<text id="31270800">Escudo de madera con blasón de halcón mágico</text>
+<text id="31270900">Escudo de madera con blasón de halcón frío</text>
+<text id="31271000">Escudo de madera con blasón de halcón venenoso</text>
+<text id="31271100">Escudo de madera con blasón de halcón sangriento</text>
+<text id="31271200">Escudo de madera con blasón de halcón oculto</text>
+<text id="31280000">Escudo apuntado con blasón de bestia</text>
+<text id="31280100">Escudo apuntado con blasón de bestia pesado</text>
+<text id="31280200">Escudo apuntado con blasón de bestia ligero</text>
+<text id="31280300">Escudo apuntado con blasón de bestia de calidad</text>
+<text id="31280400">Escudo apuntado con blasón de bestia ígneo</text>
+<text id="31280500">Escudo apuntado con blasón de bestia llameante</text>
+<text id="31280600">Escudo apuntado con blasón de bestia fulgurante</text>
+<text id="31280700">Escudo apuntado con blasón de bestia sagrado</text>
+<text id="31280800">Escudo apuntado con blasón de bestia mágico</text>
+<text id="31280900">Escudo apuntado con blasón de bestia frío</text>
+<text id="31281000">Escudo apuntado con blasón de bestia venenoso</text>
+<text id="31281100">Escudo apuntado con blasón de bestia sangriento</text>
+<text id="31281200">Escudo apuntado con blasón de bestia oculto</text>
+<text id="31290000">Escudo apuntado con blasón rojo</text>
+<text id="31290100">Escudo apuntado con blasón rojo pesado</text>
+<text id="31290200">Escudo apuntado con blasón rojo ligero</text>
+<text id="31290300">Escudo apuntado con blasón rojo de calidad</text>
+<text id="31290400">Escudo apuntado con blasón rojo ígneo</text>
+<text id="31290500">Escudo apuntado con blasón rojo llameante</text>
+<text id="31290600">Escudo apuntado con blasón rojo fulgurante</text>
+<text id="31290700">Escudo apuntado con blasón rojo sagrado</text>
+<text id="31290800">Escudo apuntado con blasón rojo mágico</text>
+<text id="31290900">Escudo apuntado con blasón rojo frío</text>
+<text id="31291000">Escudo apuntado con blasón rojo venenoso</text>
+<text id="31291100">Escudo apuntado con blasón rojo sangriento</text>
+<text id="31291200">Escudo apuntado con blasón rojo oculto</text>
+<text id="31300000">Escudo apuntado con blasón fosco</text>
+<text id="31300100">Escudo apuntado con blasón fosco pesado</text>
+<text id="31300200">Escudo apuntado con blasón fosco ligero</text>
+<text id="31300300">Escudo apuntado con blasón fosco de calidad</text>
+<text id="31300400">Escudo apuntado con blasón fosco ígneo</text>
+<text id="31300500">Escudo apuntado con blasón fosco llameante</text>
+<text id="31300600">Escudo apuntado con blasón fosco fulgurante</text>
+<text id="31300700">Escudo apuntado con blasón fosco sagrado</text>
+<text id="31300800">Escudo apuntado con blasón fosco mágico</text>
+<text id="31300900">Escudo apuntado con blasón fosco frío</text>
+<text id="31301000">Escudo apuntado con blasón fosco venenoso</text>
+<text id="31301100">Escudo apuntado con blasón fosco sangriento</text>
+<text id="31301200">Escudo apuntado con blasón fosco oculto</text>
+<text id="31310000">Escudo apuntado con blasón de eclipse</text>
+<text id="31310100">Escudo apuntado con blasón de eclipse pesado</text>
+<text id="31310200">Escudo apuntado con blasón de eclipse ligero</text>
+<text id="31310300">Escudo apuntado con blasón de eclipse de calidad</text>
+<text id="31310400">Escudo apuntado con blasón de eclipse ígneo</text>
+<text id="31310500">Escudo apuntado con blasón de eclipse llameante</text>
+<text id="31310600">Escudo apuntado con blasón de eclipse fulgurante</text>
+<text id="31310700">Escudo apuntado con blasón de eclipse sagrado</text>
+<text id="31310800">Escudo apuntado con blasón de eclipse mágico</text>
+<text id="31310900">Escudo apuntado con blasón de eclipse frío</text>
+<text id="31311000">Escudo apuntado con blasón de eclipse venenoso</text>
+<text id="31311100">Escudo apuntado con blasón de eclipse sangriento</text>
+<text id="31311200">Escudo apuntado con blasón de eclipse oculto</text>
+<text id="31320000">Escudo apuntado con halcón invertido</text>
+<text id="31320100">Escudo apuntado con halcón invertido pesado</text>
+<text id="31320200">Escudo apuntado con halcón invertido ligero</text>
+<text id="31320300">Escudo apuntado con halcón invertido de calidad</text>
+<text id="31320400">Escudo apuntado con halcón invertido ígneo</text>
+<text id="31320500">Escudo apuntado con halcón invertido llameante</text>
+<text id="31320600">Escudo apuntado con halcón invertido fulgurante</text>
+<text id="31320700">Escudo apuntado con halcón invertido sagrado</text>
+<text id="31320800">Escudo apuntado con halcón invertido mágico</text>
+<text id="31320900">Escudo apuntado con halcón invertido frío</text>
+<text id="31321000">Escudo apuntado con halcón invertido venenoso</text>
+<text id="31321100">Escudo apuntado con halcón invertido sangriento</text>
+<text id="31321200">Escudo apuntado con halcón invertido oculto</text>
+<text id="31330000">Escudo apuntado</text>
+<text id="31330100">Escudo apuntado pesado</text>
+<text id="31330200">Escudo apuntado ligero</text>
+<text id="31330300">Escudo apuntado de calidad</text>
+<text id="31330400">Escudo apuntado ígneo</text>
+<text id="31330500">Escudo apuntado llameante</text>
+<text id="31330600">Escudo apuntado fulgurante</text>
+<text id="31330700">Escudo apuntado sagrado</text>
+<text id="31330800">Escudo apuntado mágico</text>
+<text id="31330900">Escudo apuntado frío</text>
+<text id="31331000">Escudo apuntado venenoso</text>
+<text id="31331100">Escudo apuntado sangriento</text>
+<text id="31331200">Escudo apuntado oculto</text>
+<text id="31340000">Escudo de cuero negro</text>
+<text id="31340100">Escudo de cuero negro pesado</text>
+<text id="31340200">Escudo de cuero negro ligero</text>
+<text id="31340300">Escudo de cuero negro de calidad</text>
+<text id="31340400">Escudo de cuero negro ígneo</text>
+<text id="31340500">Escudo de cuero negro llameante</text>
+<text id="31340600">Escudo de cuero negro fulgurante</text>
+<text id="31340700">Escudo de cuero negro sagrado</text>
+<text id="31340800">Escudo de cuero negro mágico</text>
+<text id="31340900">Escudo de cuero negro frío</text>
+<text id="31341000">Escudo de cuero negro venenoso</text>
+<text id="31341100">Escudo de cuero negro sangriento</text>
+<text id="31341200">Escudo de cuero negro oculto</text>
+<text id="32000000">Pavés con dragón</text>
+<text id="32000100">Pavés con dragón pesado</text>
+<text id="32000200">Pavés con dragón ligero</text>
+<text id="32000300">Pavés con dragón de calidad</text>
+<text id="32000400">Pavés con dragón ígneo</text>
+<text id="32000500">Pavés con dragón llameante</text>
+<text id="32000600">Pavés con dragón fulgurante</text>
+<text id="32000700">Pavés con dragón sagrado</text>
+<text id="32000800">Pavés con dragón mágico</text>
+<text id="32000900">Pavés con dragón frío</text>
+<text id="32001000">Pavés con dragón venenoso</text>
+<text id="32001100">Pavés con dragón sangriento</text>
+<text id="32001200">Pavés con dragón oculto</text>
+<text id="32020000">Escudo grande insigne</text>
+<text id="32020100">Escudo grande insigne pesado</text>
+<text id="32020200">Escudo grande insigne ligero</text>
+<text id="32020300">Escudo grande insigne de calidad</text>
+<text id="32020400">Escudo grande insigne ígneo</text>
+<text id="32020500">Escudo grande insigne llameante</text>
+<text id="32020600">Escudo grande insigne fulgurante</text>
+<text id="32020700">Escudo grande insigne sagrado</text>
+<text id="32020800">Escudo grande insigne mágico</text>
+<text id="32020900">Escudo grande insigne frío</text>
+<text id="32021000">Escudo grande insigne venenoso</text>
+<text id="32021100">Escudo grande insigne sangriento</text>
+<text id="32021200">Escudo grande insigne oculto</text>
+<text id="32030000">Escudo córneo de crisol</text>
+<text id="32030100">Escudo córneo de crisol pesado</text>
+<text id="32030200">Escudo córneo de crisol ligero</text>
+<text id="32030300">Escudo córneo de crisol de calidad</text>
+<text id="32030400">Escudo córneo de crisol ígneo</text>
+<text id="32030500">Escudo córneo de crisol llameante</text>
+<text id="32030600">Escudo córneo de crisol fulgurante</text>
+<text id="32030700">Escudo córneo de crisol sagrado</text>
+<text id="32030800">Escudo córneo de crisol mágico</text>
+<text id="32030900">Escudo córneo de crisol frío</text>
+<text id="32031000">Escudo córneo de crisol venenoso</text>
+<text id="32031100">Escudo córneo de crisol sangriento</text>
+<text id="32031200">Escudo córneo de crisol oculto</text>
+<text id="32040000">Escudo de garra de dragón</text>
+<text id="32040100">Escudo de garra de dragón pesado</text>
+<text id="32040200">Escudo de garra de dragón ligero</text>
+<text id="32040300">Escudo de garra de dragón de calidad</text>
+<text id="32040400">Escudo de garra de dragón ígneo</text>
+<text id="32040500">Escudo de garra de dragón llameante</text>
+<text id="32040600">Escudo de garra de dragón fulgurante</text>
+<text id="32040700">Escudo de garra de dragón sagrado</text>
+<text id="32040800">Escudo de garra de dragón mágico</text>
+<text id="32040900">Escudo de garra de dragón frío</text>
+<text id="32041000">Escudo de garra de dragón venenoso</text>
+<text id="32041100">Escudo de garra de dragón sangriento</text>
+<text id="32041200">Escudo de garra de dragón oculto</text>
+<text id="32050000">Escudo grande de la Zarza</text>
+<text id="32050100">Escudo grande de la Zarza pesado</text>
+<text id="32050200">Escudo grande de la Zarza ligero</text>
+<text id="32050300">Escudo grande de la Zarza de calidad</text>
+<text id="32050400">Escudo grande de la Zarza ígneo</text>
+<text id="32050500">Escudo grande de la Zarza llameante</text>
+<text id="32050600">Escudo grande de la Zarza fulgurante</text>
+<text id="32050700">Escudo grande de la Zarza sagrado</text>
+<text id="32050800">Escudo grande de la Zarza mágico</text>
+<text id="32050900">Escudo grande de la Zarza frío</text>
+<text id="32051000">Escudo grande de la Zarza venenoso</text>
+<text id="32051100">Escudo grande de la Zarza sangriento</text>
+<text id="32051200">Escudo grande de la Zarza oculto</text>
+<text id="32080000">Escudo grande del Árbol Áureo</text>
+<text id="32080100">Escudo grande pesado del Árbol Áureo</text>
+<text id="32080200">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080300">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080400">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080500">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080600">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080700">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080800">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32080900">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32081000">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32081100">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32081200">Escudo usado por los centinelas agrestes.
+Ha sido tratado con oro y presenta un diseño delicado.</text>
+<text id="32090000">Escudo dorado con blasón de bestia</text>
+<text id="32090100">Escudo dorado con blasón de bestia pesado</text>
+<text id="32090200">Escudo dorado con blasón de bestia ligero</text>
+<text id="32090300">Esc. dor. con blasón de bestia de calidad</text>
+<text id="32090400">Escudo dorado con blasón de bestia ígneo</text>
+<text id="32090500">Esc. dor. con blasón de bestia llameante</text>
+<text id="32090600">Esc. dor. con blasón de bestia fulgurante</text>
+<text id="32090700">Escudo dorado con blasón de bestia sagrado</text>
+<text id="32090800">Escudo dorado con blasón de bestia mágico</text>
+<text id="32090900">Escudo dorado con blasón de bestia frío</text>
+<text id="32091000">Esc. dor. con blasón de bestia venenoso</text>
+<text id="32091100">Esc. dor. con blasón de bestia sangriento</text>
+<text id="32091200">Escudo dorado con blasón de bestia oculto</text>
+<text id="32120000">Escudo de medusa</text>
+<text id="32130000">Escudo de los dactilogramas</text>
+<text id="32130100">Escudo de los dactilogramas pesado</text>
+<text id="32130200">Escudo de los dactilogramas ligero</text>
+<text id="32130300">Escudo de los dactilogramas de calidad</text>
+<text id="32130400">Escudo de los dactilogramas ígneo</text>
+<text id="32130500">Escudo de los dactilogramas llameante</text>
+<text id="32130600">Escudo de los dactilogramas fulgurante</text>
+<text id="32130700">Escudo de los dactilogramas sagrado</text>
+<text id="32130800">Escudo de los dactilogramas mágico</text>
+<text id="32130900">Escudo de los dactilogramas frío</text>
+<text id="32131000">Escudo de los dactilogramas venenoso</text>
+<text id="32131100">Escudo de los dactilogramas sangriento</text>
+<text id="32131200">Escudo de los dactilogramas oculto</text>
+<text id="32140000">Escudo mural</text>
+<text id="32140100">Escudo mural pesado</text>
+<text id="32140200">Escudo mural ligero</text>
+<text id="32140300">Escudo mural de calidad</text>
+<text id="32140400">Escudo mural ígneo</text>
+<text id="32140500">Escudo mural llameante</text>
+<text id="32140600">Escudo mural fulgurante</text>
+<text id="32140700">Escudo mural sagrado</text>
+<text id="32140800">Escudo mural mágico</text>
+<text id="32140900">Escudo mural frío</text>
+<text id="32141000">Escudo mural venenoso</text>
+<text id="32141100">Escudo mural sangriento</text>
+<text id="32141200">Escudo mural oculto</text>
+<text id="32150000">Escudo cíclope</text>
+<text id="32160000">Escudo de rostro</text>
+<text id="32170000">Escudo de empalizada punzante</text>
+<text id="32170100">Escudo de empalizada pesado</text>
+<text id="32170200">Escudo de empalizada ligero</text>
+<text id="32170300">Escudo de empalizada de calidad</text>
+<text id="32170400">Escudo de empalizada ígneo</text>
+<text id="32170500">Escudo de empalizada llameante</text>
+<text id="32170600">Escudo de empalizada fulgurante</text>
+<text id="32170700">Escudo de empalizada sagrado</text>
+<text id="32170800">Escudo de empalizada mágico</text>
+<text id="32170900">Escudo de empalizada frío</text>
+<text id="32171000">Escudo de empalizada venenoso</text>
+<text id="32171100">Escudo de empalizada sangriento</text>
+<text id="32171200">Escudo de empalizada oculto</text>
+<text id="32190000">Pavés de torreón</text>
+<text id="32190100">Pavés de torreón pesado</text>
+<text id="32190200">Pavés de torreón ligero</text>
+<text id="32190300">Pavés de torreón de calidad</text>
+<text id="32190400">Pavés de torreón ígneo</text>
+<text id="32190500">Pavés de torreón llameante</text>
+<text id="32190600">Pavés de torreón fulgurante</text>
+<text id="32190700">Pavés de torreón sagrado</text>
+<text id="32190800">Pavés de torreón mágico</text>
+<text id="32190900">Pavés de torreón frío</text>
+<text id="32191000">Pavés de torreón venenoso</text>
+<text id="32191100">Pavés de torreón sangriento</text>
+<text id="32191200">Pavés de torreón oculto</text>
+<text id="32200000">Pavés del árbol cruzado</text>
+<text id="32200100">Pavés del árbol cruzado pesado</text>
+<text id="32200200">Pavés del árbol cruzado ligero</text>
+<text id="32200300">Pavés del árbol cruzado de calidad</text>
+<text id="32200400">Pavés del árbol cruzado ígneo</text>
+<text id="32200500">Pavés del árbol cruzado llameante</text>
+<text id="32200600">Pavés del árbol cruzado fulgurante</text>
+<text id="32200700">Pavés del árbol cruzado sagrado</text>
+<text id="32200800">Pavés del árbol cruzado mágico</text>
+<text id="32200900">Pavés del árbol cruzado frío</text>
+<text id="32201000">Pavés del árbol cruzado venenoso</text>
+<text id="32201100">Pavés del árbol cruzado sangriento</text>
+<text id="32201200">Pavés del árbol cruzado oculto</text>
+<text id="32210000">Pavés con halcón invertido</text>
+<text id="32210100">Pavés con halcón invertido pesado</text>
+<text id="32210200">Pavés con halcón invertido ligero</text>
+<text id="32210300">Pavés con halcón invertido de calidad</text>
+<text id="32210400">Pavés con halcón invertido ígneo</text>
+<text id="32210500">Pavés con halcón invertido llameante</text>
+<text id="32210600">Pavés con halcón invertido fulgurante</text>
+<text id="32210700">Pavés con halcón invertido sagrado</text>
+<text id="32210800">Pavés con halcón invertido mágico</text>
+<text id="32210900">Pavés con halcón invertido frío</text>
+<text id="32211000">Pavés con halcón invertido venenoso</text>
+<text id="32211100">Pavés con halcón invertido sangriento</text>
+<text id="32211200">Pavés con halcón invertido oculto</text>
+<text id="32220000">Placa craneal de hormiga</text>
+<text id="32230000">Escudo grande de la Melena Roja</text>
+<text id="32230100">Escudo grande de la Melena Roja pesado</text>
+<text id="32230200">Escudo grande de la Melena Roja ligero</text>
+<text id="32230300">Escudo grande de la Melena Roja de calidad</text>
+<text id="32230400">Escudo grande de la Melena Roja ígneo</text>
+<text id="32230500">Escudo grande de la Melena Roja llameante</text>
+<text id="32230600">Escudo grande de la Melena Roja fulgurante</text>
+<text id="32230700">Escudo grande de la Melena Roja sagrado</text>
+<text id="32230800">Escudo grande de la Melena Roja mágico</text>
+<text id="32230900">Escudo grande de la Melena Roja frío</text>
+<text id="32231000">Escudo grande de la Melena Roja venenoso</text>
+<text id="32231100">Escudo grande de la Melena Roja sangriento</text>
+<text id="32231200">Escudo grande de la Melena Roja oculto</text>
+<text id="32240000">Escudo grande con blasón de eclipse</text>
+<text id="32240100">Escudo grande con blasón de eclipse pesado</text>
+<text id="32240200">Escudo grande con blasón de eclipse ligero</text>
+<text id="32240300">Escudo grande con blasón de eclipse de calidad</text>
+<text id="32240400">Escudo grande con blasón de eclipse ígneo</text>
+<text id="32240500">Escudo grande con blasón de eclipse llameante</text>
+<text id="32240600">Escudo grande con blasón de eclipse fulgurante</text>
+<text id="32240700">Escudo grande con blasón de eclipse sagrado</text>
+<text id="32240800">Escudo grande con blasón de eclipse mágico</text>
+<text id="32240900">Escudo grande con blasón de eclipse frío</text>
+<text id="32241000">Escudo grande con blasón de eclipse venenoso</text>
+<text id="32241100">Escudo grande con blasón de eclipse sangriento</text>
+<text id="32241200">Escudo grande con blasón de eclipse oculto</text>
+<text id="32250000">Escudo grande del Cuco</text>
+<text id="32250100">Escudo grande del Cuco pesado</text>
+<text id="32250200">Escudo grande del Cuco ligero</text>
+<text id="32250300">Escudo grande del Cuco de calidad</text>
+<text id="32250400">Escudo grande del Cuco ígneo</text>
+<text id="32250500">Escudo grande del Cuco llameante</text>
+<text id="32250600">Escudo grande del Cuco fulgurante</text>
+<text id="32250700">Escudo grande del Cuco sagrado</text>
+<text id="32250800">Escudo grande del Cuco mágico</text>
+<text id="32250900">Escudo grande del Cuco frío</text>
+<text id="32251000">Escudo grande del Cuco venenoso</text>
+<text id="32251100">Escudo grande del Cuco sangriento</text>
+<text id="32251200">Escudo grande del Cuco oculto</text>
+<text id="32260000">Escudo grande dorado</text>
+<text id="32260100">Escudo grande dorado pesado</text>
+<text id="32260200">Escudo grande dorado ligero</text>
+<text id="32260300">Escudo grande dorado de calidad</text>
+<text id="32260400">Escudo grande dorado ígneo</text>
+<text id="32260500">Escudo grande dorado llameante</text>
+<text id="32260600">Escudo grande dorado fulgurante</text>
+<text id="32260700">Escudo grande dorado sagrado</text>
+<text id="32260800">Escudo grande dorado mágico</text>
+<text id="32260900">Escudo grande dorado frío</text>
+<text id="32261000">Escudo grande dorado venenoso</text>
+<text id="32261100">Escudo grande dorado sangriento</text>
+<text id="32261200">Escudo grande dorado oculto</text>
+<text id="32270000">Escudo grande de oropel</text>
+<text id="32270100">Escudo grande de oropel pesado</text>
+<text id="32270200">Escudo grande de oropel ligero</text>
+<text id="32270300">Escudo grande de oropel de calidad</text>
+<text id="32270400">Escudo grande de oropel ígneo</text>
+<text id="32270500">Escudo grande de oropel llameante</text>
+<text id="32270600">Escudo grande de oropel fulgurante</text>
+<text id="32270700">Escudo grande de oropel sagrado</text>
+<text id="32270800">Escudo grande de oropel mágico</text>
+<text id="32270900">Escudo grande de oropel frío</text>
+<text id="32271000">Escudo grande de oropel venenoso</text>
+<text id="32271100">Escudo grande de oropel sangriento</text>
+<text id="32271200">Escudo grande de oropel oculto</text>
+<text id="32280000">Escudo grande del Árbol Hierático</text>
+<text id="32280100">Escudo grande del Árbol Hier. pesado</text>
+<text id="32280200">Escudo grande del Árbol Hier. ligero</text>
+<text id="32280300">Escudo grande del Árbol Hier. de calidad</text>
+<text id="32280400">Escudo grande del Árbol Hier. ígneo</text>
+<text id="32280500">Escudo grande del Árbol Hier. llameante</text>
+<text id="32280600">Escudo grande del Árbol Hier. fulgurante</text>
+<text id="32280700">Escudo grande del Árbol Hier. sagrado</text>
+<text id="32280800">Escudo grande del Árbol Hier. mágico</text>
+<text id="32280900">Escudo grande del Árbol Hier. frío</text>
+<text id="32281000">Escudo grande del Árbol Hier. venenoso</text>
+<text id="32281100">Escudo grande del Árbol Hier. sangriento</text>
+<text id="32281200">Escudo grande del Árbol Hier. oculto</text>
+<text id="32290000">Escudo grande de madera</text>
+<text id="32290100">Escudo grande de madera pesado</text>
+<text id="32290200">Escudo grande de madera ligero</text>
+<text id="32290300">Escudo grande de madera de calidad</text>
+<text id="32290400">Escudo grande de madera ígneo</text>
+<text id="32290500">Escudo grande de madera llameante</text>
+<text id="32290600">Escudo grande de madera fulgurante</text>
+<text id="32290700">Escudo grande de madera sagrado</text>
+<text id="32290800">Escudo grande de madera mágico</text>
+<text id="32290900">Escudo grande de madera frío</text>
+<text id="32291000">Escudo grande de madera venenoso</text>
+<text id="32291100">Escudo grande de madera sangriento</text>
+<text id="32291200">Escudo grande de madera oculto</text>
+<text id="32300000">Escudo de juramentado</text>
+<text id="32300100">Escudo de juramentado pesado</text>
+<text id="32300200">Escudo de juramentado ligero</text>
+<text id="32300300">Escudo de juramentado de calidad</text>
+<text id="32300400">Escudo de juramentado ígneo</text>
+<text id="32300500">Escudo de juramentado llameante</text>
+<text id="32300600">Escudo de juramentado fulgurante</text>
+<text id="32300700">Escudo de juramentado sagrado</text>
+<text id="32300800">Escudo de juramentado mágico</text>
+<text id="32300900">Escudo de juramentado frío</text>
+<text id="32301000">Escudo de juramentado venenoso</text>
+<text id="32301100">Escudo de juramentado sangriento</text>
+<text id="32301200">Escudo de juramentado oculto</text>
+<text id="33000000">Bastón con piedra refulgente</text>
+<text id="33040000">Bastón de cristal</text>
+<text id="33050000">Bastón de piedra refulgente de Gelmir</text>
+<text id="33060000">Bastón de reina semihumana</text>
+<text id="33090000">Cetro regio cariano</text>
+<text id="33120000">Bastón de excavador</text>
+<text id="33130000">Bastón de astrólogo</text>
+<text id="33170000">Bastón de hojas refulgentes cariano</text>
+<text id="33180000">Bastón del Príncipe de la Muerte</text>
+<text id="33190000">Bastón albináurico</text>
+<text id="33200000">Bastón de piedra refulgente de la Academia</text>
+<text id="33210000">Bastón de piedra refulgente cariano</text>
+<text id="33230000">Bastón de piedra refulgente de Azur</text>
+<text id="33240000">Bastón de piedra refulgente de Lusat</text>
+<text id="33250000">Bastón de meteorito</text>
+<text id="33260000">Bastón de condenado</text>
+<text id="33270000">Bastón de cristal pútrido</text>
+<text id="33280000">Bastón de la pérdida</text>
+<text id="34000000">Sello de los Dedos</text>
+<text id="34010000">Sello del exterminador de dioses</text>
+<text id="34020000">Sello del gigante</text>
+<text id="34030000">Sello de grava</text>
+<text id="34040000">Sello Marca de Garra</text>
+<text id="34050000">Grasa de veneno</text>
+<text id="34060000">Sello de la Orden Dorada</text>
+<text id="34070000">Sello del Árbol Áureo</text>
+<text id="34080000">Sello de la Comunión Dragontina</text>
+<text id="34090000">Sello de la llama frenética</text>
+<text id="40000000">Arco corto</text>
+<text id="40010000">Arco corto de bastardo</text>
+<text id="40020000">Arco corto de rama roja</text>
+<text id="40030000">Arco arpa</text>
+<text id="40050000">Arco compuesto</text>
+<text id="41000000">Arco largo</text>
+<text id="41010000">Arco de albináurico</text>
+<text id="41020000">Arco de cuerno</text>
+<text id="41030000">Arco del Árbol Áureo</text>
+<text id="41040000">Arco serpentino</text>
+<text id="41060000">Arco de polea</text>
+<text id="41070000">Arco negro</text>
+<text id="42000000">Arco grande de león</text>
+<text id="42010000">Arco grande de gólem</text>
+<text id="42030000">Arco grande del Árbol Áureo</text>
+<text id="42040000">Arco grande</text>
+<text id="43000000">Ballesta de soldado</text>
+<text id="43020000">Ballesta ligera</text>
+<text id="43030000">Ballesta pesada</text>
+<text id="43050000">Ballesta con polea</text>
+<text id="43060000">Ballesta de la Luna Llena</text>
+<text id="43080000">Arbalesta</text>
+<text id="43100000">%null%</text>
+<text id="43110000">Ballesta negra de Crepus</text>
+<text id="44000000">Balista de mano</text>
+<text id="44010000">Cañón de tarro</text>
+<text id="50000000">Flecha</text>
+<text id="50010000">Flecha de fuego</text>
+<text id="50020000">Flecha serpentina</text>
+<text id="50030000">Flecha ósea emplumada</text>
+<text id="50040000">Flecha de Santa Trina</text>
+<text id="50060000">Flecha esquirlada emplumada</text>
+<text id="50080000">Flecha de piedra arcoíris emplumada</text>
+<text id="50090000">Flecha dorada</text>
+<text id="50100000">Flecha embrujada</text>
+<text id="50110000">Flecha ósea</text>
+<text id="50130000">Flecha ósea ígnea emplumada</text>
+<text id="50140000">Flecha ósea ígnea</text>
+<text id="50150000">Flecha ósea ponzoñosa emplumada</text>
+<text id="50160000">Flecha ósea ponzoñosa</text>
+<text id="50170000">Flecha ósea soporífera emplumada</text>
+<text id="50180000">Flecha ósea soporífera</text>
+<text id="50190000">Flecha ósea de ala tormentosa</text>
+<text id="50200000">Flecha ósea fulgurante emplumada</text>
+<text id="50210000">Flecha ósea fulgurante</text>
+<text id="50220000">Flecha de piedra arcoíris</text>
+<text id="50230000">Flecha esquirlada</text>
+<text id="50240000">Flecha de llamas espirituales</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Flecha ósea mágica emplumada</text>
+<text id="50270000">Flecha ósea mágica</text>
+<text id="50280000">Flecha ósea hierática emplumada</text>
+<text id="50290000">Flecha ósea hierática</text>
+<text id="50300000">Flecha ósea sangrienta emplumada</text>
+<text id="50310000">Flecha ósea sangrienta</text>
+<text id="50320000">Flecha ósea fría emplumada</text>
+<text id="50330000">Flecha ósea fría</text>
+<text id="50340000">Flecha ósea podrida emplumada</text>
+<text id="50350000">Flecha ósea podrida</text>
+<text id="51000000">Gran flecha</text>
+<text id="51010000">Gran flecha de gólem</text>
+<text id="51020000">Gran flecha dorada</text>
+<text id="51030000">Gran flecha mágica de gólem</text>
+<text id="51040000">Lanza de Radahn</text>
+<text id="51050000">Gran flecha ósea emplumada</text>
+<text id="51060000">Gran flecha ósea</text>
+<text id="52000000">Saeta</text>
+<text id="52010000">Saeta fulgurante</text>
+<text id="52020000">Saeta de perfumista</text>
+<text id="52030000">Saeta de llave negra</text>
+<text id="52040000">Saeta espinosa</text>
+<text id="52050000">Saeta meteórica</text>
+<text id="52060000">Saeta explosiva</text>
+<text id="52070000">Saeta dorada</text>
+<text id="52080000">Saeta de juramentado</text>
+<text id="52090000">Saeta ósea</text>
+<text id="52100000">Saeta ósea ígnea</text>
+<text id="52110000">Saeta ósea fulgurante</text>
+<text id="52120000">Saeta ósea mágica</text>
+<text id="52130000">Saeta ósea hierática</text>
+<text id="52140000">Saeta ósea ponzoñosa</text>
+<text id="52150000">Saeta ósea sangrienta</text>
+<text id="52160000">Saeta ósea fría</text>
+<text id="52170000">Saeta ósea podrida</text>
+<text id="52180000">Saeta ósea soporífera</text>
+<text id="52190000">Saeta llameante</text>
+<text id="53000000">Saeta de balista</text>
+<text id="53010000">Saeta grande fulgurante</text>
+<text id="53020000">Saeta grande explosiva</text>
+<text id="53030000">Saeta ósea de balista</text>
+</entries>
+</fmg>

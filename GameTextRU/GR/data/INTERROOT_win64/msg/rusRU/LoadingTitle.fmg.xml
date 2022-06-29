@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Скрытное передвижение</text>
+<text id="2">Блок</text>
+<text id="3">Контратаки после блока</text>
+<text id="4">Двуручное оружие</text>
+<text id="5">Мощные атаки и атаки в прыжке</text>
+<text id="6">Навык</text>
+<text id="7">Парирование</text>
+<text id="8">Захват цели</text>
+<text id="9">Точное прицеливание</text>
+<text id="10">Ношение оружия</text>
+<text id="11">Использование предметов</text>
+<text id="12">Использование факелов</text>
+<text id="13">Критические удары</text>
+<text id="14">Жесты</text>
+<text id="15">Карта</text>
+<text id="16">Прыжок в духовный источник</text>
+<text id="17">Быстрая команда для предмета</text>
+<text id="50">Гибель и руны</text>
+<text id="51">%null%</text>
+<text id="52">Призыв духов</text>
+<text id="53">Отдых в местах благодати</text>
+<text id="54">Поиск мест благодати</text>
+<text id="55">Видения благодати</text>
+<text id="56">Священные фляги</text>
+<text id="57">Быстрое перемещение к местам благодати</text>
+<text id="58">Атаки верхом</text>
+<text id="59">Где нельзя ездить верхом</text>
+<text id="60">Создание предметов</text>
+<text id="61">Ёмкости</text>
+<text id="62">Настройка оружия</text>
+<text id="63">%null%</text>
+<text id="64">Возрождение после гибели</text>
+<text id="65">Вес снаряжения</text>
+<text id="66">Во время боя</text>
+<text id="67">Усиление духов</text>
+<text id="68">Повышение уровня</text>
+<text id="69">%null%</text>
+<text id="70">Статус: яд</text>
+<text id="71">Статус: красная гниль</text>
+<text id="72">Статус: кровопотеря</text>
+<text id="73">Статус: обморожение</text>
+<text id="74">Статус: сон</text>
+<text id="75">Статус: безумие</text>
+<text id="76">Статус: смерть</text>
+<text id="77">Баланс</text>
+<text id="100">Цель помощника (Скрюченный палец)</text>
+<text id="101">Цель противника (дуэлянт)</text>
+<text id="102">Максимум гостей</text>
+<text id="103">Распознавание знаков призыва</text>
+<text id="104">Создание дружеских знаков</text>
+<text id="105">Создание вражеских знаков</text>
+<text id="106">Вторжение</text>
+<text id="107">Просьба о помощи</text>
+<text id="108">Помощь</text>
+<text id="109">Омуты призыва</text>
+<text id="110">Пароли для группы</text>
+<text id="111">Пароли для сетевой игры</text>
+<text id="112">Послания</text>
+<text id="113">Ограничения во время игры по сети</text>
+<text id="114">Фантомы</text>
+<text id="115">Кровавые пятна</text>
+<text id="116">Цель помощников (охотник)</text>
+<text id="117">Знаки призыва</text>
+<text id="118">Возможности посланий</text>
+<text id="119">Цель захватчика </text>
+<text id="150">Ограничения защиты</text>
+<text id="151">Вывод врага из равновесия</text>
+<text id="152">Выбивание врага из седла</text>
+<text id="153">Надёжно защищённые враги</text>
+<text id="154">%null%</text>
+<text id="200">Скарабеи слёз</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

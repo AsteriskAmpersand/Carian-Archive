@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Kucanie</text>
+<text id="2">Blokowanie</text>
+<text id="3">Kontry po zasłonie</text>
+<text id="4">Oręż dwuręczny</text>
+<text id="5">Ładowane ataki i ataki z wyskoku</text>
+<text id="6">Umiejętność</text>
+<text id="7">Parowanie</text>
+<text id="8">Określanie celu</text>
+<text id="9">Precyzyjne celowanie</text>
+<text id="10">Przypisywanie oręża</text>
+<text id="11">Używanie przedmiotów</text>
+<text id="12">Używanie pochodni</text>
+<text id="13">Trafienia krytyczne</text>
+<text id="14">Gesty</text>
+<text id="15">Mapa</text>
+<text id="16">Skoki w duchowym strumieniu</text>
+<text id="17">Skrót do przedmiotu</text>
+<text id="50">Śmierć i tracenie runów</text>
+<text id="51">%null%</text>
+<text id="52">Przyzywanie duchów</text>
+<text id="53">Odpoczynek w miejscach łaski</text>
+<text id="54">Znajdowanie miejsc łaski</text>
+<text id="55">Przewodnictwo łaski</text>
+<text id="56">Święte butelki</text>
+<text id="57">Szybka podróż do miejsc łaski</text>
+<text id="58">Ataki z wierzchowca</text>
+<text id="59">Obszary niedostępne dla wierzchowca</text>
+<text id="60">Tworzenie przedmiotów</text>
+<text id="61">Pojemniki</text>
+<text id="62">Dostosowywanie oręża</text>
+<text id="63">%null%</text>
+<text id="64">Wskrzeszanie się po śmierci</text>
+<text id="65">Udźwig</text>
+<text id="66">Podczas walki</text>
+<text id="67">Wzmacnianie duchów</text>
+<text id="68">Rozwój</text>
+<text id="69">%null%</text>
+<text id="70">Status: Trucizna</text>
+<text id="71">Status: Szkarłatna zgnilizna</text>
+<text id="72">Status: Krwawienie</text>
+<text id="73">Status: Odmrożenie</text>
+<text id="74">Status: Sen</text>
+<text id="75">Status: Szaleństwo</text>
+<text id="76">Status: Śmierć</text>
+<text id="77">Równowaga</text>
+<text id="100">Cel sojusznika (zgięty palec)</text>
+<text id="101">Cel przeciwnika (pojedynkowicz)</text>
+<text id="102">Limity w grze wieloosobowej</text>
+<text id="103">Widoczność znaków przyzwania</text>
+<text id="104">Zostawianie znaków współpracy</text>
+<text id="105">Zostawianie rywalizacyjnych znaków</text>
+<text id="106">Inwazja</text>
+<text id="107">Wezwanie wsparcia</text>
+<text id="108">Wsparcie</text>
+<text id="109">Pule przyzwania</text>
+<text id="110">Hasła grupowe</text>
+<text id="111">Hasła do gry wieloosobowej</text>
+<text id="112">Wiadomości</text>
+<text id="113">Ograniczenia ruchowe w grze wieloosobowej</text>
+<text id="114">Upiory</text>
+<text id="115">Plamy krwi</text>
+<text id="116">Cel wsparcia (łowca)</text>
+<text id="117">Znaki przyzwania</text>
+<text id="118">Wiadomości zaawansowane</text>
+<text id="119">Cel najeźdźcy</text>
+<text id="150">Ograniczenia zasłony</text>
+<text id="151">Przełamywanie postawy</text>
+<text id="152">Zrzucanie przeciwników z wierzchowców</text>
+<text id="153">Twardzi wrogowie</text>
+<text id="154">%null%</text>
+<text id="200">Skarabeusze łez</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

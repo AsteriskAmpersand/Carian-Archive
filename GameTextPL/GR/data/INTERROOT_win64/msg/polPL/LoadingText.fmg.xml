@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Kucaj, by wrogom trudniej było cię zauważyć.
+Skuteczne zwłaszcza w wysokiej trawie.
+Atak na wroga, który cię nie widzi, zwiększy zadawane obrażenia.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="2">Trzymaj oręż w lewej ręce lub oburącz, by zasłaniać się przed atakami wroga.
+Tarcze są szczególnie skuteczne w zasłonie.
+Każdy zablokowany atak zużywa energię.
+Jeśli twoja energia wyczerpie się podczas blokowania, twoja postawa zostanie przełamana.
+
+&lt;?keyicon@24?&gt;: Zasłona</text>
+<text id="3">Możesz wykonać kontrę od razu po zablokowaniu ataku wroga.
+Kontra po zasłonie ułatwia przełamanie postawy wroga.
+
+&lt;?keyicon@23?&gt; zaraz po zasłonięciu się przed atakiem: Kontra po zasłonie</text>
+<text id="4">Trzymanie oręża w dwóch rękach zwiększy siłę zadawanych nim ciosów o 50%.
+Obniża to wymagane punkty cech i jeśli oręż wykorzystuje siłę, zada większe obrażenia.
+Dodatkowo ataki zadawane tym orężem są trudniejsze do sparowania tarczą.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Władaj orężem oburącz</text>
+<text id="5">Ładowane ataki i ataki z wyskoku są silne.
+Za ich pomogą można łatwo przełamać postawę przeciwnika.
+Istnieje też wysokie prawdopodobieństwo, że ataki te zrzucą wroga z wierzchowca.
+
+Przytrzymaj &lt;?keyicon@23?&gt;: Ładowany atak
+&lt;?keyicon@23?&gt; podczas skoku: Atak z wyskoku</text>
+<text id="6">Oręż ma specjalne zdolności, zwane umiejętnościami.
+Istnieje szeroki wachlarz umiejętności, od silnych ataków po wywoływanie efektów czasowych.
+Umiejętności zużywają PS.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="7">Dzięki tarczom możesz odbijać ciosy wrogów za pomocą umiejętności „Blok”.
+Udane zablokowanie ataku przełamie postawę napastnika i da ci okazję do zadania trafienia krytycznego.
+
+&lt;?keyicon@25?&gt; w tym samym czasie co atak wroga: Blok</text>
+<text id="8">Automatycznie namierz cel, żeby go śledzić, co ułatwia skoncentrowanie się na nim w czasie walki.
+
+&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;
+&lt;?keyControlCamera?&gt;, gdy cel jest namierzony: Zmiana celu</text>
+<text id="9">Gdy posługujesz się łukiem oburącz, możesz przytrzymać &lt;?keyicon@24?&gt;, aby precyzyjnie wycelować.
+To pozwala ci dokładniej się przymierzyć, gdy używasz &lt;?keyControlCamera?&gt;.
+Trafiając humanoidalnych wrogów w głowę, możesz zadać im duże obrażenia.
+
+&lt;?keyicon@24?&gt;, gdy trzymasz łuk oburącz: Precyzyjne celowanie</text>
+<text id="10">Możesz trzymać do trzech sztuk oręża tak w prawej, jak i w lewej ręce.
+
+Część broni, na przykład tarcze, ma różne dostępne akcje, zależnie od tego, w której ręce je trzymasz.</text>
+<text id="11">Możesz się wyposażyć najwyżej w dziesięć przedmiotów naraz.
+Wyposażone przedmioty mogą zostać użyte bez wybierania ich z menu przedmiotów.
+Możesz też przydzielać przedmioty do swojej sakwy, by używać ich bezpośrednio z menu głównego.
+
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;
+&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;</text>
+<text id="12">Kiedy podniesiesz pochodnię, jej światło dotrze dalej.
+
+&lt;?keyicon@24?&gt;, gdy masz pochodnię przypisaną do lewej ręki: Podnieś pochodnię</text>
+<text id="13">Jeśli znajdziesz się za wrogiem, masz szansę zadać mu trafienie krytyczne.
+Możesz też zadać trafienie krytyczne po przełamaniu postawy przeciwnika.
+Trafienia krytyczne po przełamaniu postawy zadają większe obrażenia niż trafienia krytyczne zadane z tyłu.
+
+&lt;?keyicon@22?&gt;, gdy jesteś za plecami wroga: Trafienie krytyczne
+&lt;?keyicon@22?&gt;, gdy jesteś blisko wroga, którego postawa została przełamana: Trafienie krytyczne</text>
+<text id="14">Używaj „Gestów” z menu głównego, by przybierać różnorakie podstawowe pozy.</text>
+<text id="15">Na mapie możesz sprawdzić swoją pozycję, a także rozeznać się w terenie i zobaczyć otaczające cię budowle.
+Możesz aktualizować swoją mapę o nowe informacje, znajdując kawałki mapy na przydrożnych tablicach.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="16">Jadąc wierzchem, skocz obok duchowego strumienia, by wznieść się na nim wysoko w powietrze.
+Gdy będziesz na wierzchowcu, taki skok, nawet przy dużej wysokości, nie zada ci obrażeń.
+
+&lt;?keyicon@8?&gt;, gdy jedziesz wierzchem przy duchowym strumieniu: Skok w duchowym strumieniu</text>
+<text id="17">Jeśli masz ze sobą kilka przedmiotów, możesz przytrzymać &lt;?keyicon@18?&gt;, aby szybko wybrać przedmiot znajdujący się w pierwszym miejscu na przedmiot.
+
+Przytrzymaj &lt;?keyicon@18?&gt;: Wybierz pierwszy wyposażony przedmiot.</text>
+<text id="50">Kiedy zginiesz, upuścisz wszystkie posiadane runy, pozostaną one w miejscu twojej śmierci.
+Możesz je odzyskać, wracając w to samo miejsce.
+Ale jeśli ponownie zginiesz, zanim uda ci się to zrobić, te runy znikną na zawsze.</text>
+<text id="51">%null%</text>
+<text id="52">Kiedy po lewej stronie ekranu widać ikonę pomnika, możesz przyzywać duchy z prochów.
+Można przyzwać różne rodzaje duchów.
+Przyzywanie duchów zwykle pochłania PS.</text>
+<text id="53">Odpoczynek w miejscu łaski pozwala odzyskać PŻ, PS i wyleczyć wszelkie przypadłości.
+Dzięki temu również wszystkie twoje butelki zostaną napełnione.
+
+Jednakże większość pokonanych przez ciebie wrogów powróci do życia.</text>
+<text id="54">Nieodkryte jeszcze miejsca łaski podświetlają okolicę.
+Gdy podczas wędrówki zobaczysz światło, odnajdź jego źródło – być może to miejsce łaski.</text>
+<text id="55">Łaska służy do wskazywania zmatowieńcom właściwej drogi.
+Część miejsc łaski zachowuje tę moc nawet teraz.
+Ich promienie cię poprowadzą.</text>
+<text id="56">Butelka szkarłatnych łez przywraca twoje PŻ.
+Butelka modrych łez przywraca twoje PS.
+
+W miejscach łaski możesz przydzielać porcje dawek do każdej butelki.
+Ponadto niektóre przedmioty ulepszają twoje butelki w miejscach łaski.</text>
+<text id="57">Za pomocą mapy możesz błyskawicznie przemieszczać się między odkrytymi już miejscami łaski.
+Jednak nie można tego robić w niektórych lochach i innych obszarach.</text>
+<text id="58">Kiedy jedziesz wierzchem, możesz atakować orężem przypisanym do prawej ręki lub do obu rąk.
+Jeśli w czasie jazdy odniesiesz określoną liczbę obrażeń, spadniesz z konia.
+Sprawi to, że twoja postać będzie bardzo odsłonięta.</text>
+<text id="59">Siedząc na wierzchowcu, nie możesz wjeżdżać do dużych budynków, jaskiń, katakumb i podobnych przestrzeni.
+A gdy przebywasz w takich miejscach, nie możesz wezwać swojego konia.</text>
+<text id="60">Jeżeli masz zestaw do wytwarzania, możesz wykorzystywać znalezione materiały, by tworzyć różne przedmioty.
+Wybierz „tworzenie przedmiotów” z menu głównego, żeby wytwarzać przedmioty.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="61">Do wytwarzania niektórych przedmiotów będą ci potrzebne pęknięte garnki lub inne pojemniki.
+Przedmioty z pojemników ulegają zużyciu, jednak same pojemniki mogą być jeszcze po tym wykorzystywane.</text>
+<text id="62">Popioły wojny to wspomnienia właściwości i umiejętności zaklętych w stosowanej niegdyś broni.
+Mając osełkę, możesz używać popiołów wojny, by modyfikować oręż w miejscach łaski.</text>
+<text id="63">%null%</text>
+<text id="64">Po śmierci czeka cię wskrzeszenie w miejscu łaski, w którym miał miejsce twój ostatni odpoczynek.
+
+Jeśli jednak zginiesz w pobliżu posągu Mariki, możesz zadecydować, by wskrzeszenie nastąpiło właśnie tam.</text>
+<text id="65">Kiedy niesiesz więcej niż 70% swojego maksymalnego udźwigu wyposażenia, twoje przewroty z unikiem będą wolniejsze i mniej zgrabne.
+Jeśli przekroczysz udźwig maksymalny, wykonywanie przedmiotów stanie się niemożliwe.</text>
+<text id="66">W czasie walki nie możesz wytwarzać przedmiotów ani otwierać mapy.</text>
+<text id="67">Duchy przyzwane z prochów mogą zostać wzmocnione przez stroiciela duchów.
+Do ulepszania duchów potrzebujesz konwalii.</text>
+<text id="68">W miarę rozwoju, możesz wydawać runy na zwiększanie cech.
+Wraz ze zwiększaniem cech wzrasta twój poziom, ale także koszt kolejnego podniesienia cech w runach.</text>
+<text id="69">%null%</text>
+<text id="70">Kiedy wskaźnik trucizny zapełni się, twoja postać zostanie zatruta i zacznie odnosić obrażenia.
+Im większą masz niewrażliwość, tym dłużej zapełnia się wskaźnik trucizny.</text>
+<text id="71">Kiedy wskaźnik szkarłatnej zgnilizny zapełni się, twoja postać zostanie zatruta i zacznie odnosić obrażenia.
+Szkarłatna zgnilizna to bardzo niebezpieczne zatrucie, ale im większą masz niewrażliwość, tym dłużej zapełnia się wskaźnik.</text>
+<text id="72">Kiedy wskaźnik krwawienia się zapełni, twoja postać zacznie się wykrwawiać.
+Powoduje to duże obrażenia zależne od twoich maksymalnych PŻ.
+Im większą masz krzepę, tym dłużej zapełnia się wskaźnik krwawienia.</text>
+<text id="73">Kiedy wskaźnik odmrożenia zapełni się, twoja postać zacznie odnosić obrażenia i przez pewien czas będzie mieć odmrożenia.
+W tym stanie otrzymujesz większe obrażenia z innych źródeł.
+Im większą masz krzepę, tym dłużej zapełnia się wskaźnik odmrożenia.</text>
+<text id="74">Kiedy wskaźnik snu zapełni się, twoja postać stanie się ospała.
+Słabsze postacie po prostu zasną.
+Im większe masz skupienie, tym dłużej zapełnia się wskaźnik snu.</text>
+<text id="75">Kiedy wskaźnik szaleństwa zapełni się, twoja postać oszaleje oraz straci dużo PŻ i PS.
+Tylko ludzie są podatni na szaleństwo.
+Im większe masz skupienie, tym dłużej zapełnia się wskaźnik szaleństwa.</text>
+<text id="76">Kiedy wskaźnik śmierci zapełni się, twoja postać natychmiast umrze.
+To bardzo niebezpieczne, ale im większą masz odporność na śmierć,
+tym dłużej zapełnia się wskaźnik śmierci.</text>
+<text id="77">Ciężka zbroja znacząco zwiększa równowagę, co sprawia, że ataki wrogów rzadziej cię odpychają.
+Posługiwanie się ciężką bronią oburącz może również dać podobne efekty.</text>
+<text id="100">W trybie współpracy wieloosobowej zadaniem zgiętego palca jest pomóc gospodarzowi palców w pokonaniu bossa danego obszaru.
+Zgięty palec powróci do swojego świata, gdy umrze lub gdy boss zostanie pokonany, w zależności od tego, co wydarzy się szybciej.</text>
+<text id="101">W trybie rywalizacji wieloosobowej zadaniem pojedynkowicza jest pokonanie gospodarza palców.
+Pojedynkowicz powróci do swojego świata, gdy umrze lub gdy gospodarz palców zostanie pokonany, w zależności od tego, co wydarzy się szybciej.</text>
+<text id="102">W zwykłej grze wieloosobowej mogą brać udział najwyżej dwaj sojusznicy i jeden najeźdźca lub przeciwnik naraz.
+
+Gospodarz może użyć szyderczego języka, aby zwiększyć maksymalną liczbę najeźdźców lub przeciwników.</text>
+<text id="103">Użycie remedium wezwania zgiętego palca ujawnia znaki przyzwania zostawione przez graczy w innych światach.
+
+Jeśli użyjesz znaku do przyzwania kolejnego gracza, rozpocznie się tryb gry wieloosobowej, a ty zostaniesz gospodarzem palców.</text>
+<text id="104">Używając zgiętego palca zmatowieńca, możesz zostawić złoty znak przyzwania.
+Pojawi się on w światach innych graczy i umożliwi im wezwanie cię jako zgiętego
+palca do trybu współpracy wieloosobowej.</text>
+<text id="105">Używając zgiętego palca pojedynkowicza, możesz zostawić czerwony znak przyzwania.
+Pojawi się on w światach innych graczy i umożliwi im wezwanie ciebie jako wrogiego
+pojedynkowicza do trybu rywalizacji wieloosobowej.</text>
+<text id="106">Używając gnijącego krwawego palca, możesz wkroczyć do świata innego gracza jako najeźdźca.
+Istnieją również inne przedmioty, które pozwalają ci stać się najeźdźcą.</text>
+<text id="107">Użyj białego pierścienia szyfru podczas inwazji krwawego palca,
+aby automatycznie wezwać na pomoc łowców z innych światów.
+(Wezwanie nie zawsze jest możliwe).</text>
+<text id="108">Użyj niebieskiego pierścienia szyfru, będziesz mógł zostać wezwany na pomoc graczom z innych światów.
+Zostaniesz przyzwany do ich świata jako łowca.</text>
+<text id="109">W każdej okolicy możesz znaleźć wizerunki męczenników.
+Wizerunki te to pule przyzwania.
+
+Pule przyzwania są miejscami, w których gromadzą się znaki przyzwania stworzone przy użyciu niewielkich wizerunków.
+W tych lokacjach łatwo jest przyzwać innych graczy.</text>
+<text id="110">Ustawienie hasła grupowego sprawi, że łatwiej będzie ci zobaczyć wiadomości,
+znaki przyzwania, plamy krwi i upiory graczy z tym samym hasłem.</text>
+<text id="111">Ustawienie hasła do gry wieloosobowej sprawi, że w przypadku większości gier wieloosobowych
+dobrani zostaną dla ciebie tylko gracze z tym samym hasłem.
+
+Jednak hasło do gry wieloosobowej nie ma wpływu na inwazję wieloosobową.</text>
+<text id="112">Możesz skorzystać z menu wiadomości, aby kontaktować się z innymi graczami.
+
+Twoje wiadomości będą się pojawiać w światach innych graczy w miejscu, w którym stała twoja postać w momencie pisania wiadomości.</text>
+<text id="113">Podczas trybu gry wieloosobowej możesz odkrywać jedynie ograniczony teren.
+Tereny, do których nie masz dostępu, są zablokowane murem świetlnym.
+Po zakończeniu trybu gry wieloosobowej staną się ponownie dostępne.</text>
+<text id="114">Od czasu do czasu możesz zobaczyć blade, białe upiory.
+To ślady graczy z innych światów oraz działań, które ostatnio podejmowali.</text>
+<text id="115">W miejscach, w których w innych światach zginęli gracze, pojawiają się plamy krwi.
+Możesz je zbadać i dowiedzieć się, w jaki sposób umarli.</text>
+<text id="116">Podczas wspierającego trybu współpracy zadaniem łowcy jest pokonanie najeźdźcy.
+Łowca powróci do swojego świata, gdy umrze lub gdy najeźdźca zostanie pokonany, w zależności od tego, co wydarzy się szybciej.</text>
+<text id="117">Istnieją dwa typy znaków przyzwania zostawianych przez graczy w innych światach.
+
+Złote znaki przyzwania wzywają zgięte palce do kooperacyjnego trybu gry.
+Czerwone znaki przyzwania wzywają wrogich pojedynkowiczów.</text>
+<text id="118">Możesz zmienić format wiadomości na bardziej rozbudowany.
+Możesz również dołączać do wiadomości gesty.
+
+&lt;?image@2010?&gt;: Zmień format wiadomości</text>
+<text id="119">W trybie inwazji wieloosobowej zadaniem najeźdźcy jest pokonanie gospodarza palców.
+Najeźdźca powróci do swojego świata, gdy umrze lub gdy gospodarz palców zostanie pokonany, w zależności od tego, co wydarzy się szybciej.</text>
+<text id="150">Ataki z użyciem niektórych właściwości, takich jak ogień czy błyskawice, mogą sprawić,
+że zasłona będzie mniej skuteczna niż w przypadku ataków fizycznych.
+
+Zasłona nie działa w przypadku wielu ataków obalających.</text>
+<text id="151">Niektóre ataki mogą przełamać postawę wroga i dać ci szansę na trafienie krytyczne.
+Ładowane ataki oraz ataki z wyskoku pozwalają na wyjątkowo łatwe przełamanie postawy wroga.</text>
+<text id="152">Wielokrotnie zaatakuj siedzącego na wierzchowcu wroga, aby go zrzucić i przełamać jego postawę.
+To da ci szansę na trafienie krytyczne.
+Ładowane ataki oraz ataki z wyskoku dają szczególnie wysokie prawdopodobieństwo zrzucenia wroga z wierzchowca.</text>
+<text id="153">Cięcia ostrą bronią są zwykle nieskuteczne przeciwko twardej zbroi i łuskom.
+Uderzenia powinny dać pożądany efekt.</text>
+<text id="154">%null%</text>
+<text id="200">Istnieją skarabeusze szkarłatnych i modrych łez.
+Pokonaj je, aby napełnić łzami odpowiednią butelkę.
+Nie możesz jednak przekroczyć limitu napełniania butelek.</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

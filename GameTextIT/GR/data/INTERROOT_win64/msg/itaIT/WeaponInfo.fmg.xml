@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="50030000">Esile osso di animale intagliato con impennatura</text>
+<text id="50110000">Freccia ricavata da un esile osso di animale</text>
+<text id="50130000">Freccia d'osso animale piumata incendiabile</text>
+<text id="50140000">Freccia d'osso incendiabile</text>
+<text id="50150000">Freccia d'osso animale piumata con punta avvelenata</text>
+<text id="50160000">Freccia d'osso animale con punta avvelenata</text>
+<text id="50170000">Freccia d'osso animale piumata intrisa di tintura di ninfea</text>
+<text id="50180000">Freccia d'osso animale intrisa di tintura di ninfea</text>
+<text id="50190000">Freccia d'osso con piume di falco da guerra</text>
+<text id="50200000">Freccia d'osso animale piumata folgorante</text>
+<text id="50210000">Freccia d'osso folgorante</text>
+<text id="50220000">Freccia d'osso animale piumata con punta di pietra arcobaleno</text>
+<text id="50230000">Freccia d'osso animale con punta di cristallo</text>
+<text id="50250000">%null%</text>
+<text id="50260000">Freccia d'osso piumata intrisa di scintipietra</text>
+<text id="50270000">Freccia d'osso animale intrisa di scintipietra</text>
+<text id="50280000">Freccia d'osso piumata con punta intrisa d'oro</text>
+<text id="50290000">Freccia d'osso animale con punta intrisa d'oro</text>
+<text id="50300000">Freccia d'osso piumata con punta intrisa di sangue</text>
+<text id="50310000">Freccia d'osso animale con punta intrisa di sangue</text>
+<text id="50320000">Freccia d'osso piumata con punta congelata</text>
+<text id="50330000">Freccia d'osso animale con punta congelata</text>
+<text id="50340000">Freccia d'osso piumata intrisa di marcescenza</text>
+<text id="50350000">Freccia d'osso animale intrisa di marcescenza</text>
+<text id="51050000">Grossa freccia d'osso intagliato con impennatura</text>
+<text id="51060000">Freccia d'osso animale grossa come una lancia</text>
+<text id="52090000">Dardo sottile d'osso animale intagliato</text>
+<text id="52100000">Dardo d'osso animale incendiabile</text>
+<text id="52110000">Dardo d'osso animale con punta folgorante</text>
+<text id="52120000">Dardo d'osso animale intriso di scintipietra</text>
+<text id="52130000">Dardo d'osso animale con punta intrisa d'oro</text>
+<text id="52140000">Dardo d'osso animale con punta avvelenata</text>
+<text id="52150000">Dardo d'osso animale con punta intrisa di sangue</text>
+<text id="52160000">Dardo d'osso animale con punta congelata</text>
+<text id="52170000">Dardo d'osso animale intriso di marcescenza</text>
+<text id="52180000">Dardo d'osso animale intriso di tintura di ninfea</text>
+<text id="53030000">Dardo d'osso intagliato grosso come una lancia</text>
+</entries>
+</fmg>

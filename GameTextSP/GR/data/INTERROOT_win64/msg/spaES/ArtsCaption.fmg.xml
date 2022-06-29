@@ -1,0 +1,749 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Sin habilidad.
+
+Esta arma no tiene ninguna habilidad.
+Si el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad.</text>
+<text id="100">Habilidad: Garra de león
+
+Habilidad de los caballeros de la Melena Roja, quienes lucharon junto con el general Radahn.
+Da una voltereta hacia adelante y usa tu arma para golpear al enemigo.</text>
+<text id="101">Habilidad: Embestida empaladora
+
+Una habilidad que permite a las armas de embestida atravesar escudos. Acumula potencia y abalánzate dando una embestida para perforar la guardia de cualquier enemigo.</text>
+<text id="102">Habilidad: Colmillo perforador
+
+Una habilidad utilizada por Yura, el cazador de Dedos Sangrientos.
+Mantén la hoja en posición horizontal y embiste con un ataque imposible de bloquear.</text>
+<text id="103">Habilidad: Tajo giratorio
+
+Habilidad preferida por los guerreros más hábiles.
+Ataca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.</text>
+<text id="104">%null%</text>
+<text id="105">Habilidad: Carga al frente
+
+Carga rápidamente hacia delante con el arma en la cadera y aprovecha el impulso para terminar en una embestida.
+Mantén la habilidad para cubrir una mayor distancia.</text>
+<text id="106">Habilidad: Pisotón y tajo vertical
+
+Prepara tu arma y adopta una posición baja para que la mayoría de los ataques del enemigo no te hagan retroceder.
+Acompáñala con un ataque potente para ejecutar un golpe hacia arriba.</text>
+<text id="107">Habilidad: Pisotón y barrido
+
+Prepara tu arma y adopta una posición baja para que la mayoría de los ataques del enemigo no te hagan retroceder.
+Acompáñala con un ataque potente para ejecutar un movimiento de barrido.</text>
+<text id="108">Habilidad: Tributo de sangre
+
+Habilidad concedida a los principales vasallos del Señor de la Sangre. Gira para acumular potencia y, a continuación, desata una ráfaga de embestidas que absorbe la sangre y los PS del objetivo.</text>
+<text id="109">Habilidad: Embestida reiterada
+
+Gira para acumular potencia y, a continuación, desata una ráfaga de embestidas.</text>
+<text id="110">Habilidad: Golpes salvajes
+
+Balancea tu arma con desenfreno.
+Sigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.</text>
+<text id="111">Habilidad: Golpes giratorios
+
+Habilidad para armas de asta que realiza ataques giratorios continuos. Mantén la habilidad para seguir atacando. Puedes acompañarla con un ataque normal o potente. Mientras se gira, se anulan los proyectiles tales como flechas.</text>
+<text id="112">Habilidad: Tajo doble
+
+Habilidad de los espadachines superiores.
+Lleva a cabo un ataque de tajo cruzado desde una posición baja.
+Si se usa repetidamente, pueden llevarse a cabo hasta dos ataques adicionales.</text>
+<text id="113">Habilidad: Carga de prelado
+
+Golpea el arma contra el suelo para crear una llamarada y, a continuación, carga.
+Mantén la habilidad para continuar la carga.</text>
+<text id="114">Habilidad: Desenvainar
+
+Habilidad de los asesinos de los territorios del cañaveral.
+Envaina la espada y mantenla a la altura de la cadera en posición de alerta.
+Acompáñala con un ataque normal o potente para realizar un ataque de tajo rápido.</text>
+<text id="115">Habilidad: Combate
+
+Esta habilidad comienza con la espada en posición horizontal.
+Rompe la guardia enemiga con un ataque normal o bien corre y embiste con un ataque potente.</text>
+<text id="116">Habilidad: Caza del gigante
+
+Habilidad creada para enfrentarse a enemigos gigantescos.
+Avanza desde una posición baja y aprovecha el impulso para realizar una repentina embestida ascendente.</text>
+<text id="117">Habilidad: Ataque con antorcha
+
+Embiste con tu antorcha hacia delante para prender fuego al enemigo.
+Esta habilidad es especialmente efectiva contra los enemigos débiles ante el fuego.</text>
+<text id="118">Habilidad: Tajo de Loretta
+
+Habilidad de Loretta, Guardia Real.
+Salta hacia delante e imbuye la hoja de piedras refulgentes. A continuación, acelera y ataca con un tajo en barrido al descender.</text>
+<text id="119">Habilidad: Vuelo de polilla venenosa
+
+Realiza un tajo con una hoja imbuida de veneno.
+Si el ataque complementario aterriza sobre un enemigo envenenado, infligirá un daño significativo.</text>
+<text id="120">Habilidad: Arma giratoria
+
+Una habilidad de defensa empleada por las reinas carianas.
+Canaliza la magia para que el arma flote en el aire y hazla girar violentamente.</text>
+<text id="121">%null%</text>
+<text id="122">Habilidad: Ataque tormentoso
+
+Una de las habilidades que canalizan las tempestades de Velo Tormentoso.
+Rodéate de vientos tormentosos mientras saltas hacia delante para abalanzarte hacia abajo. El ataque generará más vientos tormentosos en el punto de impacto.</text>
+<text id="123">Habilidad: Invocador de tormentas
+
+Una de las habilidades que canalizan las tempestades de Velo Tormentoso. Gira el arma para crear vientos tormentosos a tu alrededor. Usa el arma repetidas veces para llevar a cabo hasta dos ataques adicionales.</text>
+<text id="124">Habilidad: Danza de espadas
+
+Acércate con rapidez para llevar a cabo una serie de tajos giratorios ascendentes.
+Acompáñala con un ataque adicional para terminar con un tajo descendente.</text>
+<text id="125">Habilidad: Cadena giratoria
+
+Un ataque giratorio rápido con la pieza de contusión de un mayal.
+Pueden encadenarse ataques normales y potentes a la dinámica de esta habilidad como ataques consecutivos.</text>
+<text id="200">Habilidad: Falange de hojas refulgentes
+
+Una habilidad utilizada por los caballeros hechizados carianos.
+Forma un arco de espadas refulgentes mágicas por encima de tu cabeza para atacar de forma automática.
+Acompáñala con un ataque potente para encadenar esta habilidad con una estocada.</text>
+<text id="201">Habilidad: Hoja sagrada
+
+Otorga al arma ataques sagrados y dispara un proyectil de hojas doradas.
+El arma mantiene el encantamiento sagrado durante poco tiempo.</text>
+<text id="202">Habilidad: Lanza helada
+
+Habilidad de los caballeros que sirvieron a la princesa lunar Ranni.
+Haz girar el arma para desatar magia fría y canalizarla hasta crear una lanza de hielo.</text>
+<text id="203">Habilidad: Guijarro de piedras refulgentes
+
+Habilidad que emplea la hechicería de piedras refulgentes del mismo nombre.
+Acompáñala con un ataque potente para abalanzarte dando una estocada mientras el arma sigue imbuida en piedra refulgente.</text>
+<text id="204">Habilidad: Laceración
+
+Habilidad del juramento de sangre practicada por aquellos que han compartido el poder del Señor de la Sangre.
+Cubre la hoja con tu propia sangre desde una posición baja para desatar un tajo desgarrador en un amplio radio.</text>
+<text id="205">Habilidad: Puño robavida
+
+Habilidad que demuestra la maestría del arte de controlar la energía vital.
+Un puñetazo lento y controlado con un puño impregnado de energía que deja inconscientes a los enemigos y les roba sus PS. Solo es efectivo contra enemigos con forma humana.</text>
+<text id="206">%null%</text>
+<text id="207">Habilidad: Erupción
+
+Habilidad de los guerreros que sirven en la Mansión del Volcán.
+Golpea el arma contra el suelo y haz que brote lava de un gran géiser.</text>
+<text id="208">Habilidad: Golpe devoto
+
+Levanta el arma en oración y golpéala contra el suelo.
+Si este golpe inspirado alcanza a un enemigo, tú y tus aliados cercanos recuperaréis PS.</text>
+<text id="209">Habilidad: Gravitas
+
+Habilidad de los Señores de alabastro, cuya piel era de piedra.
+Perfora el suelo con tu arma para infligir daño a los enemigos mientras se ven atrapados por el aumento de la gravedad.</text>
+<text id="210">Habilidad: Hoja tormentosa
+
+Habilidad perdida de Velo Tormentoso.
+Tu arma queda envuelta en un cortante viento tormentoso que puede lanzarse hacia delante.
+Puedes disparar varios proyectiles en rápida sucesión.</text>
+<text id="211">%null%</text>
+<text id="212">Habilidad: Sacudida
+
+Embiste el suelo con el arma y reúne la fuerza necesaria para desatar una onda de choque que haga temblar la tierra.
+Acompáñala con un ataque potente para blandir el arma con un ataque en barrido.</text>
+<text id="213">Habilidad: Tierra Dorada
+
+Embiste el suelo con el arma y reúne la fuerza necesaria para desatar una explosión de energía sagrada que se fusiona formando dardos dorados. Acompáñala con un ataque potente para blandir el arma con un ataque en barrido.</text>
+<text id="214">Habilidad: Golpe llameante
+
+Habilidad que emite un gran arco de llamas hacia delante.
+Acompáñala con un ataque potente para realizar un ataque en barrido.
+Así también recubrirás de fuego el arma.</text>
+<text id="215">%null%</text>
+<text id="216">Habilidad: Rayo
+
+Habilidad utilizada por el culto a los dragones antiguos de la capital.
+Levanta el arma hacia arriba para hacer descender un rayo.
+Puede dispararse en rápida sucesión.</text>
+<text id="217">Habilidad: Tajo fulgurante
+
+Invoca un rayo en el arma y bájala para crear un choque explosivo.
+El arma retiene el encantamiento fulgurante durante un tiempo.</text>
+<text id="218">Habilidad: Majestuosidad cariana
+
+El prestigio de la realeza cariana encarnado en una habilidad.
+Transforma la hoja en un espadón mágico y bájala.
+Esta habilidad se puede cargar para aumentar su potencia en dos niveles.</text>
+<text id="219">Habilidad: Espadón cariano
+
+El prestigio de la realeza cariana encarnado en una habilidad.
+Transforma la hoja en un espadón mágico y bájala.
+Puede cargarse para aumentar su potencia.</text>
+<text id="220">Habilidad: Corte de vacío
+
+Una habilidad perdida de antiguos héroes.
+Mantén el arma en el aire para envolverla con un cortante vacío. A continuación, lánzala hacia delante como un proyectil en forma de cuchillas.</text>
+<text id="221">Habilidad: Tornado de la llama negra
+
+Gira el arma por encima de la cabeza y húndela en el suelo para invocar un vórtice salvaje de llamas negras.
+Mantén la habilidad para crear un tornado llameante inicial mientras haces girar el arma.</text>
+<text id="222">Habilidad: Anillo de luz sagrado
+
+Habilidad utilizada por los comandantes de los Caballeros Imputrescibles. Crea un anillo de luz sagrado en el arma para dispararlo hacia delante.
+Puede dispararse en rápida sucesión.</text>
+<text id="223">Habilidad: Aliento de fuego
+
+Sopla una antorcha para extender sus llamas en un amplio arco sobre el área situada frente a ti. Las llamas seguirán ardiendo en el suelo por poco tiempo.</text>
+<text id="224">Habilidad: Filosanguino
+
+Hiérete para cubrir el arma de sangre y, a continuación, desata una hoja sangrienta arrojadiza que provoca hemorragias.
+Puedes disparar múltiples hojas sangrientas en rápida sucesión.</text>
+<text id="225">Habilidad: Tajo fantasma
+
+Habilidad originada por los bellos recuerdos de la caballería nocturna. Crea una aparición del antiguo instructor de la caballería, que acompaña al usuario para llevar a cabo una embestida con una oscilación ascendente. Los usos repetidos permiten un ataque adicional.</text>
+<text id="226">Habilidad: Jabalina espectral
+
+Habilidad de los caballeros del mausoleo desprovistos de cabeza.
+Arroja una jabalina fantasmal a los enemigos.</text>
+<text id="227">Habilidad: Niebla escalofriante
+
+Recubre el arma de escarcha y, a continuación, realiza un tajo que cree una gélida niebla delante de ti.
+El arma mantiene el encantamiento de frío durante poco tiempo.</text>
+<text id="228">Habilidad: Niebla venenosa
+
+Recubre el arma de veneno y, a continuación, realiza un tajo que crea una niebla tóxica delante de ti.
+El arma mantiene el encantamiento venenoso durante poco tiempo.</text>
+<text id="300">Habilidad: Golpe de escudo
+
+Te parapetas tras el escudo antes de usar todo el cuerpo para embestir a tus enemigos.
+Harás retroceder a los enemigos más débiles e incluso puedes hacer que se tambaleen.</text>
+<text id="301">Habilidad: Escudo barricada
+
+Una habilidad que popularizó sir Neidhardt.
+Concentra tu energía en el escudo, que se endurece temporalmente para desviar ataques mucho más poderosos.</text>
+<text id="302">Habilidad: Elusión
+
+Utiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.
+Así tendrás la oportunidad de asestar un golpe crítico.</text>
+<text id="303">Habilidad: Elusión de broquel
+
+Utiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.
+Es más rápida que una elusión normal.</text>
+<text id="304">Habilidad: Elusión
+
+Utiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.
+Así tendrás la oportunidad de asestar un golpe crítico.</text>
+<text id="305">Habilidad: Contraataque cariano
+
+Balancea tu escudo para desviar los hechizos y encantamientos y transformar la magia en hojas refulgentes como contraataque.
+También puede utilizarse de la misma forma que una elusión normal.</text>
+<text id="306">Habilidad: Muro tormentoso
+
+Balancea el escudo para crear un muro de vientos tormentosos delante de ti y así desviar flechas y otros proyectiles físicos similares.
+También puede utilizarse de la misma forma que una elusión normal.</text>
+<text id="307">Habilidad: Elusión dorada
+
+Realiza un encantamiento del Árbol Áureo y, a continuación, balancea el escudo para desviar los ataques de los enemigos y romper su posición.
+Resulta eficaz incluso a corta distancia.</text>
+<text id="308">Habilidad: Impacto de escudo
+
+Agarra el escudo con las dos manos y carga hacia delante mientras mantienes la posición de guardia.
+Harás retroceder a los enemigos más débiles e incluso puedes hacer que se tambaleen.
+Mantén la habilidad para ampliar la duración de la carga.</text>
+<text id="309">Habilidad: Barrera de Thops
+
+Levanta un campo de fuerza mágico mientras haces oscilar tu escudo para desviar hechizos y encantamientos.
+También puede utilizarse de la misma forma que una elusión normal.</text>
+<text id="400">Habilidad: De punta en el blanco
+
+Una potente habilidad de arquero en la que se utiliza un arco grande en una posición oblicua.
+Prepara el arco y enrosca la cuerda para disparar una imponente flecha que puede atravesar a los enemigos.</text>
+<text id="401">Habilidad: Aluvión
+
+Una habilidad de arquero en la que se utiliza un arco en posición horizontal.
+Prepara el arco y dispara una rápida sucesión de flechas a una increíble velocidad.</text>
+<text id="402">Habilidad: Disparo poderoso
+
+Una habilidad de arquero que se realiza desde una posición oblicua.
+Prepara el arco y, a continuación, tensa la cuerda hasta el límite para aumentar la potencia del tiro y atravesar la guardia del enemigo.</text>
+<text id="403">%null%</text>
+<text id="404">Habilidad: Disparo encantado
+
+Una habilidad de arquero que da vida a la flecha con una esencia espiritual.
+El disparo resultante volará más rápido que los disparos normales y cambiará de trayectoria para perseguir al objetivo.</text>
+<text id="405">Habilidad: Disparo en picado
+
+Una habilidad de arquero que se realiza desde una posición baja.
+Prepara el arco y, a continuación, dispara una flecha al aire que se arqueará hasta alcanzar al enemigo desde lo alto cuando baje.</text>
+<text id="406">Habilidad: Lluvia de flechas
+
+Una habilidad de arquero que se realiza desde una posición baja.
+Prepara el arco y, a continuación, dispara una ráfaga de flechas al aire que caerán sobre los enemigos como proyectiles.</text>
+<text id="407">%null%</text>
+<text id="501">Habilidad: Pisotón escarchado
+
+Da un pisotón en el suelo con todas tus fuerzas para extender un rastro de gélida niebla sobre el terreno.
+La niebla aplica el efecto de estado «Congelación».</text>
+<text id="502">Habilidad: Pisotón tormentoso
+
+Una habilidad que canaliza las tempestades de Velo Tormentoso.
+Da un fuerte pisotón en el suelo para desatar una tormenta temporal.</text>
+<text id="503">Habilidad: Patada
+
+Levanta bien la pierna para darle una patada a tu enemigo.
+Resulta eficaz contra enemigos en guardia y puede romper su posición.
+A veces, lo más eficaz es lo más simple.</text>
+<text id="504">Habilidad: Ariete fulgurante
+
+Habilidad inspirada en los placajes caprinos.
+Suelta un quejido aterrador y revístete de rayo mientras ruedas hacia delante.
+Los placajes pueden repetirse en una sucesión rápida.</text>
+<text id="505">Habilidad: Llama de los Melena Roja
+
+Habilidad de los caballeros de la Melena Roja, quienes lucharon junto con el general Radahn.
+Crea una llamarada que se extiende delante de ti con la forma de un gran arco.</text>
+<text id="506">Habilidad: Culada
+
+Salta a gran altura e impacta en el suelo situado frente a ti.
+La caída resultante enviará una potente onda de choque en todas las direcciones.</text>
+<text id="507">Habilidad: Culada áurea
+
+Habilidad de los avatares que protegen a los árboles áureos pequeños.
+Salta a gran altura e impacta en el suelo situado frente a ti.
+La caída resultante enviará ondas de choque doradas en todas las direcciones.</text>
+<text id="508">Habilidad: Olas de oscuridad
+
+Hunde el arma en el suelo para liberar tres olas de oscuridad desde tu posición.
+Acompáñala con un ataque potente para blandir el arma con un ataque en barrido.</text>
+<text id="509">Habilidad: Sacudida de Hoarah Loux
+
+Golpea ambas manos contra el suelo para sacudir la tierra y liberar una onda de choque.
+Vuelve a pulsar el botón para golpear el suelo por segunda vez.</text>
+<text id="600">Habilidad: Determinación
+
+Una habilidad propia de caballeros.
+Apoya la parte plana del arma en tu cara y haz un juramento para aumentar la potencia de tu siguiente ataque.</text>
+<text id="601">Habilidad: Resolución de caballero real
+
+Habilidad de los caballeros que en su día sirvieron al Señor del Círculo.
+Apoya la parte plana del arma en tu cara y haz un juramento para aumentar considerablemente la potencia de tu siguiente ataque.</text>
+<text id="602">Habilidad: Técnica de asesino
+
+Una habilidad que enmascara la presencia del usuario a costa de una herida voluntaria.
+Te hace casi invisible y silencia tus pasos.</text>
+<text id="603">Habilidad: Juramento dorado
+
+Una habilidad transmitida generación tras generación por la caballería de la capital. Levanta el arma y jura honrar al Árbol Áureo en la batalla, con lo que conseguirás aumentar tu potencia de ataque y defensa, además de las de tus aliados cercanos.</text>
+<text id="604">Habilidad: Orden sagrada
+
+Habilidad de los caballeros fundamentalistas de la Orden Dorada.
+Haz un saludo y bendice tu arma con poder sagrado.
+Resulta altamente efectiva contra aquellos que viven en la muerte.</text>
+<text id="605">Habilidad: Orden común
+
+Habilidad de los caballeros fundamentalistas de la Orden Dorada.
+Imbuye tu arma y las de los aliados cercanos de esencia sagrada.
+Resulta altamente efectiva contra aquellos que viven en la muerte.</text>
+<text id="606">Habilidad: Seppuku
+
+Técnica prohibida empleada por los espadachines de los territorios del cañaveral. Hunde la hoja en tu estómago para mancharla de sangre. Aumenta la potencia de ataque y mejora la capacidad de infligir hemorragia.</text>
+<text id="607">Habilidad: Hoja rocosa
+
+Habilidad que manipula la gravedad.
+Entierra el arma en suelo y arranca rocas de la tierra para reforzarla. Aumenta la potencia de ataque y hace que sea más fácil romper la posición del enemigo.</text>
+<text id="650">Habilidad: Rugido bárbaro
+
+Suelta un rugido bestial para infundirte ánimos y aumentar tu potencia de ataque.
+Mientras está activa, transforma los ataques potentes en un salvaje ataque combinado.</text>
+<text id="651">Habilidad: Grito de guerra
+
+Da un grito de guerra para avivar el espíritu y aumentar tu potencia de ataque.
+Mientras está activo, transforma los ataques potentes en ataques de carga.</text>
+<text id="652">Habilidad: Rugido de bestia.
+
+Libera un rugido bestial, que desgarra el aire como si fuese un proyectil que viaja hacia adelante a toda velocidad.</text>
+<text id="653">Habilidad: Rugido de trol
+
+Mira al horizonte y suelta un intenso rugido para crear potentes ondas de choque que harán retroceder a los enemigos que te rodean.
+Acompáñala con un ataque potente para arrojar el arma violentamente.</text>
+<text id="654">Habilidad: Rugido jactancioso
+
+Anuncia tu presencia con un jactancioso rugido.
+Aumenta la potencia de ataque, la defensa y la velocidad de recuperación de la resistencia.</text>
+<text id="700">Habilidad: Indómito
+
+Afianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.
+El daño recibido se verá reducido durante la preparación.</text>
+<text id="701">Habilidad: Juramento del indómito
+
+Habilidad de los antiguos guerreros del Árbol Áureo.
+Mantén levantado el escudo para imbuirte de poder dorado y ser invencible temporalmente.</text>
+<text id="702">Habilidad: Suelo sagrado
+
+Levanta el escudo para consagrar la tierra del Árbol Áureo, restaurando de manera constante los PS y aumentando tu defensa y la de tus aliados dentro del área de efecto.</text>
+<text id="800">Habilidad: Quiebro
+
+Una habilidad apreciada por aquellos que son ágiles y veloces.
+Realiza una maniobra rápida para rodear los objetivos marcados.</text>
+<text id="801">Habilidad: Paso del sabueso
+
+Una habilidad que permite al usuario ser invisible temporalmente al hacer esquivas a gran velocidad. Los movimientos son más rápidos y largos que con un quiebro normal.
+Esta habilidad puede utilizarse para dar vueltas alrededor de objetivos fijados.</text>
+<text id="802">Habilidad: Rapaz de la neblina
+
+Adopta una posición baja para ocultar temporalmente tu presencia.
+Si recibes un ataque, podrás escapar rápidamente volando gracias a unas alas de ave.</text>
+<text id="850">Habilidad: Cebo de la sombra blanca
+
+Sostén el arma mientras elevas una breve y silenciosa oración para crear una sombra blanca.
+La aparición atrae a los enemigos con forma humana que no se hallan en combate y hace que la ataquen. Es eficaz con semihumanos aunque estén en situación de combate.</text>
+<text id="1000">Habilidad única: Oleada de fe
+
+Enciende las llamas del culto de Birac en la copa de la venerada arma y luego levántala para lanzar bolas de fuego en todas direcciones.
+Sigue usando el arma para hacer que se eleve por los aires y continúe atacando.</text>
+<text id="1001">Habilidad única: Escupeta ígnea
+
+Prepara el escudo y luego lanza una bola de fuego desde el cañón.
+La bola de fuego explota con el impacto.</text>
+<text id="1002">Habilidad única: Lenguas de fuego
+
+Prepara el escudo y luego libera violentos chorros de llamas desde las lenguas que sobresalen de sus fauces.
+Mantén la habilidad para seguir disparando fuego. Puedes caminar mientras se usa.</text>
+<text id="1003">Habilidad única: Burbuja oracular
+
+Toca el cuerno para liberar una burbuja mágica.
+La burbuja flotará suavemente por el aire hacia su objetivo.</text>
+<text id="1004">Habilidad única: Lluvia de burbujas
+
+Toca el cuerno para liberar una espuma de burbujas mágicas.
+Las burbujas flotarán suavemente antes de caer sobre el objetivo.</text>
+<text id="1005">Habilidad única: Gran burbuja oracular
+
+Toca el cuerno para liberar una enorme burbuja mágica.
+La burbuja flotará suavemente por el aire hacia su objetivo.</text>
+<text id="1006">Habilidad única: Mar de magma
+
+Agita un látigo incandescente por encima de tu cabeza para crear un mar de magma a tu alrededor de forma temporal.
+Mantén la habilidad para seguir agitando el látigo.</text>
+<text id="1007">Habilidad única: Mordisco de víbora
+
+Agita rápidamente el escudo para dar vida de forma temporal a una víbora de bronce e incitarla a atacar y morder a los enemigos.</text>
+<text id="1008">Habilidad única: Espadón de luz lunar
+
+Alza la espada por encima de tu cabeza para bañarla en la luz de la luna negra.
+Aumenta temporalmente la potencia de ataque mágico e imbuye la hoja en congelación.
+Los ataques cargados liberan ráfagas de luz lunar.</text>
+<text id="1009">Habilidad única: Pesar de Siluria
+
+Embiste con el arma en un movimiento en espiral para envolverla en un vórtice de viento.
+Los ataques cargados te permiten hacer volar a los enemigos por los aires, así como lanzar el tornado hacia delante.</text>
+<text id="1010">Habilidad única: Estandarte de reunión
+
+Despliega un estandarte de guerra para ordenar a los aliados que se reúnan.
+Aumenta la potencia de ataque y la defensa del portador y de los aliados cercanos.</text>
+<text id="1011">Habilidad única: ¡Sed testigos!
+
+Devuelve un atisbo de vida a la cabeza de un dragón y lánzala hacia las alturas para que cubra de llamas la zona que tienes frente a ti.</text>
+<text id="1012">Habilidad única: Espada danzante de Eochaid
+
+Imbuye la espada de energía y luego lánzala hacia delante en un ataque en forma de tirabuzón.
+La espada infligirá daño de forma continua mientras gira.
+Carga el ataque para aumentar el alcance y la duración.</text>
+<text id="1013">Habilidad única: Sofocador de almas
+
+Alza los grandes cuernos alados para invocar un miasma sofocador de almas.
+Los enemigos situados dentro del área afectada verán reducida su defensa temporalmente.</text>
+<text id="1014">Habilidad única: Llamas del megalómano
+
+Alza la espada sagrada sobre tu cabeza para prenderla con llamas blasfemas y luego bájala para lanzar una ráfaga frente a ti.
+Absorberás PS de los enemigos alcanzados por las llamas.</text>
+<text id="1015">Habilidad única: Chillido de Milos
+
+Emite un grito terrorífico y maldito que reduce toda la negación de daños y las resistencias de estado de los enemigos cercanos.
+Mientras está activo, los ataques potentes se convertirán en un ataque combinado.</text>
+<text id="1016">Habilidad única: Filosanguino reduviano
+
+Lanza un tajo con esta daga maldita para transformar su sangre imperecedera en sangrientas hojas arrojadizas que provocan hemorragias.
+Puede dispararse en rápida sucesión.</text>
+<text id="1017">Habilidad única: Dardo de piedras refulgentes
+
+Habilidad basada en el hechizo «guijarro de piedras refulgentes».
+Carga el ataque para convertirlo en el dardo de piedras refulgentes.
+Acompáñala con un ataque potente para lanzar una estocada.</text>
+<text id="1018">Habilidad única: Forma líquida
+
+Transforma temporalmente el arma a su forma líquida.
+Blande el arma como si fuera un látigo para ejecutar un amplio movimiento de barrido.</text>
+<text id="1019">Habilidad única: Posición igneocturna
+
+No alces ni bajes la espada y prepárate para lanzar un hechizo.
+Acompáñala con un ataque normal para lanzar el hechizo del dardo nocturno, o bien con un ataque potente para incendiar la zona situada frente a ti en un movimiento de barrido.</text>
+<text id="1020">Habilidad única: Ola dorada
+
+Imbuye la espada de la gloria dorada de antaño y luego lánzala contra los enemigos.
+La ola dorada se abrirá en abanico frente a ti y barrerá a todos los enemigos que encuentre por el camino.</text>
+<text id="1021">Habilidad única: Llama espectral destructiva
+
+Agita la espada para bañar su hoja en una llama espectral.
+La llama espectral añade daño mágico a los ataques, además de causar un efecto helador y doloroso.</text>
+<text id="1022">Habilidad única: Establecer orden
+
+Alza el arma a modo de saludo para desatar una explosión dorada.
+Sigue usándola para enviar ondas de luz dorada.</text>
+<text id="1023">Habilidad única: Neblina de sueño
+
+Libera una tenue neblina morada que se extiende frente a ti.
+Esta neblina ejerce un efecto soporífero sobre cualquiera que entre en contacto con ella.</text>
+<text id="1024">Habilidad única: Ritual invocalanzas
+
+Levanta la lanza sobre tu cabeza para dirigir tus plegarias al cielo e invocar una lluvia de lanzas espectrales.</text>
+<text id="1025">Habilidad única: Ataque del lobo
+
+Imbuye el espadón de escarcha y luego realiza una voltereta hacia delante para hundirlo en el suelo antes de liberar una fría ráfaga.</text>
+<text id="1026">Habilidad única: Transmutación tempestuosa
+
+Transfórmate temporalmente en una tempestuosa nube roja y surca los cielos antes de revelar tu verdadera forma y lanzar una hoja cargada de electricidad.
+Mantén la habilidad para aumentar el alcance de tu transmutación tempestuosa.</text>
+<text id="1027">Habilidad única: Tajo de sangre maldita
+
+Prepárate y luego carga hacia delante para asestar un corte en diagonal descendente. El sangriento rastro de la hoja irá seguido por una llameante explosión retardada. Sigue usando el arma para lanzar más ataques.</text>
+<text id="1028">Habilidad única: Danza de las anátidas
+
+Realiza una serie de saltos con un solo pie a imitación de un ave acuática para desencadenar un rápido a la par que elegante combo de tajos.
+Sigue usando el arma para lanzar dos ataques más.</text>
+<text id="1029">Habilidad única: Destructor del oro
+
+Da un salto y, mientras estás en el aire, imbuye el fragmento de runa de luz antes de estrellarlo con fuerza contra el suelo.
+Es el ataque distintivo del heroico Radagon.</text>
+<text id="1030">Habilidad única: ¡Te ordeno que te arrodilles!
+
+Golpea repetidamente el suelo con el hacha de Godrick para liberar dos estremecedoras ondas de choque.
+Usa el arma una vez más para liberar una tercera onda de choque.</text>
+<text id="1031">Habilidad única: Rugido majestuoso
+
+Profiere un poderoso rugido antes de pisar el suelo con todo tu peso para provocar un seísmo. Envía potentes ondas de choque en todas direcciones contra las que es imposible protegerse.</text>
+<text id="1032">Habilidad única: Grito invocador de astros
+
+Une ambas espadas y ruge al cielo para atraer a los enemigos con una onda gravitatoria.
+Vuelve a pulsar el botón para seguir golpeando con tus espadas imbuidas de la fuerza de la gravedad.</text>
+<text id="1033">Habilidad única: Ola de destrucción
+
+Levanta la espada en lo alto y luego golpea el suelo con ella para lanzar una onda de choque gravitatoria.</text>
+<text id="1034">Habilidad única: Favor sanguino ritual
+
+Levanta la lanza sagrada y atraviesa el cuerpo de la Madre Informe. Clava el arma hasta tres veces para provocar explosiones de sangre con cada embestida. Esta habilidad imbuye el arma de hemofuego por poco tiempo.</text>
+<text id="1035">Habilidad única: Forma líquida
+
+Transforma temporalmente el arma a su forma líquida.
+Blande el arma como si fuera un látigo para realizar un movimiento de barrido a tu alrededor antes de golpear con la cabeza en forma de lágrima.</text>
+<text id="1036">Habilidad única: Hoja de la Muerte
+
+Desata el poder de la Runa de la Muerte para disparar un proyectil en forma de espada.
+Además de infligir daño inmediato, la hoja reduce los PS máximos del enemigo y sigue desgastando sus PS durante un breve espacio de tiempo.</text>
+<text id="1037">Habilidad única: Hoja dorada
+
+Salta para cargar el arma con llamas doradas y lanzarlas contra el enemigo un único proyectil en forma de espada.
+Inflige daño sagrado.</text>
+<text id="1038">Habilidad única: Muerte Escrita
+
+Libera los restos de la Muerte Escrita hundiendo el espadón en el suelo para invocar una profusión de golpes con la espada.
+Además de infligir daño inmediato, este ataque reduce los PS máximos del enemigo y sigue desgastando sus PS durante un breve espacio de tiempo.</text>
+<text id="1039">Habilidad única: Rueda giratoria
+
+Golpea la rueda contra el suelo para hacerla girar a toda velocidad.
+Mantén la habilidad para que la rueda siga girando.
+Puedes usarla mientras caminas, lo que te permitirá empujarla contra los enemigos.</text>
+<text id="1040">Habilidad única: Atracción del alabastro
+
+Clava el arma en el suelo para crear un pozo de gravedad.
+Además de infligir daño, este ataque atrae a los enemigos.
+Su área de efecto es más amplia que la de Gravitas.</text>
+<text id="1041">Habilidad única: Repulsión del ónice
+
+Clava el arma en el suelo para crear un pozo de gravedad.
+Además de infligir daño, este ataque hace volar a los enemigos.</text>
+<text id="1042">Habilidad única: Juramento de venganza
+
+Haz un juramento con el espadón para vengar al clan, lo que aumentará todos tus atributos de forma temporal.
+Mientras los efectos del juramento estén activos, tu aplomo también aumentará.</text>
+<text id="1043">Habilidad única: Hoja del rayo gélido
+
+Imbuye tu hoja del poder de un rayo gélido y desátalo sobre tu enemigo.
+Su efecto permanecerá activo por poco tiempo.</text>
+<text id="1044">Habilidad única: Garra de bestia majestuosa
+
+Golpea el suelo con el martillo para desgarrar la tierra con las cinco bestiales garras de esta arma.</text>
+<text id="1045">Habilidad única: Danza de las llamas
+
+Imbuye la trenza roja de la llama de los gigantes y arremete contra tu entorno con una serie de ágiles golpes.</text>
+<text id="1046">Habilidad única: Toba poderosa
+
+Hincha el dedo y luego dóblalo para que acumule fuerzas antes de lanzar un golpe de efecto contra los enemigos.</text>
+<text id="1047">Habilidad única: Nube de estrellas
+
+Imbuye las estrellas de los innatos de poder mágico para ejecutar un movimiento de barrido.
+Este ataque deja a su paso una oscura nube de estrellas que permanece visible por poco tiempo antes de estallar.</text>
+<text id="1048">Habilidad única: Combustión de llama espectral
+
+Saca la vara punzante y enciende su punta con una llama espectral.
+Acompáñala con un ataque normal para incendiar el suelo con dicha llama o bien de un ataque potente para desencadenar una violenta explosión.</text>
+<text id="1049">Habilidad única: Lanza fulgurante antigua
+
+Imbuye el arma del rayo rojo de los dragones antiguos y luego úsala como si fuera una lanza.
+Puede cargarse para aumentar su poder.</text>
+<text id="1050">Habilidad única: Embestida de la llama frenética
+
+Imbuye la lanza de la llama frenética y salta hacia delante para clavarla en el suelo y provocar una enloquecedora explosión.
+La habilidad causa locura tanto al enemigo como al invocador.</text>
+<text id="1051">Habilidad única: Anillo de luz de Miquella
+
+Invoca el halo resplandeciente de Miquella y lánzalo hacia delante.
+Puedes lanzar varios anillos en rápida sucesión.</text>
+<text id="1052">Habilidad única: Temple dorado
+
+Cruza ambas espadas para imbuir a sus ataques de esencia sagrada.
+Mientras dure el efecto, los ataques potentes serán ataques combinados de doble empuñadura.</text>
+<text id="1053">Habilidad única: Ley de la tumba
+
+Alza el epitafio para otorgaros el efecto de la orden sagrada a ti mismo y a todos los aliados que estén cerca.
+Resulta particularmente eficaz para acabar con aquellos que viven en la muerte.</text>
+<text id="1054">Habilidad única: Hoja imbloqueable
+
+Imbuye la hoja cifrada de luz para alargarla y luego golpea con un repentino movimiento de barrido.
+Este ataque no puede bloquearse.</text>
+<text id="1055">Habilidad única: Espada danzante de Eochaid
+
+Imbuye la espada de energía y luego lánzala como si fuera un proyectil en forma de espiral.
+La espada seguirá girando violentamente para infligir daño de forma continua. Carga el ataque para aumentar el alcance del proyectil y la duración del giro.</text>
+<text id="1167">Habilidad única: Corte de adipocira
+
+Habilidad perdida de antiguos héroes.
+Levanta la espada en alto para desatar el poder de la adipocira y lanzarlo hacia delante como un proyectil en forma de cuchillo.
+</text>
+<text id="1168">Habilidad única: Tormenta helada de Zamor
+
+Hunde la espada curva en el suelo y acumula potencia para después desatar una tormenta helada que derriba todo a tu alrededor.</text>
+<text id="1169">Habilidad única: Lluvia de Radahn
+
+Habilidad de arquero que se realiza desde una posición baja.
+Prepara el arco y dispara una repentina ráfaga de flechas al cielo. Las flechas caerán sobre los enemigos como si fuera lluvia.</text>
+<text id="1170">Habilidad única: Llama negra de la Reina
+
+Recubre la espada con la llama negra exterminadora de dioses antes de atacar con un tajo en barrido. Usa el arma una vez más para lanzar otro ataque. Las llamas negras seguirán desgastando los PS del enemigo durante un rato.</text>
+<text id="1171">Habilidad única: Delicadeza del dinasta
+
+Esquiva ágilmente un ataque para ganar distancia respecto a los enemigos. Acompáñala con un ataque potente para lanzar una estocada repentina y vuelve a usar el ataque potente para realizar un movimiento de barrido.</text>
+<text id="1172">Habilidad única: Lluvia de magma
+
+Golpea a los enemigos con un movimiento giratorio mientras esparces magma a tu alrededor.
+Vuelve a pulsar el botón para seguir atacando.</text>
+<text id="1173">Habilidad única: Nube de estrellas
+
+Imbuye las alas de los innatos de magia para crear una oscura nube de estrellas frente a ti.
+Al cabo de poco rato, la nube estallará y desaparecerá.</text>
+<text id="1174">Habilidad única: Llamarada mortal
+
+Haz arder el sol desprovisto de brillo con las llamas del Príncipe de la Muerte.
+Este encantamiento inflige muerte a los enemigos.
+Vuelve a pulsar el botón para bajar el arma y desencadenar una explosión.</text>
+<text id="1175">Habilidad única: Delicadeza del sabueso
+
+Lanza un tajo hacia arriba con el Colmillo de sabueso y aprovecha el impulso del golpe para realizar una voltereta hacia atrás y ganar algo de distancia respecto al enemigo. Acompáñala con un ataque potente para ejecutar la habilidad «Paso del sabueso».</text>
+<text id="1176">Habilidad única: Guillotina de magma
+
+Agarra la espada de escamas con ambas manos, tal y como lo haría un dragón con sus fauces, y salta hacia delante para estrellarla contra el suelo y desencadenar una explosión de magma.
+Vuelve a pulsar el botón para seguir con un ataque cortante.</text>
+<text id="1177">Habilidad única: Occisadora
+
+Canaliza sangre maldita en la hoja para realizar una sucesión de ataques cruzados de forma reiterada. Usa el arma una vez más para obtener otra sucesión de ataques.</text>
+<text id="1178">Habilidad única: Luz lunar transitoria
+
+Envaina la espada y mantenla a la altura de la cadera en posición de alerta.
+Acompáñala con un ataque normal o potente para desenfundar la hoja a gran velocidad y realizar un ataque de tajo instantáneo. Ambos ataques lanzan una ola de luz.</text>
+<text id="1179">Habilidad única: Filosanguino danzante
+
+Salta hacia el enemigo para lanzar una ráfaga de ataques de tipo tornado.
+Vuelve a pulsar el botón para seguir con otro ataque terminado en una maniobra de evasión.</text>
+<text id="1180">%null%</text>
+<text id="1181">Habilidad: Hoja oculta de Miquella
+
+Conjura una hoja bendecida con la protección de Miquella y realiza un ataque muy nocivo para los que viven en la muerte.</text>
+<text id="1182">Habilidad única: Conocimiento ante todo
+
+Alza el cetro para manifestar el reino del Omnisciente. Dentro de esta área, se reducirá la negación de daños mágicos y sagrados del enemigo (incluye a la persona que lo lance).</text>
+<text id="1183">Habilidad única: Devorador de mundos
+
+Carga el cetro con magia y golpea el suelo con él para robar los PS de todos los enemigos cercanos.</text>
+<text id="1184">Habilidad única: Rencor familiar
+
+Haz sonar suavemente las cabezas de cobre para invocar espíritus vengativos que perseguirán a los enemigos.
+La angustia de una esposa y unos niños invita a una maldición iracunda.</text>
+<text id="1185">Habilidad única: Invocaciones de Rosus
+
+Alza el hacha sobre tu cabeza para invocar a quienes se perdieron en la muerte.
+Aparecerán tres esqueletos a cierta distancia del lugar donde hayas activado la habilidad y atacarán en grupo antes de desaparecer.</text>
+<text id="1186">Habilidad única: Filo tormentoso
+
+Imbuye la hoja alada del arma de la fuerza del rayo y blándela a tu alrededor para crear una poderosa tormenta de rayos. Usa el arma una vez más para ejecutar hasta dos ataques giratorios.
+La rayo permanecerá en la hoja durante un rato.</text>
+<text id="1187">Habilidad única: Falange sagrada
+
+Libera el poder de un encantamiento oculto para levantar una empalizada de lanzas doradas frente a ti.</text>
+<text id="1188">Habilidad única: Caza de la gran serpiente
+
+Lleva a cabo un potente lanzamiento hacia adelante, seguido por impulso hacia arriba si se vuelve a usar. Al luchar contra una gran serpiente, aparecerá una larga hoja luminosa que revelará el verdadero poder del arma.</text>
+<text id="1189">Habilidad única: Ala de ángel
+
+Salta e impregna de luz la hoja alada del arma para continuar con un tajo contra el enemigo.
+Las alas blancas impiden el uso de viales de lágrimas.</text>
+<text id="1190">Habilidad única: Patada tormentosa
+
+Clava la cuchilla de la pierna protésica en el suelo para crear una fuerte tormenta.
+Acompáñala con un ataque potente para ejecutar un ataque de salto imbuido del poder del rayo.</text>
+<text id="1191">Habilidad única: Hoja imbloqueable
+
+Imbuye la hoja cifrada de luz para alargarla y luego golpea con un repentino movimiento de barrido.
+Este ataque no puede bloquearse.</text>
+<text id="1192">Habilidad única: Hechicería del báculo pastoral
+
+Canaliza la magia en la piedra refulgente para invocar una antigua hechicería y crear proyectiles mágicos flotantes que perseguirán a los enemigos de forma automática.</text>
+<text id="1193">Habilidad única: Culada del Árbol Áureo
+
+Salta a gran altura e impacta en el suelo situado frente a ti.
+La caída resultante enviará ondas de choque doradas en todas las direcciones.
+Esta es la más poderosa de todas las habilidades de impacto con el trasero.</text>
+<text id="1194">Habilidad única: Rayo gravitatorio
+
+Imbuye la quijada de la bestia de un rayo gravitatorio para lanzar un relámpago que impactará a poca distancia.
+Puede lanzarse en rápida sucesión.</text>
+<text id="1195">Habilidad única: Fuego del dormitar
+
+Sopla la llama del candelabro para crear una brumosa corriente de fuego morado que cubrirá el suelo frente a ti.
+Las llamas tóxicas ejercen un efecto soporífero sobre los enemigos.</text>
+<text id="1196">Habilidad única: Represalia dorada
+
+Prepara el escudo para aprovechar su encantamiento de protección.
+Esta habilidad disipará los hechizos y encantamientos y contraatacará con un poder dorado.</text>
+<text id="1197">Habilidad única: Furia contagiosa
+
+Incita la ira de la medusa para permitir que su furia fluya a través de ti.
+Aumenta la potencia de ataque durante un tiempo.</text>
+<text id="1198">Habilidad única: Vórtice de Ordovis
+
+Canaliza el poder del crisol primigenio para hacer girar la espada en el aire y ganar impulso antes de estrellar la hoja contra el suelo.
+Esta habilidad puede cargarse para aumentar su potencia.</text>
+<text id="1199">Habilidad única: Arma giratoria
+
+Canaliza la magia en la piedra refulgente para que el cetro flote en el aire y empiece a girar violentamente.
+Cualquiera que entre en contacto con el arma recibirá un ataque mágico adicional.</text>
+</entries>
+</fmg>

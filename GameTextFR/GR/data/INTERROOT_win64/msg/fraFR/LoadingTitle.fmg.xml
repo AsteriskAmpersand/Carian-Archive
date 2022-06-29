@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">S'accroupir</text>
+<text id="2">Garde</text>
+<text id="3">Contre-attaques</text>
+<text id="4">Armes tenues à deux mains</text>
+<text id="5">Attaques chargées et sautées</text>
+<text id="6">Compétences</text>
+<text id="7">Parer</text>
+<text id="8">Définir une cible</text>
+<text id="9">Tir de précision</text>
+<text id="10">Équiper des armes</text>
+<text id="11">Utiliser des objets</text>
+<text id="12">Utilisation de torches</text>
+<text id="13">Coups critiques</text>
+<text id="14">Émotes</text>
+<text id="15">Carte</text>
+<text id="16">Saut spirituel</text>
+<text id="17">Raccourci objet</text>
+<text id="50">Mourir et laisser tomber des runes</text>
+<text id="51">%null%</text>
+<text id="52">Invoquer des esprits</text>
+<text id="53">Se reposer près des Sites de grâce</text>
+<text id="54">Trouver les Sites de grâce</text>
+<text id="55">Suivre la grâce</text>
+<text id="56">Fioles sacrées</text>
+<text id="57">Voyage rapide vers les Sites de grâce</text>
+<text id="58">Attaques montées</text>
+<text id="59">Zones sans monture</text>
+<text id="60">Fabrication d'objet</text>
+<text id="61">Contenants</text>
+<text id="62">Personnalisation des armes</text>
+<text id="63">%null%</text>
+<text id="64">Ressusciter</text>
+<text id="65">Charge équipée</text>
+<text id="66">En plein combat</text>
+<text id="67">Renforcement d'esprits</text>
+<text id="68">Monter de niveau</text>
+<text id="69">%null%</text>
+<text id="70">Altération : poison</text>
+<text id="71">Altération : putréfaction écarlate</text>
+<text id="72">Altération : saignement</text>
+<text id="73">Altération : congélation</text>
+<text id="74">Altération : sommeil</text>
+<text id="75">Altération : démence</text>
+<text id="76">Altération : malemort</text>
+<text id="77">Équilibre</text>
+<text id="100">Objectif de l'allié (Doigt crochu)</text>
+<text id="101">Objectif de l'adversaire (Duelliste)</text>
+<text id="102">Seuils en multijoueur</text>
+<text id="103">Voir les marques d'invocation</text>
+<text id="104">Placer des marques d'invocation coopératives</text>
+<text id="105">Placer des marques d'invocation compétitives</text>
+<text id="106">Invasion</text>
+<text id="107">Demander de l'aide</text>
+<text id="108">Aider</text>
+<text id="109">Recueils d'invocations</text>
+<text id="110">Mots de passe de groupe</text>
+<text id="111">Mots de passe en multijoueur</text>
+<text id="112">Messages</text>
+<text id="113">Limites de déplacement en multijoueur</text>
+<text id="114">Fantômes</text>
+<text id="115">Taches de sang</text>
+<text id="116">Objectif de l'assistant (Chasseur)</text>
+<text id="117">Marques d'invocation</text>
+<text id="118">Messages avancés</text>
+<text id="119">Objectif de l'envahisseur</text>
+<text id="150">Limites de la garde</text>
+<text id="151">Briser la posture</text>
+<text id="152">Désarçonner des ennemis</text>
+<text id="153">Adversaires endurcis</text>
+<text id="154">%null%</text>
+<text id="200">Scarabées larmoyants</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="84">%null%</text>
+<text id="85">%null%</text>
+<text id="86">%null%</text>
+<text id="87">%null%</text>
+<text id="88">%null%</text>
+<text id="89">%null%</text>
+<text id="90">%null%</text>
+<text id="91">%null%</text>
+<text id="92">%null%</text>
+<text id="93">%null%</text>
+<text id="94">%null%</text>
+<text id="95">%null%</text>
+<text id="96">%null%</text>
+<text id="97">%null%</text>
+<text id="98">%null%</text>
+<text id="99">%null%</text>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="102">%null%</text>
+<text id="103">%null%</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">%null%</text>
+<text id="107">%null%</text>
+<text id="108">%null%</text>
+<text id="109">%null%</text>
+<text id="110">%null%</text>
+<text id="111">%null%</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">%null%</text>
+<text id="121">%null%</text>
+<text id="122">%null%</text>
+<text id="123">%null%</text>
+<text id="124">%null%</text>
+<text id="125">%null%</text>
+<text id="126">%null%</text>
+<text id="127">%null%</text>
+<text id="128">%null%</text>
+<text id="129">%null%</text>
+<text id="130">%null%</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">%null%</text>
+<text id="134">%null%</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">%null%</text>
+<text id="138">%null%</text>
+<text id="139">%null%</text>
+<text id="140">%null%</text>
+<text id="141">%null%</text>
+<text id="142">%null%</text>
+<text id="143">%null%</text>
+<text id="144">%null%</text>
+<text id="145">%null%</text>
+<text id="146">%null%</text>
+<text id="147">%null%</text>
+<text id="148">%null%</text>
+<text id="149">%null%</text>
+<text id="150">%null%</text>
+<text id="151">%null%</text>
+<text id="152">%null%</text>
+<text id="153">%null%</text>
+<text id="154">%null%</text>
+<text id="155">%null%</text>
+<text id="156">%null%</text>
+<text id="157">%null%</text>
+<text id="158">%null%</text>
+<text id="159">%null%</text>
+<text id="160">%null%</text>
+<text id="161">%null%</text>
+<text id="162">%null%</text>
+<text id="163">%null%</text>
+<text id="164">%null%</text>
+<text id="165">%null%</text>
+<text id="166">%null%</text>
+<text id="167">%null%</text>
+<text id="168">%null%</text>
+<text id="169">%null%</text>
+<text id="170">%null%</text>
+<text id="171">%null%</text>
+<text id="172">%null%</text>
+<text id="173">%null%</text>
+<text id="174">%null%</text>
+<text id="175">%null%</text>
+<text id="176">%null%</text>
+<text id="177">%null%</text>
+<text id="178">%null%</text>
+<text id="179">%null%</text>
+<text id="180">%null%</text>
+<text id="181">%null%</text>
+<text id="182">%null%</text>
+<text id="183">%null%</text>
+<text id="184">%null%</text>
+<text id="185">%null%</text>
+<text id="186">%null%</text>
+<text id="187">%null%</text>
+<text id="188">%null%</text>
+<text id="189">%null%</text>
+<text id="190">%null%</text>
+<text id="191">%null%</text>
+<text id="192">%null%</text>
+<text id="193">%null%</text>
+<text id="194">%null%</text>
+<text id="1000">%null%</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="10000">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Garra de Leão: habilidade dos Cavaleiros da Juba Vermelha, que lutaram ao lado do General Radahn. Dá uma cambalhota para a frente, golpeando com a arma."
+
+Pode ser usada em espadas, machados e martelos
+(exceto armas pequenas e espadas perfurantes).</text>
+<text id="10100">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Impulso Perfurante: uma habilidade que permite que armas perfurantes superem os escudos inimigos. Reúne forças e depois se lança para a frente com um impulso forte que atravessa a guarda de um inimigo."
+
+Pode ser usada em armas perfurantes
+(exceto armas colossais).</text>
+<text id="10200">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Presa Perfurante: uma habilidade usada pelo Caçador de Dedos Sangrentos Yura. Com a lâmina na posição horizontal, realiza um golpe poderoso que não pode ser bloqueado."
+
+Pode ser usada em armas perfurantes médias e grandes.</text>
+<text id="10300">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Corte Giratório: habilidade adorada pelos guerreiros hábeis. Corta os inimigos enquanto o próprio corpo gira. Um comando adicional executa um ataque subsequente."
+
+Utilizável em espadas, machados e armas de haste (exceto armas colossais).</text>
+<text id="10500">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Investida Frontal: investida frontal rápida, com a arma na altura do quadril, carregando o ímpeto em uma estocada. Segure o botão para cobrir uma distância maior."
+
+Utilizável em armas de haste perfurantes, espadas de perfuração pesadas e lâminas-gêmeas.</text>
+<text id="10600">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Esmagamento (Corte para Cima): prepara a arma e muda para uma postura baixa que impede o recuo da maioria dos ataques inimigos. Prossiga com um ataque forte para realizar um golpe ascendente."
+
+Utilizável em espadas, machados e martelos (exceto espadas pequenas e médias).</text>
+<text id="10700">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Esmagamento (Em Arco): prepara a arma e muda para uma postura baixa que impede o recuo da maioria dos ataques inimigos. Prossiga com um ataque forte para realizar um golpe em arco."
+
+Utilizável em espadas, machados e martelos (exceto espadas pequenas e médias).</text>
+<text id="10800">Esta Cinza da Guerra concede a uma arma a afinidade "Sangue" e a seguinte habilidade:
+
+"Taxa de Sangue: habilidade do Juramento de Sangue concedida pelo Lorde do Sangue. Gira para acumular poder e, então, desencadeia uma sequência de estocadas que rouba sangue e PV do alvo."
+
+Pode ser usada em armas perfurantes
+(exceto armas colossais).</text>
+<text id="10900">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Impulso Repetitivo: gira para acumular poder e, então, desencadeia uma sequência de estocadas."
+
+Pode ser usada em armas perfurantes
+(exceto armas colossais).</text>
+<text id="11000">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Golpes Selvagens: balança a arma de forma impulsiva. Segure para continuar realizando os movimentos. Pode ser seguida de um ataque normal ou forte."
+
+Pode ser usada em machados, martelos, espadas curvas e espadas grandes (exceto armas colossais).</text>
+<text id="11100">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Golpes Giratórios: habilidade para armas de haste que realiza ataques giratórios contínuos. Segure para continuar executando o golpe. Pode ser seguida de um ataque normal ou forte. Enquanto gira, anula projéteis como flechas."
+
+Utilizável em armas de haste (exceto lanças grandes).</text>
+<text id="11200">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Corte Duplo: habilidade de espadachins superiores. A partir de uma postura baixa, realiza um ataque cortante cruzado. Comandos repetidos executam até dois ataques subsequentes."
+
+Utilizável em espadas e armas de haste cortantes (exceto armas colossais).</text>
+<text id="11300">Esta Cinza da Guerra concede a uma arma a afinidade "Arte da Chama" e a seguinte habilidade:
+
+"Investida do Prelado: golpeia o chão com a arma para criar uma onda de chamas, avançando em seguida. Segure para continuar a investida."
+
+Utilizável em machados e martelos, grandes e colossais.</text>
+<text id="11400">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Desembainhar: habilidade dos espadachins da Terra dos Juncos. Embainha a espada, segurando a arma no quadril com uma postura equilibrada. Prossiga com um ataque normal ou forte para realizar um corte rápido."
+
+Pode ser usada em katanas.</text>
+<text id="11500">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Enfrentar: esta habilidade começa com a espada segurada horizontalmente. Prossiga com um ataque normal para realizar um corte ascendente pela guarda do inimigo ou com um ataque forte para executar uma corrida com estocada."
+
+Pode ser usada em espadas retas.</text>
+<text id="11600">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Caça de Gigantes: habilidade desenvolvida para enfrentar inimigos gigantes. A partir de uma postura baixa, dá um passo para a frente, carregando o ímpeto em uma estocada ascendente repentina."
+
+Pode ser usada em armas perfurantes grandes e colossais, lanças e lâminas-gêmeas.</text>
+<text id="11700">Esta Cinza da Guerra concede a uma arma
+a habilidade: Ataque com Tocha.</text>
+<text id="11800">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Corte de Loretta: habilidade de Loretta, a Cavaleira Real. Salta para a frente, imbuindo a lâmina com pedrilhante, e desce acelerando o movimento com um corte em arco."
+
+Utilizável em armas de haste e lâminas-gêmeas.</text>
+<text id="11900">Esta Cinza da Guerra concede a uma arma a afinidade "Venenosa" e a seguinte habilidade:
+
+"Voo da Mariposa Venenosa: realiza um corte com uma lâmina infundida com veneno. Se o ataque seguinte acertar um inimigo envenenado, causará um dano considerável."
+
+Utilizável em espadas pequenas e médias (exceto lâminas-gêmeas).</text>
+<text id="12000">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Arma Giratória: habilidade defensiva utilizada pelas princesas carianas. Suspende a arma no ar e faz com que ela gire violentamente. Aqueles que forem tocados por ela sofrerão ataques sucessivos."
+
+Utilizável em espadas pequenas e médias, machados e martelos, assim como armas de haste e cajados (exceto lanças grandes).</text>
+<text id="12100">%null%</text>
+<text id="12200">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Ataque da Tormenta: uma das habilidades que canalizam as tormentas de Tempesvéu. Salta para a frente, através de ventos de tempestade, e golpeia o chão com a arma. O ataque produzirá mais ventos de tempestade no ponto de impacto."
+
+Utilizável em armas de haste perfurantes, espadas de perfuração pesadas e lâminas-gêmeas.</text>
+<text id="12300">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Invocador da Tempestade: uma das habilidades que canalizam as tormentas de Tempesvéu. Gira a arma para criar ventos de tempestade que cercam o usuário. Comandos repetidos executam até dois ataques subsequentes."
+
+Utilizável em espadas de corte, machados, martelos e armas de haste (exceto armas colossais e pequenas).</text>
+<text id="12400">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Dança da Espada: aproxima-se rapidamente para realizar uma série de cortes giratórios ascendentes. Prossiga com um comando adicional para terminar o movimento com um corte descendente."
+
+Utilizável em espadas, machados e armas de haste cortantes (exceto armas colossais e lanças grandes).</text>
+<text id="12500">Esta Cinza da Guerra concede a uma arma
+a habilidade: Pulverizar.</text>
+<text id="20000">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Falange de Laminante: habilidade usada pelos cavaleiros encantados que serviram à família real cariana. Forma um arco de laminantes mágicas acima da cabeça, as quais atacam os inimigos automaticamente. Prossiga com um ataque forte para conectar esta habilidade a um impulso de estocada."
+
+Utilizável em espadas, bem como em armas de haste perfurantes (exceto armas colossais).</text>
+<text id="20100">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Lâmina Sagrada: concede essência sagrada aos ataques da arma e dispara um projétil em forma de lâmina dourada. A arma retém a essência sagrada por um tempo."
+
+Utilizável em armas corpo a corpo (exceto chicotes, punhos e garras).</text>
+<text id="20200">Esta Cinza da Guerra concede a uma arma a afinidade "Frio" e a seguinte habilidade:
+
+"Lança de Gelo: habilidade dos guerreiros que serviram a Ranni, a Princesa Lunar. Gira a arma para liberar magia do frio, que, depois, é canalizada em uma lança perfurante do mesmo elemento."
+
+Utilizável em armas de haste perfurantes e lâminas-gêmeas.</text>
+<text id="20300">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Calhau Pedrilhante: habilidade que aplica a feitiçaria pedrilhante de mesmo nome. Prossiga com um ataque forte para conectar esta habilidade com um impulso de estocada, realizado enquanto a arma ainda estiver imbuída com pedrilhante."
+
+Utilizável em espadas, bem como em armas de haste perfurantes (exceto armas colossais).</text>
+<text id="20400">Esta Cinza da Guerra concede a uma arma a afinidade "Sangue" e a seguinte habilidade:
+
+"Corte Sangrento: habilidade do Juramento de Sangue concedida pelo Lorde do Sangue. A partir de uma postura baixa, reveste a arma com o próprio sangue para realizar um corte dilacerante de sangue em um amplo arco."
+
+Utilizável em espadas (exceto armas colossais).</text>
+<text id="20500">Esta Cinza da Guerra concede a uma arma a afinidade "Oculto" e a seguinte habilidade:
+
+"Punho Ladrão de Vida: habilidade que demonstra o domínio sobre a arte de controlar energias vitais.
+Um soco lento e controlado com um punho infundido de energia que deixa os inimigos inconscientes e rouba seus PV. Eficaz apenas contra inimigos de constituição humana."
+
+Utilizável em punhos e garras.</text>
+<text id="20700">Esta Cinza da Guerra concede a uma arma a afinidade "Fogo" e a seguinte habilidade:
+
+"Erupção: habilidade dos cavaleiros que servem na Mansão Vulcânica. Golpeia o chão com a arma, fazendo surgir uma lava turva que jorra para cima ao ser liberada."
+
+Utilizável em machados, martelos e espadas grandes e colossais</text>
+<text id="20800">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Golpe Devoto: ergue a arma em oração, golpeando o chão com ela em seguida. Se acertar o inimigo, esse golpe inspirado restaura os PV do usuário e dos aliados próximos."
+
+Utilizável em machados e martelos.</text>
+<text id="20900">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Gravitas: habilidade originada dos Lordes de Alabastro, que tinham pele de pedra. Enfia a arma no chão para criar um poço de gravidade. Além de causar dano, este ataque puxa os inimigos."
+
+Utilizável em armas para corpo a corpo (exceto armas pequenas e chicotes).</text>
+<text id="21000">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Lâmina Tempestuosa: habilidade perdida de Tempesvéu. Envolve a arma com ventos cortantes de tempestade que podem ser disparados para a frente em sucessão rápida."
+
+Utilizável em espadas (exceto armas colossais e lâminas-gêmeas).</text>
+<text id="21200">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Chacoalhador de Terra: enfia a arma no chão e, em seguida, reúne força para liberar uma onda de choque que faz a terra tremer. Prossiga com um ataque forte para usar a arma em um golpe em arco."
+
+Utilizável em machados grandes, grande martelos e armas colossais.</text>
+<text id="21300">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Terra Dourada: enfia a arma no chão e, em seguida, reúne força para liberar uma onda de choque que faz a terra tremer. Prossiga com um ataque forte para usar a arma em um golpe em arco."
+
+Utilizável em machados grandes, grande martelos e armas colossais.</text>
+<text id="21400">Esta Cinza da Guerra concede a uma arma a afinidade "Fogo" e a seguinte habilidade:
+
+"Golpe Flamejante: habilidade que emite chamas em um arco amplo para a frente. Prossiga com um ataque forte para realizar um golpe de impulso em arco. Isso também revestirá a arma com fogo."
+
+Utilizável em armas corpo a corpo (exceto armas colossais e chicotes).</text>
+<text id="21600">Esta Cinza da Guerra concede a uma arma a afinidade "Relâmpago" e a seguinte habilidade:
+
+"Relâmpago: habilidade usada pelo culto do dragão ancião da capital. Ergue a arma para invocar um relâmpago. Pode ser disparada em sucessão rápida.
+
+Utilizável em todas as armas de corpo a corpo.</text>
+<text id="21700">Esta Cinza da Guerra concede a uma arma a afinidade "Relâmpago" e a seguinte habilidade:
+
+"Corte de Relâmpago: invoca um relâmpago para a arma. Em seguida, realiza um golpe descendente para criar uma explosão. A arma retém o encantamento elétrico por um tempo."
+
+Utilizável em espadas, machados e martelos.</text>
+<text id="21800">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Grandeza Cariana: o prestígio real cariano materializado em uma habilidade. Transforma a lâmina em uma espada grande mágica e realiza um golpe descendente. Esta habilidade pode ser carregada para aumentar o seu poder em até dois níveis."
+
+Utilizável em espadas (exceto armas colossais).</text>
+<text id="21900">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Espada Grande Cariana: o prestígio real cariano materializado em uma habilidade. Transforma a lâmina em uma espada grande mágica e realiza um golpe descendente. Esta habilidade pode ser carregada para aumentar o seu poder."
+
+Utilizável em espadas (exceto armas colossais).</text>
+<text id="22000">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Corte de Vácuo: uma habilidade de heróis antigos perdida. Ergue a arma para cercá-la de vácuo. Então, ela é lançada para a frente como um projétil em forma de lâmina."
+
+Utilizável em espadas e machados (exceto machados colossais).</text>
+<text id="22100">Esta Cinza da Guerra concede a uma arma a afinidade "Arte da Chama" e a seguinte habilidade:
+
+"Tornado de Chama Negra: gira a arma sobre a cabeça e a enfia no solo para invocar um vórtice furioso de chamas negras. Segure para criar um tornado de chamas inicial enquanto gira a arma."
+
+Utilizável em armas de haste e lâminas-gêmeas.</text>
+<text id="22200">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Anel de Luz Sagrado: habilidade usada pelos comandantes dos Cavaleiros da Podridão Imaculada. Gera um anel de luz sagrado na arma, que é disparado para a frente. É possível lançar múltiplos anéis em sucessão rápida."
+
+Utilizável em armas de haste (exceto lanças grandes).</text>
+<text id="22300">Esta Cinza da Guerra concede a uma arma
+a habilidade: Bafo de Fogo</text>
+<text id="22400">Esta Cinza da Guerra concede a uma arma a afinidade "Sangue" e a seguinte habilidade:
+
+"Lâmina de Sangue: causa um ferimento em si mesmo para revestir a arma com sangue. Em seguida, solta no ar uma lâmina de sangue que causa hemorragia. Pode ser disparada em sucessão rápida."
+
+Utilizável em espadas pequenas e médias.</text>
+<text id="22500">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Corte Fantasma: habilidade inspirada pelas boas lembranças da Cavalaria da Noite. Cria uma aparição do antigo instrutor dos cavaleiros, que comanda um golpe ascendente em conjunto. Um comando adicional executa um ataque subsequente."
+
+Utilizável em armas de haste e lâminas-duplas (exceto lanças grandes).</text>
+<text id="22600">Esta Cinza da Guerra concede a uma arma a afinidade "Oculto" e a seguinte habilidade:
+
+"Lança Espectral: habilidade dos Cavaleiros do Mausoléu, combatentes sem cabeça. Arremessa uma lança fantasmagórica nos inimigos."
+
+Utilizável em armas de haste (exceto ceifadores).</text>
+<text id="22700">Esta Cinza da Guerra concede a uma arma a afinidade "Frio" e a seguinte habilidade:
+
+"Névoa Refrigeradora: reveste a arma com gelo e executa um corte, espalhando uma névoa frígida à frente. A arma retém o gelo por um tempo."
+
+Utilizável em armas corpo a corpo (exceto chicotes, punhos e garras).</text>
+<text id="22800">Esta Cinza da Guerra concede a uma arma a afinidade "Venenosa" e a seguinte habilidade:
+
+"Névoa Venenosa: reveste a arma com veneno e executa um corte, espalhando uma névoa tóxica à frente. A arma retém o veneno por um tempo."
+
+Utilizável em armas corpo a corpo (exceto chicotes, punhos e garras).</text>
+<text id="30000">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Batida com Escudo: com o escudo na frente, usa o peso do corpo para golpear os inimigos enquanto mantém a guarda. Inimigos mais fracos serão empurrados para trás e podem ficar atordoados."
+
+Utilizável em todos os escudos.</text>
+<text id="30100">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Escudo-Barricada: habilidade que ficou famosa por meio do Senhor Neidhardt. Foca a energia no escudo, tornando-o mais rígido temporariamente para desviar golpes mais fortes."
+
+Utilizável em todos os escudos.</text>
+<text id="30200">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Aparagem: sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário. Isso cria uma abertura para executar um ataque crítico."
+
+Utilizável em adagas, espadas curvas, espadas de perfuração, punhos, garras e escudos pequenos e médios.</text>
+<text id="30300">Esta Cinza da Guerra concede a uma arma
+a habilidade: Aparagem com Broquel.</text>
+<text id="30400">Esta Cinza da Guerra concede a uma arma
+a habilidade: Aparar.</text>
+<text id="30500">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Retaliação Cariana: balança o escudo para dissipar feitiços e encantamentos inimigos, transformando a magia em laminantes retaliatórias. Também pode ser usada como uma aparagem comum."
+
+Utilizável em escudos pequenos e médios.</text>
+<text id="30600">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Parede de Tormenta: balança o escudo para criar uma parede de ventos de tormenta à frente, desviando flechas e outros projéteis físicos. Também pode ser usada como uma aparagem comum."
+
+Utilizável em escudos pequenos e médios.</text>
+<text id="30700">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Aparagem Dourada: realiza um encantamento da Térvore e balança o escudo para desviar ataques inimigos e quebrar suas posturas. Eficaz mesmo a uma pequena distância."
+
+Utilizável em escudos pequenos e médios.</text>
+<text id="30800">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Colisão de Escudo: segura o escudo com as duas mãos e executa uma investida para a frente enquanto mantém a guarda. Inimigos mais fracos serão empurrados para trás e podem até ficar atordoados. Segure para estender a duração da investida."
+
+Utilizável em todos os escudos.</text>
+<text id="30900">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Nenhuma habilidade: esta arma não possui nenhuma habilidade. Se a arma na outra mão possuir uma habilidade, ela será usada."
+
+Utilizável em escudos e tochas.</text>
+<text id="31000">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Barreira de Thops: ergue um campo de força mágico enquanto balança o escudo para desviar feitiços e encantamentos. Também pode ser usada como uma aparagem comum."
+
+Utilizável em escudos pequenos e médios.</text>
+<text id="40000">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Disparo Penetrante: poderosa habilidade de arco e flecha que usa um arco grande segurado em uma postura oblíqua. Prepara o arco grande e torce a corda para disparar uma flecha grande poderosa que é capaz de perfurar os inimigos."
+
+Utilizável em arcos grandes.</text>
+<text id="40100">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Barragem: habilidade de arco e flecha que usa um arco segurado horizontalmente. Prepara o arco e, mais rápido do que o olho pode ver, dispara uma rápida sucessão de flechas."
+
+Utilizável em arcos leves.</text>
+<text id="40200">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Disparo Poderoso: habilidade de arco e flecha executada em uma postura oblíqua. Prepara o arco e puxa a corda ao limite para aumentar a força do disparo, que penetra a guarda do inimigo."
+
+Utilizável em arcos leves e arcos longos.</text>
+<text id="40400">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Disparo Encantado: habilidade de arco e flecha que aviva a flecha com uma essência espiritual. O disparo resultante voará mais rápido do que os comuns e mudará sua trajetória para perseguir os alvos."
+
+Utilizável em arcos leves e arcos longos.</text>
+<text id="40500">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Disparo do Céu: habilidade de arco e flecha realizada em uma postura baixa. Prepara o arco e dispara uma flecha para o alto, a qual percorre uma trajetória abaulada para atingir o inimigo por cima ao cair."
+
+Utilizável em arcos leves e arcos longos.</text>
+<text id="40600">Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade:
+
+"Chuva de Flechas: habilidade de arco e flecha realizada em uma postura baixa. Prepara o arco e dispara uma rajada de flechas ao céu para fazer chover projéteis sobre o inimigo."
+
+Utilizável em todos os arcos.</text>
+<text id="40700">%null%</text>
+<text id="50100">Esta Cinza da Guerra concede a uma arma a afinidade "Frio" e a seguinte habilidade:
+
+"Pisão de Geada: pisa com força para espalhar um rastro de névoa congelante no chão. A névoa causa a condição de congelamento"
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50200">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Pisão Tempestuoso: uma das habilidades que canaliza as tempestades de Tempesvéu. Pisa no chão com força para causar uma tempestade momentânea."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50300">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Chute: empurra um inimigo para trás com um chute alto. Eficaz contra inimigos em guarda e capaz de quebrar a postura do adversário. Às vezes, uma ferramenta simples é a mais eficaz."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50400">Esta Cinza da Guerra concede a uma arma a afinidade "Relâmpago" e a seguinte habilidade:
+
+"Carneiro do Relâmpago: habilidade inspirada por carneiros cambaleantes. Solta um balido e avança cambaleando, envolto em eletricidade. Os movimentos incertos podem ser repetidos em uma sucessão rápida."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50500">Esta Cinza da Guerra concede a uma arma a afinidade "Fogo" e a seguinte habilidade:
+
+"Chama dos Jubas Vermelhas: habilidade dos Jubas Vermelhas que lutaram ao lado do General Radahn. Produz uma poderosa rajada de chamas que se espalha à frente em um arco amplo."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50600">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Pancada no Solo: salta alto e se choca com força contra o chão à frente. O resultado do golpe envia uma onda de choque poderosa em todas as direções."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50700">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Pancada Dourada: habilidade dos avatares que protegem as Térvores Menores. Salta alto e se choca com força contra o chão à frente. O resultado do golpe envia ondas de choque douradas em todas as direções."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="50800">Esta Cinza da Guerra concede a uma arma a afinidade "Mágica" e a seguinte habilidade:
+
+"Ondas de Trevas: enfia a arma no chão para liberar três ondas de escuridão. Prossiga com um ataque forte para usar a arma em um golpe em arco."
+
+Utilizável em machados grandes, grande martelos e armas colossais.</text>
+<text id="50900">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Chacoalhador de Terra de Hoarah Loux: bate com as duas mãos no chão para fazer a terra tremer violentamente e liberar uma onda de choque. Prossiga com um comando adicional para golpear o chão novamente."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="60000">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Determinação: uma habilidade cavaleiresca. Segura a lateral da arma de encontro ao rosto e afirma sua determinação, fortalecendo seu próximo ataque.
+
+Utilizável em todas as armas de corpo a corpo.</text>
+<text id="60100">Esta Cinza da Guerra concede a uma arma a afinidade "Qualidade" e a seguinte habilidade:
+
+"Determinação do Cavaleiro Real: habilidade dos cavaleiros que serviam ao Lorde Prístino. Segura a lateral da arma de encontro ao rosto e afirma sua determinação, fortalecendo muito seu próximo ataque."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="60200">Esta Cinza da Guerra concede a uma arma a afinidade "Oculto" e a seguinte habilidade:
+
+"Gambito do Assassino: habilidade que mascara a presença do usuário ao custo de um ferimento autoinfligido. O usuário fica quase invisível e seus passos são silenciados."
+
+Utilizável em espadas retas pequenas e médias e espadas de perfuração.</text>
+<text id="60300">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Voto Dourado: habilidade passada desde a antiguidade entre os cavaleiros da capital. Ergue a arma e promete honrar a Térvore em batalha, concedendo a si mesmo e aos aliados próximos um poder de ataque e uma defesa melhorados."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="60400">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Ordem Sagrada: habilidade dos cavaleiros fundamentalistas da Ordem Áurea. Executa uma saudação e concede à arma a essência sagrada. Altamente eficaz contra aqueles que vivem na morte."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="60500">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Ordem Compartilhada: habilidade dos cavaleiros fundamentalistas da Ordem Áurea. Concede a essência sagrada às armas do usuário e dos aliados próximos. Altamente eficaz contra aqueles que vivem na morte."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="60600">Esta Cinza da Guerra concede a uma arma a afinidade "Sangue" e a seguinte habilidade:
+
+"Seppuku: uma técnica proibida usada pelos espadachins da Terra dos Juncos. Enfia a lâmina no próprio estômago para manchá-la de sangue. Aumenta o poder de ataque e aumenta a eficácia em infligir perda de sangue."
+
+Utilizável em espadas, bem como em armas de haste perfurantes (exceto armas colossais e pequenas).</text>
+<text id="60700">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Lâmina de Pedra: habilidade que manipula a gravidade. Enterra a arma no chão, atraindo pedras da terra para reforçá-la. Aumenta o poder de ataque e torna mais fácil quebrar a postura do inimigo."
+
+Utilizável em armas corpo a corpo (exceto chicotes).</text>
+<text id="65000">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Rugido Bárbaro: libera um rugido bestial para se motivar e aumentar o poder de ataque. Enquanto estiver ativo, os ataques fortes mudam para combos selvagens."
+
+Utilizável em armas corpo a corpo (exceto adagas, espadas de perfuração e chicotes).</text>
+<text id="65100">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Grito de Guerra: dá um grito de guerra para aumentar o poder de ataque. Enquanto estiver ativo, ataques fortes mudam para ataques de carga."
+
+Utilizável em armas corpo a corpo (exceto adagas, espadas de perfuração e chicotes).</text>
+<text id="65200">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Rugido da Fera: emite um rugido bestial que rasga o ar como um projétil disparado para a frente."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="65300">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Rugido do Troll: olha para o horizonte e dá um rugido intenso, gerando uma poderosa onda de choque que empurra para trás os inimigos ao redor do usuário. Prossiga com um ataque forte para dar um golpe descendente com a arma."
+
+Utilizável em machados, martelos e espadas grandes e colossais.</text>
+<text id="65400">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Grito do Exibido: declare a sua presença com um rugido orgulhoso. Aumenta o poder de ataque, a defesa e a velocidade de recuperação do vigor."
+
+Utilizável em armas corpo a corpo (exceto adagas, espadas de perfuração e chicotes).</text>
+<text id="70000">Esta Cinza da Guerra concede a uma arma a afinidade "Pesada" e a seguinte habilidade:
+
+"Resistência: assume uma postura ancorada para se preparar para os ataques inimigos, aumentando brevemente o equilíbrio. O dano sofrido durante o uso desta habilidade é reduzido."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="70100">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Voto do Indomável: habilidade dos guerreiros ancestrais da Térvore. Segura o escudo no alto para se imbuir com o poder dourado, ganhando uma invencibilidade momentânea."
+
+Utilizável em todos os escudos.</text>
+<text id="70200">Esta Cinza da Guerra concede a uma arma a afinidade "Sagrada" e a seguinte habilidade:
+
+"Solo Sagrado: levanta o escudo para criar uma área consagrada pela Térvore que restaura os PV continuamente, além de aumentar a defesa do usuário e dos aliados em seu alcance."
+
+Utilizável em todos os escudos.</text>
+<text id="80000">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Passo Ágil: habilidade adorada por aqueles com pés rápidos e hábeis.
+Dá um passo rápido para um dos lados e circunda alvos travados."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="80100">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Passo do Cão de Caça: habilidade que permite que o usuário se torne temporariamente invisível enquanto esquiva em alta velocidade. O usuário se move mais rápido e para mais longe do que ao usar um passo ágil comum. Esta habilidade pode ser usada para circundar alvos travados."
+
+Utilizável em todas as armas corpo a .</text>
+<text id="80200">Esta Cinza da Guerra concede a uma arma a afinidade "Aguçada" e a seguinte habilidade:
+
+"Ave de Rapina das Brumas: assume uma postura baixa, sumindo temporariamente. Se um ataque inimigo te acertar, asas de pássaro permitirão uma fuga rápida pelo ar."
+
+Utilizável em todas as armas corpo a corpo.</text>
+<text id="85000">Esta Cinza da Guerra concede a uma arma a afinidade "Oculto" e a seguinte habilidade:
+
+"Isca de Sombra Branca: segura a arma em uma oração breve e silenciosa para criar uma sombra branca. A aparição atrai inimigos de constituição humana fora de combate, despertando sua agressividade. Eficaz em semi-humanos mesmo que eles já estejam em estado de combate."
+
+Utilizável em todas as armas corpo a corpo.</text>
+</entries>
+</fmg>

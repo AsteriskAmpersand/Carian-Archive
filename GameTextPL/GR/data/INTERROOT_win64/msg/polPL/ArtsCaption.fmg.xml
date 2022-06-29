@@ -1,0 +1,749 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">Brak umiejętności.
+
+Ten oręż nie ma umiejętności.
+Jeśli oręż w drugiej ręce ma umiejętność, zostanie ona użyta.</text>
+<text id="100">Umiejętność: Lwi pazur
+
+Umiejętność Lwich Grzyw, które walczyły u boku generała Radahna.
+Umożliwia przewrót w przód, by uderzyć przeciwnika bronią.</text>
+<text id="101">Umiejętność: Nadziewające pchnięcie
+
+Umiejętność broni kolnej pozwalająca pokonać tarczę. Zbierz siłę 
+i zrób wypad, by wykonać potężne pchnięcie, które przebije się przez gardę przeciwnika.</text>
+<text id="102">Umiejętność: Przebijający kieł
+
+Umiejętność Łowcy Krwawych Palców, Yury.
+Trzymając ostrze poziomo, wykonaj potężne pchnięcie, którego nie można zablokować.</text>
+<text id="103">Umiejętność: Cięcie z obrotu
+
+Ulubiona umiejętność zwinnych wojowników.
+Tnij wrogów, obracając się. Wielokrotne naciśnięcie umożliwia wykonanie dodatkowego ataku.</text>
+<text id="104">%null%</text>
+<text id="105">Umiejętność: Szarża naprzód
+
+Szybka szarża z bronią na wysokości biodra. Siła impetu pozwala wykonać pchnięcie.
+Przytrzymaj, aby pokonać większy dystans.</text>
+<text id="106">Umiejętność: Tupnięcie (cięcie w górę)
+
+Mocno chwyć oręż i zejdź nisko, co pozwoli przyjąć większość ataków przeciwnika bez odepchnięcia.
+Połącz z silnym atakiem, aby wykonać cios w górę.</text>
+<text id="107">Umiejętność: Tupnięcie (zamaszyste)
+
+Mocno chwyć oręż i zejdź nisko, co pozwoli przyjąć większość ataków przeciwnika bez odepchnięcia.
+Połącz z silnym atakiem, aby wykonać zamaszyste cięcie.</text>
+<text id="108">Umiejętność: Krwawy podatek
+
+Umiejętność przysięgi krwi przekazywana przez Pana Krwi.
+Obróć, by zgromadzić moc, a następnie zadaj grad pchnięć, które pozbawią cel krwi i PŻ.</text>
+<text id="109">Umiejętność: Napierające pchnięcie
+
+Obróć się, by nabrać impetu, a następnie wykonaj serię pchnięć.</text>
+<text id="110">Umiejętność: Szał
+
+Wykonuj szalone cięcia bronią.
+Przytrzymaj, by nie przerywać uderzeń. Można połączyć 
+z normalnym lub silnym atakiem.</text>
+<text id="111">Umiejętność: Uderzenia z obrotu
+
+Umiejętność wykonywania ataków obrotowych bronią drzewcową. Przytrzymaj, by nie przerywać ataku. Można połączyć z normalnym lub silnym atakiem. W czasie obrotów odbijane są pociski, na przykład strzały.</text>
+<text id="112">Umiejętność: Podwójne cięcie
+
+Umiejętność najlepszych szermierzy.
+Wykonaj cięcie krzyżowe z niskiej postawy.
+Wielokrotne naciskanie pozwala wykonać dwa kolejne ataki.</text>
+<text id="113">Umiejętność: Szarża prałata
+
+Uderz orężem w ziemię, by wystrzeliły z niej płomienie, a następnie zaszarżuj.
+Przytrzymaj, by nie przerywać szarży.</text>
+<text id="114">Umiejętność: Dobycie
+
+Umiejętność szermierzy z Krainy Trzcin.
+Schowaj broń i trzymaj ją przy biodrze w wyważonej postawie.
+Potem wyprowadź zwykły lub silny atak, by wykonać szybkie cięcie.</text>
+<text id="115">Umiejętność: Konfrontacja
+
+Umiejętność zaczyna się z bronią trzymaną poziomo.
+Następnie wykonaj zwykły atak, by ciąć w górę przez zasłonę wroga, albo silny atak, aby pchnąć w biegu.</text>
+<text id="116">Umiejętność: Polowanie na olbrzymy
+
+Umiejętność stworzona do walki z olbrzymimi
+wrogami. Rusz naprzód z niskiej postawy i przenieś
+impet w niespodziewane pchnięcie w górę.</text>
+<text id="117">Umiejętność: Atak pochodnią
+
+Pchnij pochodnią, aby podpalić przeciwników.
+Ta umiejętność jest szczególnie skuteczna wobec istot wrażliwych na ogień.</text>
+<text id="118">Umiejętność: Cięcie Loretty
+
+Umiejętność Loretty, królewskiego rycerza.
+Skocz naprzód, napełniając klingę błyskamieniem, a potem, spadając, wykonaj szybkie cięcie.</text>
+<text id="119">Umiejętność: Lot trującej ćmy
+
+Wykonaj cięcie zatrutym ostrzem. Jeśli kolejny
+cios trafi otrutego wroga, otrzyma on dużo większe obrażenia.</text>
+<text id="120">Umiejętność: Wirujący oręż
+
+Umiejętność obronna używana przez karyjskie księżniczki.
+Unosi oręż w powietrze, a następnie wprawia go w szybkie wirowanie. Dotknięte cele zostaną trafione serią ataków.</text>
+<text id="121">%null%</text>
+<text id="122">Umiejętność: Burzowe natarcie
+
+Jedna z umiejętności, które nadają kierunek nawałnicom Burzowego Całunu.
+Skocz do przodu przez burzowe wichry i uderz orężem w dół. Atak wywoła kolejne wichry w miejscu uderzenia.</text>
+<text id="123">Umiejętność: Władca Burz
+
+Jedna z umiejętności, które nadają kierunek nawałnicom Burzowego Całunu. Wpraw oręż w wirowanie, wywołując dookoła siebie burzę. Kolejne naciśnięcia pozwalają wyprowadzić następne dwa ataki.</text>
+<text id="124">Umiejętność: Taniec miecza
+
+Zbliż się szybko, aby wykonać serię cięć z obrotu w górę.
+Następnie ponownie naciśnij przycisk, aby zakończyć cięciem w dół.</text>
+<text id="125">Umiejętność: Wirujący łańcuch
+
+Szybki wirujący atak za pomocą korbacza. Zwykłe i silne ataki łączą impet tej umiejętności w serie ataków.</text>
+<text id="200">Umiejętność: Falanga błyskostrza
+
+Umiejętność stosowana przez zaklętych rycerzy służących karyjskiej rodzinie królewskiej. Utwórz nad sobą łuk magicznych błyskostrzy, które będą automatycznie atakować wrogów. Następnie wykonaj silny atak, by przejść do wypadu z pchnięciem.</text>
+<text id="201">Umiejętność: Święte ostrze
+
+Nadaje atakom esencję świętości i wystrzeliwuje złoty pocisk.
+Oręż na pewien czas zachowuje esencję świętości.</text>
+<text id="202">Umiejętność: Lodowa włócznia
+
+Umiejętność wojowników, którzy służyli Księżycowej Księżniczce Ranni.
+Wykonaj młynek bronią, by użyć mocy zimna, a następnie utwórz z niej przebijającą lodową włócznię.</text>
+<text id="203">Umiejętność: Błyskamienny pocisk
+
+Umiejętność korzystająca z magii błyskamieni o tej samej nazwie.
+Wykonaj silny atak po użyciu, by wyprowadzić ostateczne pchnięcie wykonywane, gdy oręż nadal posiada moc błyskamieni.</text>
+<text id="204">Umiejętność: Krwawe cięcie
+
+Umiejętność przysięgi krwi przekazywana przez Pana Krwi.
+Z niskiej postawy zanurz ostrze we własnej krwi, by wykonać szerokie, rozdzierające krwawe cięcie.</text>
+<text id="205">Umiejętność: Pięść kradzieży życia
+
+Umiejętność pokazująca mistrzostwo sztuki kontroli energii życiowej.
+Powolny, kontrolowany cios pięścią naładowaną energią, który pozbawia wrogów przytomności i odbiera im PŻ. Działa tylko na humanoidalnych przeciwników.</text>
+<text id="206">%null%</text>
+<text id="207">Umiejętność: Erupcja
+
+Umiejętność rycerzy służących w Wulkanicznym Dworze.
+Uderz bronią w ziemię, by stworzyć źródło lawy, która wystrzeli po uwolnieniu.</text>
+<text id="208">Umiejętność: Modlitewne uderzenie
+
+Unieś oręż podczas modlitwy, a następnie uderz nim w ziemię.
+Jeśli ten natchniony cios okaże się celny, przywróci PŻ tobie i pobliskim sojusznikom.</text>
+<text id="209">Umiejętność: Gravitas
+
+Umiejętność pochodząca od alabastrowych władców, którzy mieli kamienną skórę.
+Wbij oręż w ziemię, by stworzyć studnię grawitacyjną.
+Poza zadaniem obrażeń ten atak przyciąga wrogów.</text>
+<text id="210">Umiejętność: Burzowe ostrze
+
+Zapomniana umiejętność z Burzowego Całunu.
+Spowij broń potężnymi wichrami burzowymi, które możesz cisnąć przed siebie.
+Można wystrzelić kilka pocisków w krótkim czasie.</text>
+<text id="211">%null%</text>
+<text id="212">Umiejętność: Trzęsienie ziemi
+
+Wbij oręż w ziemię, po czym zbierz siłę, by
+wywołać potężną falę uderzeniową. Następnie
+wykonaj silny atak, by wyprowadzić zamaszyste
+cięcie.</text>
+<text id="213">Umiejętność: Złota kraina
+
+Wbij oręż w ziemię, a potem zbierz siłę, by wywołać wybuch świętej energii, która przemienia się w złote strzałki. Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie.</text>
+<text id="214">Umiejętność: Płonące uderzenie
+
+Umiejętność tworząca ognisty łuk skierowany na wprost.
+Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie z wypadem.
+Ponadto oręż zostanie spowity ogniem.</text>
+<text id="215">%null%</text>
+<text id="216">Umiejętność: Grom
+
+Umiejętność kultu starożytnych smoków ze stolicy.
+Unieś oręż, by przyzwać błyskawicę.
+Można wystrzeliwać błyskawice jedną po drugiej.</text>
+<text id="217">Umiejętność: Cięcie błyskawicy
+
+Przyzwij do swojej broni błyskawicę, następnie tnij w dół, by wywołać falę uderzeniową.
+Oręż na pewien czas zachowa moc błyskawic.</text>
+<text id="218">Umiejętność: Karyjski majestat
+
+Karyjski majestat królewski przekuty w umiejętność.
+Zamień ostrze w magiczny wielki miecz i uderz nim w dół.
+Tę umiejętność można naładować, by zwiększyć jej siłę maksymalnie o dwa poziomy.</text>
+<text id="219">Umiejętność: Karyjski wielki miecz
+
+Karyjski majestat królewski przekuty w umiejętność.
+Zamień ostrze w magiczny wielki miecz i uderz nim w dół.
+Tę umiejętność można naładować, by zwiększyć jej siłę.</text>
+<text id="220">Umiejętność: Cięcie próżni
+
+Utracona umiejętność dawnych bohaterów.
+Unieś oręż, by otoczyła go próżnia, a następnie uderz nim w przód, ciskając pociskiem w kształcie ostrza.</text>
+<text id="221">Umiejętność: Tornado czarnego płomienia
+
+Zakręć orężem nad głową i uderz nim w ziemię, by wywołać potężny wir czarnych płomieni.
+Przytrzymaj, by stworzyć niewielkie płomienne tornado podczas wirowania oręża.</text>
+<text id="222">Umiejętność: Święty krąg światła
+
+Umiejętność dowódców rycerzy czystej zgnilizny. Zgromadź święty krąg światła w orężu i wystrzel przed siebie.
+Możesz wystrzelić wiele kręgów światła jeden po drugim.</text>
+<text id="223">Umiejętność: Ognisty podmuch
+
+Dmuchnij w płomień pochodni, by rozpylić płomienie na wprost. Ogień na ziemi będzie płonął przez krótki czas.</text>
+<text id="224">Umiejętność: Krwawe ostrze
+
+Zrań siebie, by pokryć oręż krwią. Następnie wypuść latające krwawe ostrze, które wywołuje krwawienie.
+Możesz wystrzelić wiele krwawych ostrzy, jedno po drugim.</text>
+<text id="225">Umiejętność: Widmowe cięcie
+
+Umiejętność stworzona na cześć Nocnej Kawalerii. Tworzy zjawę dawnego instruktora rycerzy, który wyprowadza wspólny wypad z cięciem w górę. Kolejne naciśnięcie pozwala zaatakować ponownie.</text>
+<text id="226">Umiejętność: Widmowa lanca
+
+Umiejętność bezgłowych rycerzy mauzoleum.
+Rzuć we wrogów niematerialną włócznię.</text>
+<text id="227">Umiejętność: Chłodna mgła
+
+Pokryj oręż szronem, po czym wykonaj cięcie, by rozpylić na wprost lodowatą mgłę.
+Oręż na pewien czas zachowa moc zimna.</text>
+<text id="228">Umiejętność: Trująca mgła
+
+Pokryj oręż trucizną, a następnie wykonaj cięcie, by rozpylić na wprost trującą mgłę.
+Oręż na pewien czas zachowa moc trucizny.</text>
+<text id="300">Umiejętność: Cios tarczą
+
+Stań za tarczą i wykorzystaj masę swego ciała, by taranować wrogów, nadal trzymając gardę.
+Słabsi wrogowie zostaną odepchnięci, mogą nawet stracić równowagę.</text>
+<text id="301">Umiejętność: Barykada z tarczy
+
+Umiejętność rozsławiona przez sir Neidhardta.
+Skup energię w tarczy, tymczasowo ją wzmacniając, by odeprzeć potężniejsze ciosy.</text>
+<text id="302">Umiejętność: Odbicie
+
+Użyj tej umiejętności w chwili wrogiego ataku wręcz, by go odbić 
+i przełamać postawę przeciwnika.
+Da ci to okazję do zadania trafienia krytycznego.</text>
+<text id="303">Umiejętność: Odbicie puklerzem
+
+Użyj tej umiejętności w chwili wrogiego ataku wręcz, aby go odbić i przełamać postawę przeciwnika.
+Szybsze niż zwykłe odbicie.</text>
+<text id="304">Umiejętność: Odbicie
+
+Użyj tej umiejętności w chwili wrogiego ataku wręcz, by go odbić i przełamać postawę przeciwnika.
+Da ci to okazję do zadania trafienia krytycznego.</text>
+<text id="305">Umiejętność: Karyjski odwet
+
+Machnij tarczą, by rozproszyć czary i inkantacje, przekształcając magię w odwetowe błyskostrza.
+Można także użyć do zwykłego odbicia ataku.</text>
+<text id="306">Umiejętność: Burzowa ściana
+
+Machnij tarczą, by stworzyć przed sobą ścianę burzowych wichrów, odbijającą strzały i inne fizyczne pociski.
+Można także użyć do zwykłego odbicia ataku.</text>
+<text id="307">Umiejętność: Złote parowanie
+
+Wykonaj inkantację Złotego Drzewa, po czym machnij tarczą, aby odbić ataki wroga i przełamać jego postawę.
+Działa nawet z niewielkiej odległości.</text>
+<text id="308">Umiejętność: Szarża z tarczą
+
+Weź tarczę w dwie ręce i zaszarżuj, cały czas się osłaniając. Słabsi wrogowie zostaną odepchnięci do tyłu, a nawet mogą się zachwiać.
+Przytrzymaj, aby wydłużyć czas trwania szarży.</text>
+<text id="309">Umiejętność: Bariera Thopsa
+
+Stwórz magiczne pole siłowe, wymachując tarczą, by odbijać czary i inkantacje.
+Można także użyć do zwykłego odbicia ataku.</text>
+<text id="400">Umiejętność: Na wylot
+
+Potężna umiejętność łucznicza, wykorzystująca wielki łuk trzymany w pozycji pochylonej.
+Przygotuj wielki łuk, a następnie skręć cięciwę, by wystrzelić potężną strzałę, która może przebić się przez wrogów.</text>
+<text id="401">Umiejętność: Grad
+
+Umiejętność łucznicza wykorzystująca łuk trzymany poziomo.
+Przygotuj łuk, a następnie oddaj serię strzałów tak szybkich, że oko nie będzie w stanie ich dostrzec.</text>
+<text id="402">Umiejętność: Potężny strzał
+
+Umiejętność łucznicza wykonywana z postawy pochylonej.
+Przygotuj łuk, a następnie naciągnij cięciwę do oporu, by zwiększyć siłę strzału i przebić wrogą zasłonę.</text>
+<text id="403">%null%</text>
+<text id="404">Umiejętność: Zaklęty strzał
+
+Umiejętność łucznicza ożywiająca strzałę duchową esencją.
+W rezultacie strzała poleci szybciej niż zwykłe i zmieni trajektorię, aby podążać za celem.</text>
+<text id="405">Umiejętność: Strzał w niebo
+
+Umiejętność łucznicza wykonywana z postawy niskiej.
+Przygotuj łuk, a następnie wypuść wysoko w powietrze strzałę, która spadnie na wroga.</text>
+<text id="406">Umiejętność: Deszcz strzał
+
+Umiejętność łucznicza wykonywana z postawy niskiej.
+Przygotuj łuk, a następnie wypuść w niebo serię strzał, by zasypać wroga pociskami.</text>
+<text id="407">%null%</text>
+<text id="501">Umiejętność: Szronowe stąpnięcie
+
+Tupnij mocno, by po ziemi przetoczyła się fala mroźnej mgły. 
+Wywołuje ona efekt odmrożenia.</text>
+<text id="502">Umiejętność: Burzowe stąpnięcie
+
+Jedna z umiejętności, które nadają kierunek nawałnicom Burzowego Całunu.
+Tupnij mocno, by wywołać krótkotrwałą burzę.</text>
+<text id="503">Umiejętność: Kopnięcie
+
+Odepchnij wroga wysokim kopnięciem.
+Skuteczne przeciwko zasłaniającym się wrogom, może przełamać postawę przeciwnika.
+Czasami najprostsze narzędzie jest najskuteczniejsze.</text>
+<text id="504">Umiejętność: Taran błyskawicy
+
+Umiejętność inspirowana trykaniem baranów.
+Wydaj z siebie beczenie, by spowiły cię błyskawice.
+Uderzenia można wykonywać jedno po drugim.</text>
+<text id="505">Umiejętność: Płomień Lwiej Grzywy
+
+Umiejętność Lwich Grzyw, które walczyły u boku generała Radahna.
+Wywołaj potężny ognisty wybuch na wprost od siebie.</text>
+<text id="506">Umiejętności: Rzucenie na ziemię
+
+Skocz wysoko w powietrze i spadnij z impetem.
+Spektakularna wywrotka wysyła we wszystkie strony potężną falę uderzeniową.</text>
+<text id="507">Umiejętności: Złoty rzut
+
+Umiejętność awatarów broniących pomniejszych Złotych drzew.
+Skocz wysoko w powietrze i z impetem spadnij na ziemię.
+Spektakularna wywrotka wysyła we wszystkie strony złote fale uderzeniowe.</text>
+<text id="508">Umiejętność: Fale ciemności
+
+Wbij oręż w ziemię, aby wywołać trzy fale ciemności.
+Następnie wykonaj silny atak, by wyprowadzić zamaszyste cięcie.</text>
+<text id="509">Umiejętność: Tąpnięcie Hoarah Louxa
+
+Uderz obiema rękami w ziemię, by wywołać silny wstrząs i falę uderzeniową.
+Naciśnij ponownie, by uderzyć w ziemię po raz drugi.</text>
+<text id="600">Umiejętność: Gorliwość
+
+Rycerska umiejętność.
+Przytrzymaj oręż przed twarzą i złóż przysięgę, co wzmocni twój następny atak.</text>
+<text id="601">Umiejętność: Rycerski hart
+
+Umiejętność rycerzy, którzy niegdyś służyli Eldeńskiemu Władcy.
+Przytrzymaj oręż przed twarzą i złóż przysięgę, co znacznie wzmocni twój następny atak.</text>
+<text id="602">Umiejętność: Gambit zabójcy
+
+Umiejętność maskująca obecność użytkownika kosztem zadania mu rany.
+Używający staje się prawie niewidzialny i stąpa bezszelestnie.</text>
+<text id="603">Umiejętność: Złota przysięga
+
+Umiejętność od dawien dawna przekazywana wśród stołecznych rycerzy. Unieś oręż i przysięgnij, że oddasz w boju cześć Złotemu Drzewu. Tak dasz sobie i pobliskim sojusznikom większą siłę ataku i obrony.</text>
+<text id="604">Umiejętność: Święty Porządek
+
+Umiejętność fundamentalistycznych rycerzy Złotego Porządku.
+Wykonaj salut i nasyć oręż esencją świętości.
+To umiejętność bardzo skuteczna przeciwko tym, którzy żyją w śmierci.</text>
+<text id="605">Umiejętność: Wspólny Porządek
+
+Umiejętność fundamentalistycznych rycerzy Złotego Porządku.
+Poświęć oręż swój i pobliskich sojuszników, by ataki zyskały esencję świętości.
+To umiejętność bardzo skuteczna przeciwko tym, którzy żyją w śmierci.</text>
+<text id="606">Umiejętność: Seppuku
+
+Zabroniona technika zabójców z Krainy Trzcin. Wbij ostrze w swój brzuch, aby splamić je krwią. Zwiększa siłę ataku oraz skuteczność efektów krwawienia.</text>
+<text id="607">Umiejętność: Wyszczerbione ostrze
+
+Umiejętność manipulowania grawitacją. Zakop broń
+w ziemi, wyciągając z niej kamienie dla wzmocnienia oręża. Zwiększa siłę ataku i ułatwia przełamanie postawy wroga.</text>
+<text id="650">Umiejętność: Barbarzyński ryk
+
+Wydaj z siebie zwierzęcy ryk, aby podnieść się na duchu 
+i zwiększyć siłę ataków.
+Kiedy jest aktywny, silne ataki zmieniają się w dzikie serie.</text>
+<text id="651">Umiejętność: Okrzyk bojowy
+
+Wydaj z siebie okrzyk bojowy, aby podnieść się na duchu i zwiększyć siłę ataku.
+Kiedy jest aktywny, silne ataki zmieniają się w szarżę.</text>
+<text id="652">Umiejętność: Ryk bestii
+
+Wydaj z siebie ryk bestii, który zamieni powietrze w gnający pocisk.</text>
+<text id="653">Umiejętność: Ryk trolla
+
+Spójrz w dal i wydaj intensywny ryk, generując potężną falę uderzeniową, która odrzuci otaczających cię wrogów.
+Następnie wykonaj silny atak, aby uderzyć orężem w dół.</text>
+<text id="654">Umiejętność: Ryk samochwały
+
+Ogłoś swoją obecność chełpliwym rykiem. Zwiększa siłę
+ataku, obronę i szybkość regeneracji energii.</text>
+<text id="700">Umiejętność: Wytrwałość
+
+Przyjmij niezłomną postawę, by przygotować się na nadchodzące ataki, na krótko zwiększając równowagę.
+Gdy używasz tej umiejętności, odnosisz mniejsze obrażenia.</text>
+<text id="701">Umiejętność: Przysięga niezłomnych
+
+Umiejętność starożytnych wojowników Złotego Drzewa.
+Unieś tarczę, aby nasycić się złotą mocą,
+zapewniając sobie chwilową niezwyciężoność.</text>
+<text id="702">Umiejętność: Uświęcona ziemia
+
+Podnieś tarczę, by stworzyć świętą ziemię Złotego Drzewa, która nieprzerwanie przywraca PŻ i zwiększa obronę tobie i sojusznikom znajdującym się na jej obszarze.</text>
+<text id="800">Umiejętność: Szybki odskok
+
+Umiejętność ceniona przez szybkonogich szachrajów.
+Wykonaj szybki uskok, który pozwala na okrążanie namierzonych celów.</text>
+<text id="801">Umiejętność: Krok wasalnego rycerza
+
+Umiejętność dająca użytkownikowi chwilową niewidzialność podczas szybkich uników. Pozwala poruszać się szybciej i dalej niż zwykły odskok.
+Dzięki tej umiejętności można krążyć wokół namierzonych celów.</text>
+<text id="802">Umiejętność: Drapieżnik z mgieł
+
+Zejdź do niskiej postawy, by na chwilę zniknąć.
+Jeśli wrogi atak trafi, ptasie skrzydła pozwolą ci szybko wzbić się w powietrze.</text>
+<text id="850">Umiejętność: Przynęta białego cienia
+
+Przytrzymaj oręż w czasie szybkiej modlitwy, by stworzyć biały cień.
+Zjawa wabi humanoidalnych wrogów, którzy nie biorą udziału w walce, i ściąga na siebie ich agresję. Działa też na półludzi, nawet jeśli już walczą.</text>
+<text id="1000">Unikalna umiejętność: Przypływ wiary
+
+Rozpala ogień wiary Biraca w czaszkowym naczyniu. Potem unosi go, by wysłać kule ognia we wszystkich kierunkach.
+Wielokrotne naciśnięcia będą dalej unosić tę broń i kontynuować atak.</text>
+<text id="1001">Unikalna umiejętność: Ogniste splunięcie
+
+Po przygotowaniu tarczy wystrzeliwuje kulę ognia z lufy.
+Kula ognia wybuchnie przy uderzeniu.</text>
+<text id="1002">Unikalna umiejętność: Języki ognia
+
+Po przygotowaniu tarczy rozpyla potężne strugi ognia z jęzorów wyłaniających się z jej paszczy.
+Przytrzymaj, by kontynuować rozpylanie ognia. Tej umiejętności można używać podczas chodzenia.</text>
+<text id="1003">Unikalna umiejętność: Bańka proroctwa
+
+Zadmij w róg, by uwolnić magiczną bańkę.
+Bańka pomału unosi się w powietrzu i zmierza do celu.</text>
+<text id="1004">Unikalna umiejętność: Deszcz baniek
+
+Zadmij w róg, by wypuścić magiczne bańki.
+Bańki pomału unoszą się w powietrzu i spadają na cel.</text>
+<text id="1005">Unikalna umiejętność: Wielka bańka proroctwa
+
+Zadmij w róg, by uwolnić potężną magiczną bańkę.
+Bańka pomału unosi się w powietrzu i zmierza do celu.</text>
+<text id="1006">Unikalna umiejętność: Morze magmy
+
+Zamachnij się płynnym biczem nad głową, by na jakiś czas pokryć okolicę morzem magmy.
+Przytrzymaj przycisk, by dalej wymachiwać biczem lawy.</text>
+<text id="1007">Unikalna umiejętność: Ukąszenie żmii
+
+Szybko potrząśnij tarczą, by na jakiś czas obudzić do życia brązową żmiję, która rzuci się na wrogów i pokąsa ich.</text>
+<text id="1008">Unikalna umiejętność: Wielki miecz światła księżyca
+
+Unieś miecz, by skąpał się w świetle mrocznego księżyca.
+Czasowo zwiększa moc magicznego ataku i daje ostrzu moc mrozu.
+Ładowane ataki uwalniają wybuchy światła księżyca.</text>
+<text id="1009">Unikalna umiejętność: Niedola Silurii
+
+Wpraw broń w spiralny ruch, by otoczyć ją wirującym wiatrem.
+Ładowane ataki mają siłę pozwalającą odepchnąć wrogów i cisnąć tornado do przodu.</text>
+<text id="1010">Unikalna umiejętność: Sztandar bojowy
+
+Unieś sztandar bojowy i wydaj rozkaz zbiórki.
+Zwiększa siłę ataku i obronę postaci i jej pobliskich sojuszników.</text>
+<text id="1011">Unikalna umiejętność: Patrzcie na mnie!
+
+Daj małej smoczej głowie ulotną iskrę życia i ciśnij nią w górę, rozsiewając płomienie szeroko przed sobą.</text>
+<text id="1012">Unikalna umiejętność: Tańcząca klinga Eochaid
+
+Napełnij miecz energią i skieruj go na wprost, wykonując spiralny atak. Podczas gwałtownego wirowania miecz nadal zadaje obrażenia.
+Naładuj atak, by zwiększyć zasięg i czas trwania młyńca.</text>
+<text id="1013">Unikalna umiejętność: Dusiciel dusz
+
+Unieś skrzydlate wielkie rogi, by przyzwać miazmat wysysający dusze.
+Wrogowie na wybranym obszarze będą mieli przez pewien czas zmniejszoną obronę.</text>
+<text id="1014">Unikalna umiejętność: Płomienie straty
+
+Unieś święty miecz, by spowiły go bluźniercze płomienie, a potem go opuść i wyzwól skierowany do przodu wybuch.
+Płomienie ukradną PŻ wrogom, których dotkną.</text>
+<text id="1015">Umiejętność: Wrzask Milosa
+
+Rzucający wydaje z siebie przerażający przeklęty skowyt, który obniża negację obrażeń oraz odporność na statusy wrogów znajdujących się w pobliżu.
+Gdy jest aktywny, silne ataki zmieniają się w serię ataków.</text>
+<text id="1016">Unikalna umiejętność: Krwawe ostrze Reduvia
+
+Zadaj cięcie tym nikczemnym sztyletem, by jego niewysychające krople krwi przemieniły się w latające ostrza, które wywołają krwawienia.
+Można je wystrzeliwać w krótkich odstępach czasu.</text>
+<text id="1017">Unikalna umiejętność: Błyskamienna strzałka
+
+Umiejętność pochodząca od czaru błyskamiennego pocisku.
+Naładuj umiejętność, by ulepszyć go do błyskamiennej strzałki.
+Następnie wykonaj silny atak, by połączyć tę umiejętność 
+z pchnięciem z wypadu.</text>
+<text id="1018">Unikalna umiejętność: Płynna forma
+
+Tymczasowo nadaje płynną postać orężowi.
+Wymachuj tą bronią jak biczem, by zamaszyście uderzać na dużym obszarze.</text>
+<text id="1019">Unikalna umiejętność: Postawa nocy i ognia
+
+Trzymaj miecz w poziomie i przygotuj się do użycia magii.
+Następnie wykonaj zwykły atak, by rzucić nocną kometę, albo wyprowadź silny atak, by zamieść płomieniami do przodu.</text>
+<text id="1020">Unikalna umiejętność: Fala złota
+
+Napełnij miecz minioną złotą chwałą, a następnie wystrzel ją we wrogów.
+Szeroka złota fala rozejdzie się na wprost i porwie wszystkich wrogów, którzy znajdą się na jej drodze.</text>
+<text id="1021">Unikalna umiejętność: Niszczycielski ogień duchów
+
+Zamachnij się mieczem, by zanurzyć go w ogniu duchów.
+Ogień duchów sprawia, że ataki zadają obrażenia magiczne, jest też niesamowicie zimny.</text>
+<text id="1022">Unikalna umiejętność: Zaprowadzenie porządku
+
+Unieś broń do salutu, by uwolnić złoty wybuch.
+Wielokrotne naciśnięcie spowoduje wystrzelenie fal złotego światła.</text>
+<text id="1023">Unikalna umiejętność: Mgły snu
+
+Uwalnia bladą fioletową mgłę, która pokryje duży obszar na wprost ciebie.
+Ta mgła wywołuje u wrogów senność.</text>
+<text id="1024">Unikalna umiejętność: Rytuał przywołania włóczni
+
+Unieś włócznię wysoko, by zawiodła twoje modlitwy do nieba i przyzwała grad widmowych włóczni.</text>
+<text id="1025">Unikalna umiejętność: Wilczy atak
+
+Napełnij wielki miecz mocą mrozu, po czym przeturlaj się w przód, by wbić go w ziemię. Następnie wyciągnij broń, aby uwolnić wybuch zimna.</text>
+<text id="1026">Unikalna umiejętność: Forma chmury burzowej
+
+Tymczasowo zmień się w czerwoną chmurę burzową i unieś w powietrze. Następnie spadnij na wroga z klingą spowitą błyskawicami.
+Przytrzymaj, żeby zwiększyć zasięg chmury burzowej.</text>
+<text id="1027">Unikalna umiejętność: Cięcie krwi przeklętej
+
+Przygotuj się i zaszarżuj, by wykonać ukośne cięcie w dół.
+Za krwawym śladem tej klingi podąża ognista eksplozja.
+Wielokrotne naciskanie umożliwia kolejne ataki.</text>
+<text id="1028">Unikalna umiejętność: Taniec ptaka wodnego
+
+Zrób serię skoków na jednej nodze niczym ptak wodny, by wykonać szybką serię dystyngowanych cięć.
+Wielokrotne naciśnięcie umożliwia wykonanie jednego lub dwóch dodatkowych ataków.</text>
+<text id="1029">Unikalna umiejętność: Niszczyciel złota
+
+Skocz wysoko w górę, a gdy zawiśniesz w powietrzu, natchnij odłamek runu światłem, po czym uderz nim mocno o ziemię.
+Słynny atak bohaterskiego Radagona.</text>
+<text id="1030">Unikalna umiejętność: Nakazuję ci, uklęknij!
+
+Wielokrotnie uderz toporem Godricka w ziemię, uwalniając dwie fale uderzeniowe.
+Potem naciśnij przycisk ponownie, by wywołać trzecią falę.</text>
+<text id="1031">Umiejętność: Królewskie stąpnięcie
+
+Wydaj z siebie potężny ryk, zwiększający siłę ataku, podczas wysyłania fali uderzeniowej, przed którą nie można się zasłonić. Kiedy jest aktywny, silne ataki stają się cięciem z doskoku.</text>
+<text id="1032">Unikalna umiejętność: Krzyk do gwiazd
+
+Zetknij dwa miecze i krzyknij ku niebu, by przyciągnąć wrogów falą grawitacyjną.
+Następnie naciśnij przycisk ponownie, by uderzyć mieczami naładowanymi energią grawitacji.</text>
+<text id="1033">Unikalna umiejętność: Fala zniszczenia
+
+Unieś miecz wysoko, następnie uderz w ziemię, by uwolnić falę siły grawitacyjnej.</text>
+<text id="1034">Unikalna umiejętność: Rytuał daru krwi
+
+Unieś świętą włócznię i przebij ciało Bezkształtnej Matki. Dźgnij do trzech razy, by każdym ciosem wywołać krwawe wybuchy.
+Ta umiejętność na pewien czas pokryje broń krwawym płomieniem.</text>
+<text id="1035">Unikalna umiejętność: Płynna forma
+
+Tymczasowo nadaje płynną postać orężowi. Wymachuj tą bronią jak biczem, by uderzać dookoła, a na koniec zadać cios z góry jej zakończeniem w kształcie łzy.</text>
+<text id="1036">Unikalna umiejętność: Ostrze śmierci
+
+Uwolnij moc Runu Śmierci, by strzelić pociskiem przypominającym ostrze.
+Poza zadaniem obrażeń ostrze to zmniejsza maksymalne PŻ wroga i przez chwilę dalej odbiera mu PŻ.</text>
+<text id="1037">Unikalna umiejętność: Złota klinga
+
+Skocz w powietrze, ładując broń złotymi płomieniami, które zostaną wystrzelone we wroga w jednym pocisku w kształcie ostrza.
+Zadaje święte obrażenia.</text>
+<text id="1038">Unikalna umiejętność: Przeznaczona Śmierć
+
+Uwolnij pozostałości Przeznaczonej Śmierci, wbijając wielki miecz w ziemię, by przyzwać niezliczone ostrza. Poza zadaniem obrażeń ten atak zmniejsza maksymalne PŻ wroga i przez krótki czas dalej odbiera mu PŻ.</text>
+<text id="1039">Unikalna umiejętność: Wirujące koło
+
+Uderz kołem w ziemię, by wprawić je w najszybsze obroty. Przytrzymaj, aby koło nie przestawało się obracać. Można używać w czasie chodzenia, by wbijać ten oręż we wrogów.</text>
+<text id="1040">Unikalna umiejętność: Przyciąganie alabastrowego władcy
+
+Wbij oręż w ziemię, by stworzyć studnię grawitacyjną. Poza zadaniem obrażeń ten atak przyciąga wrogów.
+Ma większy obszar działania niż gravitas.</text>
+<text id="1041">Unikalna umiejętność: Odpychanie onyksowego władcy
+
+Wbij oręż w ziemię, by stworzyć studnię grawitacyjną. Poza zadaniem obrażeń ten atak odrzuca wrogów.</text>
+<text id="1042">Unikalna umiejętność: Przysięga zemsty
+
+Przysięgnij na wielki miecz, że pomścisz klan. Podniesie to wszystkie cechy na określony czas. Dopóki działają efekty przysięgi, masz też większą równowagę.</text>
+<text id="1043">Unikalna umiejętność: Miecz lodowej błyskawicy
+
+Przyzwij lodową błyskawicę, która wejdzie w ostrze, i wyślij ją na wroga. Efekt lodowej błyskawicy utrzymuje się przez chwilę.</text>
+<text id="1044">Unikalna umiejętność: Królewski szpon bestii
+
+Uderz młotem w ziemię, wywołując jej drżenie za pomocą pięciu zwierzęcych szponów tego oręża.</text>
+<text id="1045">Unikalna umiejętność: Taniec płomienia
+
+Napełnij czerwony warkocz płomieniem olbrzymów i wykonaj kilka szybkich zamachnięć o dużym zasięgu.</text>
+<text id="1046">Unikalna umiejętność: Smagnięcie pazurem
+
+Spraw, że palec napuchnie, a następnie zegnij go, by zwiększyć siłę, zanim smagniesz wroga.</text>
+<text id="1047">Unikalna umiejętność: Mgławica
+
+Napełnij gwiazdy Zrodzonego magią, by wykonać zamaszyste cięcie.
+Ten atak zostawia za sobą chmurę ciemnych gwiazd, która wisi przez chwilę, a potem wybucha.</text>
+<text id="1048">Unikalna umiejętność: Rozpalenie ognia duchów
+
+Wykonaj pchnięcie kolczastą pałką i podpal ją ogniem duchów.
+Następnie wykonaj zwykły atak, by podpalić ziemię ogniem duchów, albo silny atak, aby spowodować potężny wybuch.</text>
+<text id="1049">Unikalna umiejętność: Starożytna włócznia błyskawic
+
+Napełnij oręż czerwoną błyskawicą starożytnych smoków, a następnie rzuć włócznią.
+Można ją naładować, by zwiększyć jej siłę.</text>
+<text id="1050">Unikalna umiejętność: Pchnięcie oszalałego płomienia
+
+Napełnij włócznię płomieniem szału i skocz naprzód, lądując na ziemi i wywołując potężny wybuch.
+Ta umiejętność powoduje szaleństwo u wroga i użytkownika.</text>
+<text id="1051">Unikalna umiejętność: Krąg światła Miquelli
+
+Przywołaj lśniącą aureolę Miquelli i wystrzel ją do przodu.
+Możesz oddawać szybkie strzały.</text>
+<text id="1052">Unikalna umiejętność: Złote hartowanie
+
+Skrzyżuj dwa miecze, by nadać atakom esencję świętości.
+Gdy działa, silny atak jest serią ataków dwoma broniami.</text>
+<text id="1053">Unikalna umiejętność: Ostatnie namaszczenie
+
+Wznieś epitafium, by dać sobie i pobliskim sojusznikom efekt Świętego Porządku.
+Szczególnie skutecznie posyła na spoczynek żyjących w śmierci.</text>
+<text id="1054">Unikalna umiejętność: Niepowstrzymane ostrze
+
+Napełnij szyfrowe ostrze światłem, by je wydłużyć, po czym wykonaj nagły zamaszysty atak.
+Nie można go zablokować.</text>
+<text id="1055">Unikalna umiejętność: Tańcząca klinga Eochaid
+
+Napełnij miecz energią i skieruj go na wprost, wykonując spiralny atak. Podczas gwałtownego wirowania miecz nadal zadaje obrażenia.
+Naładuj atak, by zwiększyć zasięg i czas trwania młyńca.</text>
+<text id="1167">Unikalna umiejętność: Ostrze trupiego wosku
+
+Zapomniana umiejętność pradawnych herosów.
+Unieś miecz wysoko, by uwolnić moc trupiego wosku i wystrzelić ją w postaci pocisku przypominającego ostrze.
+</text>
+<text id="1168">Unikalna umiejętność: Burza lodowa z Zamor
+
+Wbij zakrzywiony miecz w ziemię, by zgromadzić moc, a następnie wywołać mroźną burzę, która przetoczy się przez okolicę.</text>
+<text id="1169">Unikalna umiejętność: Deszcz Radahna
+
+Umiejętność łucznicza używana w niskiej postawie.
+Przygotuj łuk i błyskawicznie wystrzel w niebo rój strzał, które spadną na wrogów niczym deszcz.</text>
+<text id="1170">Umiejętność: Czarny ogień królowej
+
+Podpal klingę czarnym płomieniem zabijającym bogów,
+a następnie wykonaj zamaszyste cięcie. Naciśnij
+przycisk ponownie, by wykonać kolejne ataki.
+Czarne płomienie będą przez krótki czas odbierać PŻ.</text>
+<text id="1171">Unikalna umiejętność: Finezja dynasty
+
+Zwinnie uniknij ataku i zwiększ odległość od wroga. Następnie wykonaj silny atak, by niespodziewanie skoczyć do przodu, następnie ponownie użyj silnego ataku, by wykonać zamaszyste cięcie.</text>
+<text id="1172">Unikalna umiejętność: Magmowy deszcz
+
+Tnij wrogów, wirując w ruchu i rozrzucając magmę.
+Ponowne naciśnięcie pozwala wykonać kolejny atak.</text>
+<text id="1173">Unikalna umiejętność: Mgławica
+
+Napełnij skrzydła Zrodzonego magią, by wypuścić chmurę ciemnych gwiazd, która wisi przez chwilę, a potem wybucha.</text>
+<text id="1174">Unikalna umiejętność: Błysk śmierci
+
+Użyj płomieni Księcia Śmierci, by zapalić pozbawione blasku słońce, które nałoży na wrogów efekty śmierci.
+Naciśnij przycisk ponownie, by uderzyć orężem i wywołać wybuch.</text>
+<text id="1175">Unikalna umiejętność: Finezja wasalnego rycerza
+
+Tnij w górę kłem wasalnego rycerza, wykorzystując impet uderzenia, by wykonać przewrót w tył i oddalić się od wrogów. Następnie wyprowadź silny atak, by wykonać atak wasalnego rycerza z wykrokiem.</text>
+<text id="1176">Unikalna umiejętność: Magmowa gilotyna
+
+Chwyć łuskowy miecz w obie ręce, jakby żmij złapał go w paszczę, i skocz naprzód, wbijając broń w ziemię, by wywołać wybuch magmy. Naciśnij przycisk ponownie, by zadać kolejny cios z góry.</text>
+<text id="1177">Unikalna umiejętność: Układacz zwłok
+
+Tworzy ostrze z przeklętej krwi, umożliwiające wyprowadzanie serii ataków. Naciśnij przycisk ponownie, by zadać jeszcze więcej ciosów. </text>
+<text id="1178">Unikalna umiejętność: Przemijające światło księżyca
+
+Schowaj broń i trzymaj ją przy biodrze w wyważonej postawie.
+Potem wyprowadź zwykły lub silny atak, by szybko dobyć klingi i zadać błyskawiczne cięcie. Oba ataki uwalniają falę światła.</text>
+<text id="1179">Unikalna umiejętność: Taniec krwawego ostrza
+
+Skocz na wroga, by wyprowadzić grad ciosów jak tornado.
+Naciśnij przycisk ponownie, by wykonać atak zakończony unikiem.</text>
+<text id="1180">%null%</text>
+<text id="1181">Umiejętność: Ukryte ostrze Miquelli
+
+Przywołuje ostrze pobłogosławione ochroną Miquelli i wykonuje cios zadający duże obrażenia tym, którzy żyją w śmierci.</text>
+<text id="1182">Unikalna umiejętność: Wiedza nade wszystko
+
+Unieś berło, by odsłonić królestwo Wszechwiedzącego. Negacja obrażeń magicznych i świętych będzie ograniczona na tym obszarze, również dla rzucającego.</text>
+<text id="1183">Unikalna umiejętność: Pożeracz światów
+
+Naładuj berło magią i uderz nim w ziemię, by skraść PŻ wszystkim pobliskim wrogom.</text>
+<text id="1184">Unikalna umiejętność: Rodzinne animozje
+
+Delikatnie potrząśnij miedzianymi głowami, by przyzwać duchy zemsty, które rzucą się na wrogów.
+Udręka małżonki i dzieci przyciąga przeklęty gniew.</text>
+<text id="1185">Unikalna umiejętność: Przyzwanie Rosusa
+
+Unieś ten topór, by wezwać zagubionych w śmierci.
+W pewnej odległości pojawią się trzy szkielety i zaatakują wroga, nim znikną.</text>
+<text id="1186">Unikalna umiejętność: Burza z piorunami
+
+Napełnij skrzydlate ostrze tej broni błyskawicami i wymachuj nim dookoła, by wywołać potężną burzę z piorunami. Naciśnij przycisk ponownie, by wykonać jeden lub dwa dalsze wirujące ataki.
+Ostrze będzie przez chwilę spowite błyskawicami.</text>
+<text id="1187">Unikalna umiejętność: Święty paliczek
+
+Uwolnij moc ukrytej inkantacji, by wznieść przed sobą palisadę ze złotych włóczni.</text>
+<text id="1188">Unikalna umiejętność: Polowanie na wielkiego węża
+
+Wykonaj potężny wypad, a następnie naciśnij przycisk ponownie, by wyprowadzić pchnięcie w górę. W walce z wielkim wężem pojawi się długie świetlne ostrze pokazujące prawdziwą potęgę tej broni.</text>
+<text id="1189">Unikalna umiejętność: Skrzydła anielskie
+
+Skocz i napełnij skrzydlate ostrze tej broni światłem, a następnie tnij wroga.
+Białe skrzydła zatrzymują akcje odzyskiwania wykonywane za pomocą butelki łez.</text>
+<text id="1190">Unikalna umiejętność: Burzowe kopnięcie
+
+Uderz sztuczną nogą w ziemię, by wywołać burzę.
+Następnie wykonaj silny atak, by zadać cios z wyskoku z mocą błyskawic.</text>
+<text id="1191">Unikalna umiejętność: Niepowstrzymane ostrze
+
+Napełnij szyfrowe ostrze światłem, po czym skocz naprzód i wykonaj nagły przebijający atak.
+Nie można go zablokować.</text>
+<text id="1192">Unikalna umiejętność: Magia pastorału
+
+Skieruj magię do błyskamienia, by aktywować moc pradawnego czaru i stworzyć dryfujące magiczne pociski, które automatycznie ścigają wrogów.</text>
+<text id="1193">Unikalna umiejętność: Huk Złotego Drzewa
+
+Skocz wysoko w powietrze i z impetem spadnij na ziemię. Spektakularna wywrotka wysyła we wszystkie strony fale uderzeniowe.
+To najpotężniejsza umiejętność rzucenia na ziemię.</text>
+<text id="1194">Unikalna umiejętność: Bełt grawitacyjny
+
+Napełnij szczękę bestii upadłej gwiazdy błyskawicą grawitacyjną, posyłając pocisk na niewielką odległość.
+Kolejne pociski można wystrzeliwać jeden po drugim.</text>
+<text id="1195">Unikalna umiejętność: Płomienie snu
+
+Dmuchnij w płomień świecy, tworząc strumień mglistego fioletowego ognia, który spowije obszar na wprost.
+Odurzające płomienie powodują uśpienie wrogów.</text>
+<text id="1196">Unikalna umiejętność: Złoty odwet
+
+Przygotuj tarczę, by skorzystać z jej inkantacji ochronnej.
+Czary i inkantacje będą odbijane, a złota moc posłuży do wykonania kontrataków.</text>
+<text id="1197">Unikalna umiejętność: Zaraźliwa furia
+
+Rozbudź gniew meduzy i pozwól, by popłynęła przez ciebie jej furia.
+Na pewien czas zwiększa siłę ataku.</text>
+<text id="1198">Unikalna umiejętność: Wir Ordovisa
+
+Skieruj moc Tygla, by miecz zaczął wirować w powietrzu, nabierając impetu, nim uderzy ostrzem w ziemię.
+Tę umiejętność można naładować, by zwiększyć jej siłę.</text>
+<text id="1199">Unikalna umiejętność: Wirujący oręż
+
+Skieruj magię do błyskamienia, by zawiesić berło w powietrzu i wprawić je w wirowanie.
+Dotknięte nim cele zostaną trafione kolejnymi atakami magicznymi.</text>
+</entries>
+</fmg>

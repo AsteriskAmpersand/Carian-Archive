@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">Agacharse</text>
+<text id="2">Defensa</text>
+<text id="3">Contraataques de defensa</text>
+<text id="4">Armamentos a dos manos</text>
+<text id="5">Ataques de carga y de salto</text>
+<text id="6">Habilidad</text>
+<text id="7">Rechazo</text>
+<text id="8">Fijación de un objetivo</text>
+<text id="9">Tiro de precisión</text>
+<text id="10">Equiparte con piezas de armamento</text>
+<text id="11">Uso de objetos</text>
+<text id="12">Uso de antorchas</text>
+<text id="13">Golpes críticos</text>
+<text id="14">Gestos</text>
+<text id="15">El mapa</text>
+<text id="16">Salto en un manantial espiritual</text>
+<text id="17">Atajo de objeto</text>
+<text id="50">Muerte y pérdida de runas</text>
+<text id="51">%null%</text>
+<text id="52">Invocación de espíritus</text>
+<text id="53">Descansar en sitios de gracia</text>
+<text id="54">Descubrir sitios de gracia</text>
+<text id="55">Guía de la gracia</text>
+<text id="56">Frascos sagrados</text>
+<text id="57">Viaje rápido a sitios de gracia</text>
+<text id="58">Ataques a caballo</text>
+<text id="59">Áreas sin caballos</text>
+<text id="60">Creación de objetos</text>
+<text id="61">Objetos creados a partir de recipientes</text>
+<text id="62">Personalización del armamento</text>
+<text id="63">%null%</text>
+<text id="64">Revivir después de morir</text>
+<text id="65">Carga de equipo</text>
+<text id="66">En combate</text>
+<text id="67">Espíritus de fortalecimiento</text>
+<text id="68">Subir de nivel</text>
+<text id="69">%null%</text>
+<text id="70">Estado: veneno</text>
+<text id="71">Estado: Podredumbre escarlata</text>
+<text id="72">Estado: Hemorragia</text>
+<text id="73">Estado: Congelación</text>
+<text id="74">Estado: somnolencia</text>
+<text id="75">Estado: locura</text>
+<text id="76">Estado: muerte</text>
+<text id="77">Aplomo</text>
+<text id="100">Objetivo del ayudante (dedo doblado)</text>
+<text id="101">Objetivo del rival (duelista)</text>
+<text id="102">Cantidad máxima en modo Multijugador</text>
+<text id="103">Ver señales de invocación</text>
+<text id="104">Dejar señales de cooperación</text>
+<text id="105">Dejar señales hostiles</text>
+<text id="106">Invasión</text>
+<text id="107">Solicitar apoyo</text>
+<text id="108">Apoyo</text>
+<text id="109">Grupos de invocaciones</text>
+<text id="110">Contraseñas grupales</text>
+<text id="111">Contraseñas de Multijugador</text>
+<text id="112">Mensajes</text>
+<text id="113">Límites de movimientos en Multijugador</text>
+<text id="114">Fantasmas</text>
+<text id="115">Manchas de sangre</text>
+<text id="116">Objetivo del apoyo (cazador)</text>
+<text id="117">Señales de invocación</text>
+<text id="118">Mensajes avanzados</text>
+<text id="119">Objetivo del invasor</text>
+<text id="150">Límites de defensa</text>
+<text id="151">Desestabilizador</text>
+<text id="152">Hacer caer enemigos a caballo</text>
+<text id="153">Enemigos endurecidos</text>
+<text id="154">%null%</text>
+<text id="200">Escarabajos de lágrima</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

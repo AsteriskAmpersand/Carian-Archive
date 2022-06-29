@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">선택한 아이템을 사용합니다</text>
+<text id="4101">선택한 아이템을 그 자리에 내려놓습니다</text>
+<text id="4102">선택한 아이템을 파기합니다</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">여러 아이템을 한꺼번에 사용합니다</text>
+<text id="4111">여러 아이템을 한꺼번에 그 자리에 내려놓습니다</text>
+<text id="4112">여러 아이템을 한꺼번에 파기합니다</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">한꺼번에 그 자리에 내려놓을 아이템을 선택해주십시오</text>
+<text id="4122">한꺼번에 파기할 아이템을 선택해주십시오</text>
+<text id="5100">설정한 수량의 아이템을 사용합니다</text>
+<text id="5101">설정한 수량의 아이템을 그 자리에 내려놓습니다</text>
+<text id="5102">설정한 수량의 아이템을 파기합니다</text>
+<text id="5103">%null%</text>
+<text id="5104">설정한 수량의 아이템을 구매합니다</text>
+<text id="5105">설정한 수량의 아이템을 매각합니다</text>
+<text id="5106">설정한 수량의 아이템을 보관합니다</text>
+<text id="5107">설정한 수량의 아이템을 꺼냅니다</text>
+<text id="6000">정렬 기준을 선택해주십시오</text>
+<text id="30000">확인할 항목을 선택해주십시오</text>
+<text id="40331">설정 내용을 확정하고 다음 화면으로 진행합니다</text>
+<text id="40500">모든 설정을 초기 상태로 되돌립니다</text>
+<text id="102000">조작할 아이템을 선택해주십시오</text>
+<text id="103000">장비 슬롯을 선택해주십시오</text>
+<text id="103500">장비할 아이템을 선택해주십시오</text>
+<text id="105000">캐릭터의 스테이터스를 확인합니다</text>
+<text id="106000">실행할 항목을 선택해주십시오</text>
+<text id="106001">설정할 항목을 선택해주십시오</text>
+<text id="110001">카메라의 상하 조작을 설정합니다</text>
+<text id="110002">카메라의 좌우 조작을 설정합니다</text>
+<text id="110003">카메라 리셋 시 상하 위치 리셋을 설정합니다</text>
+<text id="110004">카메라가 움직이는 속도를 설정합니다</text>
+<text id="110005">록 온 대상이 사망했을 시 대상의 자동 전환을 설정합니다</text>
+<text id="110006">록 온하지 않았을 시 공격 대상의 자동 포착을 설정합니다</text>
+<text id="110007">카메라가 벽에 접촉할 경우의 자동회전을 설정합니다</text>
+<text id="110008">%null%</text>
+<text id="110009">점프 조작 방법을 설정합니다</text>
+<text id="110010">대형 무기로 록 온 시, 공격 방향의 임의제어를 설정합니다</text>
+<text id="110011">%null%</text>
+<text id="110012">%null%</text>
+<text id="110013">%null%</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">화질/프레임레이트 중 어느 쪽을 우선할지 설정합니다</text>
+<text id="110101">출혈 표현을 설정합니다</text>
+<text id="110102">자막 표시를 설정합니다</text>
+<text id="110103">HUD 표시를 설정합니다</text>
+<text id="110104">특별한 공격 시 연출 카메라를 설정합니다</text>
+<text id="110105">BGM 음량을 설정합니다</text>
+<text id="110106">SE 음량을 설정합니다</text>
+<text id="110107">음성 음량을 설정합니다</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">%null%</text>
+<text id="110112">%null%</text>
+<text id="110113">%null%</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">전체 음량을 설정합니다</text>
+<text id="110118">좌우 이동 시의 카메라 자동 회전을 설정합니다</text>
+<text id="110201">화면 밝기를 설정합니다</text>
+<text id="110202">HDR 유효 시의 화질을 조정합니다</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">HDR의 유효/무효 여부를 설정합니다</text>
+<text id="110301">보이스 채팅 사용 여부를 설정합니다</text>
+<text id="110302">지역 외 플레이어와의 매칭을 설정합니다</text>
+<text id="110303">암호를 편집합니다. 일치하는 플레이어와만 매칭합니다</text>
+<text id="110304">다른 플레이어의 이름 표시 방법을 설정합니다</text>
+<text id="110305">타이틀 기동 시의 온라인/오프라인 플레이 여부를 설정합니다</text>
+<text id="110306">적대자가 소환된 세계에 소환 사인 전달을 제한할 수 있습니다</text>
+<text id="110307">데이터 사용에 관한 동의 유무를 설정합니다</text>
+<text id="110500">게임을 저장하고 타이틀 화면으로 돌아갑니다</text>
+<text id="110501">게임을 저장하고 바탕화면으로 나갑니다</text>
+<text id="110900">조작 방법을 확인합니다</text>
+<text id="111006">액션에 할당할 키를 설정합니다</text>
+<text id="111007">%null%</text>
+<text id="111008">%null%</text>
+<text id="111009">%null%</text>
+<text id="111010">조작 가이드로 표시할 버튼의 디바이스를 설정합니다</text>
+<text id="111011">튜토리얼 표시를 설정합니다</text>
+<text id="111012">%null%</text>
+<text id="111013">%null%</text>
+<text id="111014">%null%</text>
+<text id="111015">%null%</text>
+<text id="111016">%null%</text>
+<text id="111017">%null%</text>
+<text id="111018">%null%</text>
+<text id="111019">%null%</text>
+<text id="111020">마우스로 조작 시 카메라 이동 감도를 설정합니다</text>
+<text id="111021">%null%</text>
+<text id="111022">마우스로 조작 시 카메라 좌우 조작을 설정합니다</text>
+<text id="111023">마우스로 조작 시 카메라 상하 조작을 설정합니다</text>
+<text id="111110">게임을 전체 화면으로 기동할지, 창 모드로 기동할지 설정합니다</text>
+<text id="111111">화면 해상도를 선택합니다</text>
+<text id="111112">퍼포먼스 저하 시 묘사를 간략화할지 설정합니다</text>
+<text id="111113">그래픽 품질을 설정합니다</text>
+<text id="111114">그래픽 품질을 상세하게 설정합니다</text>
+<text id="111210">텍스처 품질을 설정합니다</text>
+<text id="111211">앤티에일리어싱 적용 여부를 설정합니다</text>
+<text id="111212">SSAO 품질을 선택합니다</text>
+<text id="111213">피사계 심도 표현의 품질을 선택합니다</text>
+<text id="111214">모션 블러 품질을 선택합니다</text>
+<text id="111215">그림자 품질을 선택합니다</text>
+<text id="111216">빛 표현 품질을 선택합니다</text>
+<text id="111217">이펙트 품질을 선택합니다</text>
+<text id="111218">볼류메트릭 품질을 선택합니다</text>
+<text id="111219">반사 표현 품질을 선택합니다</text>
+<text id="111220">수면 품질을 선택합니다</text>
+<text id="111221">셰이더 품질을 선택합니다</text>
+<text id="111222">레이 트레이싱 품질을 선택합니다</text>
+<text id="111223">글로벌 일루미네이션 품질을 선택합니다</text>
+<text id="111224">풀의 품질을 선택합니다</text>
+<text id="212000">성장시킬 능력치를 선택해주십시오</text>
+<text id="212001">룬을 소비하여 레벨 업을 실행합니다</text>
+<text id="212750">성장시킬 능력치를 선택해주십시오</text>
+<text id="212751">다시 태어나기를 실행합니다</text>
+<text id="214000">전회를 사용할 무기를 선택해주십시오</text>
+<text id="214001">사용할 전회를 선택해주십시오</text>
+<text id="214002">무기에 부여할 속성을 선택해주십시오</text>
+<text id="215000">거대한 룬을 품을 슬롯을 선택해주십시오</text>
+<text id="215001">품을 룬을 선택해주십시오</text>
+<text id="216000">강화할 뼛가루를 선택해주십시오</text>
+<text id="221000">강화할 무기를 선택해주십시오</text>
+<text id="221001">%null%</text>
+<text id="221002">%null%</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">강화할 무기를 선택해주십시오</text>
+<text id="222000">기억 슬롯을 선택해주십시오</text>
+<text id="222001">기억할 마술/기도를 선택해주십시오</text>
+<text id="225000">자신의 것으로 삼을 용의 힘을 선택해주십시오</text>
+<text id="226000">입수할 꼭두각시를 선택해주십시오</text>
+<text id="227000">복제할 전회를 선택해주십시오</text>
+<text id="230000">입수할 꼭두각시를 선택해주십시오</text>
+<text id="230100">복제할 추억을 선택해주십시오</text>
+<text id="231000">구매할 아이템을 선택해주십시오</text>
+<text id="231500">입수할 영웅의 방어구를 선택해주십시오</text>
+<text id="232000">매각할 아이템을 선택해주십시오</text>
+<text id="236000">제작할 아이템을 선택해주십시오</text>
+<text id="236200">힘을 얻기 위해 사용할 추억을 선택해주십시오</text>
+<text id="236201">추억에서 얻을 힘을 선택해주십시오</text>
+<text id="236400">조정할 의상을 선택해주십시오</text>
+<text id="236401">조정 후 의상을 선택해주십시오</text>
+<text id="238000">배합 슬롯을 선택해주십시오</text>
+<text id="238001">배합할 결정 물방울을 선택해주십시오</text>
+<text id="241000">지도의 정보를 확인합니다</text>
+<text id="241100">마커를 배치합니다</text>
+<text id="241101">마커를 삭제합니다</text>
+<text id="241102">모든 마커를 삭제합니다</text>
+<text id="241200">이동할 축복을 선택해주십시오</text>
+<text id="241300">이동할 축복을 선택해주십시오</text>
+<text id="251000">나무상자에 보관할 아이템을 선택해주십시오</text>
+<text id="251001">나무상자에서 꺼낼 아이템을 선택해주십시오</text>
+<text id="280005">할당을 변경할 액션을 선택해주십시오</text>
+<text id="280006">%null%</text>
+<text id="280007">%null%</text>
+<text id="280008">%null%</text>
+<text id="280009">%null%</text>
+<text id="280010">%null%</text>
+<text id="280011">할당할 키를 입력해주십시오</text>
+<text id="280100">이동 중에 입력하면 걸어서 이동합니다</text>
+<text id="280101">앞쪽으로 이동합니다</text>
+<text id="280102">뒤쪽으로 이동합니다</text>
+<text id="280103">왼쪽으로 이동합니다</text>
+<text id="280104">오른쪽으로 이동합니다</text>
+<text id="280105">멈춰 섰을 때 입력하면 백스텝을 합니다
+이동 중에 입력하면 구르기, 길게 누르면 대시를 합니다</text>
+<text id="280106">점프를 합니다</text>
+<text id="280107">선 상태와 웅크린 상태를 전환합니다</text>
+<text id="280200">카메라를 위로 이동합니다.
+록 온 중에는 위 방향의 대상으로 전환합니다</text>
+<text id="280201">카메라를 아래로 이동합니다.
+록 온 중에는 아래 방향의 대상으로 전환합니다</text>
+<text id="280202">카메라를 왼쪽으로 이동합니다.
+록 온 시에는 왼쪽 방향의 대상으로 전환합니다</text>
+<text id="280203">카메라를 오른쪽으로 이동합니다.
+록 온 시에는 오른쪽 방향의 대상으로 전환합니다</text>
+<text id="280204">카메라 위치를 리셋합니다.
+록 온 대상이 있을 경우 록 온/록 온 해제를 합니다</text>
+<text id="280300">아이템을 전환합니다</text>
+<text id="280301">오른손 무기를 전환합니다</text>
+<text id="280302">왼손 무기를 전환합니다</text>
+<text id="280303">마술/기도를 전환합니다</text>
+<text id="280400">오른손 무기로 일반 공격을 합니다</text>
+<text id="280401">오른손 무기로 강 공격을 합니다.
+길게 누르고 있으면 차지 공격을 합니다</text>
+<text id="280402">왼손 무기로 가드를 합니다</text>
+<text id="280403">전투 기술을 발동합니다</text>
+<text id="280404">다양한 액션을 합니다</text>
+<text id="280405">아이템을 사용합니다</text>
+<text id="280406">오른손 무기를 양손으로 잡습니다.
+길게 누르고 있으면 왼손 무기를 양손으로 잡습니다</text>
+<text id="288000">사용할 캐릭터를 선택하십시오</text>
+<text id="288001">작성할 캐릭터의 베이스를 선택하십시오</text>
+<text id="291000">이름을 입력해주십시오</text>
+<text id="291001">성별을 선택합니다</text>
+<text id="291002">연령층을 선택합니다</text>
+<text id="291003">목소리를 선택합니다</text>
+<text id="291004">%null%</text>
+<text id="291005">%null%</text>
+<text id="291006">%null%</text>
+<text id="291007">%null%</text>
+<text id="291008">%null%</text>
+<text id="291009">%null%</text>
+<text id="291010">출신을 선택합니다</text>
+<text id="291011">유품을 선택합니다</text>
+<text id="291012">%null%</text>
+<text id="291013">%null%</text>
+<text id="291014">%null%</text>
+<text id="291015">%null%</text>
+<text id="291016">%null%</text>
+<text id="291017">%null%</text>
+<text id="291018">%null%</text>
+<text id="291019">%null%</text>
+<text id="291020">외모를 선택합니다</text>
+<text id="291021">얼굴을 편집합니다</text>
+<text id="291022">체격을 편집합니다</text>
+<text id="291023">피부색을 편집합니다</text>
+<text id="291024">%null%</text>
+<text id="291025">외모를 상세히 편집합니다</text>
+<text id="291026">%null%</text>
+<text id="291027">%null%</text>
+<text id="291028">%null%</text>
+<text id="291029">%null%</text>
+<text id="291030">현재 외모를 저장합니다</text>
+<text id="291031">저장된 외모를 불러옵니다</text>
+<text id="291050">캐릭터 작성을 완료합니다</text>
+<text id="291051">화장을 완료해 새로운 외모가 됩니다</text>
+<text id="291052">화장을 완료해 새로운 외모가 됩니다</text>
+<text id="292000">얼굴의 특징을 편집합니다</text>
+<text id="292001">얼굴의 형태를 편집합니다</text>
+<text id="292002">%null%</text>
+<text id="292003">%null%</text>
+<text id="292004">%null%</text>
+<text id="292005">%null%</text>
+<text id="292006">%null%</text>
+<text id="292007">%null%</text>
+<text id="292008">%null%</text>
+<text id="292009">%null%</text>
+<text id="292010">머리카락을 편집합니다</text>
+<text id="292011">눈썹을 편집합니다</text>
+<text id="292012">수염을 편집합니다</text>
+<text id="292013">속눈썹을 편집합니다</text>
+<text id="292014">%null%</text>
+<text id="292015">%null%</text>
+<text id="292016">%null%</text>
+<text id="292017">%null%</text>
+<text id="292018">%null%</text>
+<text id="292019">%null%</text>
+<text id="292020">눈을 편집합니다</text>
+<text id="292021">%null%</text>
+<text id="292022">%null%</text>
+<text id="292023">%null%</text>
+<text id="292024">%null%</text>
+<text id="292025">피부의 특징을 편집합니다</text>
+<text id="292026">%null%</text>
+<text id="292027">%null%</text>
+<text id="292028">%null%</text>
+<text id="292029">%null%</text>
+<text id="292030">화장을 편집합니다</text>
+<text id="292031">%null%</text>
+<text id="292032">%null%</text>
+<text id="292033">%null%</text>
+<text id="292034">%null%</text>
+<text id="292035">%null%</text>
+<text id="292036">%null%</text>
+<text id="292037">%null%</text>
+<text id="292038">%null%</text>
+<text id="292039">%null%</text>
+<text id="292040">문신/점/안대를 편집합니다</text>
+<text id="292041">%null%</text>
+<text id="292042">%null%</text>
+<text id="292043">%null%</text>
+<text id="292044">%null%</text>
+<text id="292045">%null%</text>
+<text id="292046">%null%</text>
+<text id="292047">%null%</text>
+<text id="292048">%null%</text>
+<text id="292049">%null%</text>
+<text id="292050">현재 상태와 비슷한 얼굴을 선택합니다</text>
+<text id="292051">%null%</text>
+<text id="292052">%null%</text>
+<text id="292053">%null%</text>
+<text id="292054">%null%</text>
+<text id="292055">%null%</text>
+<text id="292056">%null%</text>
+<text id="292057">%null%</text>
+<text id="292058">%null%</text>
+<text id="292059">%null%</text>
+<text id="292060">머리를 조정합니다</text>
+<text id="292061">가슴을 조정합니다</text>
+<text id="292062">배를 조정합니다</text>
+<text id="292063">팔을 조정합니다</text>
+<text id="292064">다리를 조정합니다</text>
+<text id="292065">%null%</text>
+<text id="292066">%null%</text>
+<text id="292067">%null%</text>
+<text id="292068">%null%</text>
+<text id="292069">%null%</text>
+<text id="292070">체모량을 조정합니다</text>
+<text id="292071">체모 색상을 조정합니다</text>
+<text id="292072">근육량을 선택합니다</text>
+<text id="292073">%null%</text>
+<text id="292074">%null%</text>
+<text id="292075">%null%</text>
+<text id="292076">%null%</text>
+<text id="292077">%null%</text>
+<text id="292078">%null%</text>
+<text id="292079">%null%</text>
+<text id="292080">화상 자국 표시를 설정합니다</text>
+<text id="293000">골격을 선택합니다</text>
+<text id="293001">형태의 특징 강도를 조정합니다</text>
+<text id="293002">얼굴의 연령을 조정합니다</text>
+<text id="293003">얼굴의 인상을 조정합니다</text>
+<text id="293004">%null%</text>
+<text id="293005">%null%</text>
+<text id="293006">%null%</text>
+<text id="293007">%null%</text>
+<text id="293008">%null%</text>
+<text id="293009">%null%</text>
+<text id="293010">얼굴의 밸런스를 편집합니다</text>
+<text id="293011">이마와 미간을 편집합니다</text>
+<text id="293012">눈썹뼈를 편집합니다</text>
+<text id="293013">눈을 편집합니다</text>
+<text id="293014">콧날을 편집합니다</text>
+<text id="293015">콧방울을 편집합니다</text>
+<text id="293016">뺨을 편집합니다</text>
+<text id="293017">입술을 편집합니다</text>
+<text id="293018">입을 편집합니다</text>
+<text id="293019">아래턱을 편집합니다</text>
+<text id="293020">위턱을 편집합니다</text>
+<text id="293100">머리카락 모양을 선택합니다</text>
+<text id="293101">머리카락의 색상을 편집합니다</text>
+<text id="293102">머리카락의 광택을 조정합니다</text>
+<text id="293103">머리카락 뿌리의 어두움을 조정합니다</text>
+<text id="293104">흰 머리의 양을 조정합니다</text>
+<text id="293105">%null%</text>
+<text id="293106">%null%</text>
+<text id="293107">%null%</text>
+<text id="293108">%null%</text>
+<text id="293109">%null%</text>
+<text id="293110">눈썹의 형태를 선택합니다</text>
+<text id="293111">눈썹의 색상을 편집합니다</text>
+<text id="293112">눈썹의 광택을 조정합니다</text>
+<text id="293113">눈썹 뿌리의 어두움을 조정합니다</text>
+<text id="293114">흰 눈썹의 양을 조정합니다</text>
+<text id="293115">%null%</text>
+<text id="293116">%null%</text>
+<text id="293117">%null%</text>
+<text id="293118">%null%</text>
+<text id="293119">%null%</text>
+<text id="293120">수염의 형태를 선택합니다</text>
+<text id="293121">수염의 색상을 편집합니다</text>
+<text id="293122">수염의 광택을 조정합니다</text>
+<text id="293123">수염 뿌리의 어두움을 조정합니다</text>
+<text id="293124">흰 수염의 양을 조정합니다</text>
+<text id="293125">수염 자국의 짙음을 조정합니다</text>
+<text id="293126">%null%</text>
+<text id="293127">%null%</text>
+<text id="293128">%null%</text>
+<text id="293129">%null%</text>
+<text id="293130">속눈썹의 형태를 선택합니다</text>
+<text id="293131">속눈썹의 색상을 편집합니다</text>
+<text id="293132">%null%</text>
+<text id="293133">%null%</text>
+<text id="293134">%null%</text>
+<text id="293135">%null%</text>
+<text id="293136">%null%</text>
+<text id="293137">%null%</text>
+<text id="293138">%null%</text>
+<text id="293139">%null%</text>
+<text id="293140">오른쪽 눈동자의 크기를 조정합니다</text>
+<text id="293141">오른쪽 눈동자의 색상을 편집합니다</text>
+<text id="293142">오른쪽 눈동자의 수정체 탁함을 조정합니다</text>
+<text id="293143">오른쪽 눈동자의 수정체 탁함 색상을 편집합니다</text>
+<text id="293144">오른쪽 눈의 흰자위 색상을 편집합니다</text>
+<text id="293145">오른쪽 눈동자의 얼굴 중앙으로부터의 거리를 조정합니다</text>
+<text id="293146">%null%</text>
+<text id="293147">%null%</text>
+<text id="293148">%null%</text>
+<text id="293149">%null%</text>
+<text id="293150">왼쪽 눈동자의 크기를 편집합니다</text>
+<text id="293151">왼쪽 눈동자의 색상을 편집합니다</text>
+<text id="293152">왼쪽 눈동자의 수정체 탁함을 조정합니다</text>
+<text id="293153">왼쪽 눈동자의 수정체 탁함 색상을 편집합니다</text>
+<text id="293154">왼쪽 눈의 흰자위 색상을 편집합니다</text>
+<text id="293155">왼쪽 눈동자의 얼굴 중앙으로부터의 거리를 조정합니다</text>
+<text id="293156">눈 변화의 적용 여부를 설정합니다</text>
+<text id="293157">%null%</text>
+<text id="293158">%null%</text>
+<text id="293159">%null%</text>
+<text id="293160">모공이 눈에 띄는 정도를 편집합니다</text>
+<text id="293161">피부의 윤기를 조정합니다</text>
+<text id="293162">눈 그늘의 짙음을 조정합니다</text>
+<text id="293163">눈 그늘의 색상을 편집합니다</text>
+<text id="293164">볼 화장의 짙음을 조정합니다</text>
+<text id="293165">볼 화장의 색상을 편집합니다</text>
+<text id="293166">아이라인의 짙음을 조정합니다</text>
+<text id="293167">아이라인의 색상을 편집합니다</text>
+<text id="293168">눈꺼풀 아이섀도의 짙음을 조정합니다</text>
+<text id="293169">눈꺼풀 아이섀도의 색상을 편집합니다</text>
+<text id="293170">애교살 아이섀도의 짙음을 조정합니다</text>
+<text id="293171">애교살 아이섀도의 색상을 편집합니다</text>
+<text id="293172">립스틱의 짙음을 조정합니다</text>
+<text id="293173">립스틱의 색상을 편집합니다</text>
+<text id="293174">%null%</text>
+<text id="293175">%null%</text>
+<text id="293176">%null%</text>
+<text id="293177">%null%</text>
+<text id="293178">%null%</text>
+<text id="293179">%null%</text>
+<text id="293180">문신/점의 형태를 선택합니다</text>
+<text id="293181">문신/점의 색을 편집합니다</text>
+<text id="293182">문신/점의 배치를 조정합니다</text>
+<text id="293183">%null%</text>
+<text id="293184">%null%</text>
+<text id="293185">%null%</text>
+<text id="293186">%null%</text>
+<text id="293187">%null%</text>
+<text id="293188">%null%</text>
+<text id="293189">%null%</text>
+<text id="293190">안대를 선택합니다</text>
+<text id="293191">안대의 색상을 편집합니다</text>
+<text id="297100">탄탄한 체형
+체형에 따른 능력 차이는 없다</text>
+<text id="297101">날씬한 체형
+체형에 따른 능력 차이는 없다</text>
+<text id="297102">%null%</text>
+<text id="297103">%null%</text>
+<text id="297104">%null%</text>
+<text id="297105">%null%</text>
+<text id="297106">%null%</text>
+<text id="297107">%null%</text>
+<text id="297108">%null%</text>
+<text id="297109">%null%</text>
+<text id="297110">청년기의 외모
+연령에 따른 능력 차이는 없다</text>
+<text id="297111">중년기의 외모
+연령에 따른 능력 차이는 없다</text>
+<text id="297112">노년기의 외모
+연령에 따른 능력 차이는 없다</text>
+<text id="297113">%null%</text>
+<text id="297114">%null%</text>
+<text id="297115">%null%</text>
+<text id="297116">%null%</text>
+<text id="297117">%null%</text>
+<text id="297118">%null%</text>
+<text id="297119">%null%</text>
+<text id="297120">청년기의 목소리 1</text>
+<text id="297121">중년기의 목소리 1</text>
+<text id="297122">노년기의 목소리 1</text>
+<text id="297123">%null%</text>
+<text id="297124">%null%</text>
+<text id="297125">청년기의 목소리 2</text>
+<text id="297126">중년기의 목소리 2</text>
+<text id="297127">노년기의 목소리 2</text>
+<text id="297128">%null%</text>
+<text id="297129">%null%</text>
+<text id="297130">고향에서 추방된 방랑기사
+금속 갑옷을 입은 견고한 출신</text>
+<text id="297131">유목 민족의 쌍검 검사
+특히 기량이 뛰어난 출신</text>
+<text id="297132">전투 도끼를 휘두르는 굴강한 용사
+미개한 땅의 왕의 후예라고 한다</text>
+<text id="297133">치명적인 일격을 노리는 위험한 도적
+활을 이용한 원거리 공격도 가능</text>
+<text id="297134">별에서 운명을 찾으려 하는 자
+휘석 마술을 계승한다</text>
+<text id="297135">불길한 예언을 해 박해받은 자
+회복 기도를 사용할 수 있다</text>
+<text id="297136">동떨어진 이국, 갈대의 땅의 무사
+장궁과 도를 이용하는 전투자</text>
+<text id="297137">엄벌을 선고받은 철가면 쓴 죄수
+원래는 상류 계층이었던 듯
+휘석 마술을 배웠다</text>
+<text id="297138">은밀 행동에 뛰어난 교회의 밀사
+검술과 기도를 둘 다 다루는 출신</text>
+<text id="297139">이유는 알 수 없으나 벌거숭이
+그저 곤봉만을 가진다</text>
+<text id="297140">%null%</text>
+<text id="297141">%null%</text>
+<text id="297142">%null%</text>
+<text id="297143">%null%</text>
+<text id="297144">%null%</text>
+<text id="297145">%null%</text>
+<text id="297146">%null%</text>
+<text id="297147">%null%</text>
+<text id="297148">%null%</text>
+<text id="297149">%null%</text>
+<text id="297150">유품 없음, 과거는 고향에 버리고 왔다</text>
+<text id="297151">붉은색 호박이 박힌 메달리온
+HP의 최대치를 상승시킨다</text>
+<text id="297152">틈새의 땅 사람들의 눈에 깃든 축복
+그 황금의 남은 빛
+사용하여 많은 룬을 얻는다</text>
+<text id="297153">틈새의 땅에서 흘러든 황금 종자
+성배를 단련한다고 한다</text>
+<text id="297154">작은 골렘들의 뼛가루
+영체가 깃들어있다고 한다</text>
+<text id="297155">%null%</text>
+<text id="297156">부서져도 복원되는 신기한 항아리(3개)
+투척 항아리 아이템의 그릇이 된다</text>
+<text id="297157">검을 본뜬 돌 열쇠(2개)
+임프상의 봉인을 풀고 부서진다고 한다</text>
+<text id="297158">대상을 유혹해 매료하는 나뭇가지(5개)
+데미갓 미켈라에서 유래했다고 한다</text>
+<text id="297159">삶아진 새우 살(5개)
+일정 시간, 물리 경감률이 올라간다</text>
+<text id="297160">눈이 짓눌린 귀족의
+광기의 초상화
+적에게 노려지기 쉬워진다</text>
+<text id="297161">%null%</text>
+<text id="297162">%null%</text>
+<text id="297163">%null%</text>
+<text id="297164">%null%</text>
+<text id="297165">%null%</text>
+<text id="297166">%null%</text>
+<text id="297167">%null%</text>
+<text id="297168">%null%</text>
+<text id="297169">%null%</text>
+<text id="297170">근육량이 극히 표준적인 몸</text>
+<text id="297171">근육질의 몸</text>
+<text id="297172">%null%</text>
+<text id="297173">%null%</text>
+<text id="297174">%null%</text>
+<text id="297175">%null%</text>
+<text id="297176">%null%</text>
+<text id="297177">%null%</text>
+<text id="297178">%null%</text>
+<text id="297179">%null%</text>
+<text id="297180">문신/점 반전을 유효로 한다</text>
+<text id="297181">문신/점 반전을 무효로 한다</text>
+<text id="297182">%null%</text>
+<text id="297183">%null%</text>
+<text id="297184">%null%</text>
+<text id="297185">눈의 변화를 유효로 한다</text>
+<text id="297186">눈의 변화를 무효로 한다</text>
+<text id="297187">화상자국을 표시한다</text>
+<text id="297188">화상자국을 표시하지 않는다</text>
+<text id="297200">빛바랜 자 사이에 제일 많은 외모
+과거에 빛바랜 자는 모두 전사였다</text>
+<text id="297201">금욕적인 구도자들의 외모
+모두의 구하는 길이 같지는 않다</text>
+<text id="297202">틈새의 땅의 귀족의 피를 이었다
+그렇게 자칭하는 자들의 외모</text>
+<text id="297203">교류하지 않는 고고한 일족의 외모
+옛 전승과 이단에 통달했다</text>
+<text id="297204">황량한 북방인들의 외모
+거인의 후예라고 한다</text>
+<text id="297205">고향인 틈새의 땅을 찾아
+바다를 헤맨 뱃사람들의 외모</text>
+<text id="297206">동떨어진 이국, 갈대의 백성의 외모
+그 땅은 피비린내가 진동한다</text>
+<text id="297207">바위 피부를 지닌 자들의 외모
+고룡의 백성은 대체로 단명한다</text>
+<text id="297208">야인이라 불리는 근소한 자들의 외모
+과거에 그 피는 은색이었다고 한다</text>
+<text id="297209">이계 민족의 후예라 여겨지는 희인의 외모
+다들 장수하나 태어나는 자가 드물다</text>
+<text id="297220">빛바랜 자 사이에 제일 많은 외모
+과거에 빛바랜 자는 모두 전사였다</text>
+<text id="297221">금욕적인 구도자들의 외모
+모두의 구하는 길이 같지는 않다</text>
+<text id="297222">틈새의 땅의 귀족의 피를 이었다
+그렇게 자칭하는 자들의 외모</text>
+<text id="297223">교류하지 않는 고고한 일족의 외모
+옛 전승과 이단에 통달했다</text>
+<text id="297224">황량한 북방인들의 외모
+거인의 후예라고 한다</text>
+<text id="297225">고향인 틈새의 땅을 찾아
+바다를 헤맨 뱃사람들의 외모</text>
+<text id="297226">동떨어진 이국, 갈대의 백성의 외모
+그 땅은 피비린내가 진동한다</text>
+<text id="297227">바위 피부를 지닌 자들의 외모
+고룡의 백성은 대체로 단명한다</text>
+<text id="297228">야인이라 불리는 근소한 자들의 외모
+과거에 그 피는 은색이었다고 한다</text>
+<text id="297229">이계 민족의 후예라 여겨지는 희인의 외모
+다들 장수하나 태어나는 자가 드물다</text>
+<text id="301000">슬롯에 등록할 제스처를 선택해주십시오</text>
+<text id="301001">사용할 제스처를 선택해주십시오</text>
+<text id="321000">메시지의 문장을 편집합니다</text>
+<text id="321001">첨부할 제스처를 선택합니다</text>
+<text id="321002">메시지 작성을 완료합니다</text>
+<text id="321003">베이스 문장을 선택해주십시오</text>
+<text id="321004">첨부할 제스처를 선택해주십시오</text>
+<text id="321005">단어의 카테고리를 선택해주십시오</text>
+<text id="321006">베이스 문장을 선택해주십시오</text>
+<text id="321007">단어를 선택해주십시오</text>
+<text id="321008">접속사를 선택해주십시오</text>
+<text id="322000">내가 작성한 메시지를 확인합니다</text>
+<text id="324000">최근 읽은 메시지를 확인합니다</text>
+<text id="406000">불러올 프로필을 선택해주십시오</text>
+<text id="406001">삭제할 프로필을 선택해주십시오</text>
+</entries>
+</fmg>

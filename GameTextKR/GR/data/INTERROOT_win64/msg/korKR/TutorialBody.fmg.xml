@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="101000">&lt;?keyControlCamera?&gt;: &lt;?keyActFullName@10?&gt;</text>
+<text id="101030">&lt;?keyicon@15?&gt;: &lt;?keyActName@15?&gt;</text>
+<text id="101031">%null%</text>
+<text id="101032">%null%</text>
+<text id="101033">%null%</text>
+<text id="101034">%null%</text>
+<text id="101035">%null%</text>
+<text id="101036">%null%</text>
+<text id="101037">%null%</text>
+<text id="101038">%null%</text>
+<text id="101039">%null%</text>
+<text id="101040">&lt;?keyicon@22?&gt;: &lt;?keyActName@22?&gt;</text>
+<text id="101041">%null%</text>
+<text id="101042">%null%</text>
+<text id="101043">%null%</text>
+<text id="101044">%null%</text>
+<text id="101045">%null%</text>
+<text id="101046">%null%</text>
+<text id="101047">%null%</text>
+<text id="101048">%null%</text>
+<text id="101049">%null%</text>
+<text id="101050">&lt;?keyicon@23?&gt;: &lt;?keyActName@23?&gt;</text>
+<text id="101080">&lt;?keyicon@8?&gt;: &lt;?keyActName@8?&gt;</text>
+<text id="101081">%null%</text>
+<text id="101082">%null%</text>
+<text id="101083">%null%</text>
+<text id="101084">%null%</text>
+<text id="101085">%null%</text>
+<text id="101086">%null%</text>
+<text id="101087">%null%</text>
+<text id="101088">%null%</text>
+<text id="101089">%null%</text>
+<text id="101090">&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt; 길게 누르기: 대시</text>
+<text id="101110">타깃 고정 중 &lt;?keyControlCamera?&gt;: 타깃 변경</text>
+<text id="101111">%null%</text>
+<text id="101112">%null%</text>
+<text id="101113">%null%</text>
+<text id="101114">%null%</text>
+<text id="101115">%null%</text>
+<text id="101116">%null%</text>
+<text id="101117">%null%</text>
+<text id="101118">%null%</text>
+<text id="101119">%null%</text>
+<text id="101120">&lt;?keyicon@24?&gt;: 가드</text>
+<text id="101121">%null%</text>
+<text id="101122">%null%</text>
+<text id="101123">%null%</text>
+<text id="101124">%null%</text>
+<text id="101125">%null%</text>
+<text id="101126">%null%</text>
+<text id="101127">%null%</text>
+<text id="101128">%null%</text>
+<text id="101129">%null%</text>
+<text id="101130">소재 아이템은 아이템 제작에
+쓸 수 있다.</text>
+<text id="101150">적의 등 뒤에서 다가가 &lt;?keyicon@22?&gt;: 치명적인 일격</text>
+<text id="101170">&lt;?keyicon@27?&gt;: 각종 게이지 등 표시</text>
+<text id="101171">%null%</text>
+<text id="101172">%null%</text>
+<text id="101173">%null%</text>
+<text id="101174">%null%</text>
+<text id="101175">%null%</text>
+<text id="101176">%null%</text>
+<text id="101177">%null%</text>
+<text id="101178">%null%</text>
+<text id="101179">%null%</text>
+<text id="101180">승마 점프 중 한 번 더 &lt;?keyicon@8?&gt;: 2단 점프</text>
+<text id="201010">&lt;?keyicon@26?&gt;: &lt;?keyActName@26?&gt;
+&lt;?keyicon@18?&gt;: &lt;?keyActName@18?&gt;</text>
+<text id="201070">%null%</text>
+<text id="201100">무기는 오른손과 왼손에 3개씩
+장비할 수 있으며
+전환하면서 사용할 수 있다.
+
+또한 무기를 양손으로 들 수도 있다.
+양손 잡기를 하면 공격이 방패에
+잘 튕겨나지 않게 되며
+근력도 1.5배로 취급된다.
+
+&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: 무기 양손 잡기</text>
+<text id="301020">축복에서 쉬면 HP, FP,
+상태 이상 등이 모두 회복되며
+모든 성배병이 보충된다.
+
+단, 일부를 제외한 모든 적이
+부활한다.
+
+축복은 빛이 모이는 끝에서 발견된다.
+
+※이러한 설명은 아이템으로 획득되며
+인벤토리에서 언제든 확인할 수 있다.</text>
+<text id="301060">마술/기도는
+축복에서 기억할 수 있다.
+
+기억한 마술/기도는
+마술이라면 지팡이, 기도라면
+성인을 장비하고
+FP를 소비해서 사용할 수 있다.
+
+&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;</text>
+<text id="301130">활을 장비하고 화살을 쏠 수 있다.
+화살은 2개까지 장비 가능하며
+따로 사용할 수 있다.
+
+또한 활을 양손 잡기로 장비하고
+&lt;?keyicon@24?&gt;를 길게 눌러 정밀사격이 가능하다.
+&lt;?keyControlCamera?&gt;으로 조준한다.
+
+&lt;?keyicon@22?&gt;: 화살 1을 쏜다
+&lt;?keyicon@23?&gt;: 화살 2를 쏜다
+&lt;?keyicon@24?&gt;: 정밀사격</text>
+<text id="301131">%null%</text>
+<text id="301132">%null%</text>
+<text id="301133">%null%</text>
+<text id="301134">%null%</text>
+<text id="301135">%null%</text>
+<text id="301136">%null%</text>
+<text id="301137">%null%</text>
+<text id="301138">%null%</text>
+<text id="301139">%null%</text>
+<text id="301140">웅크리면 적이 발견하기 어려워진다.
+풀밭에서는 그 효과가 더욱 크다.
+
+적에게 발견되지 않은 상태의 공격은
+일반적인 공격보다 대미지가 크다.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;</text>
+<text id="301160">공격으로 적의 자세가 무너지기도 하며
+치명적인 일격의 기회가 된다.
+
+차지 공격 및 점프 공격은
+특히 적의 자세를 무너뜨리기 쉽다.
+
+&lt;?keyicon@23?&gt; 길게 누르기: 차지 공격
+점프 중에 &lt;?keyicon@23?&gt;: 점프 공격
+</text>
+<text id="301500">지도에서는 자신의 현 위치와
+지형이나 건축물 등의 정보를 확인할 수 있다.
+
+지도 정보는 가도 인근 석비에서
+「지도 조각」을 입수하면 갱신된다.
+
+또한 지도에서 임의의 장소에 빛 기둥을
+배치하여 탐색에 활용할 수도 있다.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;</text>
+<text id="301501">%null%</text>
+<text id="301502">%null%</text>
+<text id="301503">%null%</text>
+<text id="301504">%null%</text>
+<text id="301505">%null%</text>
+<text id="301506">%null%</text>
+<text id="301507">%null%</text>
+<text id="301508">%null%</text>
+<text id="301509">%null%</text>
+<text id="301510">축복은 원래 빛바랜 자를 인도하고
+나아갈 길을 가리키는 존재이다.
+
+그리고 현재에도 일부 축복은
+그 힘을 남겨 황금의 빛 자국으로
+길을 가리키고 있다.</text>
+<text id="301511">%null%</text>
+<text id="301512">%null%</text>
+<text id="301513">%null%</text>
+<text id="301514">%null%</text>
+<text id="301515">%null%</text>
+<text id="301516">%null%</text>
+<text id="301517">%null%</text>
+<text id="301518">%null%</text>
+<text id="301519">%null%</text>
+<text id="301520">「영마의 손가락 피리」를 사용해
+영마를 소환하고 탑승할 수 있다.
+
+영마가 사망해도 재소환할 수 있으나
+붉은 물방울의 성배병이 1개 소비된다.
+
+승마 중 다시 손가락 피리를 사용하거나
+&lt;?keyicon@0009?&gt;로 영마에서 내릴 수 있다.</text>
+<text id="301521">%null%</text>
+<text id="301522">%null%</text>
+<text id="301523">%null%</text>
+<text id="301524">%null%</text>
+<text id="301525">%null%</text>
+<text id="301526">%null%</text>
+<text id="301527">%null%</text>
+<text id="301528">%null%</text>
+<text id="301529">%null%</text>
+<text id="301530">사망하면 마지막에 방문한 축복에서
+부활한다.
+
+사망한 장소에 소지한 룬을 떨어뜨리며
+회수하기 전에 한 번 더 사망하면
+사라지고 만다.
+
+떨어진 룬이 있는 방향은
+화면 상단 나침반에 표시된다.</text>
+<text id="301531">%null%</text>
+<text id="301532">%null%</text>
+<text id="301533">%null%</text>
+<text id="301534">%null%</text>
+<text id="301535">%null%</text>
+<text id="301536">%null%</text>
+<text id="301537">%null%</text>
+<text id="301538">%null%</text>
+<text id="301539">%null%</text>
+<text id="301540">사망하면 마지막에 방문한 축복에서 부활한다.
+
+사망 장소 부근에 「마리카의 쐐기」가 있으면
+그곳에서 부활하도록 선택할 수 있다.</text>
+<text id="301541">%null%</text>
+<text id="301542">%null%</text>
+<text id="301543">%null%</text>
+<text id="301544">%null%</text>
+<text id="301545">%null%</text>
+<text id="301546">%null%</text>
+<text id="301547">%null%</text>
+<text id="301548">%null%</text>
+<text id="301549">%null%</text>
+<text id="301550">「환혼의 종」이 있으면
+뼛가루에서 다양한 영체를 소환할 수 있다.
+소환은 기본적으로 FP를 소비한다.
+
+영체는 동시에 1종류만 소환 가능하며
+멀티 플레이 중에는 소환할 수 없다.</text>
+<text id="301551">%null%</text>
+<text id="301552">%null%</text>
+<text id="301553">%null%</text>
+<text id="301554">%null%</text>
+<text id="301555">%null%</text>
+<text id="301556">%null%</text>
+<text id="301557">%null%</text>
+<text id="301558">%null%</text>
+<text id="301559">%null%</text>
+<text id="301560">틈새의 땅 각지에서 나무 열매나 꽃,
+버섯과 나비 등
+다양한 소재 아이템을 구할 수 있다.
+
+소재 아이템은 아이템 제작에
+쓸 수 있다.</text>
+<text id="301561">%null%</text>
+<text id="301562">%null%</text>
+<text id="301563">%null%</text>
+<text id="301564">%null%</text>
+<text id="301565">%null%</text>
+<text id="301566">%null%</text>
+<text id="301567">%null%</text>
+<text id="301568">%null%</text>
+<text id="301569">%null%</text>
+<text id="301570">「도구 가방」이 있으면 소재 아이템을
+사용해 다양한 아이템을 제작할 수
+있다.
+
+메인 메뉴의 「아이템 제작」에서 만든다.
+
+제작 가능한 아이템의 종류는
+「제작서」를 입수하면 늘어난다.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="301571">%null%</text>
+<text id="301572">%null%</text>
+<text id="301573">%null%</text>
+<text id="301574">%null%</text>
+<text id="301575">%null%</text>
+<text id="301576">%null%</text>
+<text id="301577">%null%</text>
+<text id="301578">%null%</text>
+<text id="301579">%null%</text>
+<text id="301580">제작 가능한 아이템 중에는
+금 간 항아리 등, 특정 그릇이
+필요한 것이 있으며
+그릇 수 이상은 제작할 수 없다.
+
+그릇 아이템은 사용하면 소비되나
+그릇 자체는 사라지지 않는다.</text>
+<text id="301581">%null%</text>
+<text id="301582">%null%</text>
+<text id="301583">%null%</text>
+<text id="301584">%null%</text>
+<text id="301585">%null%</text>
+<text id="301586">%null%</text>
+<text id="301587">%null%</text>
+<text id="301588">%null%</text>
+<text id="301589">%null%</text>
+<text id="301590">틈새의 땅 각지,
+작은 황금 나무 기슭 등에서
+결정 물방울이라 불리는 아이템을
+구할 수 있다.
+
+결정 물방울은 「영약의 성배병」에
+2개 배합 가능하며 영약의 효과를
+다양하게 커스터마이즈할 수 있다.
+
+배합은 축복에서 진행한다.</text>
+<text id="301591">%null%</text>
+<text id="301592">%null%</text>
+<text id="301593">%null%</text>
+<text id="301594">%null%</text>
+<text id="301595">%null%</text>
+<text id="301596">%null%</text>
+<text id="301597">%null%</text>
+<text id="301598">%null%</text>
+<text id="301599">%null%</text>
+<text id="301600">「숫돌 소도」가 있으면
+축복에서 「전회」를 사용하여
+무기에 전투 기술을 부여할 수 있다.
+
+전투 기술은 무기당 하나이며
+부여하면 기존 전투 기술은 해제된다.
+
+부여는 무기 종류에 따라 제한되며
+고유한 전투 기술을 가진 등 특별한
+무기에는 전투 기술 부여가 불가능하다.</text>
+<text id="301601">%null%</text>
+<text id="301602">%null%</text>
+<text id="301603">%null%</text>
+<text id="301604">%null%</text>
+<text id="301605">%null%</text>
+<text id="301606">%null%</text>
+<text id="301607">%null%</text>
+<text id="301608">%null%</text>
+<text id="301609">%null%</text>
+<text id="301610">각지에 남은 「새의 망원경」을 사용하면
+새의 시점으로 향할 곳을 관찰할 수
+있다.
+
+&lt;?keyicon@17?&gt;: 줌 인
+&lt;?keyicon@18?&gt;: 줌 아웃</text>
+<text id="301611">%null%</text>
+<text id="301612">%null%</text>
+<text id="301613">%null%</text>
+<text id="301614">%null%</text>
+<text id="301615">%null%</text>
+<text id="301616">%null%</text>
+<text id="301617">%null%</text>
+<text id="301618">%null%</text>
+<text id="301619">%null%</text>
+<text id="301620">「영기류」가 있는 곳에서 말에 타고
+점프하면 기류를 타고 크게 뛰어오른다.
+
+또한 승마 상태로 「영기류」에
+뛰어내리면 높은 곳에서도 대미지를
+입지 않는다.
+
+승마 중에 영기류에서 &lt;?keyicon@8?&gt;: 영기류 점프</text>
+<text id="301621">%null%</text>
+<text id="301622">%null%</text>
+<text id="301623">%null%</text>
+<text id="301624">%null%</text>
+<text id="301625">%null%</text>
+<text id="301626">%null%</text>
+<text id="301627">%null%</text>
+<text id="301628">%null%</text>
+<text id="301629">%null%</text>
+<text id="301630">적 집단을 격파하면 성배병이 회복한다.
+
+회복하는 성배병의 종류, 횟수는
+적 집단에 따라 다르다.
+
+다만 상한을 넘어 회복하지는 않는다.</text>
+<text id="301631">%null%</text>
+<text id="301632">%null%</text>
+<text id="301633">%null%</text>
+<text id="301634">%null%</text>
+<text id="301635">%null%</text>
+<text id="301636">%null%</text>
+<text id="301637">%null%</text>
+<text id="301638">%null%</text>
+<text id="301639">%null%</text>
+<text id="301640">물방울 스카라베는
+붉은색과 푸른색이 존재하고
+쓰러뜨리면 각각의 성배병이 회복한다.
+
+다만 상한을 넘어 회복하지는 않는다.</text>
+<text id="301641">%null%</text>
+<text id="301642">%null%</text>
+<text id="301643">%null%</text>
+<text id="301644">%null%</text>
+<text id="301645">%null%</text>
+<text id="301646">%null%</text>
+<text id="301647">%null%</text>
+<text id="301648">%null%</text>
+<text id="301649">%null%</text>
+<text id="301650">「갈고리를 부르는 손가락약」을 사용해
+소환 사인을 보이게 할 수 있다.
+
+금색 사인에서는 협력자를
+붉은 사인에서는 적대자를
+각각 소환할 수 있으며
+멀티 플레이가 개시된다.
+(당신은 「손가락의 주인」이 된다.)</text>
+<text id="301651">%null%</text>
+<text id="301652">%null%</text>
+<text id="301653">%null%</text>
+<text id="301654">%null%</text>
+<text id="301655">%null%</text>
+<text id="301656">%null%</text>
+<text id="301657">%null%</text>
+<text id="301658">%null%</text>
+<text id="301659">%null%</text>
+<text id="301660">「빛바랜 자의 갈고리 손가락」으로
+금색 소환 사인을 작성할 수 있다.
+
+사인을 통해 다른 세계의 플레이어에게
+소환되면 협력 멀티 플레이가 개시된다.
+
+당신은 협력자(갈고리 손가락)가 되며
+목적은 에어리어 보스 격파이다.
+
+소환자(손가락의 주인)가 있는 방향은
+화면 상단 나침반에 표시된다.</text>
+<text id="301661">%null%</text>
+<text id="301662">%null%</text>
+<text id="301663">%null%</text>
+<text id="301664">%null%</text>
+<text id="301665">%null%</text>
+<text id="301666">%null%</text>
+<text id="301667">%null%</text>
+<text id="301668">%null%</text>
+<text id="301669">%null%</text>
+<text id="301670">「투사의 갈고리 손가락」으로
+붉은 소환 사인을 작성할 수 있다.
+
+사인을 통해 다른 세계의 플레이어에게
+소환되면 적대 멀티 플레이가 개시된다.
+
+당신은 적대자(투사)가 되며
+목적은 「손가락의 주인」 격파이다.</text>
+<text id="301671">%null%</text>
+<text id="301672">%null%</text>
+<text id="301673">%null%</text>
+<text id="301674">%null%</text>
+<text id="301675">%null%</text>
+<text id="301676">%null%</text>
+<text id="301677">%null%</text>
+<text id="301678">%null%</text>
+<text id="301679">%null%</text>
+<text id="301680">「문드러진 피손가락」 등으로
+다른 플레이어의 세계에
+침입을 시도할 수 있다.
+
+침입에 성공하면
+침입 멀티 플레이가 개시된다.
+
+당신은 침입자(피 묻은 손가락)이며
+목적은 「손가락의 주인」 격파이다.
+
+손가락의 주인이 근처에 있다면
+방향이 화면 상단 나침반에 표시된다.</text>
+<text id="301681">%null%</text>
+<text id="301682">%null%</text>
+<text id="301683">%null%</text>
+<text id="301684">%null%</text>
+<text id="301685">%null%</text>
+<text id="301686">%null%</text>
+<text id="301687">%null%</text>
+<text id="301688">%null%</text>
+<text id="301689">%null%</text>
+<text id="301690">각지에 있는 순교자 우상은
+사인 대기소이다.
+
+작은 우상을 사용한 협력 사인,
+적대 사인은 사인 대기소에 집적되기에
+다른 플레이어를 소환하기 쉬운 곳이다.</text>
+<text id="302000">「숫돌 소도」가 있으면
+축복에서 「전회」를 사용하여
+무기에 속성을 부여할 수 있다.
+
+부여된 속성에 따라 그 무기의
+공격력 속성, 능력 보정 등이
+변화한다.
+
+부여는 무기 종류에 따라 제한되며
+고유한 전투 기술을 가진 등 특별한
+무기에는 속성 부여가 불가능하다.</text>
+<text id="302380">「푸른 비문자 반지」를 사용하면
+다른 세계에서 요청이 있었을 때
+그에 응해 소환되는 상태가 된다.
+
+사냥꾼으로 소환되면
+사냥꾼 멀티 플레이가 개시된다.
+목적은 침입자 격파이다.
+
+소환자(손가락의 주인)가 있는 방향은
+화면 상단 나침반에 표시된다.</text>
+<text id="302381">%null%</text>
+<text id="302382">%null%</text>
+<text id="302383">%null%</text>
+<text id="302384">%null%</text>
+<text id="302385">%null%</text>
+<text id="302386">%null%</text>
+<text id="302387">%null%</text>
+<text id="302388">%null%</text>
+<text id="302389">%null%</text>
+<text id="302390">뼛가루를 사용한 영체 소환은
+환혼비 주변에서만 행할 수 있다.
+
+환혼비 주변, 영체 소환이 가능한
+장소에서는 화면 왼쪽에 비문 아이콘이
+표시된다.</text>
+<text id="302391">%null%</text>
+<text id="302392">%null%</text>
+<text id="302393">%null%</text>
+<text id="302394">%null%</text>
+<text id="302395">%null%</text>
+<text id="302396">%null%</text>
+<text id="302397">%null%</text>
+<text id="302398">%null%</text>
+<text id="302399">%null%</text>
+<text id="302400">적의 공격을 가드한 직후에
+카운터 공격이 가능하다.
+
+가드 카운터는 적의 자세를 무너뜨리기
+쉽다.
+
+공격 가드 직후에 &lt;?keyicon@23?&gt;: 가드 카운터</text>
+<text id="302401">%null%</text>
+<text id="302402">%null%</text>
+<text id="302403">%null%</text>
+<text id="302404">%null%</text>
+<text id="302405">%null%</text>
+<text id="302406">%null%</text>
+<text id="302407">%null%</text>
+<text id="302408">%null%</text>
+<text id="302409">%null%</text>
+<text id="302410">왼손 무기, 혹은 양손 잡기용 무기로
+적의 공격을 가드할 수 있다.
+
+특히 방패로 가드하면 효과가 크다.
+
+가드는 스태미나를 소비하고
+스태미나가 다하면 자세가 무너진다.
+
+&lt;?keyicon@24?&gt;: 가드</text>
+<text id="302411">%null%</text>
+<text id="302412">%null%</text>
+<text id="302413">%null%</text>
+<text id="302414">%null%</text>
+<text id="302415">%null%</text>
+<text id="302416">%null%</text>
+<text id="302417">%null%</text>
+<text id="302418">%null%</text>
+<text id="302419">%null%</text>
+<text id="302420">「하얀 비문자 반지」를 사용하면
+침입자가 침입하였을 때
+자동으로 다른 세계에
+사냥꾼 소환을 요청하는 상태가 된다.
+(침입당한 후에 사용할 수도 있다.)
+
+요청에 성공하면 사냥꾼이 소환되며
+그 목적은 침입자 격파이다.</text>
+<text id="302421">%null%</text>
+<text id="302422">%null%</text>
+<text id="302423">%null%</text>
+<text id="302424">%null%</text>
+<text id="302425">%null%</text>
+<text id="302426">%null%</text>
+<text id="302427">%null%</text>
+<text id="302428">%null%</text>
+<text id="302429">%null%</text>
+<text id="302430">전투 기술이란 무기가 가진
+특수한 기술이다.
+
+강력한 공격부터 일시적인
+특수 효과까지 폭넓고
+사용하면 FP가 소비된다.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;</text>
+<text id="302431">%null%</text>
+<text id="302432">%null%</text>
+<text id="302433">%null%</text>
+<text id="302434">%null%</text>
+<text id="302435">%null%</text>
+<text id="302436">%null%</text>
+<text id="302437">%null%</text>
+<text id="302438">%null%</text>
+<text id="302439">%null%</text>
+<text id="302440">지도에서 이미 발견한 축복을 선택하여
+그곳으로 빠르게 이동할 수 있다.
+
+그러나 일부 던전 등에서는
+이용할 수 없는 경우가 있다.</text>
+<text id="302441">%null%</text>
+<text id="302442">%null%</text>
+<text id="302443">%null%</text>
+<text id="302444">%null%</text>
+<text id="302445">%null%</text>
+<text id="302446">%null%</text>
+<text id="302447">%null%</text>
+<text id="302448">%null%</text>
+<text id="302449">%null%</text>
+<text id="302450">작업대에서 「단석」과 룬을 소비하여
+무기를 강화할 수 있다.
+
+틈새의 땅 어딘가에서 대장장이와 만나면
+더 윗 단계로 강화할 수도 있다.</text>
+<text id="302451">%null%</text>
+<text id="302452">%null%</text>
+<text id="302453">%null%</text>
+<text id="302454">%null%</text>
+<text id="302455">%null%</text>
+<text id="302456">%null%</text>
+<text id="302457">%null%</text>
+<text id="302458">%null%</text>
+<text id="302459">%null%</text>
+<text id="302460">원탁은 축복에 이끌린 빛바랜 자가
+모이는 장소이며
+부전의 약정으로 전투 행위가 금지된다.
+(원탁 아이콘은
+부전의 약정을 나타낸다.)
+
+이 세계가 아닌 어딘가에 있으며
+축복의 이동으로만 오갈 수 있다.
+(지도로도 이동할 수 있다.)
+
+&lt;?keyicon@29?&gt;：&lt;?keyActName@29?&gt;</text>
+<text id="302461">%null%</text>
+<text id="302462">%null%</text>
+<text id="302463">%null%</text>
+<text id="302464">%null%</text>
+<text id="302465">%null%</text>
+<text id="302466">%null%</text>
+<text id="302467">%null%</text>
+<text id="302468">%null%</text>
+<text id="302469">%null%</text>
+<text id="302470">지코는 정주를 위해
+잠의 짙은 안개를 구한다.
+
+깊이 잠든 자를 찾아
+트리나의 수정 구슬을 사용하면
+잠의 짙은 안개를 베낄 수 있다.
+
+그냥 잠든 자와 다르게
+깊게 잠든 자는 안개가 낀 것처럼 보인다.
+
+깊게 잠든 자에게 다가가: &lt;?keyicon@27?&gt;: 
+짙은 안개를 베낀다</text>
+<text id="302471">%null%</text>
+<text id="302472">%null%</text>
+<text id="302473">%null%</text>
+<text id="302474">%null%</text>
+<text id="302475">%null%</text>
+<text id="302476">%null%</text>
+<text id="302477">%null%</text>
+<text id="302478">%null%</text>
+<text id="302479">%null%</text>
+<text id="302480">메인 메뉴의 「파우치」에 6가지 아이템을
+장비하여 사용할 수 있다.
+
+그 중 4개의 아이템은
+메인 메뉴를 열지 않아도 사용 가능하다.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: 파우치 1의 아이템을 사용
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: 파우치 2의 아이템을 사용
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: 파우치 3의 아이템을 사용
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: 파우치 4의 아이템을 사용</text>
+<text id="302481">%null%</text>
+<text id="302482">%null%</text>
+<text id="302483">%null%</text>
+<text id="302484">%null%</text>
+<text id="302485">%null%</text>
+<text id="302486">%null%</text>
+<text id="302487">%null%</text>
+<text id="302488">%null%</text>
+<text id="302489">%null%</text>
+<text id="302490">구르기 또는 백스텝으로
+적의 공격을 회피할 수 있다.
+
+단 둘 다 스태미나를 소비한다.
+
+&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: 구르기
+&lt;?keyicon@7?&gt;: 백스텝</text>
+<text id="302491">%null%</text>
+<text id="302492">%null%</text>
+<text id="302493">%null%</text>
+<text id="302494">%null%</text>
+<text id="302495">%null%</text>
+<text id="302496">%null%</text>
+<text id="302497">%null%</text>
+<text id="302498">%null%</text>
+<text id="302499">%null%</text>
+<text id="302500">파편의 군주를 쓰러뜨려 얻은
+거대한 룬은 은혜의 힘을 잃었으며
+각지의 신수탑에서 그 힘을
+다시 얻을 수 있다.
+
+가야 할 신수탑은
+거대한 룬 아이템에 기록되어 있다.</text>
+<text id="302501">%null%</text>
+<text id="302502">%null%</text>
+<text id="302503">%null%</text>
+<text id="302504">%null%</text>
+<text id="302505">%null%</text>
+<text id="302506">%null%</text>
+<text id="302507">%null%</text>
+<text id="302508">%null%</text>
+<text id="302509">%null%</text>
+<text id="302510">이 너머의 구멍으로 뛰어내리면
+「배움의 동굴」이 있다.
+
+배움의 동굴에서는
+기본적인 액션과 조작법을 익힐 수
+있으며, 틈새의 땅에서 모험할 때
+유용한 지식도 얻을 수 있다.</text>
+<text id="309000">협력, 침입, 적대 멀티 플레이에는
+각각에 대응하는 아이템이 필요하다.
+
+멀티 플레이용 아이템은 메인 메뉴의
+「멀티 플레이」에서 확인 가능하며
+그곳에서 직접 사용도 가능하다.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;</text>
+<text id="402000">장비 메뉴에서는 무기, 화살, 볼트, 방어구,
+탈리스만, 아이템을 장비할 수 있다.
+
+무기는 왼손과 오른손에 3개씩 장비 가능하며,
+어느 손에 장비하는가에 따라 액션이 변화한다.</text>
+<text id="402001">%null%</text>
+<text id="402002">%null%</text>
+<text id="402003">%null%</text>
+<text id="402004">%null%</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">아이템 제작 메뉴에서는
+소재 아이템을 사용하여 다양한 아이템을 제작할 수 있다.
+
+제작 가능한 아이템의 종류는
+「제작서」를 입수하면 늘어난다.</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">인벤토리 메뉴에서는
+소지한 아이템을 확인할 수 있으며
+그것들을 내려놓거나 파기할 수 있다.
+
+또한 도구는 이 메뉴에서 사용할 수 있다.
+
+&lt;?keyicon@31?&gt;: 큰 이미지와 설명문 표시
+&lt;?keyicon@30?&gt;: 캐릭터 데이터 표시 전환</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">스테이터스 메뉴에서는
+자신의 레벨, 능력치, 기초력 등을 확인할 수 있다.
+
+공격력과 방어력, 내성치 등은
+장비 중인 무기, 방어구의 수치도 반영된다.</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">메시지 메뉴에서는
+그곳에 메시지를 쓸 수 있다.
+메시지는 다른 세계로 전파된다.
+
+메시지의 형식을 전환하여
+더 복잡한 메시지를 쓸 수 있으며
+제스처를 첨부할 수도 있다.
+
+다른 플레이어의 메시지를 평가할 수 있으며
+자신의 메시지가 평가를 받을 시 HP가 회복된다.</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">멀티 플레이 메뉴에서는
+다양한 멀티 플레이용 아이템을 사용할 수 있다.
+
+또한 그룹 암호를 설정하면
+같은 암호를 설정한 플레이어의 메시지나
+소환 사인, 혈흔, 환영 등이 우선적으로 표시된다.
+
+멀티 플레이 암호를 설정하면
+같은 암호를 설정한 플레이어와만 매칭된다.
+단 침입 멀티 플레이에는 기능하지 않는다.</text>
+<text id="402100">지도 메뉴에서는 자신의 현재 위치나
+지형, 건축물 등의 정보를 확인할 수 있다.
+
+임의의 장소에 빛 기둥을 설치해
+탐색에 참고로 삼을 수도 있다.
+
+또한 이미 발견한 축복을 선택하여
+그곳에 바로 이동할 수 있다.
+단, 일부 던전 등에서는
+이동하지 못할 수 있다.</text>
+<text id="402200">레벨 업 메뉴에서는
+룬을 소비하여 능력치를 올릴 수 있다.
+
+능력치를 1 올리면 레벨도 1 오르며
+레벨이 오를수록 필요한 소비 룬이 많아진다.</text>
+<text id="402201">%null%</text>
+<text id="402202">%null%</text>
+<text id="402203">%null%</text>
+<text id="402204">%null%</text>
+<text id="402205">%null%</text>
+<text id="402206">%null%</text>
+<text id="402207">%null%</text>
+<text id="402208">%null%</text>
+<text id="402209">%null%</text>
+<text id="402210">성배병의 사용 횟수를 늘릴 수 있다.
+
+사용 횟수를 늘리려면 성배의 조각이 필요하다.</text>
+<text id="402211">%null%</text>
+<text id="402212">%null%</text>
+<text id="402213">%null%</text>
+<text id="402214">%null%</text>
+<text id="402215">%null%</text>
+<text id="402216">%null%</text>
+<text id="402217">%null%</text>
+<text id="402218">%null%</text>
+<text id="402219">%null%</text>
+<text id="402220">성배병의 회복량을 늘릴 수 있다.
+
+회복량을 늘리려면 황금 종자가 필요하다.</text>
+<text id="402221">%null%</text>
+<text id="402222">%null%</text>
+<text id="402223">%null%</text>
+<text id="402224">%null%</text>
+<text id="402225">%null%</text>
+<text id="402226">%null%</text>
+<text id="402227">%null%</text>
+<text id="402228">%null%</text>
+<text id="402229">%null%</text>
+<text id="402230">이 메뉴에서는
+성배병 사용 횟수를 분배할 수 있다.
+
+성배병 전체의 최대 사용 횟수를
+HP를 회복하는 붉은 물방울의 성배병과
+FP를 회복하는 푸른 물방울의 성배병에 분배한다.</text>
+<text id="402231">%null%</text>
+<text id="402232">%null%</text>
+<text id="402233">%null%</text>
+<text id="402234">%null%</text>
+<text id="402235">%null%</text>
+<text id="402236">%null%</text>
+<text id="402237">%null%</text>
+<text id="402238">%null%</text>
+<text id="402239">%null%</text>
+<text id="402240">기억 메뉴에서는 마술과 기도를 기억할 수 있다.
+
+기억한 마술/기도는
+마술이라면 지팡이를, 기도라면 성인을 장비하고
+FP를 소비하여 사용할 수 있다.
+
+기억 가능한 최대 수는 기억 슬롯으로 정해지며
+「메모리 스톤」으로 늘릴 수 있다.</text>
+<text id="402241">%null%</text>
+<text id="402242">%null%</text>
+<text id="402243">%null%</text>
+<text id="402244">%null%</text>
+<text id="402245">%null%</text>
+<text id="402246">%null%</text>
+<text id="402247">%null%</text>
+<text id="402248">%null%</text>
+<text id="402249">%null%</text>
+<text id="402250">이 메뉴에서는
+소지한 아이템을 나무상자에 보관하거나
+보관한 아이템을 꺼낼 수 있다.
+
+소지 상한을 넘겨서 아이템을 획득하면
+자동으로 나무상자에 보관된다.</text>
+<text id="402300">거래 메뉴에서는 룬을 소비하여
+아이템을 구매할 수 있다.
+
+또한 아이템을 매각하여
+룬을 얻을 수도 있다.
+
+상인에 따라 판매되는 아이템이 다르다.</text>
+<text id="402301">%null%</text>
+<text id="402302">%null%</text>
+<text id="402303">%null%</text>
+<text id="402304">%null%</text>
+<text id="402305">%null%</text>
+<text id="402306">%null%</text>
+<text id="402307">%null%</text>
+<text id="402308">%null%</text>
+<text id="402309">%null%</text>
+<text id="402310">무기나 방패를 강화할 수 있다.
+
+강화에는 강화 소재가 필요하다.
+
+무기 레벨이 오를수록
+강화에 필요한 소재의 랭크가 올라간다.</text>
+<text id="402311">%null%</text>
+<text id="402312">%null%</text>
+<text id="402313">%null%</text>
+<text id="402314">%null%</text>
+<text id="402315">%null%</text>
+<text id="402316">%null%</text>
+<text id="402317">%null%</text>
+<text id="402318">%null%</text>
+<text id="402319">%null%</text>
+<text id="402320">전회 메뉴에서는 「전회」를 사용하여
+무기에 새로운 전투 기술과 속성을 부여할 수 있다.
+
+전투 기술은 무기별로 1개이며
+부여할 경우 기존 전투 기술은 사라진다.
+또한 부여된 속성에 따라 그 무기의
+공격력 속성, 능력 보정 등이 변화한다.
+
+부여는 무기 종류에 따라 제한되며
+고유 전투 기술을 가지는 등 특별한 무기에는
+전회를 사용한 전투 기술/속성 부여가 불가능하다.</text>
+<text id="402321">%null%</text>
+<text id="402322">%null%</text>
+<text id="402323">%null%</text>
+<text id="402324">%null%</text>
+<text id="402325">%null%</text>
+<text id="402326">%null%</text>
+<text id="402327">%null%</text>
+<text id="402328">%null%</text>
+<text id="402329">%null%</text>
+<text id="402330">조령 메뉴에서는
+「묘 은방울꽃」과 룬을 소비해
+뼛가루로 소환하는 영체를 강화한다.
+
+또한 이름 있는 영체의 강화에는
+「영혼 묘 은방울꽃」이 필요하다.</text>
+<text id="402331">%null%</text>
+<text id="402332">%null%</text>
+<text id="402333">%null%</text>
+<text id="402334">%null%</text>
+<text id="402335">%null%</text>
+<text id="402336">%null%</text>
+<text id="402337">%null%</text>
+<text id="402338">%null%</text>
+<text id="402339">%null%</text>
+<text id="402340">용찬 마법을 습득할 수 있다.
+
+용찬 마법을 습득하려면 용의 심장을 얻어야 한다.</text>
+<text id="402341">%null%</text>
+<text id="402342">%null%</text>
+<text id="402343">%null%</text>
+<text id="402344">%null%</text>
+<text id="402345">%null%</text>
+<text id="402346">%null%</text>
+<text id="402347">%null%</text>
+<text id="402348">%null%</text>
+<text id="402349">%null%</text>
+<text id="402350">거대한 룬 메뉴에서는
+다시 힘을 얻은 거대한 룬을
+장비할 수 있다.
+
+장비한 거대한 룬은
+「룬의 호」를 사용하면
+위대한 은혜를 가져온다.</text>
+<text id="402351">%null%</text>
+<text id="402352">%null%</text>
+<text id="402353">%null%</text>
+<text id="402354">%null%</text>
+<text id="402355">%null%</text>
+<text id="402356">%null%</text>
+<text id="402357">%null%</text>
+<text id="402358">%null%</text>
+<text id="402359">%null%</text>
+<text id="402360">이 메뉴에서는 영약의 성배병에
+2개의 결정 물방울을 배합할 수 있다.
+
+배합하면 영약은 다양한 특별 효과를 준다.</text>
+<text id="402361">%null%</text>
+<text id="402362">%null%</text>
+<text id="402363">%null%</text>
+<text id="402364">%null%</text>
+<text id="402365">%null%</text>
+<text id="402366">%null%</text>
+<text id="402367">%null%</text>
+<text id="402368">%null%</text>
+<text id="402369">%null%</text>
+<text id="402370">다시 태어나기 메뉴에서는
+「물방울 유생」을 소비해
+레벨 업을 처음부터 다시 할 수 있다.
+
+최종적인 레벨을 낮게 할 수는 없으며
+능력치를 출신 초기치보다 아래로
+만들 수도 없다.</text>
+<text id="402371">%null%</text>
+<text id="402372">%null%</text>
+<text id="402373">%null%</text>
+<text id="402374">%null%</text>
+<text id="402375">%null%</text>
+<text id="402376">%null%</text>
+<text id="402377">%null%</text>
+<text id="402378">%null%</text>
+<text id="402379">%null%</text>
+<text id="402380">추억의 힘 메뉴에서는
+추억에서 그 주인의 힘을 얻을 수 있다.
+
+하나의 추억에서 하나의 힘을 얻을 수
+있으며 힘을 얻으면 추억은 사라진다.</text>
+<text id="402381">%null%</text>
+<text id="402382">%null%</text>
+<text id="402383">%null%</text>
+<text id="402384">%null%</text>
+<text id="402385">%null%</text>
+<text id="402386">%null%</text>
+<text id="402387">%null%</text>
+<text id="402388">%null%</text>
+<text id="402389">%null%</text>
+<text id="402390">작업대 메뉴에서는
+「단석」과 룬을 소비하여 무기를 강화할 수 있다.
+
+작업대로 강화할 경우 「+3」이 상한이다.
+
+틈새의 땅 어딘가에서 대장장이와 만나면
+더 윗 단계로 강화할 수도 있다.</text>
+<text id="402391">%null%</text>
+<text id="402392">%null%</text>
+<text id="402393">%null%</text>
+<text id="402394">%null%</text>
+<text id="402395">%null%</text>
+<text id="402396">%null%</text>
+<text id="402397">%null%</text>
+<text id="402398">%null%</text>
+<text id="402399">%null%</text>
+<text id="402400">추억 복제 메뉴에서는
+전에 입수한 추억을 복제할 수 있다.
+(이미 주인의 힘을 얻은 것도 포함)
+
+복제는 한 영묘당 한 번만 가능하다.</text>
+</entries>
+</fmg>

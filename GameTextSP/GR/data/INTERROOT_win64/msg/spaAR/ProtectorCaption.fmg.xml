@@ -1,0 +1,2359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200">%null%</text>
+<text id="1000">%null%</text>
+<text id="1100">%null%</text>
+<text id="1200">%null%</text>
+<text id="1300">%null%</text>
+<text id="1400">%null%</text>
+<text id="1500">%null%</text>
+<text id="1600">%null%</text>
+<text id="1700">%null%</text>
+<text id="1800">%null%</text>
+<text id="1900">%null%</text>
+<text id="2000">%null%</text>
+<text id="2100">%null%</text>
+<text id="2200">%null%</text>
+<text id="2300">%null%</text>
+<text id="2400">%null%</text>
+<text id="2500">%null%</text>
+<text id="2600">%null%</text>
+<text id="2700">%null%</text>
+<text id="2800">%null%</text>
+<text id="2900">%null%</text>
+<text id="3000">%null%</text>
+<text id="3100">%null%</text>
+<text id="3200">%null%</text>
+<text id="3300">%null%</text>
+<text id="3400">%null%</text>
+<text id="3500">%null%</text>
+<text id="3600">%null%</text>
+<text id="3700">%null%</text>
+<text id="3800">%null%</text>
+<text id="3900">%null%</text>
+<text id="4000">%null%</text>
+<text id="4100">%null%</text>
+<text id="4200">%null%</text>
+<text id="4300">%null%</text>
+<text id="4400">%null%</text>
+<text id="4500">%null%</text>
+<text id="4600">%null%</text>
+<text id="4700">%null%</text>
+<text id="4800">%null%</text>
+<text id="4900">%null%</text>
+<text id="5000">%null%</text>
+<text id="10000">Cabeza descubierta sin armadura equipada.</text>
+<text id="10100">Torso descubierto sin armadura equipada.</text>
+<text id="10200">Brazos descubiertos sin armadura equipada.</text>
+<text id="10300">Piernas descubiertas sin armadura equipada.</text>
+<text id="40000">Yelmo de hierro oxidado en los bordes.
+
+La tela que cubre la boca y el cuello ofrece cierta resistencia al veneno y otros elementos irritantes.</text>
+<text id="40100">Armadura reforzada con pequeñas placas de metal.
+
+La capa que cubre los hombros está hecha con cuero de lagarto pétreo y otorga una gran protección contra el fuego.</text>
+<text id="40200">Guanteletes de hierro corrientes.</text>
+<text id="40300">Pantalones de cuero bien fabricados.
+
+La parte inferior de las piernas está atada con un cordón para facilitar el movimiento.</text>
+<text id="50000">Yelmo de los mercenarios de Kaiden.
+
+Se dice que estos mercenarios, toscos y temerarios, bajaron de las montañas del gélido norte. Son expertos en luchar a caballo.
+Kaiden es el nombre de su asentamiento natal.</text>
+<text id="50100">Armadura de los mercenarios de Kaiden.
+Hecha con piel de lobo blanco, que los protege del frío.
+
+Se dice que estos mercenarios toscos y temerarios bajaron de las montañas del gélido norte. Son expertos en luchar a caballo.
+Kaiden es el nombre de su asentamiento natal.</text>
+<text id="50200">Guanteletes de los mercenarios de Kaiden.
+
+Se dice que estos mercenarios toscos y temerarios bajaron de las montañas del gélido norte. Son expertos en luchar a caballo.
+Kaiden es el nombre de su asentamiento natal.</text>
+<text id="50300">Pantalones de los mercenarios de Kaiden.
+
+Se dice que estos mercenarios toscos y temerarios bajaron de las montañas del gélido norte. Son expertos en luchar a caballo.
+Kaiden es el nombre de su asentamiento natal.</text>
+<text id="60000">Yelmo de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+Desde que nacen, los caballeros dracos no dicen ni una palabra. Pasan sus vidas buscando la fuerza de los dragones, por su sublime belleza y el respeto que inspiran.</text>
+<text id="60100">Armadura de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+La capa está elaborada con una membrana de ala de dragón.</text>
+<text id="60200">Guanteletes de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+Desde que nacen, los caballeros dracos no dicen ni una palabra. Pasan sus vidas buscando la fuerza de los dragones, por su sublime belleza y el respeto que inspiran.</text>
+<text id="60300">Grebas de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+Desde que nacen, los caballeros dracos no dicen ni una palabra. Pasan sus vidas buscando la fuerza de los dragones, por su sublime belleza y el respeto que inspiran.</text>
+<text id="61000">Yelmo de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+Desde que nacen, los caballeros dracos no dicen ni una palabra. Pasan sus vidas buscando la fuerza de los dragones, por su sublime belleza y el respeto que inspiran.</text>
+<text id="61100">Armadura de hierro negro que usan los caballeros dracos.
+Muestra el botín de un dragón capturado a modo de símbolo de orgullo: como cazador de dragones y como partícipe de la comunión.
+
+Desde que nacen, los caballeros dracos no dicen ni una palabra. Pasan sus vidas buscando la fuerza de los dragones, por su sublime belleza y el respeto que inspiran.</text>
+<text id="80000">Yelmo que usa Istvan, el Viejo Caballero.
+El metal corroído está reforzado con escamas duras como la roca, por lo que es muy efectivo contra ataques no físicos.
+
+Istvan es uno de los pocos Tiznados marchitos que sobreviven hasta el día de hoy.</text>
+<text id="80100">Armadura que usa Istvan, el Viejo Caballero.
+El metal corroído está reforzado con escamas duras como la roca, por lo que es muy efectiva contra ataques no físicos.
+
+Istvan es uno de los pocos Tiznados marchitos que sobreviven hasta el día de hoy.</text>
+<text id="80200">Guanteletes que usa Istvan, el Viejo Caballero.
+El metal corroído está reforzado con escamas duras como la roca, por lo que es muy efectivo contra ataques no físicos.
+
+Istvan es uno de los pocos Tiznados marchitos que sobreviven hasta el día de hoy.</text>
+<text id="80300">Grebas que usa Istvan, el Viejo Caballero.
+El metal corroído está reforzado con escamas duras como la roca, por lo que es muy efectiva contra ataques no físicos.
+
+Istvan es uno de los pocos Tiznados marchitos que sobreviven hasta el día de hoy.</text>
+<text id="81100">Armadura que usa Istvan, el Viejo Caballero.
+El metal corroído está reforzado con escamas duras como la roca, por lo que es muy efectiva contra ataques no físicos.
+
+Istvan es uno de los pocos Tiznados marchitos que sobreviven hasta el día de hoy.</text>
+<text id="90000">Capucha de un perfumista de la capital de Terrárbol.
+
+Otrora, los perfumistas eran muy respetados
+y se los consideraba boticarios beatos.
+Pero, en los campos de batalla durante la Devastación,
+no tuvieron más que ofrecer sino
+remedios a cambio de venenos y explosivos.</text>
+<text id="90100">Túnica de un perfumista de la capital de Terrárbol.
+
+El grueso delantal bordado con una imagen del Terrárbol demuestra el dominio de las artes medicinales. Su peso simboliza la responsabilidad y el orgullo.</text>
+<text id="90200">Guantes de un perfumista de la capital de Terrárbol.
+
+Otrora, se respetaba mucho a los perfumistas y se los consideraba boticarios beatos. Pero, en los campos de batalla durante la Devastación, no tuvieron más que ofrecer sino aromas a cambio de venenos y explosivos.</text>
+<text id="90300">Sarong de un perfumista de la capital de Terrárbol.
+
+Otrora, se respetaba mucho a los perfumistas y se los consideraba boticarios beatos. Pero, en los campos de batalla durante la Devastación, no tuvieron más que ofrecer sino aromas a cambio de venenos y explosivos.</text>
+<text id="91100">Túnica de un perfumista de la capital de Terrárbol.
+
+El grueso delantal bordado con una imagen del Terrárbol demuestra el dominio de las artes medicinales. Su peso simboliza la responsabilidad y el orgullo.</text>
+<text id="100000">Sombrero de un perfumista viajero sin renombre.
+
+Se relaciona con un curandero, y se dice que está en busca de nuevos aromas y jardines florales con la esperanza de tratar a los malnacidos, los aojos y todo aquello que se considere impuro.</text>
+<text id="100100">Vestimenta de un perfumista viajero sin renombre.
+
+El grueso delantal, insignia de todo perfumista, fue reemplazado por uno más simple, hecho de cuero suave.</text>
+<text id="100200">Guantes de un perfumista viajero sin renombre.
+
+Se relaciona con un curandero, y se dice que está en busca de nuevos aromas y jardines florales con la esperanza de tratar a los malnacidos, los aojos y todo aquello que se considere impuro.</text>
+<text id="100300">Pantalón bombacho de un perfumista viajero sin renombre.
+
+Se relaciona con un curandero, y se dice que está en busca de nuevos aromas y jardines florales con la esperanza de tratar a los malnacidos, los aojos y todo aquello que se considere impuro.</text>
+<text id="101100">Vestimenta de un perfumista viajero sin renombre.
+
+El grueso delantal, insignia de todo perfumista, fue reemplazado por uno más simple, hecho de cuero suave.</text>
+<text id="120000">El sombrero puntiagudo de Alberich Lengua Loca, signo de un practicante profano.
+
+Engastado con destellitas rojas, se dice que está formado por la sangre de los sacrificios. Fortalece la hechicería de espinas.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="120100">Túnica de Alberich Lengua Loca.
+
+Engastado con destellitas rojas, se dice que está formado por la sangre de los sacrificios. Fortalece la hechicería de espinas.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="120200">Brazales de Alberich Lengua Loca.
+
+Engastado con destellitas rojas, se dice que está formado por la sangre de los sacrificios. Fortalece la hechicería de espinas.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="120300">Pantalones de Alberich Lengua Loca.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="121000">El sombrero puntiagudo de Alberich Lengua Loca, signo de un practicante profano.
+
+Engastado con destellitas rojas, se dice que está formado por la sangre de los sacrificios. Fortalece la hechicería de espinas.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="121100">Túnica de Alberich Lengua Loca.
+
+Alberich era un hechicero pagano distante pero perturbado, quien se cree que se volvió loco por las lenguas burlonas durante su servicio en la Mesa Redonda, hace mucho tiempo.</text>
+<text id="130000">Sombrero puntiagudo del hechicero de destellita Rogier, signo de un practicante profano. Fortalece las habilidades de hechicería con destellita.
+
+Durante toda su vida, Rogier mantuvo un total desinterés. Nadie notó la ira, la pena, el remordimiento ni el miedo que lo acompañaban.</text>
+<text id="130100">Atavío de viaje del hechicero de destellita Rogier, adornado con un intrincado y aristocrático diseño. Fortalece las habilidades de hechicería con destellita.
+
+Durante toda su vida, Rogier mantuvo un total desinterés. Nadie notó la ira, la pena, el remordimiento ni el miedo que lo acompañaban.</text>
+<text id="130200">Guantes del hechicero de destellita Rogier, adornados con un intrincado y aristocrático diseño. Fortalecen las habilidades de hechicería con destellita.
+
+Durante toda su vida, Rogier mantuvo un total desinterés. Nadie notó la ira, la pena, el remordimiento ni el miedo que lo acompañaban.</text>
+<text id="130300">Pantalones del hechicero de destellita Rogier, adornados con un intrincado y aristocrático diseño. Fortalecen las habilidades de hechicería con destellita.
+
+Durante toda su vida, Rogier mantuvo un total desinterés. Nadie notó la ira, la pena, el remordimiento ni el miedo que lo acompañaban.</text>
+<text id="131100">Atavío de viaje del hechicero de destellita Rogier, adornado con un intrincado y aristocrático diseño. Fortalece las habilidades de hechicería con destellita.
+
+Durante toda su vida, Rogier mantuvo un total desinterés. Nadie notó la ira, la pena, el remordimiento ni el miedo que lo acompañaban.</text>
+<text id="140000">Yelmo del gran Tragoth el Cornudo, adornado con el diseño de un toro-cabra dorado. Proporciona gran aplomo.
+
+Tragoth es un caballero reconocido por su ayuda. Innumerables Tiznados que enfrentaban la adversidad en las Tierras Intermedias sobrevivieron solo gracias a la ayuda del gran Tragoth.</text>
+<text id="140100">Armadura del gran Tragoth el Cornudo. Cubre a quien la usa con un par de cuernos gigantes, lo que otorga un gran aplomo.
+
+Tragoth es un caballero reconocido por su ayuda. Innumerables Tiznados que enfrentaban la adversidad en las Tierras Intermedias sobrevivieron solo gracias a la ayuda del gran Tragoth.</text>
+<text id="140200">Guanteletes del gran Tragoth el Cornudo, adornados con el diseño de un toro-cabra dorado. Proporcionan gran aplomo.
+
+Tragoth es un caballero reconocido por su ayuda. Innumerables Tiznados que enfrentaban la adversidad en las Tierras Intermedias sobrevivieron solo gracias a la ayuda del gran Tragoth.</text>
+<text id="140300">Grebas del gran Tragoth el Cornudo, adornadas con el diseño de un toro-cabra dorado. Proporcionan gran aplomo.
+
+Tragoth es un caballero reconocido por su ayuda. Innumerables Tiznados que enfrentaban la adversidad en las Tierras Intermedias sobrevivieron solo gracias a la ayuda del gran Tragoth.</text>
+<text id="150000">Kasa de hierro del hombre que se hace llamar Shabriri.
+Su diseño busca imitar el sombrero de paja tejida que se usa en los Juncales.
+
+El hombre, antes conocido como Yura, guardaba a una mujer en lo más profundo de su corazón.</text>
+<text id="150100">Armadura del hombre que se hace llamar Shabriri.
+Extremadamente funcional y muy desgastada.
+
+El hombre, antes conocido como Yura, guardaba a una mujer en lo más profundo de su corazón.</text>
+<text id="150200">Guanteletes del hombre que se hace llamar Shabriri.
+Extremadamente funcionales y muy desgastados.
+
+El hombre, antes conocido como Yura, guardaba a una mujer en lo más profundo de su corazón.</text>
+<text id="150300">Grebas del hombre que se hace llamar Shabriri.
+Extremadamente funcionales y muy desgastadas.
+
+El hombre, antes conocido como Yura, guardaba a una mujer en lo más profundo de su corazón.</text>
+<text id="151100">Armadura del hombre que se hace llamar Shabriri.
+Extremadamente funcional y muy desgastada.
+
+El hombre, antes conocido como Yura, guardaba a una mujer en lo más profundo de su corazón.</text>
+<text id="160000">Capa con capucha rústica de color marrón.
+
+El cuello de ramas afiladas indica que quienes la usan fueron acusados de delitos menores.</text>
+<text id="160100">Vestimenta confeccionada con un material rústico.
+Los usan los Tiznados míseros a quienes obligaron
+a servir como esclavos en las Tierras Intermedias.
+
+Desde tiempos inmemoriales, los Tiznados atraviesan
+el mar de Bruma hacia las Tierras Intermedias
+en pequeños grupos.
+Muchos mueren al llegar, pero los pocos infortunados
+que sobreviven son capturados como esclavos.</text>
+<text id="160200">Vendas de brazo hechas de material grueso.
+Vestimenta de Tiznados rechazados que eran
+forzado a la esclavitud en las Tierras Intermedias.</text>
+<text id="160300">Pantalones confeccionados con un material grueso. Suelen usarse en las Tierras Intermedias.</text>
+<text id="170000">Una máscara diseñada a partir de la cabeza de un lobo negro.
+
+Reliquia de un asesino que adoptó la apariencia de la sombra leal de Ranni la Bruja. El parecido es llamativo.</text>
+<text id="170100">Armadura muy desgastada del hombre lobo Blaidd.
+
+El pelaje sirve de capa y protege del frío.
+Aunque Blaidd era la espada de Ranni, el frío lo molestaba.</text>
+<text id="170200">Guanteletes muy desgastados del hombre lobo Blaidd.
+
+Blaidd, quien servía como sombra de Ranni, era un aliado leal capaz de desafiar al destino si fuera necesario para no traicionar a su dama.</text>
+<text id="170300">Grebas muy desgastadas del hombre lobo Blaidd.
+
+Blaidd, quien servía como sombra de Ranni, era un aliado leal capaz de desafiar al destino si fuera necesario para no traicionar a su dama.</text>
+<text id="171100">Armadura muy desgastad del hombre lobo Blaidd.
+
+Blaidd, quien servía como sombra de Ranni, era un aliado leal capaz de desafiar al destino si fuera necesario para no traicionar a su dama.</text>
+<text id="180000">Capucha que usan las Asesinas del Cuchillo Negro.
+
+Quienes llevaron a cabo los asesinatos de la Noche de los Cuchillos Negros eran todas mujeres, y se rumorea que eran númenes que tenía estrechos vínculos con la propia Márida.</text>
+<text id="180100">Armadura de escamas que usan las Asesinas del Cuchillo Negro, forjada para ser silenciosa.
+
+Aún quedan rastros de poder en su velo de ocultación, que amortigua el sonido de los pasos.
+
+Quienes llevaron a cabo los asesinatos de la Noche de los Cuchillos Negros eran todas mujeres, y se rumorea que eran númenes que tenía estrechos vínculos con la propia Márida.</text>
+<text id="180200">Guanteletes usados por las Asesinas del Cuchillo Negro.
+Fabricados con una armadura de escamas silenciosa.
+
+Quienes llevaron a cabo los asesinatos de la Noche de los Cuchillos Negros eran todas mujeres, y se rumorea que eran númenes que tenía estrechos vínculos con la propia Márida.</text>
+<text id="180300">Grebas usadas por las Asesinas del Cuchillo Negro.
+Fabricadas con una armadura de escamas silenciosa.
+
+Quienes llevaron a cabo los asesinatos de la Noche de los Cuchillos Negros eran todas mujeres, y se rumorea que eran númenes que tenía estrechos vínculos con la propia Márida.</text>
+<text id="181100">Armadura usada por las Asesinas del Cuchillo Negro.
+Fabricada con una armadura de escamas silenciosa.
+
+Quienes llevaron a cabo los asesinatos de la Noche de los Cuchillos Negros eran todas mujeres, y se rumorea que eran númenes que tenía estrechos vínculos con la propia Márida.</text>
+<text id="190000">Capucha de un rojo oscuro que cubre toda la cabeza.
+
+La usaban los soldados que fueron enviados a las prisiones coloniales, quienes debían mantener sus rostros ocultos.</text>
+<text id="190100">Armadura dañada y cubierta con un gran paño color rojo oscuro.
+
+La usaban los soldados que fueron enviados a las prisiones coloniales.</text>
+<text id="190200">Guanteletes de hierro dañados.
+Los usaban los soldados que fueron enviados a las prisiones coloniales.</text>
+<text id="190300">Grebas de hierro dañadas.
+Los usaban los soldados que fueron enviados a las prisiones coloniales.</text>
+<text id="200000">Armadura completa y resistente que cubre todo el cuerpo.
+Este yelmo era usado por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Tal vez el pañuelo rojo oscuro servía para protegerse del viento, ya que en las afueras el viento golpea con una ferocidad punzante.</text>
+<text id="200100">Armadura completa y resistente que cubre todo el cuerpo.
+Esta armadura era usada por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Todos estos feroces guerreros eran muy habilidosos. Quizás por esa razón, y a pesar de las pérdidas territoriales, aún eran llamados caballeros.</text>
+<text id="200200">Armadura completa y resistente que cubre todo el cuerpo.
+Estos guanteletes eran usados por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Todos estos feroces guerreros eran muy habilidosos. Quizás por esa razón, y a pesar de las pérdidas territoriales, aún eran llamados caballeros.</text>
+<text id="200300">Armadura completa y resistente que cubre todo el cuerpo.
+Estas grebas eran usadas por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Todos estos feroces guerreros eran muy habilidosos. Quizás por esa razón, y a pesar de las pérdidas territoriales, aún eran llamados caballeros.</text>
+<text id="201000">Armadura completa y resistente que cubre todo el cuerpo.
+Este yelmo era usado por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Todos estos feroces guerreros eran muy habilidosos. Quizás por esa razón, y a pesar de las pérdidas territoriales, aún eran llamados caballeros.</text>
+<text id="201100">Armadura completa y resistente que cubre todo el cuerpo.
+Esta armadura era usada por los caballeros que, ya fuera por desgracia o por fechoría, se veían obligados a abandonar sus hogares.
+
+Todos estos feroces guerreros eran muy habilidosos. Quizás por esa razón, y a pesar de las pérdidas territoriales, aún eran llamados caballeros.</text>
+<text id="210000">Yelmo de hierro maltratado de una tierra extranjera.
+Lo usa Elemer de la Zarza.
+
+Las zarzas de hierro oxidadas y sinuosas son la marca de los culpables y generalmente indican una sentencia de muerte. También provocan que esta pieza de armadura haga daño al hacer volteretas de evasión.
+
+Elemer asesinó a muchos instructores y mercaderes, y era conocido como el Cazador de los Rodamientos de Campana.</text>
+<text id="210100">Armadura de hierro maltratada de una tierra extranjera.
+La usa Elemer de la Zarza.
+
+Las zarzas de hierro oxidadas y sinuosas son la marca de los culpables y generalmente indican una sentencia de muerte. También provocan que esta pieza de armadura haga daño al hacer volteretas de evasión.
+
+Elemer asesinó a muchos instructores y mercaderes, y era conocido como el Cazador de los Rodamientos de Campana.</text>
+<text id="210200">Guanteletes de hierro maltratados de una tierra extranjera.
+Los usa Elemer de la Zarza.
+
+Las zarzas de hierro oxidadas y sinuosas son la marca de los culpables y generalmente indican una sentencia de muerte. También provocan que esta armadura haga daño al hacer volteretas de evasión.
+
+Elemer asesinó a muchos instructores y mercaderes, y era conocido como el Cazador de los Rodamientos de Campana.</text>
+<text id="210300">Grebas de hierro maltratadas de una tierra extranjera.
+Las usa Elemer de la Zarza.
+
+Las zarzas de hierro oxidadas y sinuosas son la marca de los culpables y generalmente indican una sentencia de muerte. También provocan que esta pieza de armadura haga daño al hacer volteretas de evasión.
+
+Elemer asesinó a muchos instructores y mercaderes, y era conocido como el Cazador de los Rodamientos de Campana.</text>
+<text id="211100">Armadura de hierro maltratada de una tierra extranjera.
+La usa Elemer de la Zarza.
+
+Las zarzas de hierro oxidadas y sinuosas son la marca de los culpables y generalmente indican una sentencia de muerte. También provocan que esta pieza de armadura haga daño al hacer volteretas de evasión.
+
+Elemer asesinó a muchos instructores y mercaderes, y era conocido como el Cazador de los Rodamientos de Campana.</text>
+<text id="220000">Capucha que usan los pajes que sirven a los nobles y se ocupan de mantenerlos a salvo.
+
+El aspecto discreto se corresponde con su rango: oculto y desconocido.</text>
+<text id="220100">Vestimenta que usan los pajes que sirven a los nobles y se ocupan de mantenerlos a salvo.
+
+Ropa de viaje confeccionada con una exquisita precisión para evitarle al amo del paje cualquier vergüenza indebida.</text>
+<text id="220300">Pantalones que usan los pajes que sirven a los nobles y se ocupan de mantenerlos a salvo.
+
+Ropa de viaje confeccionada con una exquisita precisión para evitarle al amo del paje cualquier vergüenza indebida.</text>
+<text id="221100">Vestimenta que usan los pajes que sirven a los nobles y se ocupan de mantenerlos a salvo.
+
+Ropa de viaje confeccionada con una exquisita precisión para evitarle al amo del paje cualquier vergüenza indebida.</text>
+<text id="230000">Yelmo color negro azabache con pelo negro suelto.
+Lo usa la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="230100">Armadura color negro azabache pintada con sangre seca.
+La usa la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="230200">Guanteletes color negro azabache pintados con sangre seca.
+Los usan la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="230300">Grebas color negro azabache pintadas con sangre seca.
+Las usan la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="231000">Yelmo color negro azabache pintado con sangre seca.
+Lo usa la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="231100">Armadura color negro azabache pintada con sangre seca.
+La usa la Caballería de la Noche que cabalga en corceles funerarios.
+
+La Caballería de la Noche, que ahora vaga por las calles sombrías de la noche, solía estar liderada por el Aojo Cruel y se encargaba de asesinar grandes guerreros, caballeros y campeones.</text>
+<text id="240000">Capucha de cota de malla elaborada con plata azul.
+La usan los arqueros albináuricos que montan lobos.
+
+La plata azul es un metal nacido de la misma madre que los arqueros, y otorga protección contra la magia y la congelación.</text>
+<text id="240100">Armadura de cota de malla elaborada con plata azul.
+La usan los arqueros albináuricos que montan lobos.
+
+La plata azul es un metal nacido de la misma madre que los arqueros, y otorga protección contra la magia y la congelación.</text>
+<text id="240200">Brazaletes elaborados con plata azul.
+Los usan los arqueros albináuricos que montan lobos.
+
+La plata azul es un metal nacido de la misma madre que los arqueros, y otorga protección contra la magia y la congelación.</text>
+<text id="240300">Falda de cota de malla elaborada con plata azul.
+La usan los arqueros albináuricos que montan lobos.
+
+La plata azul es un metal nacido de la misma madre que los arqueros, y otorga protección contra la magia y la congelación.</text>
+<text id="241100">Armadura de cota de malla elaborada con plata azul.
+La usan los arqueros albináuricos que montan lobos.
+
+La plata azul es un metal nacido de la misma madre que los arqueros, y otorga protección contra la magia y la congelación.</text>
+<text id="250000">Sombrero de los mercaderes nómades.
+Decorado con pequeñas gemas de un amplio espectro de colores.
+
+Tiempo atrás, estos mercaderes prosperaron como la Gran Caravana, pero, tras ser acusados de creencias profanas, su clan fue perseguido y enterrado vivo en las profundidades de la tierra.
+
+Luego, entonaron una maldición de la desesperación e invocaron a la llama del frenesí.</text>
+<text id="250100">Ropa elegante de los mercaderes nómades.
+Decorada con pequeñas gemas de un amplio espectro de colores.
+
+Tiempo atrás, estos mercaderes prosperaron como la Gran Caravana, pero, tras ser acusados de creencias profanas, su clan fue perseguido y enterrado vivo en las profundidades de la tierra.
+
+Luego, entonaron una maldición de la desesperación e invocaron a la llama del frenesí.</text>
+<text id="250300">Pantalones de los mercaderes nómades.
+
+Tiempo atrás, estos mercaderes prosperaron como la Gran Caravana, pero, tras ser acusados de creencias profanas, su clan fue perseguido y enterrado vivo en las profundidades de la tierra.
+
+Luego, entonaron una maldición de la desesperación e invocaron a la llama del frenesí.</text>
+<text id="251100">Ropa elegante de los mercaderes nómades.
+Decorada con pequeñas gemas de un amplio espectro de colores.
+
+Tiempo atrás, estos mercaderes prosperaron como la Gran Caravana, pero, tras ser acusados de creencias profanas, su clan fue perseguido y enterrado vivo en las profundidades de la tierra.
+
+Luego, entonaron una maldición de la desesperación e invocaron a la llama del frenesí.</text>
+<text id="260000">Yelmo dorado deformado.
+Está adornado con diferentes imágenes de dragones, y lo usan los deformes centinelas arbóreos.
+
+Tras el ataque del gran dragón antiguo Gransax, los centinelas tuvieron una epifanía: la única forma de proteger verdaderamente al Terrárbol era convertirse en dragones.</text>
+<text id="260100">Armadura dorada deformada.
+Está adornada con diferentes imágenes de dragones, y la usan los deformes centinelas arbóreos.
+
+Tras el ataque del gran dragón antiguo Gransax, los centinelas tuvieron una epifanía: la única forma de proteger verdaderamente al Terrárbol era convertirse en dragones.</text>
+<text id="260200">Guanteletes dorados deformados.
+Están adornados con diferentes imágenes de dragones, y los usan los deformes centinelas arbóreos.
+
+Tras el ataque del gran dragón antiguo Gransax, los centinelas tuvieron una epifanía: la única forma de proteger verdaderamente al Terrárbol era convertirse en dragones.</text>
+<text id="260300">Grebas doradas deformadas.
+Están adornadas con diferentes imágenes de dragones, y las usan los deformes centinelas arbóreos.
+
+Tras el ataque del gran dragón antiguo Gransax, los centinelas tuvieron una epifanía: la única forma de proteger verdaderamente al Terrárbol era convertirse en dragones.</text>
+<text id="270000">Yelmo dorado de los centinelas arbóreos, la caballería pesada que sirve al Terrárbol.
+
+Muy pocos tienen permitido llevar un emblema dorado de madera tan grande como el de este yelmo.</text>
+<text id="270100">Armadura dorada de los centinelas arbóreos, la caballería pesada que sirve al Terrárbol.
+
+Está adornada con una capa que lleva la marca del árbol sagrado.
+
+Tiene una contextura resistente, casi irrompible, y aún conserva la gracia de antaño.</text>
+<text id="270200">Guanteletes dorados de los centinelas arbóreos, la caballería pesada que sirve al Terrárbol.
+
+Tienen una contextura resistente, casi irrompible, y aún conservan la gracia de antaño.</text>
+<text id="270300">Grebas doradas de los centinelas arbóreos, la caballería pesada que sirve al Terrárbol.
+
+Tienen una contextura resistente, casi irrompible, y aún conservan la gracia de antaño.</text>
+<text id="271100">Armadura dorada de los centinelas arbóreos, la caballería pesada que sirve al Terrárbol.
+
+Tiene una contextura resistente, casi irrompible, y aún conserva la gracia de antaño.</text>
+<text id="280000">Yelmo plateado de Loretta, una caballera que servía al Santoárbol de Miquella.
+
+Loretta, quien solía ser una caballera real de Caria, emprendió un viaje en busca de un refugio para los albináuricos, convencida de que el Santoárbol era la mejor oportunidad para alcanzar la salvación futura.</text>
+<text id="280100">Armadura plateada de Loretta, una caballera que servía al Santoárbol de Miquella.
+
+Loretta fue una vez caballera real de Caria, y su capa azul lapislázuli es el emblema del orgullo caballeresco que la sigue guiando.</text>
+<text id="280200">Guanteletes plateados de Loretta, una caballera que servía al Santoárbol de Miquella.
+
+Loretta, quien solía ser una caballera real de Caria, emprendió un viaje en busca de un refugio para los albináuricos, convencida de que el Santoárbol era la mejor oportunidad para alcanzar la salvación futura.</text>
+<text id="280300">Grebas plateadas de Loretta, una caballera que servía al Santoárbol de Miquella.
+
+Loretta, quien solía ser una caballera real de Caria, emprendió un viaje en busca de un refugio para los albináuricos, convencida de que el Santoárbol era la mejor oportunidad para alcanzar la salvación futura.</text>
+<text id="281100">Armadura plateada de Loretta, una caballera que servía al Santoárbol de Miquella.
+
+Loretta, quien solía ser una caballera real de Caria, emprendió un viaje en busca de un refugio para los albináuricos, convencida de que el Santoárbol era la mejor oportunidad para alcanzar la salvación futura.</text>
+<text id="290000">Capucha de seda que usan los monjes de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="290100">Armadura con una capa de seda que usan los monjes de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="290200">Brazaletes monásticos de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="290300">Grebas monásticas de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="291000">Capucha que usan los monjes de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="291100">Armadura que usan los monjes de la Ciudad Eterna.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="292000">Corona que usan las espadachinas de la Ciudad Eterna.
+Estas mujeres, que ocultan sus ojos tras la seda, son las guardianas personales de las doncellas de la noche.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="292100">Armadura que usan las espadachinas de la Ciudad Eterna.
+Estas mujeres, que usan capas de seda, son las guardianas personales de las doncellas de la noche.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="293000">Corona doble que usan las doncellas de la noche de la Ciudad Eterna.
+Simboliza el rango clerical más alto y permite ocultar los ojos con seda.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="293100">Armadura que usan las doncellas de la noche de la Ciudad Eterna.
+Simboliza el rango clerical más alto y tiene una capa de seda.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="294000">Corona que usan las espadachinas de la Ciudad Eterna.
+La seda que cubre los ojos se quita en honor a la tradición.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="294100">Armadura que usan las espadachinas de la Ciudad Eterna.
+Estas mujeres son las guardianas personales de las doncellas de la noche.
+
+Tiempo atrás, los nox invocaron la ira de la Gran Voluntad y fueron desterrados a las profundidades de la tierra. Ahora viven bajo un cielo nocturno artificial, en la eterna espera de su amo, de la próxima era de las estrellas y de su Señor de la Noche.</text>
+<text id="300000">Cinta para la cabeza decorada con un par de cuernos grandes.
+La usan los guerreros seguidores ancestrales.
+
+Los seguidores ancestrales se mantienen alejados del Terrárbol y esperan que nazcan nuevos brotes. Están seguros de que brotarán de su propia carne y, más aún, de sus almas.</text>
+<text id="300100">Vestidura confeccionada con una piel de cerdas.
+La usan los guerreros seguidores ancestrales.
+
+Los seguidores ancestrales se mantienen alejados del Terrárbol y esperan que nazcan nuevos brotes. Están seguros de que brotarán de su propia carne y, más aún, de sus almas.</text>
+<text id="300300">Medias largas confeccionadas con pieles de cerdas.
+Las usan los guerreros seguidores ancestrales.
+
+Los seguidores ancestrales se mantienen alejados del Terrárbol y esperan que nazcan nuevos brotes. Están seguros de que brotarán de su propia carne y, más aún, de sus almas.</text>
+<text id="301000">Cinta para la cabeza decorada con un par de cuernos brillantes.
+La usan los chamanes seguidores ancestrales.
+
+Los cuernos con brotes que también brillan son objetos ceremoniales ideales para el culto ancestral. Fortalece la cabeza del infante ancestral.</text>
+<text id="301100">Vestidura confeccionada con una piel de cerdas.
+La usan los chamanes seguidores ancestrales.
+
+Los seguidores ancestrales viven alejados del Terrárbol, y esperan que nazcan nuevos brotes. Están seguros de que brotarán de su propia carne y, más aún, de sus almas.</text>
+<text id="301300">Medias largas confeccionadas con pieles de cerdas.
+Las usan los chamanes seguidores ancestrales.
+
+Los seguidores ancestrales viven alejados del Terrárbol y esperan que nazcan nuevos brotes. Están seguros de que brotarán de su propia carne y, más aún, de sus almas.</text>
+<text id="310000">Yelmo de bronce decorado con innumerables serpientes.
+Lo usan los gladiadores que fueron expulsados ​​del coliseo. El usuario se convierte en un blanco un poco más fácil para los enemigos.
+
+La serpiente es vista como una traidora al Terrárbol, y la audiencia se deleitó al ver estas efigies de bronce golpeadas y maltratadas.</text>
+<text id="310100">Capa gruesa y áspera, símbolo de un guardián de tumbas subterráneo.
+
+Quienes luchaban para sobrevivir fueron expulsados del coliseo y se convirtieron en guardianes mortuorios del Terrárbol.</text>
+<text id="310300">Grebas rodeadas por serpientes de bronce.
+Las usan los gladiadores que fueron expulsados ​​del coliseo. El usuario se convierte en un blanco un poco más fácil para los enemigos.
+
+La serpiente es vista como una traidora al Terrárbol, y la audiencia se deleitó al ver estas efigies de bronce golpeadas y maltratadas.</text>
+<text id="311100">Vestimenta defensiva rodeada por serpientes de bronce.
+La usan los gladiadores que fueron expulsados ​​del coliseo. El usuario se convierte en un blanco un poco más fácil para los enemigos.
+
+La serpiente es vista como una traidora al Terrárbol, y la audiencia se deleitó al ver estas efigies de bronce golpeadas y maltratadas.</text>
+<text id="320000">Capucha de una tela negra teñida con bordados dorados.
+La usan los nobles que sirven al Señor de la Sangre.
+
+Conocidos por atacar desde charcos de sangre, estos asesinos son misionarios que predican el evangelio de la sangre maldita.</text>
+<text id="320100">Túnica de una tela negra teñida con bordados dorados.
+La usan los nobles que sirven al Señor de la Sangre.
+
+El diseño metálico de la hombrera representa la estirpe noble que pretenden reclamar con el advenimiento de la nueva dinastía que quieren instaurar.</text>
+<text id="320300">Faldón cosido de tela negra.
+Lo usan los nobles que sirven al Señor de la Sangre.
+
+Conocidos por atacar desde charcos de sangre, estos asesinos son misionarios que predican el evangelio de la sangre maldita.</text>
+<text id="330000">Máscara dorada grabada.
+La usan los guardianes de los Terrárboles Menores.
+
+Según un antiguo pacto con el Terrárbol, se cree que sus muertes no conducen a la destrucción, sino a una nueva y eterna vida como guardianes.</text>
+<text id="330100">Vestimenta dorada grabada.
+La usan los guardianes de los Terrárboles Menores.
+
+Aumenta los efectos de recuperación de PV del frasco de lágrimas carmesíes, pero reduce bastante la neutralización de daño de fuego.
+
+Se dice que las flores rojo sangre que florecen en sus espaldas marcan la senectud de su pacto antiguo. Tal vez los guardianes ya sean árbol en parte.</text>
+<text id="330200">Brazales dorados grabados.
+Los usan los guardianes de los Terrárboles Menores.
+
+Según un antiguo pacto con el Terrárbol, se cree que sus muertes no conducen a la destrucción, sino a una nueva y eterna vida como guardianes.</text>
+<text id="330300">Grebas doradas grabadas.
+Las usan los guardianes de los Terrárboles Menores.
+
+Según un antiguo pacto con el Terrárbol, se cree que sus muertes no conducen a la destrucción, sino a una nueva y eterna vida como guardianes.</text>
+<text id="331100">Vestimenta dorada grabada.
+La usan los guardianes de los Terrárboles Menores.
+
+Según un antiguo pacto con el Terrárbol, se cree que sus muertes no conducen a la destrucción, sino a una nueva y eterna vida como guardianes.</text>
+<text id="340000">Yelmo alado de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="340100">Armadura de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="340200">Guanteletes de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="340300">Grebas de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="341000">Yelmo alado de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="341100">Armadura de los caballeros purificadores, reconocidos por su campaña invicta durante la Devastación.
+
+Los caballeros purificadores juraron luchar junto a Malenia, a pesar de la inevitable, aunque gradual, podredumbre de su carne. La aceptación de su destino hizo que estas batallas fueran las más violentas de todas.</text>
+<text id="350000">Capucha mallada con anillos de hierro que cubre una cinta para la cabeza
+con llamas grabadas. Atavío de los monjes de fuego.
+
+Los monjes de fuego custodian la llama de la ruina, que fue prohibida por el Terrárbol. Se cree que la llama se conserva en lo alto de las Montañas de los Gigantes.</text>
+<text id="350100">Armadura de hierro negro adornada con una tela roja.
+Atavío de los monjes de fuego.
+
+Se dice que el rostro grotesco esculpido en el pecho representa al antiguo dios corrupto de la llama.
+Los tabúes se transforman en obsesiones prolongadas debido al miedo que suscitan.</text>
+<text id="350200">Guanteletes de hierro negro con un diseño de llamas.
+Atavío de los monjes de fuego.
+
+Los monjes de fuego custodian la llama de la ruina, que fue prohibida por el Terrárbol. Se cree que la llama se conserva en lo alto de las Montañas de los Gigantes.</text>
+<text id="350300">Grebas de hierro negro con un diseño de llamas.
+Atavío de los monjes de fuego.
+
+Los monjes de fuego custodian la llama de la ruina, que fue prohibida por el Terrárbol. Se cree que la llama se conserva en lo alto de las Montañas de los Gigantes.</text>
+<text id="351000">Capucha mallada con anillos de hierro que cubre una cinta para la cabeza
+con llamas grabadas. Atavío de los monjes de la llama negra.
+
+Los monjes de la llama negra, cautivados por la llama negra matadioses, se convirtieron en traidores al abandonar su deber como guardianes. No es fácil resistirse a la seducción de un tabú.</text>
+<text id="351100">Armadura de hierro negro adornada con una tela cenicienta.
+Atavío de los monjes de la llama negra.
+
+Los monjes de la llama negra, cautivados por la llama negra matadioses, se convirtieron en traidores al abandonar su deber como guardianes. No es fácil resistirse a la seducción de un tabú.</text>
+<text id="351200">Guanteletes de hierro negro con un diseño de llamas.
+Atavío de los monjes de la llama negra.
+
+Los monjes de la llama negra, cautivados por la llama negra matadioses, se convirtieron en traidores al abandonar su deber como guardianes. No es fácil resistirse a la seducción de un tabú.</text>
+<text id="351300">Grebas de hierro negro con un diseño de llamas.
+Atavío de los monjes de la llama negra.
+
+Los monjes de la llama negra, cautivados por la llama negra matadioses, se convirtieron en traidores al abandonar su deber como guardianes. No es fácil resistirse a la seducción de un tabú.</text>
+<text id="360000">Yelmo con un semblante sagrado grabado y un caldero.
+Atavío de los abades de fuego, comandantes de los monjes de fuego.
+
+Dicen que, originalmente, el caldero situado en la parte superior de la cabeza contenía brasas, y que la llama ardía cuando la fe del portador alcanzaba su apogeo. Sin embargo, el fuego de este caldero se ha extinguido desde entonces.</text>
+<text id="360100">Armadura de hierro negro adornada con una tela roja.
+Atavío de los abades de fuego, comandantes de los monjes de fuego.
+
+La contextura robusta de los abades simboliza el peso de sus votos como guardianes de la llama. "Grabad esta vista en vuestro corazón: la de mi enorme dignidad".</text>
+<text id="360200">Guanteletes de hierro negro con apariencia de llamas.
+Atavío de los abades de fuego, comandantes de los monjes de fuego.
+
+La contextura robusta de los abades simboliza el peso de sus votos como guardianes de la llama. "Grabad esta vista en vuestro corazón: la de mi enorme dignidad".</text>
+<text id="360300">Grebas de hierro negro con apariencia de llamas.
+Atavío de los abades de fuego, comandantes de los monjes de fuego.
+
+La contextura robusta de los abades simboliza el peso de sus votos como guardianes de la llama. "Grabad esta vista en vuestro corazón: la de mi enorme dignidad".</text>
+<text id="361100">Armadura de hierro negro.
+Atavío de los abades de fuego, comandantes de los monjes de fuego.
+
+La contextura robusta de los abades simboliza el peso de sus votos como guardianes de la llama. "Grabad esta vista en vuestro corazón: la de mi enorme dignidad".</text>
+<text id="370000">Cinta para la cabeza valiosa ornamentada con orfebrería delicada.
+La usan los nobles de la capital en sus viajes.
+
+Estos nómadas no muertos abandonaron su lugar de origen tras la Devastación y son el patético resultado de una vida interminable.</text>
+<text id="370100">Vestimenta de excelente calidad ornamentada con delicados bordados dorados.
+Atavío de viaje que usan los nobles en la capital. Está muy descolorida y andrajosa.
+
+Estos nómadas no muertos abandonaron su lugar de origen tras la Devastación y son el patético resultado de una vida interminable.</text>
+<text id="370300">Botas fabricadas con cuero curtido.
+Atavío de viaje que usan los nobles en la capital.
+
+Estos nómadas no muertos abandonaron su lugar de origen tras la Devastación y son el patético resultado de una vida interminable.</text>
+<text id="371100">Vestimenta de excelente calidad ornamentada con delicados bordados dorados.
+Atavío de viaje que usan los nobles en la capital. Está muy descolorida y andrajosa.
+
+Estos nómadas no muertos abandonaron su lugar de origen tras la Devastación y son el patético resultado de una vida interminable.</text>
+<text id="380000">Sombrero decorado con una pluma marcescente.
+Lo usa un noble de la capital del Terrárbol en sus viajes.
+Pertenece a una familia que afirma
+tener un ancestro caballero.
+
+Estos nómadas no muertos abandonaron su lugar
+de origen tras la Devastación y son el resultado
+patético de sus interminables vidas.</text>
+<text id="380100">Abrigo de cuero curtido adornado con delicados bordados dorados. 
+Atavío de viaje que usan los nobles en la capital. Pertenece a una familia que afirma tener un ancestro caballero.
+
+Estos nómadas no muertos abandonaron su lugar de origen tras la Devastación y son el patético resultado de una vida interminable.</text>
+<text id="390000">Capucha confeccionada con tela suave.
+La usa un noble de la capital del Terrárbol en sus viajes.
+Es la preferida de los ancianos.
+
+Estos nómadas no muertos abandonaron su lugar
+de origen tras la Devastación y son el resultado
+patético de sus interminables vidas.</text>
+<text id="390100">Atuendo de tela suave ornamentado con delicados bordados dorados.
+Lo usa un noble de la capital del Terrárbol en sus viajes.
+Es el preferido de los ancianos.
+
+Estos nómadas no muertos abandonaron su lugar
+de origen tras la Devastación y son el resultado
+patético de sus interminables vidas.</text>
+<text id="390300">Zapatos resistentes confeccionados con cuero.
+Los usa un noble de la capital del Terrárbol en sus viajes.
+Están totalmente resecos y duros.
+
+Estos nómadas no muertos abandonaron su lugar
+de origen tras la Devastación y son el producto
+patético de sus interminables vidas.</text>
+<text id="420000">Yelmo que usan los milicianos delgados, malvados y desagradables.
+
+La extensión hacia arriba sirve para aparentar un mayor tamaño, aunque sea un poco.</text>
+<text id="420100">Armadura que usan los milicianos delgados, malvados y desagradables.
+
+Campos de batalla incendiados recientemente, de donde emana el hedor de los muertos. Tierras prohibidas que serán eliminadas de la memoria histórica. Aquí es donde la milicia vulgar cumple su rol como incansables y olvidados guardianes.</text>
+<text id="420200">Guanteletes que usan los milicianos delgados, malvados y desagradables.
+
+Campos de batalla incendiados recientemente, de donde emana el hedor de los muertos. Tierras prohibidas que serán eliminadas de la memoria histórica. Aquí es donde la milicia vulgar cumple su rol como incansables y olvidados guardianes.</text>
+<text id="420300">Grebas que usan los milicianos delgados, malvados y desagradables.
+
+Campos de batalla incendiados recientemente, de donde emana el hedor de los muertos. Tierras prohibidas que serán eliminadas de la memoria histórica. Aquí es donde la milicia vulgar cumple su rol como incansables y olvidados guardianes.</text>
+<text id="430000">Capucha puntiaguda color bermellón.
+Atavío de los sabios que fueron considerados herejes.
+
+Indica que el portador fue expulsado de la ciudad.</text>
+<text id="430100">Túnica gruesa color bermellón.
+Atavío de los sabios que fueron considerados herejes.
+
+Indica que el portador fue expulsado de la ciudad.</text>
+<text id="430300">Pantalones gruesos color bermellón.
+Atavío de los sabios que fueron considerados herejes.
+
+Indica que el portador fue expulsado de la ciudad.</text>
+<text id="440000">Yelmo ovalado con el tamaño suficiente para cubrir cualquier cabeza.
+Muy pesado y duro.
+
+Reduce el daño de los tiros a la cabeza y de los impactos.
+
+El interior del yelmo es totalmente oscuro. Esto evita que el guerrero enloquecido que lo use entre en pánico.
+Quizás su interior espacioso también alivie los sentimientos de presión y claustrofobia.</text>
+<text id="460000">Corona de Godfrey, el primer Señor de Elden.
+
+La era del Terrárbol comenzó durante la guerra, cuando Godfrey era el señor del campo de batalla.
+
+Godfrey lideró la Guerra contra los Gigantes. Se enfrentó solo al Señor de la Tormenta. Luego, llegó un momento en el que su último enemigo digno cayó. En ese instante, según cuenta la historia, el brillo de los ojos del Señor Godfrey se apagó.</text>
+<text id="460100">Armadura de Godfrey, el primer Señor de Elden.
+
+La era del Terrárbol comenzó durante la guerra, cuando Godfrey era el señor del campo de batalla.
+
+Godfrey lideró la Guerra contra los Gigantes. Se enfrentó solo al Señor de la Tormenta. Luego, llegó un momento en el que su último enemigo digno cayó. En ese instante, según cuenta la historia, el brillo de los ojos del Señor Godfrey se apagó.</text>
+<text id="460200">Brazales de Godfrey, el primer Señor de Elden.
+
+La era del Terrárbol comenzó durante la guerra, cuando Godfrey era el señor del campo de batalla.
+
+Godfrey lideró la Guerra contra los Gigantes. Se enfrentó solo al Señor de la Tormenta. Luego, llegó un momento en el que su último enemigo digno cayó. En ese instante, según cuenta la historia, el brillo de los ojos del Señor Godfrey se apagó.</text>
+<text id="460300">Grebas de Godfrey, el primer Señor de Elden.
+
+La era del Terrárbol comenzó durante la guerra, cuando Godfrey era el señor del campo de batalla.
+
+Godfrey lideró la Guerra contra los Gigantes. Se enfrentó solo al Señor de la Tormenta. Luego, llegó un momento en el que su último enemigo digno cayó. En ese instante, según cuenta la historia, el brillo de los ojos del Señor Godfrey se apagó.</text>
+<text id="461100">Armadura de Godfrey, el primer Señor de Elden.
+
+La era del Terrárbol comenzó durante la guerra, cuando Godfrey era el señor del campo de batalla.
+
+Godfrey lideró la Guerra contra los Gigantes. Se enfrentó solo al Señor de la Tormenta. Luego, llegó un momento en el que su último enemigo digno cayó. En ese instante, según cuenta la historia, el brillo de los ojos del Señor Godfrey se apagó.</text>
+<text id="470000">Yelmo del león dorado con una gran melena roja.
+Lo usa el general Radahn.
+
+Radahn heredó la furiosa y ardiente melena roja de su padre, Rádagon, y disfruta de sus implicaciones heroicas.
+
+"Cuando nací, era un cachorro de campeón. Ahora, soy un león en las batallas".</text>
+<text id="470100">Armadura que representa al león dorado.
+La usa el general Radahn.
+
+Se dice que el león dorado simboliza a Godfrey, el primer Señor de Elden, y a su bestia regente, Serosh. Desde joven, Radahn se sintió cautivado por el Señor del Campo de Batalla.</text>
+<text id="470200">Guanteletes que representan al león dorado.
+Los usa el general Radahn.
+
+Se dice que el león dorado simboliza a Godfrey, el primer Señor de Elden, y a su bestia regente, Serosh. Desde joven, Radahn se sintió cautivado por el Señor del Campo de Batalla.</text>
+<text id="470300">Grebas que representan al león dorado.
+Las usa el general Radahn.
+
+Se dice que el león dorado simboliza a Godfrey, el primer Señor de Elden, y a su bestia regente, Serosh. Desde joven, Radahn se sintió cautivado por el Señor del Campo de Batalla.</text>
+<text id="471100">Armadura que representa al león dorado.
+La usa el general Radahn.
+
+Se dice que el león dorado simboliza a Godfrey, el primer Señor de Elden, y a su bestia regente, Serosh. Desde joven, Radahn se sintió cautivado por el Señor del Campo de Batalla.</text>
+<text id="480100">Atavío de Mohg, Señor de la Sangre, bordado con un extravagante emblema dorado sobre una tela negra.
+
+El atuendo de una celebridad, el señor regente de la dinastía próxima de Mohgwyn. O, quizás, de un lunático desquiciado.</text>
+<text id="481100">Atavío de Mohg, Señor de la Sangre, bordado con un extravagante emblema dorado sobre una tela negra.
+
+El atuendo de una celebridad, el señor regente de la dinastía próxima de Mohgwyn. O, quizás, de un lunático desquiciado.</text>
+<text id="510000">Una corona alta que representa la luna.
+La usa Rennala, la Reina de la Luna Llena. Aumenta la inteligencia.
+
+Cuando Rennala, a cargo de la Academia de Raya Lucaria y de la familia real de Caria, perdió a su esposo Rádagon, perdió también el corazón.
+
+Y, enseguida, los de la academia se dieron cuenta de que, después de todo, Rennala no era ninguna campeona.</text>
+<text id="510100">Túnica que indica la orden superior de un hechicero.
+La usa Rennala, la Reina de la Luna Llena.
+
+Cuando Rennala, a cargo de la Academia de Raya Lucaria y de la familia real de Caria, perdió a su esposo Rádagon, perdió también el corazón.
+
+Y, enseguida, los de la academia se dieron cuenta de que, después de todo, Rennala no era ninguna campeona.</text>
+<text id="510200">Brazaletes que indican la orden superior de un hechicero.
+Los usa Rennala, la Reina de la Luna Llena.
+
+Cuando Rennala, a cargo de la Academia de Raya Lucaria y de la familia real de Caria, perdió a su esposo Rádagon, perdió también el corazón.
+
+Y, enseguida, los de la academia se dieron cuenta de que, después de todo, Rennala no era ninguna campeona.</text>
+<text id="510300">Medias largas que indican la orden superior de un hechicero.
+Las usa Rennala, la Reina de la Luna Llena.
+
+Cuando Rennala, a cargo de la Academia de Raya Lucaria y de la familia real de Caria, perdió a su esposo Rádagon, perdió también el corazón.
+
+Y, enseguida, los de la academia se dieron cuenta de que, después de todo, Rennala no era ninguna campeona.</text>
+<text id="520000">Capucha de parches de piel suave cosidos.
+La usan los apóstoles piel de dios.
+
+Los apóstoles, de quienes se decía que servían a la Muerte Destinada, usan la llama negra matadioses. Pero, tras ser derrotados por Maliketh, la Espada Negra, la fuente de su poder fue sellada.</text>
+<text id="520100">Túnica de parches de piel suave cosidos.
+La usan los apóstoles piel de dios.
+
+Los apóstoles, de quienes se decía que servían a la Muerte Destinada, usan la llama negra matadioses. Pero, tras ser derrotados por Maliketh, la Espada Negra, la fuente de su poder fue sellada.</text>
+<text id="520200">Brazaletes negros de los apóstoles piel de dios.
+
+Los apóstoles, de quienes se decía que servían a la Muerte Destinada, usan la llama negra matadioses. Pero, tras ser derrotados por Maliketh, la Espada Negra, la fuente de su poder fue sellada.</text>
+<text id="520300">Pantalones de parches de piel suave cosidos.
+Los usan los apóstoles piel de dios.
+
+Los apóstoles, de quienes se decía que servían a la Muerte Destinada, usan la llama negra matadioses. Pero, tras ser derrotados por Maliketh, la Espada Negra, la fuente de su poder fue sellada.</text>
+<text id="530000">Capucha de parches de piel suave cosidos.
+Es gruesa y suave debido a la grasa subcutánea.
+La usan los nobles piel de dios.
+
+Los nobles son los apóstoles más antiguos que, según se dice, adoptaron una fisiología inhumana. De manera similar al crisol, el Terrárbol en su forma primordial.</text>
+<text id="530100">Túnica de parches de piel suave cosidos.
+Es gruesa y suave debido a la grasa subcutánea. La usan los nobles piel de dios, conocidos por sus delantales de siete caras.
+
+Fortalece el encantamiento de la Presencia noble.
+
+Los nobles son los apóstoles más antiguos que, según se dice, adoptaron una fisiología inhumana. De manera similar al crisol, el Terrárbol en su forma primordial.</text>
+<text id="530200">Brazaletes negros de los nobles piel de dios.
+
+Los nobles son los apóstoles más antiguos que, según se dice, adoptaron una fisiología inhumana. De manera similar al crisol, el Terrárbol en su forma primordial.</text>
+<text id="530300">Pantalones de parches de piel suave cosidos.
+Son gruesos y suaves debido a la grasa subcutánea.
+Los usan los nobles piel de dios.
+
+Los nobles son los apóstoles más antiguos que, según se dice, adoptaron una fisiología inhumana. De manera similar al crisol, el Terrárbol en su forma primordial.</text>
+<text id="540000">Pañuelo para la cabeza que usan los perfumistas corrompidos.
+
+Estos perfumistas de inclinaciones herejes impregnan sus propias especias para alterar el cuerpo y la mente. Su lenta caída en la autodestrucción les valió su nombre.</text>
+<text id="540100">Túnica que usan los perfumistas corrompidos.
+Los bordados del delantal son una maldición para el Terrárbol.
+
+Estos perfumistas de inclinaciones herejes impregnan sus propias especias para alterar el cuerpo y la mente. Su lenta caída en la autodestrucción les valió su nombre.</text>
+<text id="540200">Guantes que usan los perfumistas corrompidos.
+
+Estos perfumistas de inclinaciones herejes impregnan sus propias especias para alterar el cuerpo y la mente. Su lenta caída en la autodestrucción les valió su nombre.</text>
+<text id="540300">Pantalones que usan los perfumistas corrompidos.
+
+Estos perfumistas de inclinaciones herejes impregnan sus propias especias para alterar el cuerpo y la mente. Su lenta caída en la autodestrucción les valió su nombre.</text>
+<text id="541100">Túnica que usan los perfumistas corrompidos.
+Los bordados del delantal son una maldición para el Terrárbol.
+
+Estos perfumistas de inclinaciones herejes impregnan sus propias especias para alterar el cuerpo y la mente. Su lenta caída en la autodestrucción les valió su nombre.</text>
+<text id="570000">Yelmo de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La ornamentación del hacha es la marca del caballero Ordovis, que también exhiben sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="570100">Armadura de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La usan el caballero Ordovis y sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="570200">Guanteletes de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.
+
+Hace tiempo, la fuerza que exhibían estos caballeros, e incluso su apariencia, era considerada caótica y despreciable.</text>
+<text id="570300">Grebas de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.
+
+Hace tiempo, la fuerza que exhibían estos caballeros, e incluso su apariencia, era considerada caótica y despreciable.</text>
+<text id="571000">Yelmo de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La ornamentación del gran árbol es la marca de la caballera Siluria, que también exhiben sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="571100">Armadura de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La usan en la caballera Siluria y sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="572100">Armadura de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La usan el caballero Ordovis y sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="573100">Armadura de los caballeros del Crisol que servían a Godfrey, el primer Señor de Elden.
+
+La usan en la caballera Siluria y sus hombres.
+
+Posee el poder del crisol vital, la forma primordial del Terrárbol. Fortalece los aspectos de los encantamientos del Crisol.</text>
+<text id="580000">La corona gigante de destellita azul que usa Lusat, hechicero primigenio actual.
+
+Esta corona reemplazó por completo el cerebro y el cráneo de Lusat, y ahora, extraída de su cuerpo, está casi muerta. El poder que queda dentro aumenta la potencia de las hechicerías primigenias actuales de Lusat a costa de un consumo adicional de PC.</text>
+<text id="580100">Una túnica reservada para los grandes maestros de la Academia de Raya Lucaria.
+Corroída por destellitas azules.
+
+Desde que se expulsó de la Academia a los grandes maestros Azur y Lusat, nadie ha alcanzado su antiguo rango.</text>
+<text id="580200">Mangas corroídas por destellitas azules.
+Las usa Lusat, hechicero de corriente primigenia.
+
+Lusat había alcanzado un estado casi inorgánico.</text>
+<text id="580300">Faldón harapiento que se extiende sobre los muslos.
+Es común entre los hechiceros a la antigua usanza.</text>
+<text id="581000">Corona de Azur, hechicero primigenio actual, que posee una destellita azul verdosa prominente.
+
+Esta corona reemplazó por completo el cerebro y el cráneo de Azur, y ahora, extraída de su cuerpo, está casi muerta. El poder que queda dentro aumenta la potencia de las hechicerías primigenias actuales de Azur a costa de un consumo adicional de PC.</text>
+<text id="581100">Una túnica reservada para los grandes maestros de la Academia de Raya Lucaria.
+Corroída por destellitas verde azuladas.
+
+Desde que se expulsó de la Academia a los grandes maestros Azur y Lusat, nadie ha alcanzado su antiguo rango.</text>
+<text id="581200">Mangas corroídas por destellitas verde azuladas.
+Las usa Azur, hechicero de corriente primigenia.
+
+Azur había alcanzado un estado casi inorgánico.</text>
+<text id="590000">Yelmo con un sinfín de ojos y oídos.
+Lo usa Gideon Ofnir, el Omnisciente.
+
+El conocimiento comienza con la aceptación de la ignorancia: la certeza de que la búsqueda del conocimiento es interminable. Pero, cuando Gideon vislumbró la voluntad de la reina Márida, se estremeció de miedo.
+
+Al final, eso no debería ser así.</text>
+<text id="590100">Armadura con un sinfín de ojos y oídos.
+La usa Gideon Ofnir, el Omnisciente.
+
+El conocimiento comienza con la aceptación de la ignorancia: la certeza de que la búsqueda del conocimiento es interminable. Pero, cuando Gideon vislumbró la voluntad de la reina Márida, se estremeció de miedo.
+
+Al final, eso no debería ser así.</text>
+<text id="590200">Guanteletes con un sinfín de ojos y oídos.
+Los usa Gideon Ofnir, el Omnisciente.
+
+El conocimiento comienza con la aceptación de la ignorancia: la certeza de que la búsqueda del conocimiento es interminable. Pero, cuando Gideon vislumbró la voluntad de la reina Márida, se estremeció de miedo.
+
+Al final, eso no debería ser así.</text>
+<text id="590300">Grebas con un sinfín de ojos y oídos.
+Las usa Gideon Ofnir, el Omnisciente.
+
+El conocimiento comienza con la aceptación de la ignorancia: la certeza de que la búsqueda del conocimiento es interminable. Pero, cuando Gideon vislumbró la voluntad de la reina Márida, se estremeció de miedo.
+
+Al final, eso no debería ser así.</text>
+<text id="591100">Armadura con un sinfín de ojos y oídos.
+La usa Gideon Ofnir, el Omnisciente.
+
+El conocimiento comienza con la aceptación de la ignorancia: la certeza de que la búsqueda del conocimiento es interminable. Pero, cuando Gideon vislumbró la voluntad de la reina Márida, se estremeció de miedo.
+
+Al final, eso no debería ser así.</text>
+<text id="600000">Yelmo que representa gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="600100">Armadura que representa gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="600200">Guanteletes que representan gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="600300">Grebas que representan gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="601100">Armadura que representa gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="601300">Grebas que representan gemelos entrelazados de oro y plata.
+
+Los dos conocidos como D son gemelos inseparables.
+Poseen dos cuerpos y dos mentes, pero una sola alma. Ni una sola vez se paran juntos; ni una palabra se dicen entre sí.
+
+Quizás esta armadura anhela encontrar su camino hacia el otro D.</text>
+<text id="610000">Yelmo reconstruido a partir de metal recuperado.</text>
+<text id="610100">Armadura reconstruida a partir de metal recuperado.</text>
+<text id="610200">Guanteletes reconstruidos a partir de metal recuperado.</text>
+<text id="610300">Grebas reconstruidas a partir de metal recuperado.</text>
+<text id="611000">Yelmo reconstruido a partir de metal recuperado.</text>
+<text id="611100">Armadura reconstruida a partir de metal recuperado.</text>
+<text id="620000">Venda de profetas exiliados que predijeron desgracias, y fueron perseguidos y echados de sus hogares por ello.
+
+¿Por qué dudar, si el camino que lleva al futuro es claro? Solo cierra los ojos y camina.</text>
+<text id="620100">Túnica del clérigo Corhyn.
+
+Incluso después de exiliarse, Corhyn se negó a renunciar a sus profecías. Y, por ello, recibió la bendición de la guía de la gracia.
+
+Desde entonces, la rueda de carreta que cuelga de su cuello le sirve de recuerdo. La guía auténtica espera a quienes tengan una voluntad de hierro y una fe inquebrantable.</text>
+<text id="620300">Pantalones de profetas exiliados que predijeron desgracias, y fueron perseguidos y echados de sus hogares por ello.
+
+Hechos de una tela áspera que raspa contra la piel como una lima de afilar.</text>
+<text id="621100">Túnica de profetas exiliados que predijeron desgracias, y fueron perseguidos y echados de sus hogares por ello.
+
+Hecha de una tela áspera que raspa contra la piel como una lima de afilar.</text>
+<text id="622100">Túnica de profetas exiliados que predijeron desgracias, y fueron perseguidos y echados de sus hogares por ello.
+
+Los grilletes alrededor del cuello advierten a los transeúntes de hacer caso omiso de sus sermones.</text>
+<text id="630000">Capucha fabricada con tela flexible.
+La usan los que observan el cosmos.
+
+Leen el destino en las estrellas, y se dice que son herederos de los hechiceros de destellita.
+
+Pero, por desgracia, el cielo nocturno ya no ampara al destino.</text>
+<text id="630100">Túnica fabricada con tela flexible.
+La usan los que observan el cosmos.
+
+Leen el destino en las estrellas, y se dice que son herederos de los hechiceros de destellita.
+
+Pero, por desgracia, el cielo nocturno ya no ampara al destino.</text>
+<text id="630200">Guantes fabricados con una tela fina y flexible.
+Los usan los que observan el cosmos.
+
+Leen el destino en las estrellas, y se dice que son herederos de los hechiceros de destellita.
+
+Pero, por desgracia, el cielo nocturno ya no ampara al destino.</text>
+<text id="630300">Pantalones que se usan debajo de una túnica.
+Los usan los que observan el cosmos.
+
+Leen el destino en las estrellas, y se dice que son herederos de los hechiceros de destellita.
+
+Pero, por desgracia, el cielo nocturno ya no ampara al destino.</text>
+<text id="631100">Túnica fabricada con tela flexible.
+La usan los que observan el cosmos.
+
+Leen el destino en las estrellas, y se dice que son herederos de los hechiceros de destellita.
+
+Pero, por desgracia, el cielo nocturno ya no ampara al destino.</text>
+<text id="640000">Yelmo redondo de hierro con un ala grande distintiva.
+Lo usa Lionel, el Corazón de León.
+
+Cuando este cortés e intrépido caballero conoció a Fia, que había sido expulsada de su hogar, se declaró a sí mismo como su padre.</text>
+<text id="640100">Armadura redonda de hierro con un estandarte que se extiende desde la espalda.
+La usa Lionel, el Corazón de León.
+
+Cuando este cortés e intrépido caballero conoció a Fia, que había sido expulsada de su hogar, se declaró a sí mismo como su padre.</text>
+<text id="640200">Guanteletes redondos de hierro.
+Los usa Lionel, el Corazón de León.
+
+Cuando este cortés e intrépido caballero conoció a Fia, que había sido expulsada de su hogar, se declaró a sí mismo como su padre.</text>
+<text id="640300">Grebas redondas de hierro.
+Las usa Lionel, el Corazón de León.
+
+Cuando este cortés e intrépido caballero conoció a Fia, que había sido expulsada de su hogar, se declaró a sí mismo como su padre.</text>
+<text id="641100">Armadura redonda de hierro.
+La usa Lionel, el Corazón de León.
+
+Cuando este cortés e intrépido caballero conoció a Fia, que había sido expulsada de su hogar, se declaró a sí mismo como su padre.</text>
+<text id="650000">Yelmo plateado con colas gemelas y decorado con flores.
+Símbolo del jefe de la venerada casa Hondal.
+
+Juno Hondal tenía un hermano menor, hablador y cobarde.
+
+Su incapacidad para accionar fue tal que Juno heredó el legado de los Hondal sin oposición, lo que le dio la libertad de colmar de cariño a su hermano pequeño. </text>
+<text id="650100">Llamativa armadura plateada decorada con ornamentos rojos.
+Heredada de generación en generación en la familia Hondal.
+
+Cuando Juno Hondal recibió una invitación a la Mansión Volcánica, la rechazó discretamente.
+
+"Ya he recorrido muchos caminos empapados de sangre, pero nunca me consideraría un campeón".</text>
+<text id="650200">Llamativos guanteletes plateados decorados con ornamentos rojos.
+Heredados de generación en generación en la familia Hondal.
+
+Cuando Juno Hondal recibió una invitación a la Mansión Volcánica, la rechazó discretamente.
+
+"Ya he recorrido muchos caminos empapados de sangre, pero nunca me consideraría un campeón".</text>
+<text id="650300">Llamativas grebas plateadas decoradas con ornamentos rojos.
+Heredadas de generación en generación en la familia Hondal.
+
+Cuando Juno Hondal recibió una invitación a la Mansión Volcánica, la rechazó discretamente.
+
+"Ya he recorrido muchos caminos empapados de sangre, pero nunca me consideraría un campeón".</text>
+<text id="651000">Una réplica de un yelmo plateado de colas gemelas y adornado con flores. Solo que sin las colas gemelas.
+
+Diallos Hondal tenía un hermano mayor, un hombre severo, tranquilo, de pocas palabras. Sus hazañas lo hicieron parecer inalcanzable.
+
+Y, así, el hermano menor aspiraba a ser como el mayor. Anhelaba el día en que escribiría con sangre la historia de la casa Hondal, a pesar de que sabía muy bien que eso le rompería el corazón a su hermano.</text>
+<text id="652100">Llamativa armadura plateada decorada con ornamentos rojos.
+Heredada de generación en generación en la familia Hondal.
+
+Cuando Juno Hondal recibió una invitación a la Mansión Volcánica, la rechazó discretamente.
+
+"Ya he recorrido muchos caminos empapados de sangre, pero nunca me consideraría un campeón".</text>
+<text id="660000">Yelmo de un caballero desterrado de su tierra natal.
+Está sucio y maltratado después de haber soportado un largo viaje.
+
+El visor está roto y ya no puede bajarse.
+
+La armadura de metal es pesada, pero también resistente. Ofrece una neutralización de daño considerable.</text>
+<text id="660100">Peto de un caballero desterrado de su tierra natal.
+Está sucio y maltratado después de haber soportado un largo viaje.
+
+El escudo estampado en el frente está desgastado y mugriento, y ya no evoca ningún sentimiento.
+
+La armadura de metal es pesada, pero también resistente. Ofrece una neutralización de daño considerable.</text>
+<text id="660200">Guanteletes de un caballero desterrado de su tierra natal.
+Están sucios y maltratados después de haber soportado un largo viaje.
+
+La armadura de metal es pesada, pero también resistente. Ofrece una neutralización de daño considerable.</text>
+<text id="660300">Grebas de un caballero desterrado de su tierra natal.
+Están sucias y maltratadas después de haber soportado un largo viaje.
+
+La armadura de metal es pesada, pero también resistente. Ofrece una neutralización de daño considerable.</text>
+<text id="661100">Peto de un caballero desterrado de su tierra natal.
+Está sucio y maltratado después de haber soportado un largo viaje.
+
+El escudo estampado en el frente está desgastado y mugriento, y ya no evoca ningún sentimiento.
+
+La armadura de metal es pesada, pero también resistente. Ofrece una neutralización de daño considerable.</text>
+<text id="670000">Capuz de un guerrero nómade.
+El color azulado de su tela simboliza las aguas rápidas, tan libres y fluidas como la espada en la mano de quien la empuña.
+
+Así como el agua estancada se pudre, la inactividad es causa de deterioro.
+Los guerreros deberán ir siempre a la deriva.</text>
+<text id="670100">Chaleco de un guerrero nómade.
+El color azulado de su tela simboliza las aguas rápidas, tan libres y fluidas como la espada en la mano de quien la empuña.
+
+Así como el agua estancada se pudre, la inactividad es causa de deterioro.
+Los guerreros deberán ir siempre a la deriva.</text>
+<text id="670200">Guanteletes de un guerrero nómade.
+Fabricados con cuero resistente.</text>
+<text id="670300">Grebas de un guerrero nómade.
+Fabricadas con cuero resistente.</text>
+<text id="680000">Máscara blanca manchada de sangre y con una leve sonrisa.
+La usaban los cirujanos de guerra, que eran asesinos misericordiosos.
+
+La maldición del Señor de la Sangre anima al portador cuando se produce un derramamiento de sangre. Aumenta ligeramente el poder de ataque cuando hay hemorragia cerca.</text>
+<text id="680100">Toga blanca manchada de sangre de los cirujanos de guerra, que eran asesinos misericordiosos.
+
+De los cirujanos que el Señor de la Sangre raptó, ninguno pudo domar la sangre maldita.
+Solo Varré, aunque él era una excepción.</text>
+<text id="680200">Guantes blancos manchados de sangre de los cirujanos de guerra, que eran asesinos misericordiosos.
+
+De los cirujanos que el Señor de la Sangre raptó, ninguno pudo domar la sangre maldita.
+Solo Varré, aunque él era una excepción.</text>
+<text id="680300">Pantalones manchados de sangre de los cirujanos de guerra, que eran asesinos misericordiosos.
+
+De los cirujanos que el Señor de la Sangre raptó, ninguno pudo domar la sangre maldita.
+Solo Varré, aunque él era una excepción.</text>
+<text id="681100">Toga blanca manchada de sangre de los cirujanos de guerra, que eran asesinos misericordiosos.
+
+De los cirujanos que el Señor de la Sangre raptó, ninguno pudo domar la sangre maldita.
+Solo Varré, aunque él era una excepción.</text>
+<text id="690000">Yelmo adornado con huesos humanos dorados.
+Lo usa el partidario mudo de Sir Gideon, el Omnisciente.
+
+Recupera lentamente los PV cuando estos se reducen.
+
+Se dice que los huesos son de un señor antiguo, el rey sin alma. El señor de los perdidos y desesperados, conocido como Ensha.</text>
+<text id="690100">Armadura adornada con huesos humanos dorados.
+La usa el partidario mudo de Sir Gideon, el Omnisciente.
+
+Recupera lentamente los PV cuando estos se reducen.
+
+Se dice que los huesos son de un señor antiguo, el rey sin alma. El señor de los perdidos y desesperados, conocido como Ensha.</text>
+<text id="690200">Guanteletes adornados con huesos humanos dorados.
+Los usa el partidario mudo de Sir Gideon, el Omnisciente.
+
+Recupera lentamente los PV cuando estos se reducen.
+
+Se dice que los huesos son de un señor antiguo, el rey sin alma. El señor de los perdidos y desesperados, conocido como Ensha.</text>
+<text id="690300">Grebas adornadas con huesos humanos dorados.
+Las usa el partidario mudo de Sir Gideon, el Omnisciente.
+
+Recupera lentamente los PV cuando estos se reducen.
+
+Se dice que los huesos son de un señor antiguo, el rey sin alma. El señor de los perdidos y desesperados, conocido como Ensha.</text>
+<text id="700000">Cinta para la cabeza de guerrero hecha de cuero tejido.
+La usan los guerreros de las gélidas Tierras Altas.
+
+Los trozos de tela blancos, las banderitas y el trigo
+que la adornan son plegarias de despedida
+de la gente de sus pueblos.
+Este pequeño gesto hacia los guerreros
+que parten con pocas posibilidades
+de regresar no ofrece más que un aparente alivio.</text>
+<text id="700100">Equipo de guerra fabricado con armadura de cuero
+adornado con un largo trozo de tela.
+Lo usan los guerreros de las gélidas Tierras Altas.
+
+La tela roja simboliza la participación
+en la Marcha Extensa, hace muchísimo tiempo,
+y este atuendo ceremonial busca el favor
+del rey guerrero que los guio.</text>
+<text id="700200">Guanteletes envueltos en cuero grueso.
+Los usan los guerreros de las gélidas Tierras Altas.
+
+Tienen un revestimiento de piel, que resulta
+óptimo para repeler el frío de la bahía.</text>
+<text id="700300">Grebas envueltas en cuero grueso.
+Las usan los guerreros de las gélidas Tierras Altas.
+
+Tiene un revestimiento de piel, que resulta
+óptimo para repeler el frío de la bahía.</text>
+<text id="701000">Equipo de guerra revestido de cuero grueso.
+Prenda que usan los guerreros de las gélidas Tierras Altas.</text>
+<text id="702000">Yelmo revestido de cuero grueso.
+Prenda que usan los guerreros de las gélidas Tierras Altas.</text>
+<text id="720000">Yelmo plateado grabado con bestias diminutas.
+Lo usa Bernahl, el Recusante.
+
+Los ojos y los oídos de las bestias están cubiertos, en representación de un pacto: "No veas nada, no escuches nada, no dudes de nada. Sigue el camino trazado".</text>
+<text id="720100">Armadura plateada grabada con bestias diminutas.
+La usa Bernahl, el Recusante.
+
+A las bestias les atraen los campeones y los señores. Y esta armadura es adecuada para un campeón digno de convertirse en un señor; justamente lo que era Bernahl.
+
+Hasta que su doncella se arrojó al fuego.</text>
+<text id="720200">Guanteletes plateados grabados con bestias diminutas.
+Los usa Bernahl, el Recusante.
+
+A las bestias les atraen los campeones y los señores. Y esta armadura es adecuada para un campeón digno de convertirse en un señor; justamente lo que era Bernahl.
+
+Hasta que su doncella se arrojó al fuego.</text>
+<text id="720300">Grebas plateadas grabadas con bestias diminutas.
+Las usa Bernahl, el Recusante.
+
+A las bestias les atraen los campeones y los señores. Y esta armadura es adecuada para un campeón digno de convertirse en un señor; justamente lo que era Bernahl.
+
+Hasta que su doncella se arrojó al fuego.</text>
+<text id="721100">Armadura plateada grabada con bestias diminutas.
+La usa Bernahl, el Recusante.
+
+A las bestias les atraen los campeones y los señores. Y esta armadura es adecuada para un campeón digno de convertirse en un señor; justamente lo que era Bernahl.
+
+Hasta que su doncella se arrojó al fuego.</text>
+<text id="730000">Cinta para la cabeza reservada para los más valientes del Yermo.
+Es la prueba de que quien la viste ha masacrado innumerables oponentes.
+
+Los valientes guerreros del Yermo siguen el ejemplo de su líder Hoarah Loux y evitan los adornos innecesarios.</text>
+<text id="730100">Atavío de viaje fabricado a partir de hilos de seda blancos metálicos. Lo usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa un atavío tan espléndido.</text>
+<text id="730200">Guantes de cuero afelpado.
+Los usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa una vestimenta tan espléndida.</text>
+<text id="730300">Pantalones blancos de una hechura superior.
+Los usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa una vestimenta tan espléndida.</text>
+<text id="740000">Una capa con capucha de color carmesí vívido.
+La usa la realeza expatriada.
+Aumenta el ímpetu.
+
+Esas capas se obsequiaban a quienes salían de viaje sin órdenes específicas, hacia tierras lejanas de las que no regresarían jamás. En otras palabras, regalar una capa hizo posible que los indeseables se marcharan.
+
+Roderika nunca conoció la guía de la gracia.</text>
+<text id="740100">Atavío de viaje fabricado a partir de hilos de seda blancos metálicos. Lo usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa un atavío tan espléndido.</text>
+<text id="740200">Guantes de cuero afelpado.
+Los usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa una vestimenta tan espléndida.</text>
+<text id="740300">Pantalones blancos de una hechura superior.
+Los usa la realeza expatriada.
+
+Una ofrenda de belleza tan rara que un miembro de la realeza no deshonraría su ilustre herencia, incluso si lo encontraran muerto en una zanja, en el medio de la nada, mientras usa una vestimenta tan espléndida.</text>
+<text id="741000">Una capa con capucha de color azul marino intenso.
+La usa la realeza expatriada.
+Aumenta la mente.
+
+Estas capas fueron regaladas a aquellos que partieron en misiones a tierras lejanas, de las que nunca regresarían. Pero ¿qué opción tenían ellos, habiendo visto la guía de la gracia?</text>
+<text id="760000">Yelmo de bestia, hecho de hierro negro y decorado con oro.
+Lo usa Maliketh, la Espada Negra.
+
+Maliketh, el leal hermanastro de la reina Márida, portaba una hoja imbuida de Muerte Destinada, y no había nadie que no le temiera.
+
+Los campeones sabían lo que estaba en juego.
+Eso los convertía en campeones.</text>
+<text id="760100">Armadura de bestia, hecha de hierro negro y decorada con oro.
+La usa Maliketh, la Espada Negra.
+
+Maliketh, el leal hermanastro de la reina Márida, portaba una hoja imbuida de Muerte Destinada, y no había nadie que no le temiera.
+
+Los campeones sabían lo que estaba en juego.
+Eso los convertía en campeones.</text>
+<text id="760200">Guanteletes de bestia, hechos de hierro negro y decorados con oro.
+Los usa Maliketh, la Espada Negra.
+
+Maliketh, el leal hermanastro de la reina Márida, portaba una hoja imbuida de Muerte Destinada, y no había nadie que no le temiera.
+
+Los campeones sabían lo que estaba en juego.
+Eso los convertía en campeones.</text>
+<text id="760300">Grebas de bestia, hechas de hierro negro y decoradas con oro.
+Las usa Maliketh, la Espada Negra.
+
+Maliketh, el leal hermanastro de la reina Márida, portaba una hoja imbuida de Muerte Destinada, y no había nadie que no le temiera.
+
+Los campeones sabían lo que estaba en juego.
+Eso los convertía en campeones.</text>
+<text id="761100">Armadura de bestia, hecha de hierro negro y decorada con oro.
+La usa Maliketh, la Espada Negra.
+
+Maliketh, el leal hermanastro de la reina Márida, portaba una hoja imbuida de Muerte Destinada, y no había nadie que no le temiera.
+
+Los campeones sabían lo que estaba en juego.
+Eso los convertía en campeones.</text>
+<text id="770000">Yelmo de oro sin aleación con alas.
+Lo usa Malenia, Espada de Miquella.
+
+Malenia esperaba a Miquella al pie del cascarón.
+
+"Mi hermano cumplirá su promesa. Él posee la sabiduría y el encanto de un dios. Es el más temible de todos los Empíreos".</text>
+<text id="770100">Armadura de oro sin aleación.
+La usa Malenia, Espada de Miquella.
+
+Malenia esperaba a Miquella al pie del cascarón.
+
+"Mi hermano cumplirá su promesa. Él posee la sabiduría y el encanto de un dios. Es el más temible de todos los Empíreos".</text>
+<text id="770200">Guanteletes de oro sin aleación.
+Los usa Malenia, Espada de Miquella.
+
+Malenia esperaba a Miquella al pie del cascarón.
+
+"Mi hermano cumplirá su promesa. Él posee la sabiduría y el encanto de un dios. Es el más temible de todos los Empíreos".</text>
+<text id="770300">Grebas de oro sin aleación.
+Las usa Malenia, Espada de Miquella.
+
+Malenia esperaba a Miquella al pie del cascarón.
+
+"Mi hermano cumplirá su promesa. Él posee la sabiduría y el encanto de un dios. Es el más temible de todos los Empíreos".</text>
+<text id="771100">Armadura de oro sin aleación.
+La usa Malenia, Espada de Miquella.
+
+Malenia esperaba a Miquella al pie del cascarón.
+
+"Mi hermano cumplirá su promesa. Él posee la sabiduría y el encanto de un dios. Es el más temible de todos los Empíreos".</text>
+<text id="780000">Un viejo yelmo que ha visto muchas batallas.
+Lo usa Niall, el general veterano de Sol.
+
+Niall fue un superviviente solitario que instruyó a los espíritus para defender a su amo, muerto hace mucho tiempo.
+
+Este general envejecido no podía morir, ni tampoco podía ir a ningún lugar para desaparecer.</text>
+<text id="780100">Vieja armadura que ha visto muchas batallas.
+La usa Niall, el general veterano de Sol.
+
+Niall fue un superviviente solitario que instruyó a los espíritus para defender a su amo, muerto hace mucho tiempo.
+
+Este general envejecido no podía morir, ni tampoco podía ir a ningún lugar para desaparecer.</text>
+<text id="780200">Viejos guanteletes que han visto muchas batallas.
+Los usa Niall, el general veterano de Sol.
+
+Niall fue un superviviente solitario que instruyó a los espíritus para defender a su amo, muerto hace mucho tiempo.
+
+Este general envejecido no podía morir, ni tampoco podía ir a ningún lugar para desaparecer.</text>
+<text id="780300">Viejas grebas que han visto muchas batallas.
+Las usa Niall, el general veterano de Sol.
+
+Niall fue un superviviente solitario que instruyó a los espíritus para defender a su amo, muerto hace mucho tiempo.
+
+Este general envejecido no podía morir, ni tampoco podía ir a ningún lugar para desaparecer.</text>
+<text id="781100">Vieja armadura que ha visto muchas batallas.
+La usa Niall, el general veterano de Sol.
+
+Niall fue un superviviente solitario que instruyó a los espíritus para defender a su amo, muerto hace mucho tiempo.
+
+Este general envejecido no podía morir, ni tampoco podía ir a ningún lugar para desaparecer.</text>
+<text id="790000">Yelmo de metal con un pico puntiagudo.
+Lo usan los caballeros sabueso.
+
+Se entrena a los caballeros sabueso como cazadores, y son conocidos por rastrear de manera impecable.
+
+Sin el uso del habla, cada caballero elige a su propio amo.
+Una vez que la decisión se toma, el caballero es leal de por vida.</text>
+<text id="790100">Armadura de metal con un peto prominente.
+La usan los caballeros sabueso.
+
+Se entrena a los caballeros sabueso como cazadores, y son conocidos por rastrear de manera impecable.
+
+Sin el uso del habla, cada caballero elige a su propio amo.
+Una vez que la decisión se toma, el caballero es leal de por vida.</text>
+<text id="790200">Guanteletes de metal de los caballeros sabueso.
+
+Se entrena a los caballeros sabueso como cazadores, y son conocidos por rastrear de manera impecable.
+
+Sin el uso del habla, cada caballero elige a su propio amo.
+Una vez que la decisión se toma, el caballero es leal de por vida.</text>
+<text id="790300">Grebas de metal de los caballeros sabueso.
+
+Se entrena a los caballeros sabueso como cazadores, y son conocidos por rastrear de manera impecable.
+
+Sin el uso del habla, cada caballero elige a su propio amo.
+Una vez que la decisión se toma, el caballero es leal de por vida.</text>
+<text id="791100">Armadura de metal con un peto prominente.
+La usan los caballeros sabueso.
+
+Se entrena a los caballeros sabueso como cazadores, y son conocidos por rastrear de manera impecable.
+
+Sin el uso del habla, cada caballero elige a su propio amo.
+Una vez que la decisión se toma, el caballero es leal de por vida.</text>
+<text id="800000">Capucha que usan las bailarinas del festival de Dominula, el pueblo de los molinos.
+
+Decorada con flores de muchos colores.</text>
+<text id="800100">Prenda ceremonial que usan las bailarinas del festival de Dominula, el pueblo de los molinos.
+
+Con tenues manchas de sangre.</text>
+<text id="801000">Capucha que usan las bailarinas del festival de Dominula, el pueblo de los molinos.
+
+Decorada con una impresionante variedad de flores.</text>
+<text id="801100">Prenda ceremonial que usan las bailarinas del festival de Dominula, el pueblo de los molinos.
+
+Con tenues manchas de sangre.</text>
+<text id="802000">Capucha que usan las bailarinas del festival de Dominula, el pueblo de los molinos.
+
+El uso de esta capucha, teñida de un azul magnífico, solo está permitido para las doncellas jóvenes que protagonizan el festival.</text>
+<text id="802100">Prenda ceremonial ornamentada con bordados
+delicados. Se usa durante un festival humilde
+que implora las bendiciones de los dioses.
+
+Solo las jóvenes elegidas para cumplir
+el papel más importante del festival
+pueden vestir esta capa teñida de un azul brillante.</text>
+<text id="810000">Una cinta para la cabeza que sostiene la tela en su lugar.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+Solo que ya no quedan plebeyos que tengan la cabeza en su sitio.</text>
+<text id="810100">Vestimenta con una gruesa capa bordada.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+La tabla que cuelga del cuello representa un árbol en expansión, cuyas raíces y ramas forman dos agujeros. Este es un grillete autoimpuesto, una muestra voluntaria de lealtad al Terrárbol que aumenta la fe.</text>
+<text id="810300">Zapatos modestos de tela.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+Solo que ya no quedan plebeyos que tengan la cabeza en su sitio.</text>
+<text id="811000">Una cinta para la cabeza, desprovista de tela.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+Solo que ya no quedan plebeyos que tengan la cabeza en su sitio.</text>
+<text id="811100">Vestimenta ornamentada con bordados intrincados.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+La tabla que cuelga del cuello representa un árbol en expansión, cuyas raíces y ramas forman dos agujeros. Este es un grillete autoimpuesto, una muestra voluntaria de lealtad al Terrárbol que aumenta la fe.</text>
+<text id="812000">Vestimenta con una modesta capa de tela.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+La tabla que cuelga del cuello representa un árbol en expansión, cuyas raíces y ramas forman dos agujeros. Este es un grillete autoimpuesto, una muestra voluntaria de lealtad al Terrárbol que aumenta la fe.</text>
+<text id="812100">Vestimenta modesta de tela.
+Prenda común de los plebeyos de las Tierras Intermedias.
+
+La tabla que cuelga del cuello representa un árbol en expansión, cuyas raíces y ramas forman dos agujeros. Este es un grillete autoimpuesto, una muestra voluntaria de lealtad al Terrárbol que aumenta la fe.</text>
+<text id="820000">El fardo suave que usan en la cabeza los enviados del oráculo.
+Envuelto en varias capas de tela.
+
+Aumenta la potencia de las habilidades basadas en burbujas.
+
+Nadie sabe lo que esconde la tela, pero algunos dicen haber oído un tenue lloriqueo que provenía de su interior. Debió ser su imaginación.</text>
+<text id="830000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta bastante la inteligencia en detrimento de los PV y del vigor.
+
+Los eruditos del Sumario de los Sabios Gemelos eran la élite de la academia. Tenían permitido estudiar y sobresalir en hechicerías de todo tipo.</text>
+<text id="830100">Túnica que usan los estudiosos de hechicería de Raya Lucaria.
+
+Quienes se dedican al estudio de las destellitas formadas a partir del ámbar estelar reciben este modesto pero elegante atuendo azul marino, después de realizar sus votos de virtud y austeridad.
+
+Pero, con una vida más larga de lo normal, los votos tienden a olvidarse.</text>
+<text id="830200">Mangas que usan los estudiosos de hechicería de Raya Lucaria.
+Se hacen envolviendo una tela común alrededor del antebrazo.</text>
+<text id="830300">Medias largas que usan los estudiosos de hechicería de Raya Lucaria.
+Se hacen envolviendo una tela común alrededor de la pierna.</text>
+<text id="831000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia en detrimento de los PV.
+
+El linaje del Sumario de Olivinus comenzó con el hechicero Lusat, y sus seguidores continúan su estudio de los meteoritos.</text>
+<text id="832000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia y la destreza en detrimento de los PV.
+
+Los eruditos del Sumario de Lazuli estudian las hechicerías de Caria, una búsqueda heterodoxa que considera que la luna es igual que las estrellas.</text>
+<text id="833000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia en detrimento del vigor.
+
+El Sumario de Karolos es el más antiguo de los linajes de estudio de la academia, creada por el hechicero Azur. Los eruditos que siguen sus pasos indagan en los misterios de los cometas.</text>
+<text id="834000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia y el arcano en detrimento del vigor.
+
+Esta corona de aspecto agradable se otorgó a una estudiosa (también merecedora del título de "bruja") que sobresalió en sus estudios.</text>
+<text id="834100">%null%</text>
+<text id="840000">Yelmo cilíndrico de placas de metal reforzado con un entramado.
+Lo usan los soldados guiñol, creados para servir a los hechiceros.
+
+La hechura de este yelmo es notablemente rudimentaria.
+
+Para una marioneta, lo único que importa es que no se rompa.</text>
+<text id="840100">Armadura de bandas de metal dispuestas en un entramado.
+Usada por los soldados guiñol, creados para servir a los hechiceros.
+
+La hechura de esta armadura es notablemente rudimentaria. Ahora está oxidada y muy maltratada.
+
+Para una marioneta, lo único que importa es que no se rompa.</text>
+<text id="850000">Yelmo de metal inspirado en la cara de un pájaro.
+Usado por los soldados de vuelo, creados para servir a los hechiceros.
+
+La hechura de este yelmo es notablemente rudimentaria.
+
+Para una marioneta, lo único que importa es que no se rompa.</text>
+<text id="860000">Yelmo usado por Vargram el Lobo Furioso, uno de los primeros Tiznados que visitó la Mesa Redonda.
+
+El sobrenombre de Vargram procede de la melena blanca de lobo que decora este yelmo.</text>
+<text id="860100">Armadura que usa Vargram el Lobo Furioso, uno de los primeros Tiznados que visitó la Mesa Redonda.
+
+Según las leyendas antiguas, los lobos son las sombras de los Empíreos, y eso es lo que Vargram aspiraba a ser.</text>
+<text id="860200">Guanteletes que usa Vargram el Lobo Furioso, uno de los primeros Tiznados que visitó la Mesa Redonda.
+
+Según las leyendas antiguas, los lobos son las sombras de los Empíreos, y eso es lo que Vargram aspiraba a ser.</text>
+<text id="860300">Grebas que usa Vargram el Lobo Furioso, uno de los primeros Tiznados que visitó la Mesa Redonda.
+
+Según las leyendas antiguas, los lobos son las sombras de los Empíreos, y eso es lo que Vargram aspiraba a ser.</text>
+<text id="861100">Armadura que usa Vargram el Lobo Furioso, uno de los primeros Tiznados que visitó la Mesa Redonda.
+
+Según las leyendas antiguas, los lobos son las sombras de los Empíreos, y eso es lo que Vargram aspiraba a ser.</text>
+<text id="870000">Yelmo hecho de tiras de hierro atadas.
+Lo usan los guerreros de los Juncales.
+
+Los Juncales llevan mucho tiempo atrapados en una triste guerra civil, tiempo durante el cual han permanecido alienados de los poblados vecinos. No es de extrañar que toda la nación haya sucumbido a tal locura sangrienta, según se dice.</text>
+<text id="870100">Armadura elaborada con tiras de hierro atadas.
+La usan los guerreros de los Juncales.
+
+La sucia túnica que la cubre está confeccionada con juncos del lugar natal de los guerreros.
+Quizás su comodidad se extiende a los pensamientos nostálgicos del terruño.</text>
+<text id="870200">Guanteletes envueltos en cuero resistente.
+Los usan los guerreros de los Juncales.</text>
+<text id="870300">Grebas envueltas en cuero resistente.
+Las usan los guerreros de los Juncales.</text>
+<text id="871100">Armadura hecha de tiras de hierro atadas.
+La usan los guerreros de los Juncales.
+
+Los Juncales llevan mucho tiempo atrapados en una triste guerra civil, tiempo durante el cual han permanecido alienados de los poblados vecinos. No es de extrañar que toda la nación haya sucumbido a tal locura sangrienta, según se dice.</text>
+<text id="872000">Máscara de madera que representa a un anciano mostrando los dientes. Dio origen al sobrenombre del gran espadachín de los Juncales.Aumenta la destreza y reduce la concentración.Cuanto más agudizaba su mente, más se destacaban los absurdos del mundo. Y así fue como Okina renunció a todo y se elevó a un plano superior. Estaba él solo, con su katana y su destreza para blandirla.En poco tiempo, Okina se convirtió en un espadachín endemoniado.</text>
+<text id="872100">Armadura de los Juncos Blancos, hecha de placas de hierro atadas.
+La usan los inabas, discípulos principales del gran espadachín Okina.
+
+Los inabas viajaron en busca no solo del maestro que los abandonó, sino también de muertes adecuadas, ganadas honorablemente a través de un combate duro.
+Ser un Junco Blanco es buscar la muerte, lo cual es apropiado para los inabas, que solo deseaban morir por la espada.</text>
+<text id="872200">Guanteletes de los Juncos Blancos, hechos de placas de hierro atadas.
+Los usan los inabas, discípulos principales del gran espadachín Okina.
+
+Los inabas viajaron en busca no solo del maestro que los abandonó, sino también de muertes adecuadas, ganadas honorablemente a través de un combate duro.
+Ser un Junco Blanco es buscar la muerte, lo cual es apropiado para los inabas, que solo deseaban morir por la espada.</text>
+<text id="872300">Grebas de los Juncos Blancos, hechas de placas de hierro atadas.
+Las usan los inabas, discípulos principales del gran espadachín Okina.
+
+Los inabas viajaron en busca no solo del maestro que los abandonó, sino también de muertes adecuadas, ganadas honorablemente a través de un combate duro.
+Ser un Junco Blanco es buscar la muerte, lo cual es apropiado para los inabas, que solo deseaban morir por la espada.</text>
+<text id="880000">Capucha negra para confundirse con la oscuridad.
+La usan los confesores de la iglesia.
+
+Las iglesias fuera de las Tierras Intermedias, dedicadas a las enseñanzas de los Dos Dedos, invitan a los confesores a seguir la guía de la gracia.
+
+Los confesores son sirvientes leales a los Dos Dedos. Están dispuestos a cazar y a deshacerse de sus enemigos discretamente.</text>
+<text id="880100">Armadura de cuero negro para confundirse con la oscuridad.
+La usan los confesores de la iglesia.
+
+Las iglesias fuera de las Tierras Intermedias, dedicadas a las enseñanzas de los Dos Dedos, invitan a los confesores a seguir la guía de la gracia.
+
+Los confesores son sirvientes leales a los Dos Dedos. Están dispuestos a cazar y a deshacerse de sus enemigos discretamente.</text>
+<text id="880200">Guantes de cuero negro de los confesores de la iglesia.
+
+Las iglesias fuera de las Tierras Intermedias, dedicadas a las enseñanzas de los Dos Dedos, invitan a los confesores a seguir la guía de la gracia.
+
+Los confesores son sirvientes leales a los Dos Dedos. Están dispuestos a cazar y a deshacerse de sus enemigos discretamente.</text>
+<text id="880300">Botas de cuero de los confesores de la iglesia.
+
+Las iglesias fuera de las Tierras Intermedias, dedicadas a las enseñanzas de los Dos Dedos, invitan a los confesores a seguir la guía de la gracia.
+
+Los confesores son sirvientes leales a los Dos Dedos. Están dispuestos a cazar y a deshacerse de sus enemigos discretamente.</text>
+<text id="881000">Turbante de tela que se usa debajo de la capucha negra de un confesor de la iglesia.
+Estas capuchas están hechas para confundirse con la oscuridad.</text>
+<text id="881100">Armadura de cuero negro para confundirse con la oscuridad.
+La usan los confesores de la iglesia.
+
+Las iglesias fuera de las Tierras Intermedias, dedicadas a las enseñanzas de los Dos Dedos, invitan a los confesores a seguir la guía de la gracia.
+
+Los confesores son sirvientes leales a los Dos Dedos. Están dispuestos a cazar y a deshacerse de sus enemigos discretamente.</text>
+<text id="890000">Máscara de hierro que deben usar los prisioneros
+que cometieron delitos aborrecibles.
+Es gruesa, pesada y asfixiante.
+
+Es una creación infame diseñada para
+atormentar a su portador. Lentamente,
+genera odio en su corazón o un fervor
+espiritual que lo lleva a la locura.</text>
+<text id="890100">Vestimenta raída.
+La usa un prisionero condenado por un delito atroz.
+
+Jamás se lavó, y la tela es repugnante.</text>
+<text id="890300">Pantalones raídos.
+Los usa un prisionero condenado por un delito atroz.
+
+Jamás se lavaron, y la tela es repugnante.
+El hedor que despiden no se puede creer.</text>
+<text id="891000">Máscara de hierro que deben usar los prisioneros condenados.
+La usa el canalla Gran Boggart.
+
+Según Boggart, la máscara lo hace ver más amenazante y lo ayudó a conseguir lo que quería. Pero también refleja el vacío que lleva por dentro.</text>
+<text id="900000">Capucha que usan las doncellas nómades.
+
+Las doncellas recorren las Tierras Intermedias por diferentes motivos. Algunas se proponen conseguir una audiencia con los Dedos. Otras, encontrar al Tiznado que están destinadas a guiar.</text>
+<text id="900100">Túnica que usan las doncellas nómades.
+
+Las doncellas recorren las Tierras Intermedias por diferentes motivos. Algunas se proponen conseguir una audiencia con los Dedos. Otras, encontrar al Tiznado que están destinadas a guiar.</text>
+<text id="900200">Guantes que usan las doncellas nómades.
+
+Las doncellas recorren las Tierras Intermedias por diferentes motivos. Algunas se proponen conseguir una audiencia con los Dedos. Otras, encontrar al Tiznado que están destinadas a guiar.</text>
+<text id="900300">Botas que usan las doncellas nómades.
+
+Las doncellas recorren las Tierras Intermedias por diferentes motivos. Algunas se proponen conseguir una audiencia con los Dedos. Otras, encontrar al Tiznado que están destinadas a guiar.</text>
+<text id="901100">Vestimenta modesta de las doncellas nómades, que típicamente usan debajo de las túnicas.</text>
+<text id="902000">Filete que usan las doncellas que sirven a los Dos Dedos.
+
+Las doncellas viven para servir al Tiznado elegido, a quien brindan la guía y sabiduría de los Dos Dedos.
+
+La guía de la gracia aseguraba que la dupla se encontrara. O, al menos, esa era la promesa tiempo atrás.</text>
+<text id="902100">Túnica que usan las doncellas que sirven a los Dos Dedos.
+
+Las doncellas viven para servir al Tiznado elegido, a quien brindan la guía y sabiduría de los Dos Dedos.
+
+La guía de la gracia aseguraba que la dupla se encontrara. O, al menos, esa era la promesa tiempo atrás.</text>
+<text id="902300">Calzado que usan las doncellas que sirven a los Dos Dedos.
+
+Las doncellas viven para servir al Tiznado elegido, a quien brindan la guía y sabiduría de los Dos Dedos.
+
+La guía de la gracia aseguraba que la dupla se encontrara. O, al menos, esa era la promesa tiempo atrás.</text>
+<text id="903100">Túnica que usan las doncellas que sirven a los Dos Dedos.
+
+Las doncellas viven para servir al Tiznado elegido, a quien brindan la guía y sabiduría de los Dos Dedos.
+
+La guía de la gracia aseguraba que la dupla se encontrara. O, al menos, esa era la promesa tiempo atrás.</text>
+<text id="910000">Sombrero grande. Lleva los movimientos de las estrellas dibujados en la parte interior del ala.
+Lo usan los preceptores de magia que servían a la realeza de Caria.
+
+Aumenta la mente en detrimento del vigor.
+
+Los hechiceros de destellita descienden de los astrólogos, algo que los de Caria conocen bien, aun a pesar de que su destino se alejó hace tiempo de las estrellas.</text>
+<text id="910100">Toga larga de color azul brillante. Está decorada con los movimientos de las estrellas.
+La usan los preceptores de magia que servían a la realeza de Caria.
+
+Los hechiceros de destellita descienden de los astrólogos, algo que los de Caria conocen bien, aun a pesar de que su destino se alejó hace tiempo de las estrellas.</text>
+<text id="910200">Guantes de los preceptores de magia que servían a la realeza de Caria.
+Son negros y perfectamente discretos.</text>
+<text id="910300">Pantalones de los preceptores de magia que servían a la realeza de Caria.
+Son negros y perfectamente discretos.</text>
+<text id="911000">Máscara con una boca cerrada, cosida con hilo de oro.
+Aumenta el arcano.
+
+Cuando Rádagon se casó con Rennala, les encomendó a los preceptores de magia de la realeza de Caria que se pusieran estas máscaras. Así dejaba en claro que todos sus asuntos debían mantenerse en estricta confidencialidad.</text>
+<text id="911100">Vestimenta modesta que antes se usaba debajo de una larga y brillante toga azul, con un diseño que representa el movimiento de las estrellas.</text>
+<text id="920000">%null%</text>
+<text id="930000">Máscara esquelética que se ajusta con firmeza al rostro.
+La usan los asesinos de Montecuervo.
+
+Este objeto de ritual se sujeta firmemente al rostro de quien la use, lo que permite preservar el instinto humano cuando se lleva la vestimenta que imita a las aves de la muerte.</text>
+<text id="930100">Túnica confeccionada con las plumas negras de un ave de presa.
+La usan los asesinos de Montecuervo.
+
+Un objeto de ritual para transformarse en un ave de la muerte, aunque solo sea por imitación.
+Fortalece los ataques con salto.
+
+"Somos aves de presa, portadoras de muerte".</text>
+<text id="930200">Mangas que se hacen envolviendo una tela sucia alrededor de los brazos.
+Las usan los bandidos.</text>
+<text id="930300">Botas de cuero que usan los bandidos.
+
+Al ser livianas, facilitan el movimiento, y su material flexible disimula el ruido. A cambio, ofrecen poca neutralización de daño.</text>
+<text id="931100">Prenda de cuero que usan los bandidos.
+
+Al ser liviana, facilita el movimiento, y su material flexible disimula el ruido. A cambio, ofrece poca neutralización de daño.</text>
+<text id="940000">Capucha puntiaguda y harapienta.
+La usa el caballero Jerren.
+
+Esta prenda esconde una máscara añosa y barbuda.
+
+Jerren sirvió al general Radahn como comandante invitado, y se dice que juraron un pacto de muerte honorable el uno para con el otro.</text>
+<text id="940100">Armadura de colores inusuales.
+La usa el caballero Jerren.
+
+Jerren prefería una existencia nómade. Pero, después de pasar un tiempo como invitado de la realeza de Caria, se convirtió en un comandante del general Radahn.
+
+Así es que, por primera vez, este trotamundos empedernido quedaría sujeto a un pacto de honor.</text>
+<text id="940200">Mangas del caballero Jerren.
+
+Jerren prefería una existencia nómade. Pero, después de pasar un tiempo como invitado de la realeza de Caria, se convirtió en un comandante del general Radahn.
+
+Así es que, por primera vez, este trotamundos empedernido quedaría sujeto a un pacto de honor.</text>
+<text id="940300">Pantalones bombachos del caballero Jerren.
+
+Jerren prefería una existencia nómade. Pero, después de pasar un tiempo como invitado de la realeza de Caria, se convirtió en un comandante del general Radahn.
+
+Así es que, por primera vez, este trotamundos empedernido quedaría sujeto a un pacto de honor.</text>
+<text id="941000">Capucha puntiaguda y harapienta.
+La usa el caballero Jerren.
+
+Esta prenda esconde una máscara añosa y barbuda.
+
+Jerren sirvió al general Radahn como comandante invitado, y se dice que juraron un pacto de muerte honorable el uno para con el otro.</text>
+<text id="950000">Yelmo de hierro que los dedos marcaron y llenaron de ampollas.
+Lo usa Vyke, caballero de la Mesa Redonda.
+
+Ningún otro Tiznado estuvo tan cerca del trono del Señor de Elden como Vyke. Pero, sin advertencia alguna, Vyke se adentró debajo de la capital y resultó calcinado por la llama del frenesí.
+
+¿Acaso hizo su elección guiado por su doncella? ¿O será que alguna otra fuerza lo sedujo?</text>
+<text id="950100">Armadura de hierro que los dedos marcaron y llenaron de ampollas.
+La usa Vyke, caballero de la Mesa Redonda.
+
+Ningún otro Tiznado estuvo tan cerca del trono del Señor de Elden como Vyke. Pero, sin advertencia alguna, Vyke se adentró debajo de la capital y resultó calcinado por la llama del frenesí.
+
+¿Acaso hizo su elección guiado por su doncella? ¿O será que alguna otra fuerza lo sedujo?</text>
+<text id="950200">Guanteletes de hierro que los dedos marcaron y llenaron de ampollas.
+Los usa Vyke, caballero de la Mesa Redonda.
+
+Ningún otro Tiznado estuvo tan cerca del trono del Señor de Elden como Vyke. Pero, sin advertencia alguna, Vyke se adentró debajo de la capital y resultó calcinado por la llama del frenesí.
+
+¿Acaso hizo su elección guiado por su doncella? ¿O será que alguna otra fuerza lo sedujo?</text>
+<text id="950300">Grebas de hierro que los dedos marcaron y llenaron de ampollas.
+Las usa Vyke, caballero de la Mesa Redonda.
+
+Ningún otro Tiznado estuvo tan cerca del trono del Señor de Elden como Vyke. Pero, sin advertencia alguna, Vyke se adentró debajo de la capital y resultó calcinado por la llama del frenesí.
+
+¿Acaso hizo su elección guiado por su doncella? ¿O será que alguna otra fuerza lo sedujo?</text>
+<text id="951100">Armadura de hierro que los dedos marcaron y llenaron de ampollas.
+La usa Vyke, caballero de la Mesa Redonda.
+
+Ningún otro Tiznado estuvo tan cerca del trono del Señor de Elden como Vyke. Pero, sin advertencia alguna, Vyke se adentró debajo de la capital y resultó calcinado por la llama del frenesí.
+
+¿Acaso hizo su elección guiado por su doncella? ¿O será que alguna otra fuerza lo sedujo?</text>
+<text id="960000">Máscara que usa Tanith, Dama de la Mansión Volcánica. Representa a una reina forastera.
+Aumenta la destreza.
+
+Hace tiempo, cuando Rykard posó sus ojos en Tanith por primera vez, ella trabajaba como bailarina en una tierra foránea. En poco tiempo, la convirtió en su consorte.
+Fue la única humana que permaneció a su lado cuando Rykard se transformó en la serpiente de la blasfemia.
+
+Recién entonces, Tanith quedó realmente encantada con él.</text>
+<text id="960100">Túnica delicada de seda blanca que usa Tanith, Dama de la Mansión Volcánica.
+
+Hace tiempo, cuando Rykard posó sus ojos en Tanith por primera vez, ella trabajaba como bailarina en una tierra foránea. En poco tiempo, la convirtió en su consorte.
+Fue la única humana que permaneció a su lado cuando Rykard se transformó en la serpiente de la blasfemia.
+
+Recién entonces, Tanith quedó realmente encantada con él.</text>
+<text id="960300">Pantalones blancos delicados, ideales para usarlos debajo de una túnica de seda.</text>
+<text id="961000">Máscara que representa a un sabio marchito.
+Vestimenta tradicional entre los señores de una nación pequeña.
+Aumenta la fe.
+
+La máscara ilustra las cualidades de un señor ideal: principalmente, ser sabio y poseer cierta amabilidad inofensiva.
+Quienes están en el corazón de la sociedad consideran apropiadas estas cualidades.</text>
+<text id="961100">Túnica de lujo que usan los nobles en una nación pequeña.
+Su delicado manto azul sirve para demostrar el estatus de quien la usa.</text>
+<text id="962100">Túnica bordada de color verde brillante que usan los niños nobles.
+Según la tradición, llevar esta túnica es el primer indicio de la pujante independencia de los niños.</text>
+<text id="963000">Máscara que representa a un joven noble de pelo blanco.
+Suele usarla el jefe de la casa Marais.
+Aumenta el arcano.
+
+La familia Marais tiene una doble historia que comprende generaciones: sirven como verdugos y gobernadores del Castillo Sombrío. Esta máscara está hecha a semejanza de la primera de su linaje.</text>
+<text id="963100">Túnica con una capa negra en los hombros.
+Suele usarla el jefe de la casa Marais.
+
+Todos los hijos de la casa Marais nacieron enfermos.
+No es de extrañar que Maleigh Marais quedara cautivado por la hermosa y feroz diosa que nació en la podredumbre.</text>
+<text id="963200">Mangas elaboradas a partir de vendajes envueltos con firmeza y empapados de sangre.
+
+Cualquier protección es bienvenida para los brazos infectados que cubren.</text>
+<text id="964000">Máscara elaborada a partir de vendajes envueltos con firmeza y empapados de sangre.
+
+Incluso la máscara más espantosa de todas es preferible al rostro infectado que hay debajo.</text>
+<text id="964100">Túnica azul sucia que usan los funcionarios magisteriales para llevar a cabo sus tareas sombrías.
+
+Vigilancia, ejecuciones, rituales espantosos... Los deberes más oscuros mueven los engranajes de la humanidad.</text>
+<text id="970000">Yelmo deforme que se asemeja a un aojo con los cuernos cercenados.
+
+Lo usa el Comefiemo. Su forma es una visión del paisaje de su mente, y de su apariencia como él deseaba verla.
+
+El corazón de un aojo sin el cuerpo que le corresponde; ¿podrá haber una existencia más cruel?
+¿Qué importa si la maldición se lleva todo?</text>
+<text id="970100">Armadura deforme que se asemeja a un aojo con los cuernos cercenados.
+
+La usa el Comefiemo.
+El pesado medallón en forma de sol representa tanto la guía que alguna vez vio como el anillo al que conducirá algún día.</text>
+<text id="970200">Guanteletes deformes que se asemejan a un aojo con los cuernos cercenados.
+
+Los usa el Comefiemo. Su forma es una visión del paisaje de su mente, y de su apariencia como él deseaba verla.
+
+El corazón de un aojo sin el cuerpo que le corresponde; ¿podrá haber una existencia más cruel?
+¿Qué importa si la maldición se lleva todo?</text>
+<text id="970300">Grebas deformes que se asemejan a un aojo con los cuernos cercenados.
+
+Las usa el Comefiemo. Su forma es una visión del paisaje de su mente, y de su apariencia como él deseaba verla.
+
+El corazón de un aojo sin el cuerpo que le corresponde; ¿podrá haber una existencia más cruel?
+¿Qué importa si la maldición se lleva todo?</text>
+<text id="980000">Yelmo de los caballeros encantados que solían servir a la familia real de Caria.
+
+Los caballeros encantados, consagrados por la Reina Lunar, eran todos héroes condecorados con los más altos honores, pero cayeron en desgracia con la decadencia de la familia real.</text>
+<text id="980100">Armadura de los caballeros encantados que servían a la familia real de Caria.
+
+Los caballeros encantados, consagrados por la Reina Lunar, eran todos héroes condecorados con los más altos honores, pero cayeron en desgracia con la decadencia de la familia real.</text>
+<text id="980200">Guanteletes de los caballeros encantados que solían servir a la familia real de Caria.
+
+Los caballeros encantados, consagrados por la Reina Lunar, eran todos héroes condecorados con los más altos honores, pero cayeron en desgracia con la decadencia de la familia real.</text>
+<text id="980300">Grebas de los caballeros encantados que solían servir a la familia real de Caria.
+
+Los caballeros encantados, consagrados por la Reina Lunar, eran todos héroes condecorados con los más altos honores, pero cayeron en desgracia con la decadencia de la familia real.</text>
+<text id="981100">Armadura de los caballeros encantados que servían a la familia real de Caria.
+
+Los caballeros encantados, consagrados por la Reina Lunar, eran todos héroes condecorados con los más altos honores, pero cayeron en desgracia con la decadencia de la familia real.</text>
+<text id="990000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia y la tolerancia a costa de los PC.
+
+La corona de Hierodas se otorgaba a los estudiosos que realizaban estudios nómades fuera de la academia.</text>
+<text id="990100">Túnica común fabricada con una tela gruesa.
+Wilhelm, el Hechicero Errante, uno de los primeros Tiznados que visitó la Mesa Redonda, vestía esta prenda.
+
+Wilhelm, un silencioso buscador de la hechicería, que fue tan lejos como para hacer contacto con la corriente primigenia, fue conducido por una guía a enfrentarse a su amigo Vargram. Se dice que después lo tomaron prisionero en la Mesa Redonda.</text>
+<text id="990200">Mangas de cuero comunes.
+Sus manos tienen incrustaciones de destellita opaca.</text>
+<text id="990300">Botas de cuero comunes. Tienen la resistencia suficiente para soportar un viaje largo.</text>
+<text id="991100">Túnica común fabricada con una tela gruesa.
+Wilhelm, el Hechicero Errante, uno de los primeros Tiznados que visitó la Mesa Redonda, vestía esta prenda.
+
+Wilhelm, un silencioso buscador de la hechicería, que fue tan lejos como para hacer contacto con la corriente primigenia, fue conducido por una guía a enfrentarse a su amigo Vargram. Se dice que después lo tomaron prisionero en la Mesa Redonda.</text>
+<text id="1000000">Una de las coronas de destellita otorgadas a los estudiosos de Raya Lucaria, cuya labor se consideraba digna.
+
+Aumenta la inteligencia y la fuerza en detrimento de los PC.
+
+Los eruditos del Sumario de Haima buscaban el poder para disolver conflictos y, para ello, estudiaron las hechicerías de fuego del cañón y el mazo.</text>
+<text id="1000100">Túnica que usaron los eruditos de la Academia de Raya Lucaria, harapienta por haberla usado en el campo de batalla.
+
+Cada vez que estallaba la guerra y la academia sellaba sus puertas, solo los eruditos de Haima se atrevían a salir.
+Su reclusión no es una forma de fomentar el descubrimiento; solo es una forma conveniente de escapar.</text>
+<text id="1000200">Mangas que usaron los estudiosos de la Academia de Raya Lucaria, harapientas por haberlas usado en el campo de batalla.</text>
+<text id="1000300">Vendas de pierna que usaron los estudiosos de la Academia de Raya Lucaria, harapientas por haberlas usado en el campo de batalla.</text>
+<text id="1010000">Sombrero puntiagudo de bruja, gélido y congelado.
+Con un estilo que se asocia a los practicantes de hechicería herética.
+Fortalece la hechicería de frío.
+
+Alguna vez lo usó la bruja nevada con quien la joven Ranni se encontró en lo profundo del bosque. Era una bruja muy versada en hechicerías de frío.
+Se dice que la marioneta que alberga el alma de Ranni está inspirada en ella.
+
+Esa vieja bruja era la mentora secreta de Ranni.</text>
+<text id="1010100">Túnica de bruja color nieve.
+
+Alguna vez la usó la bruja nevada con quien la joven Ranni se encontró en lo profundo del bosque. Era una bruja muy versada en hechicerías de frío.
+Se dice que la marioneta que alberga el alma de Ranni está inspirada en ella.
+
+Esa vieja bruja era la mentora secreta de Ranni.</text>
+<text id="1010300">Falda de bruja color nieve.
+
+Alguna vez la usó la bruja nevada con quien la joven Ranni se encontró en lo profundo del bosque. Era una bruja muy versada en hechicerías de frío.
+Se dice que la marioneta que alberga el alma de Ranni está inspirada en ella.
+
+Esa vieja bruja era la mentora secreta de Ranni.</text>
+<text id="1011100">Túnica de bruja color nieve.
+
+Alguna vez la usó la bruja nevada con quien la joven Ranni se encontró en lo profundo del bosque. Era una bruja muy versada en hechicerías de frío.
+Se dice que la marioneta que alberga el alma de Ranni está inspirada en ella.
+
+Esa vieja bruja era la mentora secreta de Ranni.</text>
+<text id="1020100">Ropa ligera pero resistente.
+
+Utilizado por las mujeres jóvenes que emprendieron al mundo para enfrentar su destino.</text>
+<text id="1020200">Mangas de cuero ligeras pero resistentes.
+
+Las usaban las jóvenes que salían al mundo a enfrentar su destino.</text>
+<text id="1020300">Botas de cuero ligeras pero resistentes.
+
+Las usan las jóvenes que salen al mundo a enfrentar su destino.</text>
+<text id="1030000">Casco que usan los jóvenes eruditos de la academia, aquellos renacidos del huevo de ámbar de la reina Rennala, la directora de la Academia de Raya Lucaria.
+
+Sin embargo, su renacimiento no está exento de imperfecciones y, por lo tanto, repiten el proceso y con el tiempo se vuelven completamente dependientes de él.
+
+Renacer es como dormir para ellos y, con cada despertar, el recuerdo se desvanece en el olvido.</text>
+<text id="1030100">Túnica que usan los jóvenes eruditos de la academia, aquellos renacidos del huevo de ámbar de la reina Rennala, la directora de la Academia de Raya Lucaria.
+
+Sin embargo, su renacimiento no está exento de imperfecciones y, por lo tanto, repiten el proceso y con el tiempo se vuelven completamente dependientes de él.
+
+Renacer es como dormir para ellos y, con cada despertar, el recuerdo se desvanece en el olvido.</text>
+<text id="1040000">Una máscara diseñada a imagen de un halo dorado resplandeciente.
+Creada y abandonada por el Señor Máscara de Oro, un seguidor acérrimo del fundamentalismo de la Orden Dorada.
+
+Fortalece los encantamientos de la Orden Dorada.
+
+Su llamativo diseño representa la inspiración que una vez brilló sobre él y la visión de un anillo que seguramente encontrará al final de su búsqueda.
+
+"¡A ti, que buscas brillar como yo: úsala bien!"</text>
+<text id="1040100">Harapos desgastados que apenas cubren el cuerpo.
+
+El Señor Máscara de Oro no sentía atracción por usar demasiada ropa. ¿Qué sentido tienen las prendas elegantes para quien busca el máximo resplandor?</text>
+<text id="1040200">Brazaletes hechos a imagen de las ramas de Terrárbol.
+Adornos mínimos hechos por los discípulos del Señor Máscara de Oro.
+
+Esos discípulos hace mucho que lo abandonaron.</text>
+<text id="1040300">Cintura hecha a imagen de las ramas de Terrárbol.
+Adorno mínimo hecho por los discípulos del Señor Máscara de Oro.
+
+Esos discípulos hace mucho que lo abandonaron.</text>
+<text id="1050100">Una capa de piel irregular usada sobre el cuerpo expuesto de Margit, el Aojo Cruel.
+
+Habiendo masacrado a innumerables campeones durante la Devastación, el Aojo Cruel se ha convertido en un horror para aquellos que albergan ambiciones por el Terrárbol o por el Señorío.</text>
+<text id="1060000">Máscara hecha con la piel casi inalterada de un joven albináurico.
+
+Aumenta el arcano, pero reduce los efectos de recuperación de PV del frasco de lágrimas carmesíes.
+
+Muy lejos de la piel de dios, esta máscara de piel albináurica es producto de una burla maliciosa.</text>
+<text id="1060100">Cota de malla usada por jóvenes albináuricos.
+La aparición de un vientre protuberante no aporta beneficios dignos de mención.</text>
+<text id="1070000">Máscara que usan los caballeros de Zamor, aclamados como héroes en la Guerra contra los Gigantes.
+
+Se dice que estos longevos guerreros, ataviados con viento helado y cortante, han sido enemigos mortales de los gigantes de fuego desde tiempos inmemoriales.</text>
+<text id="1070100">Armadura que usan los caballeros de Zamor, aclamados como héroes en la Guerra contra los Gigantes.
+
+Se dice que estos longevos guerreros, ataviados con viento helado y cortante, han sido enemigos mortales de los gigantes de fuego desde tiempos inmemoriales.</text>
+<text id="1070200">Brazaletes que usan los caballeros de Zamor, aclamados como héroes en la Guerra contra los Gigantes.
+
+Se dice que estos longevos guerreros, ataviados con viento helado y cortante, han sido enemigos mortales de los gigantes de fuego desde tiempos inmemoriales.</text>
+<text id="1070300">Vendas de pierna que usan los caballeros de Zamor, aclamados como héroes en la Guerra contra los Gigantes.
+
+Se dice que estos longevos guerreros, ataviados con viento helado y cortante, han sido enemigos mortales de los gigantes de fuego desde tiempos inmemoriales.</text>
+<text id="1080000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja a un gato y conserva rastros de inteligencia felina.</text>
+<text id="1081000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja a un demonio con colmillos y conserva rastros de una fuerza bestial.</text>
+<text id="1082000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja a un demonio de lengua larga y conserva rastros de una destreza irritante.</text>
+<text id="1083000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja al rostro de un cadáver y conserva rastros de una fe persistente.</text>
+<text id="1084000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja a un lobo y conserva rastros de resistencia lupina.</text>
+<text id="1085000">Capucha fabricada con la cabeza prácticamente intacta de un gólem travieso.
+
+Se asemeja a un anciano y conserva rastros de conocimiento arcano.</text>
+<text id="1090000">Máscara creada a partir del cadáver de una lágrima plateada sin forma, sostenida por su caparazón endurecido y desprendido.
+
+Aumenta bastante el arcano en detrimento del poder de ataque físico.
+
+Imitar al imitador es ciertamente un juego astuto.</text>
+<text id="1100000">Cofia hecha de malla entretejida.
+Objeto común para los soldados ordinarios.
+
+Aunque de apariencia sencilla, ofrece una protección confiable.</text>
+<text id="1100100">Armadura hecha de malla entretejida.
+Objeto común para los soldados ordinarios.
+
+Aunque de apariencia sencilla, ofrece una protección confiable.</text>
+<text id="1100200">Guanteletes usados por soldados ordinarios.
+
+Aunque de apariencia sencilla, ofrecen una protección confiable.</text>
+<text id="1100300">Medias largas hechas de malla entretejida.
+Objeto común para los soldados ordinarios.
+
+Aunque de apariencia sencilla, ofrece una protección confiable.</text>
+<text id="1101000">Gran yelmo resistente hecho de hierro.
+
+Aunque es incómodamente pesado y obstruye la visión del usuario, proporciona una considerable neutralización de daño.</text>
+<text id="1101100">Sobrevesta marrón sobre cota de malla.
+
+La insignia estampada en el frente marca al usuario como los ojos y oídos del Señor Gideon, El Omnisciente.</text>
+<text id="1102100">Sobrevesta azul sobre cota de malla.
+
+La insignia del árbol estampada en el frente representa al Terrárbol, y es un diseño querido en todas partes de las Tierras Intermedias.</text>
+<text id="1110000">Un pequeño pulpo terrestre que se usa directamente sobre la cabeza.
+Tiene una calidez persistente que recuerda a la piel humana.
+
+Quienes puedan soportar su olor, descubrirán que su elasticidad natural es excelente para neutralizar ataques.</text>
+<text id="1120000">Recipiente que se ajusta a la cabeza a la perfección al voltearlo.
+Fabricado con orgullo por Alexander Puño de Hierro.
+
+En un gesto de amistad único de un recipiente, potencia el poder de los objetos arrojadizos.</text>
+<text id="1130000">Hongos que crecen por todo el cuerpo.
+Estos hongos demasiado grandes han colonizado la cabeza.
+
+Para los embelesados ​​por la podredumbre escarlata, son vestiduras sagradas que los arraigan a la tierra.</text>
+<text id="1130100">Hongos que crecen por todo el cuerpo.
+Estos hongos demasiado grandes han colonizado el torso.
+
+Para los embelesados ​​por la podredumbre escarlata, son vestiduras sagradas que los arraigan a la tierra.</text>
+<text id="1130200">Hongos que crecen por todo el cuerpo.
+Estos hongos demasiado grandes han colonizado los brazos.
+
+Para los embelesados ​​por la podredumbre escarlata, son vestiduras sagradas que los arraigan a la tierra.</text>
+<text id="1130300">Hongos que crecen por todo el cuerpo.
+Estos hongos demasiado grandes han colonizado las piernas.
+
+Para los embelesados ​​por la podredumbre escarlata, son vestiduras sagradas que los arraigan a la tierra.</text>
+<text id="1300000">Yelmo hecho de un espejo de cristal.
+Uno de los objetos para rituales de la Ciudad Eterna.
+Se rompe fácilmente y es débil contra los ataques de golpe.
+
+Lo usan aquellos que cometieron alta traición, y evita la intervención de la Gran Voluntad y sus dedos vasallos.</text>
+<text id="1301000">Yelmo hecho a partir de un espejo de cristal, del que se dice que nunca abandonó la cabeza de Iji, el Consejero de Guerra.
+Se rompe fácilmente y es débil contra los ataques de golpe.
+
+Lo usan aquellos que cometieron alta traición, y evita la intervención de la Gran Voluntad y sus dedos vasallos.
+
+Iji tenía miedo. Estaba aterrorizado de su propia traición.</text>
+<text id="1400000">Capucha de tela negra sin lustre que oculta la identidad de quien la usa.
+
+En este mundo, existen muy pocas cosas que necesitan ser conocidas.</text>
+<text id="1400100">Armadura de cuero liviana y efectiva en batalla, que usa un soldado experto.
+
+Muchos admiran a quien lleva esta armadura por su espíritu caballeresco y sincero.</text>
+<text id="1400200">Guantes de cuero livianos y efectivos en batalla, que usa un soldado experto.
+
+Muchos admiran a quien lleva esta armadura por su espíritu caballeresco y sincero.</text>
+<text id="1400300">Botas de cuero livianas y efectivas en batalla, que usa un soldado experto.
+
+Muchos admiran a quien lleva esta armadura por su espíritu caballeresco y sincero.</text>
+<text id="1401000">Máscara de tela negra que cubre la boca.
+
+La eligen los bandidos para cubrirse el rostro, y además otorga cierta protección contra el veneno.</text>
+<text id="1500000">Yelmo de hierro de un caballero desconocido.
+Está hecho de placas delgadas de hierro.
+
+Esta armadura metálica es pesada, pero otorga una gran neutralización de daño.</text>
+<text id="1500100">Armadura de hierro de un caballero desconocido.
+Está hecha de placas delgadas de hierro.
+
+Esta armadura metálica es pesada, pero otorga una gran neutralización de daño.</text>
+<text id="1500200">Guanteletes de hierro de un caballero desconocido.
+Están hechos de placas delgadas de hierro.
+
+Esta armadura metálica es pesada, pero otorga una gran neutralización de daño.</text>
+<text id="1500300">Grebas de hierro de un caballero desconocido.
+Están hechas de placas delgadas de hierro.
+
+Esta armadura metálica es pesada, pero otorga una gran neutralización de daño.</text>
+<text id="1600000">Capucha mucho más grande que la cabeza que debe cubrir.
+Una especie de mortaja para aquellos que descubren, por fin, la verdad que buscaban.
+
+Aumenta la inteligencia y la fe en detrimento de los PV.
+
+"Sí, seguramente esta es la luna que la joven Rennala miró".</text>
+<text id="1700000">Yelmo que usan los fieles soldados de Godric el Injertado.
+Fabricado con hierro resistente y con una cofia de cota de malla debajo.</text>
+<text id="1700100">Armadura que usan los fieles soldados de Godric el Injertado.
+
+La sobrevesta representa al lejano Terrárbol y la bestia regente, un emblema del linaje dorado.
+Ambos son símbolos de una gloria pasada.</text>
+<text id="1700200">Guanteletes que usan los fieles soldados de Godric el Injertado.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1700300">Grebas que usan los fieles soldados de Godric el Injertado.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1710000">Yelmo que usan los soldados de la Academia de Raya Lucaria.
+Su cresta está adornada con una sola pluma de cuco.</text>
+<text id="1710100">Armadura que usan los soldados de la Academia de Raya Lucaria.
+
+La sobrevesta representa a cucos gemelos espiando una floreciente masa de destellita.
+Para un hechicero de destellita, el cuerpo es efímero. Solo el cuco conoce su insignificancia, pero lo cuida a pesar de todo.</text>
+<text id="1710200">Guanteletes que usan los soldados de la Academia de Raya Lucaria.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1710300">Grebas que usan los soldados de la Academia de Raya Lucaria.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1720000">Yelmo que usan los soldados que juraron defender la capital real de Leyndell.
+Fabricado con hierro resistente y con una cofia de cota de malla debajo.</text>
+<text id="1720100">Armadura que usan los soldados que juraron defender la capital real de Leyndell.
+
+La sobrevesta lleva el vislumbre majestuoso del Terrárbol. La tela dorada es un honor que no se le concede a ningún otro soldado.</text>
+<text id="1720200">Guanteletes que usan los soldados que juraron defender la capital real de Leyndell.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1720300">Grebas que usan los soldados que juraron defender la capital real de Leyndell.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1730000">Yelmo que usan los soldados que lucharon junto al general Radahn.
+Su visor representa los colmillos de un león.</text>
+<text id="1730100">Armadura que usaban los soldados que lucharon junto al general Radahn.
+
+La sobrevesta representa un león con melena roja levantando una espada a imagen y semejanza de Radahn. Por lo tanto, estos soldados eran melenarroja, y todos demostraron ser dignos de llevar ese nombre.</text>
+<text id="1730200">Guanteletes que usan los soldados que lucharon junto al general Radahn.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1730300">Grebas que usan los soldados que lucharon junto al general Radahn.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1740100">Armadura que usan los soldados decapitados que custodian sin cesar el Mausoleo Errante.
+
+La sobrevesta representa la campana del mausoleo, cuyo sonido simboliza el duelo continuo por los semidioses sin alma.</text>
+<text id="1740200">Guanteletes que usan los soldados decapitados que custodian sin cesar el Mausoleo Errante.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1740300">Grebas que usan los soldados decapitados que custodian sin cesar el Mausoleo Errante.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1750000">Yelmo que usan los soldados ligados al Santoárbol.
+Un yelmo de hierro adornado con una corona de oro sin aleación.
+
+Aumenta la fe.</text>
+<text id="1750100">Armadura que usan los soldados ligados al Santoárbol.
+
+La sobrevesta lleva el emblema del Santoárbol.
+Aunque fue regado con la sangre de Miquella desde que era un retoño, el Santoárbol no logró convertirse en un Terrárbol.</text>
+<text id="1750200">Guanteletes que usan los soldados ligados al Santoárbol.
+Están oxidados y manchados tras las guerras interminables.</text>
+<text id="1750300">Grebas que usan los soldados ligados al Santoárbol.
+Están oxidadas y manchadas tras las guerras interminables.</text>
+<text id="1760000">Yelmo que usan los caballeros que fueron leales al pretor Rykard.
+La cresta de plumas rojas simboliza el linaje de Rykard, hijo del Señor Rádagon.</text>
+<text id="1760100">Armadura que usan los caballeros que fueron leales al pretor Rykard.
+
+Lleva un emblema que ya nadie usa porque representa a un señor cuya ambición idealista se transformó en una depravación insaciable.
+Así como el señor perdió su dignidad, estos caballeros perdieron a su amo.</text>
+<text id="1760200">Guanteletes que usan los caballeros que fueron leales al pretor Rykard.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1760300">Grebas que usan los caballeros que fueron leales al pretor Rykard.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1761100">Armadura que usan los caballeros que fueron leales al pretor Rykard.
+
+Lleva un emblema que ya nadie usa porque representa a un señor cuya ambición idealista se transformó en una depravación insaciable.
+Así como el señor perdió su dignidad, estos caballeros perdieron a su amo.</text>
+<text id="1770000">Yelmo que usan los caballeros leales a Godric el Injertado.
+Adornado con un penacho de pelo marchito y ceniciento.</text>
+<text id="1770100">Armadura que usan los caballeros leales a Godric el Injertado.
+
+El lado izquierdo del peto está adornado con un hacha de guerra de doble filo, un emblema del linaje dorado.
+Los caballeros seguramente se jactaron de su fuerza en el pasado.</text>
+<text id="1770200">Guanteletes que usan los caballeros leales a Godric el Injertado.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1770300">Grebas que usan los caballeros leales a Godric el Injertado.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1771100">Armadura que usan los caballeros leales a Godric el Injertado.
+
+El lado izquierdo del peto está adornado con un hacha de guerra de doble filo, un emblema del linaje dorado.
+Los caballeros seguramente se jactaron de su fuerza en el pasado.</text>
+<text id="1780000">Yelmo que usan los caballeros de la Academia de Raya Lucaria.
+Su cresta está adornada con una sola pluma de cuco.</text>
+<text id="1780100">Armadura que usan los caballeros de la Academia de Raya Lucaria.
+
+El lado izquierdo del peto está adornado con un cuco fisgón, y de allí proviene su nombre.
+Quizás la mirada astuta del pájaro sea una expresión de rechazo a ser meros lacayos de la academia.</text>
+<text id="1780200">Guanteletes que usan los caballeros de la Academia de Raya Lucaria.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1780300">Grebas que usan los caballeros de la Academia de Raya Lucaria.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1781100">Armadura que usan los caballeros de la Academia de Raya Lucaria.
+
+El lado izquierdo del peto está adornado con un cuco fisgón, y de allí proviene su nombre.
+Quizás la mirada astuta del pájaro sea una expresión de rechazo a ser meros lacayos de la academia.</text>
+<text id="1790000">Yelmo que usan los caballeros que juraron defender la capital real de Leyndell.
+
+El dosel dorado representa el honor de estar entre los defensores del árbol.</text>
+<text id="1790100">Armadura que usan los caballeros que juraron defender la capital real de Leyndell.
+
+El lado izquierdo del peto está adornado con un símbolo de la Adoración al Terrárbol. Se dice que alguna vez fue imbuido con un encantamiento de protección.</text>
+<text id="1790200">Guanteletes que usan los caballeros que juraron defender la capital real de Leyndell.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1790300">Grebas que usan los caballeros que juraron defender la capital real de Leyndell.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1791100">Armadura que usan los caballeros que juraron defender la capital real de Leyndell.
+
+El lado izquierdo del peto está adornado con un símbolo de la Adoración al Terrárbol. Se dice que alguna vez fue imbuido con un encantamiento de protección.</text>
+<text id="1800000">Yelmo que usan los caballeros que lucharon junto al general Radahn.
+
+El penacho rojo es un símbolo del linaje de Radahn, hijo del Señor Rádagon; la melena del orgulloso León Rojo.</text>
+<text id="1800100">Armadura que usan los caballeros que lucharon junto al general Radahn.
+
+Aunque fueron derrotados por la podredumbre escarlata de Malenia, los caballeros melenarroja quemaron el emblema en el lado izquierdo del peto de sus armaduras como muestra de su determinación.
+
+"¡Oh, mi querido hogar, no volveré a verte! Nuestro deber es quedarnos aquí, un baluarte contra la plaga".</text>
+<text id="1800200">Guanteletes que usan los caballeros que lucharon junto al general Radahn.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1800300">Grebas que usan los caballeros que lucharon junto al general Radahn.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1801100">Armadura que usan los caballeros que lucharon junto al general Radahn.
+
+Aunque fueron derrotados por la podredumbre escarlata de Malenia, los caballeros melenarroja quemaron el emblema en el lado izquierdo del peto de sus armaduras como muestra de su determinación.
+
+"¡Oh, mi querido hogar, no volveré a verte! Nuestro deber es quedarnos aquí, un baluarte contra la plaga".</text>
+<text id="1810100">Armadura que usan los caballeros decapitados que custodian sin cesar el Mausoleo Errante.
+
+Los adornos con forma de ala en la parte trasera evocan al ave de la muerte. Una maldición autoinfligida que ata los espíritus de estos leales caballeros a la tierra, quienes se decapitaron a sí mismos para poder servir a sus amos en la muerte.</text>
+<text id="1810200">Guanteletes que usan los caballeros decapitados que custodian sin cesar el Mausoleo Errante.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1810300">Grebas que usan los caballeros decapitados que custodian sin cesar el Mausoleo Errante.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1811100">Armadura que usan los caballeros decapitados que custodian sin cesar el Mausoleo Errante.
+
+Los adornos con forma de ala en la parte trasera evocan al ave de la muerte. Una maldición autoinfligida que ata los espíritus de estos leales caballeros a la tierra, quienes se decapitaron a sí mismos para poder servir a sus amos en la muerte.</text>
+<text id="1820000">Yelmo que usan los caballeros ligados al Santoárbol.
+Está adornado con una corona de oro sin aleación.
+
+Aumenta la fe.</text>
+<text id="1820100">Armadura que usan los caballeros ligados al Santoárbol.
+
+El lado izquierdo del peto está adornado con el escudo del Santoárbol.
+Aunque fue regado con la sangre de Miquella desde que era un retoño, el Santoárbol no logró convertirse en un Terrárbol.</text>
+<text id="1820200">Guanteletes que usan los caballeros ligados al Santoárbol.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1820300">Grebas que usan los caballeros ligados al Santoárbol.
+El tiempo aún no ha atenuado su lustre.</text>
+<text id="1821100">Armadura que usan los caballeros ligados al Santoárbol.
+
+El lado izquierdo del peto está adornado con el escudo del Santoárbol.
+Aunque fue regado con la sangre de Miquella desde que era un retoño, el Santoárbol no logró convertirse en un Terrárbol.</text>
+<text id="1830000">Casco de hierro reforzado muy utilizado por los soldados de infantería en el ejército de un señor.</text>
+<text id="1830100">Armadura acolchada con cota de malla sobre los hombros.
+
+Muy utilizada por los soldados de infantería en el ejército de un señor.</text>
+<text id="1830200">Guanteletes de metal con mellas y abolladuras.
+Muy utilizados por los soldados de infantería en el ejército de un señor.</text>
+<text id="1830300">Grebas de metal que fueron restauradas muchísimas veces.
+Muy utilizadas por los soldados de infantería en el ejército de un señor.</text>
+<text id="1840000">Yelmo con una placa metálica de protección.
+Muy utilizado por los soldados de infantería en el ejército de un señor.</text>
+<text id="1840100">Armadura acolchada con unas cuantas manchas.
+Muy utilizada por los soldados de infantería en el ejército de un señor.</text>
+<text id="1850000">Casco reforzado hecho de hierro dorado.
+Utilizado por los soldados de infantería que protegen la capital real de Leyndell.</text>
+<text id="1850100">Armadura acolchada con un mantón de cuero sobre los hombros.
+
+Muy utilizada por los soldados de infantería en el ejército de un señor.</text>
+<text id="1860000">Yelmo de hierro sin adornos.
+Muy utilizado por los soldados de infantería en ejércitos señoriales.</text>
+<text id="1860100">Armadura acolchada con manchas causadas por la podredumbre escarlata.
+
+La usan los soldados de infantería del ejército del general Radahn.</text>
+<text id="1870100">Armadura acolchada con manchas de sangre permanentes alrededor del cuello.
+
+La usan los soldados de infantería decapitados que custodian sin cesar el Mausoleo Errante.</text>
+<text id="1880000">Casco de hierro reforzado y adornado con una corona de oro sin aleación.
+Aumenta la fe.
+
+Lo usan los soldados de infantería ligados al Santoárbol.
+
+¿A quién bendecirá Miquella si no es a los humildes y mansos?</text>
+<text id="1880100">Armadura acolchada con una tela de color marfil sobre los hombros.
+
+La usan los soldados de infantería ligados al Santoárbol.</text>
+<text id="1890000">Máscara con unos horribles cuernos largos y retorcidos que usan los asesinaojos.
+Aumenta la fuerza.
+
+Lleva el rostro perverso de un anciano, quien sonríe con deleite.
+
+Este rostro está tallado a imagen y semejanza de los espíritus malignos que persiguen a los aojos en sus pesadillas.</text>
+<text id="1890100">Túnica que usan los asesinaojos, aniquiladores de la conciencia perversa.
+
+Su grueso delantal recuerda a Rollo, el progenitor de los asesinaojos y un perfumista de antaño.</text>
+<text id="1890200">Guantes largos de cuero rígido que usan los asesinaojos.</text>
+<text id="1890300">Botas de cuero rígido que usan los asesinaojos.</text>
+<text id="1900000">Escarabajo gris que se usa directamente en la cabeza.
+Estos escarabajos enrollan montones de cenizas de guerra durante sus labores.
+
+Reduce ligeramente el costo de PC de las habilidades, pero aumenta el daño recibido.</text>
+<text id="1901000">Escarabajo dorado que se usa directamente en la cabeza.
+Estos escarabajos enrollan montones de encantamientos durante sus labores.
+
+Reduce ligeramente el costo de PC de los encantamientos, pero aumenta el daño recibido.
+
+Cuando un escarabajo se acerca a la muerte, abandona su tesoro enrollado y extiende sus alas para el largo viaje a su nido de origen.</text>
+<text id="1902000">Escarabajo azul verdoso que se usa directamente en la cabeza.
+Estos escarabajos enrollan montones de hechicerías durante sus labores.
+
+Reduce ligeramente el costo de PC de las hechicerías, pero aumenta el daño recibido.</text>
+<text id="1910000">Escarabajo rojo que se usa directamente en la cabeza.
+Estos escarabajos enrollan montones de lágrimas carmesíes durante sus labores.
+
+Aumenta ligeramente los efectos de recuperación del frasco de lágrimas carmesíes, pero aumenta el daño recibido.</text>
+<text id="1920000">Escarabajo azul que se usa directamente en la cabeza.
+Estos escarabajos enrollan montones de lágrimas cerúleas durante sus labores.
+
+Aumenta ligeramente los efectos de recuperación del frasco de lágrimas cerúleas, pero aumenta el daño recibido.</text>
+<text id="1930100">Vestido blanco extremadamente fino que usa la compañera de estertores cuando abraza a los muertos.
+
+Repone lentamente los PV de los aliados cercanos, pero no los del usuario.
+
+Su tela es muy suave al tacto para no dañar ni siquiera al cadáver más débil y darle calidez al mismo tiempo.</text>
+<text id="1930300">Falda que usa Phia, la Compañera de Estertores.</text>
+<text id="1940000">Capucha de tela negra que cubre toda la cabeza.
+Fia, la Compañera de Estertores, la usó durante su viaje luego de ser exiliada de su hogar.
+
+La tela es suave como la seda.</text>
+<text id="1940100">Túnica de tela negra que cubre todo el cuerpo.
+Fia, la Compañera de Estertores, la usó durante su viaje luego de ser exiliada de su hogar.
+
+La tela es suave como la seda y lo suficientemente fina como para que los abrazados puedan sentir su calidez.</text>
+<text id="1941100">Túnica de tela negra que cubre todo el cuerpo.
+Fia, la Compañera de Estertores, la usó durante su viaje luego de ser exiliada de su hogar.
+
+La tela es suave como la seda y lo suficientemente fina como para que los abrazados puedan sentir su calidez.</text>
+<text id="1950000">%null%</text>
+<text id="1950100">%null%</text>
+<text id="1950200">%null%</text>
+<text id="1950300">%null%</text>
+<text id="1960000">%null%</text>
+<text id="1970100">%null%</text>
+<text id="1970200">%null%</text>
+<text id="1980000">Capucha horriblemente manchada y andrajosa.
+Usada por ex soldados de infantería que se volcaron al vandalismo.</text>
+<text id="1980100">Armadura de tela horriblemente manchada y andrajosa.
+Usada por ex soldados de infantería que se volcaron al vandalismo.</text>
+<text id="1980200">Guanteletes horriblemente manchados y abollados.
+Usados por ex soldados de infantería que se volcaron al vandalismo.</text>
+<text id="1990000">Capucha que usan los pajes, seleccionada para privilegios especiales por los nobles a los que sirven.
+
+El aspecto discreto se corresponde con su rango: oculto y desconocido.</text>
+<text id="1990100">Prendas que usan los pajes, seleccionadas para privilegios especiales por los nobles a los que sirven.
+
+Ropa de viaje confeccionada con una exquisita precisión para evitarle al amo del paje cualquier vergüenza indebida.</text>
+<text id="1991100">Prendas que usan los pajes, seleccionadas para privilegios especiales por los nobles a los que sirven.
+
+Ropa de viaje confeccionada con una exquisita precisión para evitarle al amo del paje cualquier vergüenza indebida.</text>
+<text id="2000000">Yelmo de bronce decorado con innumerables serpientes y carcomido por la podredumbre escarlata.
+
+Lo usaban los gladiadores que fueron expulsados del coliseo.
+El usuario se convierte en un blanco un poco más fácil para los enemigos.</text>
+<text id="2000100">Capa gruesa, áspera y carcomida por la podredumbre escarlata.
+
+El símbolo de la posición de un guardián de tumbas subterráneo.</text>
+<text id="2000300">Grebas envueltas en serpientes de bronce y carcomidas por la podredumbre escarlata.
+
+Las usaban los gladiadores que fueron expulsados del coliseo.
+El usuario se convierte en un blanco un poco más fácil para los enemigos.</text>
+<text id="2001100">Capa envuelta en serpientes de bronce y carcomida por la podredumbre escarlata.
+
+Las usaban los gladiadores que fueron expulsados del coliseo.
+El usuario se convierte en un blanco un poco más fácil para los enemigos.</text>
+<text id="2010000">Hongos que crecen por todo el cuerpo.
+Estos hongos demasiado grandes forman un tocado elevado.
+
+Aumentan el poder de ataque cuando algo cercano sufre envenenamiento o podredumbre.
+
+Hace mucho tiempo, los grandes señores servían a la podredumbre escarlata. Quizás estos cuerpos fúngicos les servían de corona.</text>
+<text id="2020000">Máscara colocada a la fuerza en la cabeza de una víctima para que la tortura alcance otro nivel de crueldad.
+Aumenta los miedos de las víctimas y las vuelve plenamente conscientes de todas las formas del dolor.
+
+Aumenta el poder de ataque cuando el usuario padece de locura.
+
+Cuando se coloca la bola negra, el torturador ya no busca respuestas; solo infligir sufrimiento sin esperanza de alivio.</text>
+<text id="2030000">Túnica que usan los estudiosos del Sumario de Lazuli, única en la gran Academia de Raya Lucaria.
+
+Aunque pretendían dominar la hechicería de Caria, estos estudiosos aprendieron que la luna era igual a las estrellas.
+Esta túnica, bajo la luz de la luna llena, representa su herejía.</text>
+</entries>
+</fmg>
