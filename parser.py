@@ -47,7 +47,7 @@ def parseNPCDialogue(path, npcNames = {},output = print):
 def loadTextFile(path):
     tree = ET.parse(path)
     root = tree.getroot()
-    textElements = root.getchildren()[3].getchildren()
+    textElements = list(list(root)[3])
     elements = {}
     for element in textElements:
         identifier = int(element.items()[0][1])
@@ -119,12 +119,75 @@ def loadFromChunk(chunk,lang = "engUS"):
     text = "\n".join(master)
     return text
 
-chunk = Path(r".\GameText")
-text = loadFromChunk(chunk)
-with open("Master.html","w",encoding = "utf8") as outf:
+chunk = Path(r".\GameTextEN")
+text = loadFromChunk(chunk,"engUS")
+with open("MasterEN.html","w",encoding = "utf8") as outf:
     outf.write(markdown.markdown(text))
     
 chunk = Path(r".\GameTextJP")
 text = loadFromChunk(chunk,"jpnJP")
 with open("MasterJP.html","w",encoding = "utf8") as outf:
     outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextDE")
+text = loadFromChunk(chunk,"deuDE")
+with open("MasterDE.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+    
+chunk = Path(r".\GameTextFR")
+text = loadFromChunk(chunk,"fraFR")
+with open("MasterFR.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextIT")
+text = loadFromChunk(chunk,"itaIT")
+with open("MasterIT.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextKR")
+text = loadFromChunk(chunk,"korKR")
+with open("MasterKR.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextPL")
+text = loadFromChunk(chunk,"polPL")
+with open("MasterPL.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextPT")
+text = loadFromChunk(chunk,"porBR")
+with open("MasterBR.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextRU")
+text = loadFromChunk(chunk,"rusRU")
+with open("MasterRU.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextSP")
+text = loadFromChunk(chunk,"spaAR")
+with open("MasterAR.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextSP")
+text = loadFromChunk(chunk,"spaES")
+with open("MasterES.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextTH")
+text = loadFromChunk(chunk,"thaTH")
+with open("MasterTH.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextZH")
+text = loadFromChunk(chunk,"zhOCN")
+with open("MasterOCN.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+
+chunk = Path(r".\GameTextZH")
+text = loadFromChunk(chunk,"zhOTW")
+with open("MasterOTW.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+ 
+    
+    
